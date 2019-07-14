@@ -1,0 +1,48 @@
+INFO  12:28:12,319 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:28:12,467 - #2 program
+INFO  12:28:12,467 - #15 MJProgram
+INFO  12:28:12,467 - #44 enum
+INFO  12:28:12,483 - #15 Voce
+INFO  12:28:12,483 - #3 {
+INFO  12:28:12,483 - #15 JABUKA
+INFO  12:28:12,483 - #8 ,
+INFO  12:28:12,483 - #15 KRUSKA
+INFO  12:28:12,483 - #8 ,
+INFO  12:28:12,483 - #15 SLJIVA
+INFO  12:28:12,483 - #8 ,
+INFO  12:28:12,483 - #15 KIVI
+INFO  12:28:12,483 - #4 }
+INFO  12:28:12,483 - #15 Voce
+INFO  12:28:12,483 - #15 v
+INFO  12:28:12,498 - #5 ;
+INFO  12:28:12,498 - #3 {
+INFO  12:28:12,498 - #15 int
+INFO  12:28:12,498 - #15 main
+INFO  12:28:12,498 - #6 (
+INFO  12:28:12,498 - #7 )
+INFO  12:28:12,498 - #3 {
+INFO  12:28:12,498 - #15 v
+INFO  12:28:12,514 - #12 =
+INFO  12:28:12,514 - #15 Voce
+INFO  12:28:12,514 - #31 .
+INFO  12:28:12,514 - #15 SLJIVA
+INFO  12:28:12,514 - #5 ;
+INFO  12:28:12,514 - #9 print
+INFO  12:28:12,514 - #6 (
+INFO  12:28:12,514 - #15 v2
+INFO  12:28:12,514 - #7 )
+INFO  12:28:12,514 - #5 ;
+INFO  12:28:12,514 - #10 return
+INFO  12:28:12,514 - #14 0
+INFO  12:28:12,514 - #5 ;
+INFO  12:28:12,514 - #4 }
+INFO  12:28:12,514 - #4 }
+INFO  12:28:12,561 - Deklarisana promenljiva v na liniji 8
+INFO  12:28:12,561 - Obradjuje se funkcija main na liniji 14
+INFO  12:28:12,561 - upotreba globalne promenljive v na liniji 20
+INFO  12:28:12,561 - upotreba globalne promenljive Voce na liniji 20
+ERROR 12:28:12,561 - Greska na liniji 22 : ime v2 nije deklarisano! 
+INFO  12:28:12,561 - upotreba lokalne promenljive v2 na liniji 22
+ERROR 12:28:12,561 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 22
+INFO  12:28:12,561 - Print calls = 1
+ERROR 12:28:12,561 - Parsiranje NIJE uspesno zavrseno!

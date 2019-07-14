@@ -1,0 +1,57 @@
+INFO  15:18:41,833 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:18:42,005 - #2 program
+INFO  15:18:42,005 - #15 test301
+INFO  15:18:42,006 - #43 const
+INFO  15:18:42,009 - #15 int
+INFO  15:18:42,010 - #15 KONST
+INFO  15:18:42,011 - #12 =
+INFO  15:18:42,012 - #14 3
+INFO  15:18:42,012 - #5 ;
+INFO  15:18:42,014 - #15 int
+INFO  15:18:42,015 - #15 q
+INFO  15:18:42,016 - #5 ;
+INFO  15:18:42,020 - #15 int
+INFO  15:18:42,021 - #15 r
+INFO  15:18:42,021 - #5 ;
+INFO  15:18:42,021 - #15 bool
+INFO  15:18:42,022 - #15 bo
+INFO  15:18:42,022 - #5 ;
+INFO  15:18:42,022 - #15 int
+INFO  15:18:42,025 - #15 niz
+INFO  15:18:42,025 - #29 [
+INFO  15:18:42,026 - #30 ]
+INFO  15:18:42,027 - #5 ;
+INFO  15:18:42,028 - #3 {
+INFO  15:18:42,028 - #13 void
+INFO  15:18:42,030 - #15 main
+INFO  15:18:42,030 - #6 (
+INFO  15:18:42,031 - #7 )
+INFO  15:18:42,032 - #3 {
+INFO  15:18:42,033 - #15 niz
+INFO  15:18:42,035 - #12 =
+INFO  15:18:42,038 - #28 new
+INFO  15:18:42,039 - #15 int
+INFO  15:18:42,039 - #29 [
+INFO  15:18:42,039 - #15 KONST
+INFO  15:18:42,040 - #30 ]
+INFO  15:18:42,044 - #3 {
+INFO  15:18:42,044 - #14 1
+INFO  15:18:42,048 - #8 ,
+INFO  15:18:42,049 - #14 2
+INFO  15:18:42,049 - #8 ,
+INFO  15:18:42,050 - #14 3
+INFO  15:18:42,050 - #4 }
+INFO  15:18:42,050 - #5 ;
+INFO  15:18:42,051 - #4 }
+INFO  15:18:42,052 - #4 }
+INFO  15:18:42,110 - Deklarisana konstanta KONST na liniji 5
+INFO  15:18:42,111 - Deklarisana promenljiva q na liniji 6
+INFO  15:18:42,111 - Deklarisana promenljiva r na liniji 7
+INFO  15:18:42,111 - Deklarisana promenljiva bo na liniji 8
+INFO  15:18:42,111 - Deklarisan niz niz na liniji 9
+INFO  15:18:42,112 - Obradjuje se funkcija main na liniji 16
+INFO  15:18:42,112 - upotreba globalne promenljive niz na liniji 19
+INFO  15:18:42,113 - upotreba globalne konstante KONST na liniji 19
+ERROR 15:18:42,113 - greska na liniji: 19 broj elemenata niza nije odgovarajuci 
+INFO  15:18:42,119 - Print calls = 0
+ERROR 15:18:42,130 - Parsiranje NIJE uspesno zavrseno!

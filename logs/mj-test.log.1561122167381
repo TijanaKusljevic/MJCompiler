@@ -1,0 +1,73 @@
+INFO  14:59:58,325 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:59:58,528 - #2 program
+INFO  14:59:58,528 - #15 test301
+INFO  14:59:58,528 - #15 int
+INFO  14:59:58,528 - #15 a
+INFO  14:59:58,544 - #5 ;
+INFO  14:59:58,544 - #15 int
+INFO  14:59:58,544 - #15 b
+INFO  14:59:58,544 - #5 ;
+INFO  14:59:58,544 - #15 int
+INFO  14:59:58,544 - #15 c
+INFO  14:59:58,544 - #5 ;
+INFO  14:59:58,544 - #15 int
+INFO  14:59:58,544 - #15 niz
+INFO  14:59:58,544 - #29 [
+INFO  14:59:58,544 - #30 ]
+INFO  14:59:58,544 - #5 ;
+INFO  14:59:58,544 - #15 bool
+INFO  14:59:58,544 - #15 bb
+INFO  14:59:58,544 - #5 ;
+INFO  14:59:58,544 - #3 {
+INFO  14:59:58,544 - #13 void
+INFO  14:59:58,559 - #15 main
+INFO  14:59:58,559 - #6 (
+INFO  14:59:58,559 - #7 )
+INFO  14:59:58,559 - #3 {
+INFO  14:59:58,559 - #15 a
+INFO  14:59:58,559 - #12 =
+INFO  14:59:58,559 - #14 1
+INFO  14:59:58,559 - #5 ;
+INFO  14:59:58,559 - #15 b
+INFO  14:59:58,559 - #12 =
+INFO  14:59:58,559 - #14 2
+INFO  14:59:58,559 - #5 ;
+INFO  14:59:58,559 - #15 c
+INFO  14:59:58,559 - #12 =
+INFO  14:59:58,559 - #14 900
+INFO  14:59:58,559 - #5 ;
+INFO  14:59:58,559 - #15 bb
+INFO  14:59:58,559 - #12 =
+INFO  14:59:58,559 - #27 true
+INFO  14:59:58,559 - #5 ;
+INFO  14:59:58,575 - #15 c
+INFO  14:59:58,575 - #12 =
+INFO  14:59:58,575 - #15 bb
+INFO  14:59:58,575 - #46 ?
+INFO  14:59:58,575 - #15 a
+INFO  14:59:58,591 - #45 :
+INFO  14:59:58,591 - #5 ;
+INFO  14:59:58,591 - #9 print
+INFO  14:59:58,591 - #6 (
+INFO  14:59:58,591 - #15 c
+INFO  14:59:58,591 - #7 )
+INFO  14:59:58,591 - #5 ;
+INFO  14:59:58,591 - #4 }
+INFO  14:59:58,591 - #4 }
+INFO  14:59:58,637 - Deklarisana promenljiva a na liniji 5
+INFO  14:59:58,637 - Deklarisana promenljiva b na liniji 6
+INFO  14:59:58,637 - Deklarisana promenljiva c na liniji 7
+INFO  14:59:58,637 - Deklarisan niz niz na liniji 8
+INFO  14:59:58,637 - Deklarisana promenljiva bb na liniji 9
+INFO  14:59:58,637 - Obradjuje se funkcija main na liniji 15
+INFO  14:59:58,637 - upotreba globalne promenljive a na liniji 18
+INFO  14:59:58,637 - upotreba globalne promenljive b na liniji 19
+INFO  14:59:58,637 - upotreba globalne promenljive c na liniji 20
+INFO  14:59:58,637 - upotreba globalne promenljive bb na liniji 21
+INFO  14:59:58,637 - upotreba globalne promenljive c na liniji 24
+INFO  14:59:58,637 - upotreba globalne promenljive bb na liniji 24
+INFO  14:59:58,637 - upotreba globalne promenljive a na liniji 24
+INFO  14:59:58,637 - upotreba globalne promenljive c na liniji 26
+INFO  14:59:58,966 - Print calls = 1
+INFO  14:59:58,966 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  14:59:58,981 - Parsiranje uspesno zavrseno!

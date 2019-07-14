@@ -1,0 +1,128 @@
+INFO  17:16:39,446 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:16:39,618 - #2 program
+INFO  17:16:39,618 - #15 test302
+INFO  17:16:39,618 - #15 int
+INFO  17:16:39,621 - #15 a
+INFO  17:16:39,622 - #5 ;
+INFO  17:16:39,628 - #15 int
+INFO  17:16:39,628 - #15 b
+INFO  17:16:39,629 - #5 ;
+INFO  17:16:39,630 - #15 int
+INFO  17:16:39,630 - #15 c
+INFO  17:16:39,631 - #5 ;
+INFO  17:16:39,631 - #3 {
+INFO  17:16:39,631 - #13 void
+INFO  17:16:39,633 - #15 main
+INFO  17:16:39,634 - #6 (
+INFO  17:16:39,634 - #7 )
+INFO  17:16:39,636 - #3 {
+INFO  17:16:39,636 - #15 a
+INFO  17:16:39,638 - #12 =
+INFO  17:16:39,643 - #14 5
+INFO  17:16:39,643 - #5 ;
+INFO  17:16:39,647 - #15 b
+INFO  17:16:39,649 - #12 =
+INFO  17:16:39,649 - #14 6
+INFO  17:16:39,649 - #5 ;
+INFO  17:16:39,650 - #16 if
+INFO  17:16:39,650 - #6 (
+INFO  17:16:39,653 - #15 a
+INFO  17:16:39,653 - #41 <=
+INFO  17:16:39,654 - #15 b
+INFO  17:16:39,658 - #7 )
+INFO  17:16:39,669 - #3 {
+INFO  17:16:39,672 - #9 print
+INFO  17:16:39,672 - #6 (
+INFO  17:16:39,672 - #18 m
+INFO  17:16:39,673 - #7 )
+INFO  17:16:39,673 - #5 ;
+INFO  17:16:39,674 - #4 }
+INFO  17:16:39,676 - #15 a
+INFO  17:16:39,679 - #19 ++
+INFO  17:16:39,679 - #5 ;
+INFO  17:16:39,679 - #16 if
+INFO  17:16:39,680 - #6 (
+INFO  17:16:39,680 - #15 a
+INFO  17:16:39,680 - #12 =
+ERROR 17:16:39,680 - 
+Sintaksna greska na liniji 23
+INFO  17:16:39,681 - #15 b
+INFO  17:16:39,681 - #7 )
+INFO  17:16:39,682 - #3 {
+INFO  17:16:39,683 - #9 print
+INFO  17:16:39,684 - #6 (
+DEBUG 17:16:39,684 - Uspesan oporavak od greske pri ispitivanju uslova.
+INFO  17:16:39,687 - #18 j
+INFO  17:16:39,687 - #7 )
+INFO  17:16:39,687 - #5 ;
+INFO  17:16:39,687 - #4 }
+INFO  17:16:39,697 - #15 a
+INFO  17:16:39,697 - #19 ++
+INFO  17:16:39,697 - #5 ;
+INFO  17:16:39,698 - #16 if
+INFO  17:16:39,698 - #6 (
+INFO  17:16:39,698 - #15 a
+INFO  17:16:39,698 - #41 <=
+INFO  17:16:39,699 - #15 b
+INFO  17:16:39,699 - #7 )
+INFO  17:16:39,699 - #3 {
+INFO  17:16:39,699 - #9 print
+INFO  17:16:39,700 - #6 (
+INFO  17:16:39,700 - #18 m
+INFO  17:16:39,700 - #7 )
+INFO  17:16:39,700 - #5 ;
+INFO  17:16:39,700 - #4 }
+INFO  17:16:39,700 - #17 else
+INFO  17:16:39,701 - #3 {
+INFO  17:16:39,702 - #9 print
+INFO  17:16:39,703 - #6 (
+INFO  17:16:39,703 - #18 v
+INFO  17:16:39,703 - #7 )
+INFO  17:16:39,703 - #5 ;
+INFO  17:16:39,704 - #15 c
+INFO  17:16:39,704 - #12 =
+INFO  17:16:39,704 - #15 a
+INFO  17:16:39,704 - #11 +
+INFO  17:16:39,705 - #15 b
+INFO  17:16:39,708 - #5 ;
+INFO  17:16:39,709 - #9 print
+INFO  17:16:39,709 - #6 (
+INFO  17:16:39,709 - #15 c
+INFO  17:16:39,709 - #7 )
+INFO  17:16:39,709 - #5 ;
+INFO  17:16:39,710 - #15 c
+INFO  17:16:39,710 - #12 =
+INFO  17:16:39,710 - #22 -
+INFO  17:16:39,711 - #14 1
+INFO  17:16:39,711 - #23 *
+INFO  17:16:39,711 - #15 c
+INFO  17:16:39,715 - #5 ;
+INFO  17:16:39,716 - #9 print
+INFO  17:16:39,716 - #6 (
+INFO  17:16:39,716 - #15 c
+INFO  17:16:39,716 - #7 )
+INFO  17:16:39,717 - #5 ;
+INFO  17:16:39,717 - #4 }
+INFO  17:16:39,717 - #4 }
+INFO  17:16:39,721 - #4 }
+INFO  17:16:39,770 - Deklarisana promenljiva a na liniji 7
+INFO  17:16:39,771 - Deklarisana promenljiva b na liniji 8
+INFO  17:16:39,771 - Deklarisana promenljiva c na liniji 9
+INFO  17:16:39,771 - Obradjuje se funkcija main na liniji 14
+INFO  17:16:39,771 - upotreba globalne promenljive a na liniji 16
+INFO  17:16:39,772 - upotreba globalne promenljive b na liniji 17
+INFO  17:16:39,772 - upotreba globalne promenljive a na liniji 19
+INFO  17:16:39,772 - upotreba globalne promenljive b na liniji 19
+INFO  17:16:39,772 - upotreba globalne promenljive a na liniji 22
+INFO  17:16:39,773 - upotreba globalne promenljive a na liniji 26
+INFO  17:16:39,773 - upotreba globalne promenljive a na liniji 27
+INFO  17:16:39,773 - upotreba globalne promenljive b na liniji 27
+INFO  17:16:39,773 - upotreba globalne promenljive c na liniji 31
+INFO  17:16:39,773 - upotreba globalne promenljive a na liniji 31
+INFO  17:16:39,774 - upotreba globalne promenljive b na liniji 31
+INFO  17:16:39,774 - upotreba globalne promenljive c na liniji 32
+INFO  17:16:39,774 - upotreba globalne promenljive c na liniji 34
+INFO  17:16:39,775 - upotreba globalne promenljive c na liniji 34
+INFO  17:16:39,775 - upotreba globalne promenljive c na liniji 35
+INFO  17:16:39,780 - Print calls = 6
+ERROR 17:16:39,781 - Parsiranje NIJE uspesno zavrseno!

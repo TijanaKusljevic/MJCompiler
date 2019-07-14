@@ -1,0 +1,18 @@
+program testGreska
+
+
+enum Pok {NULA, JEDAN, DVA, TRI};
+
+int z;
+	
+{
+
+	
+
+	void main()	
+		
+	{
+		z=Pok.TRI;
+	}
+}
+

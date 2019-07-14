@@ -1,0 +1,98 @@
+INFO  17:31:01,532 - #2 program
+INFO  17:31:01,533 - #15 test302
+INFO  17:31:01,534 - #44 enum
+INFO  17:31:01,537 - #15 IncrementType
+INFO  17:31:01,537 - #3 {
+INFO  17:31:01,539 - #15 BY_ONE
+INFO  17:31:01,539 - #8 ,
+INFO  17:31:01,543 - #15 DOUBLE_VALUE
+INFO  17:31:01,544 - #4 }
+INFO  17:31:01,545 - #15 int
+INFO  17:31:01,546 - #15 i
+INFO  17:31:01,548 - #5 ;
+INFO  17:31:01,551 - #15 bool
+INFO  17:31:01,552 - #15 ibool
+INFO  17:31:01,552 - #5 ;
+INFO  17:31:01,553 - #15 int
+INFO  17:31:01,553 - #15 k
+INFO  17:31:01,553 - #5 ;
+INFO  17:31:01,553 - #15 int
+INFO  17:31:01,554 - #15 josniz
+INFO  17:31:01,554 - #29 [
+INFO  17:31:01,555 - #30 ]
+INFO  17:31:01,555 - #5 ;
+INFO  17:31:01,557 - #15 int
+INFO  17:31:01,557 - #15 nizk
+INFO  17:31:01,558 - #29 [
+INFO  17:31:01,558 - #30 ]
+INFO  17:31:01,559 - #5 ;
+INFO  17:31:01,559 - #15 int
+INFO  17:31:01,559 - #15 niz
+INFO  17:31:01,559 - #29 [
+INFO  17:31:01,560 - #30 ]
+INFO  17:31:01,560 - #5 ;
+INFO  17:31:01,560 - #3 {
+INFO  17:31:01,562 - #13 void
+INFO  17:31:01,564 - #15 main
+INFO  17:31:01,564 - #6 (
+INFO  17:31:01,565 - #7 )
+INFO  17:31:01,566 - #3 {
+INFO  17:31:01,567 - #15 nizk
+INFO  17:31:01,569 - #12 =
+INFO  17:31:01,572 - #28 new
+INFO  17:31:01,572 - #15 int
+INFO  17:31:01,573 - #29 [
+INFO  17:31:01,573 - #14 2
+INFO  17:31:01,573 - #30 ]
+INFO  17:31:01,577 - #5 ;
+INFO  17:31:01,578 - #15 niz
+INFO  17:31:01,579 - #12 =
+INFO  17:31:01,579 - #28 new
+INFO  17:31:01,579 - #15 int
+INFO  17:31:01,580 - #29 [
+INFO  17:31:01,580 - #14 2
+INFO  17:31:01,580 - #30 ]
+INFO  17:31:01,580 - #3 {
+INFO  17:31:01,580 - #14 7
+INFO  17:31:01,583 - #8 ,
+INFO  17:31:01,591 - #15 niz
+INFO  17:31:01,592 - #29 [
+INFO  17:31:01,592 - #14 0
+INFO  17:31:01,592 - #30 ]
+INFO  17:31:01,592 - #11 +
+INFO  17:31:01,593 - #14 1
+INFO  17:31:01,597 - #4 }
+INFO  17:31:01,601 - #5 ;
+INFO  17:31:01,602 - #9 print
+INFO  17:31:01,602 - #6 (
+INFO  17:31:01,602 - #15 niz
+INFO  17:31:01,602 - #29 [
+INFO  17:31:01,602 - #14 0
+INFO  17:31:01,602 - #30 ]
+INFO  17:31:01,603 - #7 )
+INFO  17:31:01,603 - #5 ;
+INFO  17:31:01,603 - #9 print
+INFO  17:31:01,604 - #6 (
+INFO  17:31:01,604 - #15 niz
+INFO  17:31:01,604 - #29 [
+INFO  17:31:01,605 - #14 1
+INFO  17:31:01,605 - #30 ]
+INFO  17:31:01,605 - #7 )
+INFO  17:31:01,605 - #5 ;
+INFO  17:31:01,606 - #4 }
+INFO  17:31:01,606 - #4 }
+INFO  17:31:01,646 - Deklarisana promenljiva i na liniji 7
+INFO  17:31:01,646 - Deklarisana promenljiva ibool na liniji 8
+INFO  17:31:01,647 - Deklarisana promenljiva k na liniji 9
+INFO  17:31:01,647 - Deklarisan niz josniz na liniji 11
+INFO  17:31:01,647 - Deklarisan niz nizk na liniji 12
+INFO  17:31:01,648 - Deklarisan niz niz na liniji 13
+INFO  17:31:01,648 - Obradjuje se funkcija main na liniji 19
+INFO  17:31:01,648 - upotreba globalne promenljive nizk na liniji 21
+INFO  17:31:01,649 - upotreba globalne promenljive niz na liniji 22
+INFO  17:31:01,651 - Pristup elementu niza  na liniji 22
+INFO  17:31:01,651 - upotreba globalne promenljive niz na liniji 22
+INFO  17:31:01,652 - Pristup elementu niza  na liniji 24
+INFO  17:31:01,652 - upotreba globalne promenljive niz na liniji 24
+INFO  17:31:01,652 - Pristup elementu niza  na liniji 25
+INFO  17:31:01,653 - upotreba globalne promenljive niz na liniji 25

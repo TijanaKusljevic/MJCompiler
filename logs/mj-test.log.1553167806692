@@ -1,0 +1,55 @@
+INFO  12:28:01,921 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:28:02,139 - #2 program
+INFO  12:28:02,139 - #15 MJProgram
+INFO  12:28:02,139 - #15 int
+INFO  12:28:02,155 - #15 y
+INFO  12:28:02,155 - #5 ;
+INFO  12:28:02,155 - #15 int
+INFO  12:28:02,155 - #15 x
+INFO  12:28:02,155 - #5 ;
+INFO  12:28:02,155 - #15 int
+INFO  12:28:02,155 - #15 z
+INFO  12:28:02,155 - #5 ;
+INFO  12:28:02,155 - #15 int
+INFO  12:28:02,171 - #15 niz
+INFO  12:28:02,171 - #29 [
+INFO  12:28:02,171 - #30 ]
+INFO  12:28:02,171 - #5 ;
+INFO  12:28:02,171 - #3 {
+INFO  12:28:02,171 - #15 int
+INFO  12:28:02,171 - #15 main
+INFO  12:28:02,171 - #6 (
+INFO  12:28:02,171 - #7 )
+INFO  12:28:02,171 - #3 {
+INFO  12:28:02,171 - #15 niz
+INFO  12:28:02,171 - #12 =
+INFO  12:28:02,186 - #28 new
+INFO  12:28:02,186 - #15 int
+INFO  12:28:02,186 - #29 [
+INFO  12:28:02,186 - #14 3
+INFO  12:28:02,186 - #30 ]
+INFO  12:28:02,186 - #5 ;
+INFO  12:28:02,186 - #15 x
+INFO  12:28:02,186 - #12 =
+INFO  12:28:02,186 - #15 niz
+INFO  12:28:02,186 - #29 [
+INFO  12:28:02,186 - #14 2
+INFO  12:28:02,186 - #30 ]
+INFO  12:28:02,186 - #5 ;
+INFO  12:28:02,186 - #10 return
+INFO  12:28:02,186 - #14 0
+INFO  12:28:02,186 - #5 ;
+INFO  12:28:02,186 - #4 }
+INFO  12:28:02,186 - #4 }
+INFO  12:28:02,218 - Deklarisana promenljiva y na liniji 2
+INFO  12:28:02,218 - Deklarisana promenljiva x na liniji 3
+INFO  12:28:02,218 - Deklarisana promenljiva z na liniji 4
+INFO  12:28:02,218 - Deklarisan niz niz na liniji 5
+INFO  12:28:02,218 - Obradjuje se funkcija main na liniji 18
+INFO  12:28:02,218 - upotreba globalne promenljive niz na liniji 35
+INFO  12:28:02,218 - upotreba globalne promenljive x na liniji 36
+INFO  12:28:02,218 - Pristup elementu niza  na liniji 36
+INFO  12:28:02,218 - upotreba globalne promenljive niz na liniji 36
+INFO  12:28:02,218 - Print calls = 0
+INFO  12:28:02,233 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:28:02,249 - Parsiranje uspesno zavrseno!

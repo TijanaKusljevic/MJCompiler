@@ -1,0 +1,109 @@
+INFO  12:11:45,802 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:11:46,021 - #2 program
+INFO  12:11:46,021 - #15 MJProgram
+INFO  12:11:46,021 - #15 int
+INFO  12:11:46,021 - #15 a
+INFO  12:11:46,021 - #5 ;
+INFO  12:11:46,036 - #15 char
+INFO  12:11:46,036 - #15 c
+INFO  12:11:46,036 - #5 ;
+INFO  12:11:46,036 - #44 enum
+INFO  12:11:46,036 - #15 Zivotinja
+INFO  12:11:46,036 - #3 {
+INFO  12:11:46,036 - #15 ZEBRA
+INFO  12:11:46,036 - #8 ,
+INFO  12:11:46,036 - #15 SVINJA
+INFO  12:11:46,036 - #8 ,
+INFO  12:11:46,036 - #15 KRAVA
+INFO  12:11:46,036 - #8 ,
+INFO  12:11:46,036 - #15 SLON
+INFO  12:11:46,036 - #4 }
+INFO  12:11:46,052 - #44 enum
+INFO  12:11:46,052 - #15 Voce
+INFO  12:11:46,052 - #3 {
+INFO  12:11:46,052 - #15 JABUKA
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 KRUSKA
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 SLJIVA
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 KIVI
+INFO  12:11:46,052 - #4 }
+INFO  12:11:46,052 - #15 Zivotinja
+INFO  12:11:46,052 - #15 ziv1
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 ziv2
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 ziv3
+INFO  12:11:46,052 - #5 ;
+INFO  12:11:46,052 - #15 Voce
+INFO  12:11:46,052 - #15 v1
+INFO  12:11:46,052 - #8 ,
+INFO  12:11:46,052 - #15 v2
+INFO  12:11:46,052 - #5 ;
+INFO  12:11:46,052 - #3 {
+INFO  12:11:46,052 - #15 int
+INFO  12:11:46,052 - #15 main
+INFO  12:11:46,052 - #6 (
+INFO  12:11:46,052 - #7 )
+INFO  12:11:46,052 - #3 {
+INFO  12:11:46,052 - #15 ziv1
+INFO  12:11:46,052 - #12 =
+INFO  12:11:46,052 - #15 Zivotinja
+INFO  12:11:46,052 - #31 .
+INFO  12:11:46,052 - #15 SVINJA
+INFO  12:11:46,052 - #5 ;
+INFO  12:11:46,068 - #15 ziv2
+INFO  12:11:46,068 - #12 =
+INFO  12:11:46,068 - #15 Zivotinja
+INFO  12:11:46,068 - #31 .
+INFO  12:11:46,068 - #15 SLON
+INFO  12:11:46,068 - #5 ;
+INFO  12:11:46,068 - #9 print
+INFO  12:11:46,068 - #6 (
+INFO  12:11:46,068 - #15 ziv2
+INFO  12:11:46,068 - #7 )
+INFO  12:11:46,068 - #5 ;
+INFO  12:11:46,068 - #15 v1
+INFO  12:11:46,068 - #12 =
+INFO  12:11:46,083 - #15 Voce
+INFO  12:11:46,083 - #31 .
+INFO  12:11:46,083 - #15 KIVI
+INFO  12:11:46,083 - #5 ;
+INFO  12:11:46,083 - #15 v2
+INFO  12:11:46,083 - #12 =
+INFO  12:11:46,083 - #15 Voce
+INFO  12:11:46,083 - #31 .
+INFO  12:11:46,083 - #15 SLJIVA
+INFO  12:11:46,083 - #5 ;
+INFO  12:11:46,083 - #9 print
+INFO  12:11:46,083 - #6 (
+INFO  12:11:46,083 - #15 v2
+INFO  12:11:46,083 - #7 )
+INFO  12:11:46,083 - #5 ;
+INFO  12:11:46,083 - #10 return
+INFO  12:11:46,083 - #14 0
+INFO  12:11:46,083 - #5 ;
+INFO  12:11:46,083 - #4 }
+INFO  12:11:46,083 - #4 }
+INFO  12:11:46,130 - Deklarisana promenljiva a na liniji 3
+INFO  12:11:46,130 - Deklarisana promenljiva c na liniji 4
+INFO  12:11:46,130 - Deklarisana promenljiva ziv2 na liniji 11
+INFO  12:11:46,130 - Deklarisana promenljiva ziv3 na liniji 11
+INFO  12:11:46,130 - Deklarisana promenljiva ziv1 na liniji 7
+INFO  12:11:46,130 - Deklarisana promenljiva v2 na liniji 6
+INFO  12:11:46,130 - Deklarisana promenljiva v1 na liniji 8
+INFO  12:11:46,130 - Obradjuje se funkcija main na liniji 14
+INFO  12:11:46,130 - upotreba globalne promenljive ziv1 na liniji 16
+INFO  12:11:46,130 - upotreba globalne promenljive Zivotinja na liniji 16
+INFO  12:11:46,130 - upotreba globalne promenljive ziv2 na liniji 17
+INFO  12:11:46,130 - upotreba globalne promenljive Zivotinja na liniji 17
+INFO  12:11:46,130 - upotreba globalne promenljive ziv2 na liniji 18
+INFO  12:11:46,130 - upotreba globalne promenljive v1 na liniji 19
+INFO  12:11:46,130 - upotreba globalne promenljive Voce na liniji 19
+INFO  12:11:46,130 - upotreba globalne promenljive v2 na liniji 20
+INFO  12:11:46,130 - upotreba globalne promenljive Voce na liniji 20
+INFO  12:11:46,130 - upotreba globalne promenljive v2 na liniji 22
+INFO  12:11:46,130 - Print calls = 2
+INFO  12:11:46,286 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:11:46,302 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,56 @@
+INFO  18:17:28,098 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:17:28,254 - #2 program
+INFO  18:17:28,254 - #15 test301
+INFO  18:17:28,254 - #44 enum
+INFO  18:17:28,254 - #15 A
+INFO  18:17:28,254 - #3 {
+INFO  18:17:28,254 - #15 NULA
+INFO  18:17:28,254 - #8 ,
+INFO  18:17:28,270 - #15 JEDAN
+INFO  18:17:28,270 - #4 }
+INFO  18:17:28,270 - #44 enum
+INFO  18:17:28,270 - #15 B
+INFO  18:17:28,270 - #3 {
+INFO  18:17:28,270 - #15 DVA
+INFO  18:17:28,270 - #12 =
+INFO  18:17:28,270 - #14 2
+INFO  18:17:28,270 - #8 ,
+INFO  18:17:28,270 - #15 TRI
+INFO  18:17:28,270 - #12 =
+INFO  18:17:28,285 - #14 3
+INFO  18:17:28,285 - #4 }
+INFO  18:17:28,285 - #44 enum
+INFO  18:17:28,285 - #15 C
+INFO  18:17:28,285 - #12 =
+INFO  18:17:28,285 - #15 A
+INFO  18:17:28,285 - #11 +
+INFO  18:17:28,285 - #15 B
+INFO  18:17:28,285 - #15 int
+INFO  18:17:28,285 - #15 a
+INFO  18:17:28,317 - #5 ;
+INFO  18:17:28,332 - #3 {
+INFO  18:17:28,332 - #13 void
+INFO  18:17:28,332 - #15 main
+INFO  18:17:28,332 - #6 (
+INFO  18:17:28,332 - #7 )
+INFO  18:17:28,348 - #3 {
+INFO  18:17:28,348 - #15 a
+INFO  18:17:28,363 - #12 =
+INFO  18:17:28,410 - #15 C
+INFO  18:17:28,410 - #31 .
+INFO  18:17:28,410 - #15 JEDAN
+INFO  18:17:28,410 - #5 ;
+INFO  18:17:28,410 - #9 print
+INFO  18:17:28,410 - #6 (
+INFO  18:17:28,410 - #18 a
+INFO  18:17:28,410 - #7 )
+INFO  18:17:28,426 - #5 ;
+INFO  18:17:28,426 - #4 }
+INFO  18:17:28,426 - #4 }
+INFO  18:17:28,582 - Deklarisana promenljiva a na liniji 9
+INFO  18:17:28,582 - Obradjuje se funkcija main na liniji 16
+INFO  18:17:28,591 - upotreba globalne promenljive a na liniji 21
+INFO  18:17:28,593 - upotreba globalne promenljive C na liniji 21
+INFO  18:17:28,593 - Print calls = 1
+INFO  18:17:28,593 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:17:28,671 - Parsiranje uspesno zavrseno!

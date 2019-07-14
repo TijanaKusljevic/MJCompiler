@@ -1,0 +1,87 @@
+INFO  19:58:13,368 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:58:13,494 - #2 program
+INFO  19:58:13,495 - #15 MJProgram
+INFO  19:58:13,495 - #15 int
+INFO  19:58:13,498 - #15 y
+INFO  19:58:13,500 - #5 ;
+INFO  19:58:13,502 - #15 int
+INFO  19:58:13,503 - #15 x
+INFO  19:58:13,503 - #5 ;
+INFO  19:58:13,503 - #15 int
+INFO  19:58:13,503 - #15 z
+INFO  19:58:13,503 - #5 ;
+INFO  19:58:13,504 - #15 int
+INFO  19:58:13,504 - #15 niz
+INFO  19:58:13,504 - #29 [
+INFO  19:58:13,504 - #30 ]
+INFO  19:58:13,504 - #5 ;
+INFO  19:58:13,504 - #3 {
+INFO  19:58:13,505 - #15 int
+INFO  19:58:13,506 - #15 main
+INFO  19:58:13,507 - #6 (
+INFO  19:58:13,507 - #7 )
+INFO  19:58:13,509 - #3 {
+INFO  19:58:13,510 - #15 y
+INFO  19:58:13,511 - #12 =
+INFO  19:58:13,513 - #14 7
+INFO  19:58:13,513 - #5 ;
+INFO  19:58:13,516 - #15 x
+INFO  19:58:13,517 - #12 =
+INFO  19:58:13,517 - #14 1
+INFO  19:58:13,517 - #5 ;
+INFO  19:58:13,517 - #34 for
+INFO  19:58:13,517 - #6 (
+INFO  19:58:13,518 - #15 x
+INFO  19:58:13,518 - #12 =
+INFO  19:58:13,518 - #14 0
+INFO  19:58:13,519 - #5 ;
+INFO  19:58:13,519 - #15 x
+INFO  19:58:13,521 - #39 <
+INFO  19:58:13,521 - #14 5
+INFO  19:58:13,523 - #5 ;
+INFO  19:58:13,532 - #15 x
+INFO  19:58:13,535 - #18 ++
+INFO  19:58:13,535 - #7 )
+INFO  19:58:13,538 - #3 {
+INFO  19:58:13,540 - #16 if
+INFO  19:58:13,540 - #6 (
+INFO  19:58:13,542 - #15 i
+INFO  19:58:13,542 - #37 ==
+INFO  19:58:13,542 - #14 1
+INFO  19:58:13,543 - #7 )
+INFO  19:58:13,544 - #3 {
+INFO  19:58:13,546 - #33 continue
+INFO  19:58:13,548 - #5 ;
+INFO  19:58:13,549 - #4 }
+INFO  19:58:13,551 - #9 print
+INFO  19:58:13,554 - #6 (
+INFO  19:58:13,557 - #15 x
+INFO  19:58:13,557 - #7 )
+INFO  19:58:13,558 - #5 ;
+INFO  19:58:13,559 - #4 }
+INFO  19:58:13,568 - #9 print
+INFO  19:58:13,572 - #6 (
+INFO  19:58:13,572 - #14 12
+INFO  19:58:13,572 - #7 )
+INFO  19:58:13,573 - #5 ;
+INFO  19:58:13,573 - #10 return
+INFO  19:58:13,574 - #14 0
+INFO  19:58:13,574 - #5 ;
+INFO  19:58:13,574 - #4 }
+INFO  19:58:13,574 - #4 }
+INFO  19:58:13,618 - Deklarisana promenljiva y na liniji 2
+INFO  19:58:13,619 - Deklarisana promenljiva x na liniji 3
+INFO  19:58:13,619 - Deklarisana promenljiva z na liniji 4
+INFO  19:58:13,619 - Deklarisan niz niz na liniji 5
+INFO  19:58:13,620 - Obradjuje se funkcija main na liniji 18
+INFO  19:58:13,620 - upotreba globalne promenljive y na liniji 35
+INFO  19:58:13,624 - upotreba globalne promenljive x na liniji 36
+INFO  19:58:13,624 - upotreba globalne promenljive x na liniji 37
+INFO  19:58:13,625 - upotreba globalne promenljive x na liniji 37
+INFO  19:58:13,625 - upotreba globalne promenljive x na liniji 37
+ERROR 19:58:13,625 - Greska na liniji 40 : ime i nije deklarisano! 
+INFO  19:58:13,625 - upotreba lokalne promenljive i na liniji 40
+ERROR 19:58:13,625 - nekompatibilni tipovi za poredjenje na liniji 40
+INFO  19:58:13,626 - upotreba globalne promenljive x na liniji 44
+INFO  19:58:13,626 - Print calls = 2
+ERROR 19:58:13,628 - Parsiranje NIJE uspesno zavrseno!

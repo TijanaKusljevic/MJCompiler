@@ -1,0 +1,56 @@
+INFO  15:18:30,730 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:18:30,889 - #2 program
+INFO  15:18:30,890 - #15 test301
+INFO  15:18:30,890 - #43 const
+INFO  15:18:30,893 - #15 int
+INFO  15:18:30,894 - #15 KONST
+INFO  15:18:30,897 - #12 =
+INFO  15:18:30,897 - #14 3
+INFO  15:18:30,898 - #5 ;
+INFO  15:18:30,900 - #15 int
+INFO  15:18:30,901 - #15 q
+INFO  15:18:30,901 - #5 ;
+INFO  15:18:30,905 - #15 int
+INFO  15:18:30,906 - #15 r
+INFO  15:18:30,906 - #5 ;
+INFO  15:18:30,906 - #15 bool
+INFO  15:18:30,907 - #15 bo
+INFO  15:18:30,907 - #5 ;
+INFO  15:18:30,908 - #15 int
+INFO  15:18:30,908 - #15 niz
+INFO  15:18:30,908 - #29 [
+INFO  15:18:30,909 - #30 ]
+INFO  15:18:30,909 - #5 ;
+INFO  15:18:30,911 - #3 {
+INFO  15:18:30,911 - #13 void
+INFO  15:18:30,913 - #15 main
+INFO  15:18:30,913 - #6 (
+INFO  15:18:30,913 - #7 )
+INFO  15:18:30,915 - #3 {
+INFO  15:18:30,915 - #15 niz
+INFO  15:18:30,916 - #12 =
+INFO  15:18:30,919 - #28 new
+INFO  15:18:30,920 - #15 int
+INFO  15:18:30,920 - #29 [
+INFO  15:18:30,920 - #14 2
+INFO  15:18:30,920 - #30 ]
+INFO  15:18:30,924 - #3 {
+INFO  15:18:30,924 - #14 1
+INFO  15:18:30,928 - #8 ,
+INFO  15:18:30,928 - #14 2
+INFO  15:18:30,928 - #8 ,
+INFO  15:18:30,929 - #14 3
+INFO  15:18:30,929 - #4 }
+INFO  15:18:30,930 - #5 ;
+INFO  15:18:30,931 - #4 }
+INFO  15:18:30,932 - #4 }
+INFO  15:18:30,987 - Deklarisana konstanta KONST na liniji 5
+INFO  15:18:30,988 - Deklarisana promenljiva q na liniji 6
+INFO  15:18:30,988 - Deklarisana promenljiva r na liniji 7
+INFO  15:18:30,989 - Deklarisana promenljiva bo na liniji 8
+INFO  15:18:30,989 - Deklarisan niz niz na liniji 9
+INFO  15:18:30,989 - Obradjuje se funkcija main na liniji 16
+INFO  15:18:30,990 - upotreba globalne promenljive niz na liniji 19
+ERROR 15:18:30,990 - greska na liniji: 19 broj elemenata niza nije odgovarajuci 
+INFO  15:18:30,998 - Print calls = 0
+ERROR 15:18:30,998 - Parsiranje NIJE uspesno zavrseno!

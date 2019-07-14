@@ -1,0 +1,116 @@
+INFO  16:50:56,657 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:50:56,829 - #2 program
+INFO  16:50:56,829 - #15 test301
+INFO  16:50:56,829 - #43 const
+INFO  16:50:56,829 - #15 int
+INFO  16:50:56,829 - #15 KONST
+INFO  16:50:56,829 - #12 =
+INFO  16:50:56,829 - #14 3
+INFO  16:50:56,829 - #5 ;
+INFO  16:50:56,845 - #15 int
+INFO  16:50:56,845 - #15 q
+INFO  16:50:56,845 - #5 ;
+INFO  16:50:56,845 - #15 int
+INFO  16:50:56,845 - #15 r
+INFO  16:50:56,845 - #5 ;
+INFO  16:50:56,845 - #15 bool
+INFO  16:50:56,845 - #15 bo
+INFO  16:50:56,845 - #5 ;
+INFO  16:50:56,845 - #15 int
+INFO  16:50:56,845 - #15 niz
+INFO  16:50:56,860 - #29 [
+INFO  16:50:56,860 - #30 ]
+INFO  16:50:56,860 - #5 ;
+INFO  16:50:56,860 - #44 enum
+INFO  16:50:56,860 - #15 Pok
+INFO  16:50:56,860 - #3 {
+INFO  16:50:56,860 - #15 NULA
+INFO  16:50:56,860 - #8 ,
+INFO  16:50:56,860 - #15 JEDAN
+INFO  16:50:56,874 - #8 ,
+INFO  16:50:56,876 - #15 DVA
+INFO  16:50:56,877 - #8 ,
+INFO  16:50:56,877 - #15 TRI
+INFO  16:50:56,878 - #4 }
+INFO  16:50:56,878 - #5 ;
+ERROR 16:50:56,880 - 
+Sintaksna greska na liniji 11
+INFO  16:50:56,881 - #15 int
+INFO  16:50:56,882 - #15 l
+INFO  16:50:56,882 - #5 ;
+INFO  16:50:56,883 - #3 {
+DEBUG 16:50:56,884 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  16:50:56,890 - #13 void
+INFO  16:50:56,891 - #15 main
+INFO  16:50:56,892 - #6 (
+INFO  16:50:56,892 - #7 )
+INFO  16:50:56,894 - #3 {
+INFO  16:50:56,894 - #15 niz
+INFO  16:50:56,896 - #12 =
+INFO  16:50:56,899 - #28 new
+INFO  16:50:56,899 - #15 int
+INFO  16:50:56,899 - #29 [
+INFO  16:50:56,900 - #15 Pok
+INFO  16:50:56,902 - #31 .
+INFO  16:50:56,902 - #15 TRI
+INFO  16:50:56,902 - #30 ]
+INFO  16:50:56,906 - #3 {
+INFO  16:50:56,908 - #14 1
+INFO  16:50:56,919 - #8 ,
+INFO  16:50:56,920 - #14 2
+INFO  16:50:56,920 - #8 ,
+INFO  16:50:56,921 - #14 3
+INFO  16:50:56,921 - #4 }
+INFO  16:50:56,921 - #5 ;
+INFO  16:50:56,922 - #15 q
+INFO  16:50:56,922 - #12 =
+INFO  16:50:56,923 - #14 3
+INFO  16:50:56,923 - #5 ;
+INFO  16:50:56,923 - #16 if
+INFO  16:50:56,923 - #6 (
+INFO  16:50:56,925 - #15 q
+INFO  16:50:56,925 - #37 ==
+INFO  16:50:56,926 - #14 3
+INFO  16:50:56,928 - #7 )
+INFO  16:50:56,935 - #3 {
+INFO  16:50:56,938 - #15 q
+INFO  16:50:56,939 - #12 =
+INFO  16:50:56,939 - #14 6
+INFO  16:50:56,940 - #5 ;
+INFO  16:50:56,940 - #4 }
+INFO  16:50:56,940 - #9 print
+INFO  16:50:56,944 - #6 (
+INFO  16:50:56,945 - #15 niz
+INFO  16:50:56,945 - #29 [
+INFO  16:50:56,945 - #14 2
+INFO  16:50:56,945 - #30 ]
+INFO  16:50:56,945 - #7 )
+INFO  16:50:56,946 - #5 ;
+INFO  16:50:56,946 - #4 }
+INFO  16:50:56,946 - #4 }
+INFO  16:50:56,990 - Deklarisana promenljiva l na liniji 12
+INFO  16:50:56,991 - Obradjuje se funkcija main na liniji 19
+ERROR 16:50:56,991 - Greska na liniji 22 : ime niz nije deklarisano! 
+INFO  16:50:56,991 - upotreba lokalne promenljive niz na liniji 22
+ERROR 16:50:56,991 - Greska na liniji 22 : ime Pok nije deklarisano! 
+INFO  16:50:56,991 - upotreba lokalne promenljive Pok na liniji 22
+ERROR 16:50:56,992 - ne postoji takva mogucnost u nabrajanju na liniji 22
+ERROR 16:50:56,993 - greska na liniji: 22 broj clanova niza mora biti integer 
+ERROR 16:50:56,993 - greska na liniji: 22 broj elemenata niza nije odgovarajuci 
+ERROR 16:50:56,993 - Greska na liniji 22 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 16:50:56,993 - Greska na liniji 23 : ime q nije deklarisano! 
+INFO  16:50:56,993 - upotreba lokalne promenljive q na liniji 23
+ERROR 16:50:56,994 - Greska na liniji 23 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 16:50:56,994 - Greska na liniji 24 : ime q nije deklarisano! 
+INFO  16:50:56,994 - upotreba lokalne promenljive q na liniji 24
+ERROR 16:50:56,994 - nekompatibilni tipovi za poredjenje na liniji 24
+ERROR 16:50:56,994 - Greska na liniji 25 : ime q nije deklarisano! 
+INFO  16:50:56,995 - upotreba lokalne promenljive q na liniji 25
+ERROR 16:50:56,995 - Greska na liniji 25 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+INFO  16:50:56,995 - Pristup elementu niza  na liniji 27
+ERROR 16:50:56,995 - Greska na liniji 27 : ime niz nije deklarisano! 
+INFO  16:50:56,995 - upotreba lokalne promenljive niz na liniji 27
+ERROR 16:50:56,995 - greska na liniji 27 niz nije niz
+ERROR 16:50:56,996 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 27
+INFO  16:50:57,001 - Print calls = 1
+ERROR 16:50:57,002 - Parsiranje NIJE uspesno zavrseno!

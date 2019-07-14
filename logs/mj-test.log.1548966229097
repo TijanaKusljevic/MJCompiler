@@ -1,0 +1,259 @@
+INFO  21:16:34,017 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:16:34,170 - #2 program
+INFO  21:16:34,170 - #15 MJProgram
+INFO  21:16:34,170 - #15 int
+INFO  21:16:34,170 - #15 x
+INFO  21:16:34,170 - #5 ;
+INFO  21:16:34,170 - #15 int
+INFO  21:16:34,178 - #15 y
+INFO  21:16:34,178 - #5 ;
+INFO  21:16:34,180 - #43 const
+INFO  21:16:34,180 - #15 int
+INFO  21:16:34,180 - #15 soi
+INFO  21:16:34,180 - #12 =
+INFO  21:16:34,180 - #14 7
+INFO  21:16:34,180 - #5 ;
+INFO  21:16:34,183 - #43 const
+INFO  21:16:34,184 - #15 int
+INFO  21:16:34,184 - #15 so
+INFO  21:16:34,184 - #12 =
+INFO  21:16:34,184 - #14 0
+INFO  21:16:34,184 - #5 ;
+INFO  21:16:34,185 - #43 const
+INFO  21:16:34,185 - #15 char
+INFO  21:16:34,185 - #15 caki
+INFO  21:16:34,185 - #12 =
+INFO  21:16:34,186 - #25 a
+INFO  21:16:34,186 - #5 ;
+INFO  21:16:34,188 - #15 int
+INFO  21:16:34,188 - #15 niz
+INFO  21:16:34,188 - #29 [
+INFO  21:16:34,188 - #30 ]
+INFO  21:16:34,188 - #5 ;
+INFO  21:16:34,188 - #43 const
+INFO  21:16:34,189 - #15 bool
+INFO  21:16:34,189 - #15 pera
+INFO  21:16:34,189 - #12 =
+INFO  21:16:34,189 - #27 true
+INFO  21:16:34,189 - #5 ;
+INFO  21:16:34,191 - #15 char
+INFO  21:16:34,191 - #15 b
+INFO  21:16:34,191 - #5 ;
+INFO  21:16:34,191 - #15 bool
+INFO  21:16:34,192 - #15 kikisa
+INFO  21:16:34,192 - #5 ;
+INFO  21:16:34,192 - #44 enum
+INFO  21:16:34,193 - #15 ukucani
+INFO  21:16:34,193 - #3 {
+INFO  21:16:34,193 - #15 ja
+INFO  21:16:34,193 - #8 ,
+INFO  21:16:34,195 - #15 diki
+INFO  21:16:34,195 - #4 }
+INFO  21:16:34,197 - #3 {
+INFO  21:16:34,197 - #15 int
+INFO  21:16:34,198 - #15 k
+INFO  21:16:34,199 - #6 (
+INFO  21:16:34,199 - #15 int
+INFO  21:16:34,199 - #15 miki
+INFO  21:16:34,199 - #7 )
+INFO  21:16:34,202 - #15 int
+INFO  21:16:34,202 - #15 c
+INFO  21:16:34,202 - #5 ;
+INFO  21:16:34,212 - #3 {
+INFO  21:16:34,212 - #15 c
+INFO  21:16:34,212 - #12 =
+INFO  21:16:34,212 - #14 1
+INFO  21:16:34,212 - #5 ;
+INFO  21:16:34,221 - #15 c
+INFO  21:16:34,221 - #12 =
+INFO  21:16:34,221 - #15 miki
+INFO  21:16:34,221 - #5 ;
+INFO  21:16:34,221 - #10 return
+INFO  21:16:34,221 - #14 2
+INFO  21:16:34,221 - #5 ;
+INFO  21:16:34,221 - #4 }
+INFO  21:16:34,221 - #15 int
+INFO  21:16:34,221 - #15 r
+INFO  21:16:34,221 - #6 (
+INFO  21:16:34,221 - #7 )
+INFO  21:16:34,221 - #15 int
+INFO  21:16:34,221 - #15 n
+INFO  21:16:34,221 - #5 ;
+INFO  21:16:34,221 - #3 {
+INFO  21:16:34,221 - #15 n
+INFO  21:16:34,221 - #12 =
+INFO  21:16:34,221 - #14 0
+INFO  21:16:34,221 - #5 ;
+INFO  21:16:34,221 - #15 x
+INFO  21:16:34,221 - #12 =
+INFO  21:16:34,221 - #15 k
+INFO  21:16:34,221 - #6 (
+INFO  21:16:34,229 - #14 2
+INFO  21:16:34,229 - #8 ,
+INFO  21:16:34,229 - #14 3
+INFO  21:16:34,229 - #7 )
+INFO  21:16:34,231 - #5 ;
+INFO  21:16:34,231 - #10 return
+INFO  21:16:34,231 - #15 n
+INFO  21:16:34,231 - #5 ;
+INFO  21:16:34,231 - #4 }
+INFO  21:16:34,231 - #15 bool
+INFO  21:16:34,231 - #15 prov
+INFO  21:16:34,231 - #6 (
+INFO  21:16:34,231 - #7 )
+INFO  21:16:34,231 - #3 {
+INFO  21:16:34,231 - #10 return
+INFO  21:16:34,231 - #27 true
+INFO  21:16:34,231 - #5 ;
+INFO  21:16:34,239 - #4 }
+INFO  21:16:34,239 - #13 void
+INFO  21:16:34,239 - #15 konacno
+INFO  21:16:34,241 - #6 (
+INFO  21:16:34,241 - #7 )
+INFO  21:16:34,241 - #3 {
+INFO  21:16:34,241 - #10 return
+INFO  21:16:34,241 - #5 ;
+INFO  21:16:34,241 - #4 }
+INFO  21:16:34,241 - #15 int
+INFO  21:16:34,241 - #15 main
+INFO  21:16:34,241 - #6 (
+INFO  21:16:34,241 - #7 )
+INFO  21:16:34,241 - #3 {
+INFO  21:16:34,241 - #15 y
+INFO  21:16:34,241 - #12 =
+INFO  21:16:34,241 - #14 2
+INFO  21:16:34,241 - #22 *
+INFO  21:16:34,241 - #14 5
+INFO  21:16:34,241 - #5 ;
+INFO  21:16:34,251 - #15 y
+INFO  21:16:34,251 - #12 =
+INFO  21:16:34,251 - #15 y
+INFO  21:16:34,251 - #21 -
+INFO  21:16:34,251 - #14 1
+INFO  21:16:34,261 - #5 ;
+INFO  21:16:34,261 - #15 y
+INFO  21:16:34,261 - #18 ++
+INFO  21:16:34,261 - #5 ;
+INFO  21:16:34,261 - #15 x
+INFO  21:16:34,261 - #12 =
+INFO  21:16:34,261 - #15 y
+INFO  21:16:34,261 - #11 +
+INFO  21:16:34,261 - #14 2
+INFO  21:16:34,402 - #5 ;
+INFO  21:16:34,402 - #15 y
+INFO  21:16:34,402 - #12 =
+INFO  21:16:34,402 - #15 k
+INFO  21:16:34,402 - #6 (
+INFO  21:16:34,402 - #27 true
+INFO  21:16:34,402 - #7 )
+INFO  21:16:34,403 - #11 +
+INFO  21:16:34,403 - #14 3
+INFO  21:16:34,403 - #5 ;
+INFO  21:16:34,403 - #15 y
+INFO  21:16:34,403 - #12 =
+INFO  21:16:34,403 - #21 -
+INFO  21:16:34,404 - #14 7
+INFO  21:16:34,404 - #5 ;
+INFO  21:16:34,404 - #9 print
+INFO  21:16:34,405 - #6 (
+INFO  21:16:34,405 - #27 true
+INFO  21:16:34,405 - #7 )
+INFO  21:16:34,405 - #5 ;
+INFO  21:16:34,406 - #15 b
+INFO  21:16:34,406 - #12 =
+INFO  21:16:34,406 - #25 m
+INFO  21:16:34,406 - #5 ;
+INFO  21:16:34,408 - #15 x
+INFO  21:16:34,409 - #18 ++
+INFO  21:16:34,409 - #5 ;
+INFO  21:16:34,409 - #3 {
+INFO  21:16:34,409 - #15 y
+INFO  21:16:34,409 - #12 =
+INFO  21:16:34,409 - #14 3
+INFO  21:16:34,409 - #5 ;
+INFO  21:16:34,409 - #3 {
+INFO  21:16:34,410 - #4 }
+ERROR 21:16:34,410 - 
+Sintaksna greska na liniji 57
+INFO  21:16:34,410 - #4 }
+INFO  21:16:34,410 - #34 for
+INFO  21:16:34,410 - #6 (
+INFO  21:16:34,411 - #15 x
+INFO  21:16:34,411 - #12 =
+INFO  21:16:34,412 - #14 4
+INFO  21:16:34,412 - #5 ;
+INFO  21:16:34,412 - #15 x
+INFO  21:16:34,412 - #39 <
+INFO  21:16:34,412 - #14 6
+INFO  21:16:34,412 - #35 ||
+INFO  21:16:34,412 - #15 y
+INFO  21:16:34,412 - #39 <
+INFO  21:16:34,412 - #14 1000
+INFO  21:16:34,413 - #36 &&
+INFO  21:16:34,413 - #15 y
+INFO  21:16:34,413 - #40 >
+INFO  21:16:34,413 - #14 0
+INFO  21:16:34,413 - #5 ;
+INFO  21:16:34,413 - #15 x
+INFO  21:16:34,413 - #18 ++
+INFO  21:16:34,413 - #7 )
+DEBUG 21:16:34,414 - Uspesan oporavak od greske pri dodeli vrednosti.
+ERROR 21:16:34,415 - 
+Sintaksna greska na liniji 60
+INFO  21:16:34,415 - #3 {
+INFO  21:16:34,415 - #15 y
+INFO  21:16:34,416 - #12 =
+INFO  21:16:34,416 - #14 7
+INFO  21:16:34,416 - #5 ;
+INFO  21:16:34,416 - #33 continue
+INFO  21:16:34,416 - #5 ;
+INFO  21:16:34,416 - #4 }
+DEBUG 21:16:34,416 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  21:16:34,418 - #16 if
+INFO  21:16:34,418 - #6 (
+INFO  21:16:34,418 - #15 kikisa
+INFO  21:16:34,418 - #7 )
+INFO  21:16:34,424 - #3 {
+INFO  21:16:34,424 - #15 x
+INFO  21:16:34,424 - #12 =
+INFO  21:16:34,424 - #14 7
+INFO  21:16:34,424 - #5 ;
+INFO  21:16:34,424 - #4 }
+INFO  21:16:34,424 - #9 print
+INFO  21:16:34,425 - #6 (
+INFO  21:16:34,425 - #15 y
+INFO  21:16:34,425 - #7 )
+INFO  21:16:34,425 - #5 ;
+INFO  21:16:34,425 - #20 read
+INFO  21:16:34,425 - #6 (
+INFO  21:16:34,425 - #15 y
+INFO  21:16:34,426 - #7 )
+INFO  21:16:34,426 - #5 ;
+INFO  21:16:34,426 - #10 return
+INFO  21:16:34,426 - #14 0
+INFO  21:16:34,427 - #5 ;
+INFO  21:16:34,427 - #4 }
+INFO  21:16:34,427 - #4 }
+ERROR 21:16:34,427 - 
+Sintaksna greska na liniji 75
+ERROR 21:16:34,428 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 75
+ERROR 21:16:34,463 - Greska na liniji 39 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 39
+ERROR 21:16:34,463 - Greska na liniji 39 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 21:16:34,463 - Greska na liniji 40 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 40
+ERROR 21:16:34,463 - Greska na liniji 40 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 40
+ERROR 21:16:34,463 - Greska na liniji 40 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 21:16:34,463 - Greska na liniji 41 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 41
+ERROR 21:16:34,463 - Greska na liniji 41 Operator ++ se moze koristiti samo nad promenljivom tipa int
+ERROR 21:16:34,463 - Greska na liniji 42 : ime x nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive x na liniji 42
+ERROR 21:16:34,463 - Greska na liniji 42 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 42
+ERROR 21:16:34,463 - Greska na liniji 42 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 21:16:34,463 - Greska na liniji 43 : ime y nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive y na liniji 43
+ERROR 21:16:34,463 - Greska na liniji 43 : ime k nije deklarisano! 
+INFO  21:16:34,463 - upotreba lokalne promenljive k na liniji 43

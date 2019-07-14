@@ -1,0 +1,74 @@
+INFO  18:58:47,894 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:58:48,092 - #2 program
+INFO  18:58:48,092 - #15 MJProgram
+INFO  18:58:48,093 - #15 int
+INFO  18:58:48,096 - #15 a
+INFO  18:58:48,098 - #8 ,
+INFO  18:58:48,102 - #15 b
+INFO  18:58:48,102 - #5 ;
+INFO  18:58:48,103 - #15 int
+INFO  18:58:48,103 - #15 niz
+INFO  18:58:48,104 - #29 [
+INFO  18:58:48,104 - #30 ]
+INFO  18:58:48,104 - #5 ;
+INFO  18:58:48,106 - #3 {
+INFO  18:58:48,106 - #15 int
+INFO  18:58:48,108 - #15 k
+INFO  18:58:48,108 - #6 (
+INFO  18:58:48,109 - #15 int
+INFO  18:58:48,109 - #15 m
+INFO  18:58:48,110 - #8 ,
+INFO  18:58:48,112 - #15 int
+INFO  18:58:48,112 - #15 v
+INFO  18:58:48,113 - #29 [
+INFO  18:58:48,113 - #30 ]
+INFO  18:58:48,113 - #7 )
+INFO  18:58:48,114 - #3 {
+INFO  18:58:48,114 - #9 print
+INFO  18:58:48,116 - #6 (
+INFO  18:58:48,116 - #15 m
+INFO  18:58:48,116 - #7 )
+INFO  18:58:48,122 - #5 ;
+INFO  18:58:48,122 - #10 return
+INFO  18:58:48,123 - #14 3
+INFO  18:58:48,123 - #5 ;
+INFO  18:58:48,123 - #4 }
+INFO  18:58:48,124 - #15 int
+INFO  18:58:48,126 - #15 main
+INFO  18:58:48,126 - #6 (
+INFO  18:58:48,126 - #7 )
+INFO  18:58:48,127 - #3 {
+INFO  18:58:48,127 - #15 a
+INFO  18:58:48,128 - #12 =
+INFO  18:58:48,128 - #14 7
+INFO  18:58:48,128 - #5 ;
+INFO  18:58:48,128 - #15 b
+INFO  18:58:48,129 - #12 =
+INFO  18:58:48,129 - #14 9
+INFO  18:58:48,129 - #5 ;
+INFO  18:58:48,130 - #15 k
+INFO  18:58:48,130 - #6 (
+INFO  18:58:48,130 - #15 a
+INFO  18:58:48,130 - #8 ,
+INFO  18:58:48,131 - #15 niz
+INFO  18:58:48,131 - #7 )
+INFO  18:58:48,132 - #5 ;
+INFO  18:58:48,132 - #10 return
+INFO  18:58:48,133 - #14 0
+INFO  18:58:48,133 - #5 ;
+INFO  18:58:48,133 - #4 }
+INFO  18:58:48,133 - #4 }
+INFO  18:58:48,164 - Deklarisana promenljiva b na liniji 5
+INFO  18:58:48,164 - Deklarisana promenljiva a na liniji 3
+INFO  18:58:48,164 - Deklarisan niz niz na liniji 4
+INFO  18:58:48,164 - Obradjuje se funkcija k na liniji 8
+INFO  18:58:48,165 - upotreba formalnog parametra m na liniji 10
+INFO  18:58:48,165 - Obradjuje se funkcija main na liniji 15
+INFO  18:58:48,165 - upotreba globalne promenljive a na liniji 17
+INFO  18:58:48,165 - upotreba globalne promenljive b na liniji 18
+INFO  18:58:48,166 - upotreba lokalne promenljive k na liniji 38
+INFO  18:58:48,166 - upotreba globalne promenljive a na liniji 38
+INFO  18:58:48,166 - upotreba globalne promenljive niz na liniji 38
+INFO  18:58:48,166 - Print calls = 1
+INFO  18:58:48,168 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:58:48,185 - Parsiranje uspesno zavrseno!

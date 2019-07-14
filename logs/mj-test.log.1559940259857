@@ -1,0 +1,56 @@
+INFO  22:43:53,767 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:43:53,923 - #2 program
+INFO  22:43:53,923 - #15 test302
+INFO  22:43:53,923 - #44 enum
+INFO  22:43:53,939 - #15 IncrementType
+INFO  22:43:53,939 - #3 {
+INFO  22:43:53,954 - #15 BY_ONE
+INFO  22:43:53,954 - #8 ,
+INFO  22:43:53,954 - #15 DOUBLE_VALUE
+INFO  22:43:53,954 - #4 }
+INFO  22:43:53,954 - #15 int
+INFO  22:43:53,954 - #15 i
+INFO  22:43:53,970 - #5 ;
+INFO  22:43:53,970 - #15 bool
+INFO  22:43:53,970 - #15 ibool
+INFO  22:43:53,970 - #5 ;
+INFO  22:43:53,970 - #15 int
+INFO  22:43:53,970 - #15 nizk
+INFO  22:43:53,970 - #29 [
+INFO  22:43:53,970 - #30 ]
+INFO  22:43:53,970 - #5 ;
+INFO  22:43:53,970 - #15 int
+INFO  22:43:53,970 - #15 niz
+INFO  22:43:53,970 - #29 [
+INFO  22:43:53,970 - #30 ]
+INFO  22:43:53,970 - #5 ;
+INFO  22:43:53,970 - #3 {
+INFO  22:43:53,970 - #13 void
+INFO  22:43:53,970 - #15 main
+INFO  22:43:53,970 - #6 (
+INFO  22:43:53,986 - #7 )
+INFO  22:43:53,986 - #3 {
+INFO  22:43:53,986 - #15 niz
+INFO  22:43:53,986 - #12 =
+INFO  22:43:53,986 - #28 new
+INFO  22:43:53,986 - #15 int
+INFO  22:43:53,986 - #29 [
+INFO  22:43:53,986 - #14 2
+INFO  22:43:53,986 - #30 ]
+INFO  22:43:53,986 - #3 {
+INFO  22:43:54,001 - #14 7
+INFO  22:43:54,001 - #8 ,
+INFO  22:43:54,001 - #14 8
+INFO  22:43:54,001 - #4 }
+INFO  22:43:54,001 - #5 ;
+INFO  22:43:54,001 - #4 }
+INFO  22:43:54,001 - #4 }
+INFO  22:43:54,095 - Deklarisana promenljiva i na liniji 7
+INFO  22:43:54,095 - Deklarisana promenljiva ibool na liniji 8
+INFO  22:43:54,095 - Deklarisan niz nizk na liniji 11
+INFO  22:43:54,095 - Deklarisan niz niz na liniji 12
+INFO  22:43:54,095 - Obradjuje se funkcija main na liniji 18
+INFO  22:43:54,095 - upotreba globalne promenljive niz na liniji 21
+INFO  22:43:54,095 - Print calls = 0
+INFO  22:43:54,111 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  22:43:54,142 - Parsiranje uspesno zavrseno!

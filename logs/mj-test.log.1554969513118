@@ -1,0 +1,65 @@
+INFO  09:58:05,717 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:58:05,863 - #2 program
+INFO  09:58:05,863 - #15 MJProgram
+INFO  09:58:05,863 - #15 int
+INFO  09:58:05,863 - #15 a
+INFO  09:58:05,863 - #5 ;
+INFO  09:58:05,879 - #3 {
+INFO  09:58:05,879 - #13 void
+INFO  09:58:05,879 - #15 k
+INFO  09:58:05,879 - #6 (
+INFO  09:58:05,879 - #15 int
+INFO  09:58:05,879 - #15 b
+INFO  09:58:05,879 - #7 )
+INFO  09:58:05,879 - #3 {
+INFO  09:58:05,879 - #9 print
+INFO  09:58:05,879 - #6 (
+INFO  09:58:05,879 - #15 b
+INFO  09:58:05,879 - #7 )
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #10 return
+INFO  09:58:05,895 - #14 3
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #4 }
+INFO  09:58:05,895 - #15 int
+INFO  09:58:05,895 - #15 main
+INFO  09:58:05,895 - #6 (
+INFO  09:58:05,895 - #7 )
+INFO  09:58:05,895 - #3 {
+INFO  09:58:05,895 - #15 a
+INFO  09:58:05,895 - #12 =
+INFO  09:58:05,895 - #14 7
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #15 k
+INFO  09:58:05,895 - #6 (
+INFO  09:58:05,895 - #15 a
+INFO  09:58:05,895 - #7 )
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #15 a
+INFO  09:58:05,895 - #12 =
+INFO  09:58:05,895 - #14 9
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #9 print
+INFO  09:58:05,895 - #6 (
+INFO  09:58:05,895 - #15 a
+INFO  09:58:05,895 - #7 )
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #10 return
+INFO  09:58:05,895 - #14 0
+INFO  09:58:05,895 - #5 ;
+INFO  09:58:05,895 - #4 }
+INFO  09:58:05,895 - #4 }
+INFO  09:58:05,941 - Deklarisana promenljiva a na liniji 3
+INFO  09:58:05,941 - Obradjuje se funkcija k na liniji 8
+INFO  09:58:05,941 - Deklarisana promenljiva b na liniji 8
+INFO  09:58:05,941 - upotreba formalnog parametra b na liniji 9
+ERROR 09:58:05,941 - Greska na liniji 10 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije k
+INFO  09:58:05,941 - Obradjuje se funkcija main na liniji 13
+INFO  09:58:05,941 - upotreba globalne promenljive a na liniji 14
+INFO  09:58:05,941 - upotreba lokalne promenljive k na liniji 15
+INFO  09:58:05,941 - upotreba globalne promenljive a na liniji 15
+INFO  09:58:05,957 - Pronadjen poziv funkcije k na liniji 15
+INFO  09:58:05,957 - upotreba globalne promenljive a na liniji 17
+INFO  09:58:05,957 - upotreba globalne promenljive a na liniji 18
+INFO  09:58:05,957 - Print calls = 2
+ERROR 09:58:05,957 - Parsiranje NIJE uspesno zavrseno!

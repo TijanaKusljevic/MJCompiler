@@ -1,0 +1,194 @@
+INFO  11:24:48,876 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:24:49,042 - #2 program
+INFO  11:24:49,044 - #15 MJProgram
+INFO  11:24:49,044 - #15 int
+INFO  11:24:49,094 - #15 x
+INFO  11:24:49,096 - #5 ;
+INFO  11:24:49,096 - #15 int
+INFO  11:24:49,099 - #15 y
+INFO  11:24:49,099 - #5 ;
+INFO  11:24:49,100 - #3 {
+INFO  11:24:49,101 - #15 int
+INFO  11:24:49,102 - #15 k
+INFO  11:24:49,103 - #6 (
+INFO  11:24:49,105 - #7 )
+INFO  11:24:49,108 - #15 int
+INFO  11:24:49,108 - #15 c
+INFO  11:24:49,109 - #5 ;
+INFO  11:24:49,109 - #3 {
+INFO  11:24:49,110 - #15 c
+INFO  11:24:49,111 - #12 =
+INFO  11:24:49,115 - #14 1
+INFO  11:24:49,115 - #5 ;
+INFO  11:24:49,120 - #10 return
+INFO  11:24:49,123 - #14 2
+INFO  11:24:49,123 - #5 ;
+INFO  11:24:49,123 - #4 }
+INFO  11:24:49,124 - #15 int
+INFO  11:24:49,126 - #15 r
+INFO  11:24:49,126 - #6 (
+INFO  11:24:49,126 - #7 )
+INFO  11:24:49,127 - #15 int
+INFO  11:24:49,127 - #15 n
+INFO  11:24:49,127 - #5 ;
+INFO  11:24:49,127 - #3 {
+INFO  11:24:49,127 - #15 x
+INFO  11:24:49,127 - #12 =
+INFO  11:24:49,128 - #14 7
+INFO  11:24:49,128 - #5 ;
+INFO  11:24:49,128 - #15 n
+INFO  11:24:49,128 - #12 =
+INFO  11:24:49,128 - #14 0
+INFO  11:24:49,128 - #5 ;
+INFO  11:24:49,130 - #10 return
+INFO  11:24:49,137 - #15 n
+INFO  11:24:49,138 - #5 ;
+INFO  11:24:49,139 - #4 }
+INFO  11:24:49,139 - #15 int
+INFO  11:24:49,139 - #15 main
+INFO  11:24:49,139 - #6 (
+INFO  11:24:49,140 - #7 )
+INFO  11:24:49,140 - #3 {
+INFO  11:24:49,140 - #15 y
+INFO  11:24:49,140 - #12 =
+INFO  11:24:49,141 - #14 2
+INFO  11:24:49,141 - #22 *
+INFO  11:24:49,141 - #14 5
+INFO  11:24:49,145 - #5 ;
+INFO  11:24:49,147 - #15 y
+INFO  11:24:49,147 - #12 =
+INFO  11:24:49,147 - #15 y
+INFO  11:24:49,147 - #21 -
+INFO  11:24:49,161 - #14 1
+INFO  11:24:49,165 - #5 ;
+INFO  11:24:49,166 - #15 y
+INFO  11:24:49,167 - #18 ++
+INFO  11:24:49,168 - #5 ;
+INFO  11:24:49,169 - #15 x
+INFO  11:24:49,169 - #12 =
+INFO  11:24:49,170 - #15 y
+INFO  11:24:49,170 - #11 +
+INFO  11:24:49,170 - #14 2
+INFO  11:24:49,171 - #5 ;
+INFO  11:24:49,173 - #15 y
+INFO  11:24:49,174 - #12 =
+INFO  11:24:49,175 - #15 k
+INFO  11:24:49,175 - #6 (
+INFO  11:24:49,175 - #7 )
+INFO  11:24:49,184 - #11 +
+INFO  11:24:49,184 - #14 3
+INFO  11:24:49,185 - #5 ;
+INFO  11:24:49,185 - #15 y
+INFO  11:24:49,186 - #12 =
+INFO  11:24:49,186 - #14 3
+INFO  11:24:49,186 - #22 *
+INFO  11:24:49,186 - #15 y
+INFO  11:24:49,186 - #22 *
+INFO  11:24:49,187 - #25 a
+INFO  11:24:49,187 - #5 ;
+INFO  11:24:49,189 - #15 y
+INFO  11:24:49,190 - #12 =
+INFO  11:24:49,190 - #15 x
+INFO  11:24:49,190 - #29 [
+INFO  11:24:49,190 - #14 2
+INFO  11:24:49,190 - #30 ]
+INFO  11:24:49,190 - #5 ;
+INFO  11:24:49,191 - #3 {
+INFO  11:24:49,191 - #15 y
+INFO  11:24:49,191 - #12 =
+INFO  11:24:49,191 - #14 3
+INFO  11:24:49,191 - #5 ;
+INFO  11:24:49,191 - #3 {
+INFO  11:24:49,192 - #15 x
+INFO  11:24:49,192 - #12 =
+INFO  11:24:49,192 - #15 k
+INFO  11:24:49,192 - #6 (
+INFO  11:24:49,192 - #7 )
+INFO  11:24:49,192 - #5 ;
+INFO  11:24:49,192 - #4 }
+INFO  11:24:49,192 - #4 }
+INFO  11:24:49,193 - #34 for
+INFO  11:24:49,194 - #6 (
+INFO  11:24:49,194 - #15 x
+INFO  11:24:49,194 - #12 =
+INFO  11:24:49,194 - #14 4
+INFO  11:24:49,194 - #5 ;
+INFO  11:24:49,195 - #15 x
+INFO  11:24:49,195 - #39 <
+INFO  11:24:49,195 - #14 6
+INFO  11:24:49,203 - #35 ||
+INFO  11:24:49,218 - #15 y
+INFO  11:24:49,218 - #39 <
+INFO  11:24:49,219 - #14 1000
+INFO  11:24:49,219 - #36 &&
+INFO  11:24:49,219 - #15 y
+INFO  11:24:49,219 - #40 >
+INFO  11:24:49,220 - #14 0
+INFO  11:24:49,225 - #5 ;
+INFO  11:24:49,227 - #15 x
+INFO  11:24:49,228 - #18 ++
+INFO  11:24:49,228 - #7 )
+INFO  11:24:49,228 - #3 {
+INFO  11:24:49,228 - #15 y
+INFO  11:24:49,228 - #12 =
+INFO  11:24:49,228 - #15 x
+INFO  11:24:49,228 - #5 ;
+INFO  11:24:49,229 - #4 }
+INFO  11:24:49,229 - #16 if
+INFO  11:24:49,229 - #6 (
+INFO  11:24:49,230 - #15 x
+INFO  11:24:49,230 - #37 ==
+INFO  11:24:49,230 - #14 5
+INFO  11:24:49,232 - #7 )
+INFO  11:24:49,232 - #3 {
+INFO  11:24:49,232 - #15 y
+INFO  11:24:49,232 - #12 =
+INFO  11:24:49,233 - #14 347
+INFO  11:24:49,234 - #5 ;
+INFO  11:24:49,234 - #4 }
+INFO  11:24:49,235 - #9 print
+INFO  11:24:49,236 - #6 (
+INFO  11:24:49,236 - #15 y
+INFO  11:24:49,237 - #7 )
+INFO  11:24:49,237 - #5 ;
+INFO  11:24:49,237 - #20 read
+INFO  11:24:49,237 - #6 (
+INFO  11:24:49,237 - #15 y
+INFO  11:24:49,237 - #7 )
+INFO  11:24:49,240 - #5 ;
+INFO  11:24:49,240 - #10 return
+INFO  11:24:49,241 - #14 0
+INFO  11:24:49,241 - #5 ;
+INFO  11:24:49,241 - #4 }
+INFO  11:24:49,241 - #4 }
+INFO  11:24:49,293 - Deklarisana promenljiva x na liniji 2
+INFO  11:24:49,293 - Deklarisana promenljiva y na liniji 2
+INFO  11:24:49,294 - Obradjuje se funkcija k na liniji 7
+INFO  11:24:49,294 - Deklarisana promenljiva c na liniji 7
+INFO  11:24:49,294 - Koriscenje konstante  brojcane na liniji 8
+INFO  11:24:49,294 - Koriscenje konstante  brojcane na liniji 9
+INFO  11:24:49,295 - Obradjuje se funkcija r na liniji 12
+INFO  11:24:49,295 - Deklarisana promenljiva n na liniji 12
+INFO  11:24:49,295 - Koriscenje konstante  brojcane na liniji 13
+INFO  11:24:49,295 - Koriscenje konstante  brojcane na liniji 14
+INFO  11:24:49,296 - Obradjuje se funkcija main na liniji 18
+INFO  11:24:49,296 - Koriscenje konstante  brojcane na liniji 19
+INFO  11:24:49,296 - Koriscenje konstante  brojcane na liniji 19
+INFO  11:24:49,296 - Koriscenje konstante  brojcane na liniji 20
+INFO  11:24:49,296 - Koriscenje konstante  brojcane na liniji 22
+INFO  11:24:49,297 - Pronadjen poziv funkcije k na liniji 23
+INFO  11:24:49,297 - Koriscenje konstante  brojcane na liniji 23
+INFO  11:24:49,297 - Koriscenje konstante  brojcane na liniji 24
+ERROR 11:24:49,297 - Greska na liniji 24 : nekompatibilni tipovi u mnozenju ili deljenju.
+INFO  11:24:49,297 - Koriscenje konstante  brojcane na liniji 26
+INFO  11:24:49,298 - Koriscenje konstante  brojcane na liniji 28
+INFO  11:24:49,298 - Pronadjen poziv funkcije k na liniji 30
+INFO  11:24:49,298 - Koriscenje konstante  brojcane na liniji 34
+INFO  11:24:49,298 - Koriscenje konstante  brojcane na liniji 34
+INFO  11:24:49,298 - Koriscenje konstante  brojcane na liniji 34
+INFO  11:24:49,298 - Koriscenje konstante  brojcane na liniji 34
+INFO  11:24:49,299 - Koriscenje konstante  brojcane na liniji 38
+INFO  11:24:49,299 - Koriscenje konstante  brojcane na liniji 39
+INFO  11:24:49,299 - Koriscenje konstante  brojcane na liniji 47
+INFO  11:24:49,299 - Print calls = 1
+ERROR 11:24:49,303 - Parsiranje NIJE uspesno zavrseno!

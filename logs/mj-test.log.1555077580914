@@ -1,0 +1,51 @@
+INFO  15:50:38,515 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:50:38,814 - #2 program
+INFO  15:50:38,815 - #15 test302
+INFO  15:50:38,815 - #15 int
+INFO  15:50:38,824 - #15 b
+INFO  15:50:38,826 - #5 ;
+INFO  15:50:38,833 - #15 int
+INFO  15:50:38,834 - #15 niz
+INFO  15:50:38,834 - #29 [
+INFO  15:50:38,836 - #30 ]
+INFO  15:50:38,837 - #5 ;
+INFO  15:50:38,838 - #3 {
+INFO  15:50:38,839 - #15 char
+INFO  15:50:38,841 - #15 kiki
+INFO  15:50:38,842 - #6 (
+INFO  15:50:38,843 - #15 char
+INFO  15:50:38,843 - #15 c
+INFO  15:50:38,843 - #7 )
+INFO  15:50:38,847 - #3 {
+INFO  15:50:38,849 - #10 return
+INFO  15:50:38,852 - #18 b
+INFO  15:50:38,852 - #5 ;
+INFO  15:50:38,856 - #4 }
+INFO  15:50:38,857 - #15 int
+INFO  15:50:38,859 - #15 main
+INFO  15:50:38,860 - #6 (
+INFO  15:50:38,860 - #7 )
+INFO  15:50:38,862 - #3 {
+INFO  15:50:38,862 - #9 print
+INFO  15:50:38,863 - #6 (
+INFO  15:50:38,863 - #15 ord
+INFO  15:50:38,863 - #6 (
+INFO  15:50:38,866 - #14 66
+INFO  15:50:38,866 - #7 )
+INFO  15:50:38,867 - #7 )
+INFO  15:50:38,868 - #5 ;
+INFO  15:50:38,868 - #10 return
+INFO  15:50:38,869 - #14 0
+INFO  15:50:38,869 - #5 ;
+INFO  15:50:38,869 - #4 }
+INFO  15:50:38,869 - #4 }
+INFO  15:50:38,920 - Deklarisana promenljiva b na liniji 4
+INFO  15:50:38,920 - Deklarisan niz niz na liniji 5
+INFO  15:50:38,921 - Obradjuje se funkcija kiki na liniji 8
+INFO  15:50:38,923 - Deklarisana promenljiva c na liniji 8
+INFO  15:50:38,924 - Obradjuje se funkcija main na liniji 13
+INFO  15:50:38,924 - upotreba lokalne promenljive ord na liniji 15
+INFO  15:50:38,926 - Pronadjen poziv funkcije ord na liniji 15
+INFO  15:50:38,926 - Print calls = 1
+INFO  15:50:38,927 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:50:38,943 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,54 @@
+INFO  15:49:06,560 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:49:06,907 - #2 program
+INFO  15:49:06,908 - #15 test302
+INFO  15:49:06,909 - #15 int
+INFO  15:49:06,921 - #15 b
+INFO  15:49:06,927 - #5 ;
+INFO  15:49:06,943 - #15 int
+INFO  15:49:06,945 - #15 niz
+INFO  15:49:06,945 - #29 [
+INFO  15:49:06,947 - #30 ]
+INFO  15:49:06,947 - #5 ;
+INFO  15:49:06,961 - #3 {
+INFO  15:49:06,961 - #15 int
+INFO  15:49:06,963 - #15 kiki
+INFO  15:49:06,964 - #6 (
+INFO  15:49:06,965 - #15 char
+INFO  15:49:06,965 - #15 c
+INFO  15:49:06,966 - #7 )
+INFO  15:49:06,970 - #3 {
+INFO  15:49:06,975 - #10 return
+INFO  15:49:06,981 - #14 3
+INFO  15:49:06,986 - #5 ;
+INFO  15:49:06,991 - #4 }
+INFO  15:49:06,993 - #15 int
+INFO  15:49:06,997 - #15 main
+INFO  15:49:06,997 - #6 (
+INFO  15:49:06,997 - #7 )
+INFO  15:49:07,000 - #3 {
+INFO  15:49:07,001 - #15 b
+INFO  15:49:07,001 - #12 =
+INFO  15:49:07,004 - #14 0
+INFO  15:49:07,004 - #5 ;
+INFO  15:49:07,005 - #15 kiki
+INFO  15:49:07,005 - #6 (
+INFO  15:49:07,005 - #15 b
+INFO  15:49:07,006 - #7 )
+INFO  15:49:07,007 - #5 ;
+INFO  15:49:07,007 - #10 return
+INFO  15:49:07,008 - #14 0
+INFO  15:49:07,008 - #5 ;
+INFO  15:49:07,008 - #4 }
+INFO  15:49:07,009 - #4 }
+INFO  15:49:07,114 - Deklarisana promenljiva b na liniji 4
+INFO  15:49:07,116 - Deklarisan niz niz na liniji 5
+INFO  15:49:07,121 - Obradjuje se funkcija kiki na liniji 8
+INFO  15:49:07,124 - Deklarisana promenljiva c na liniji 8
+INFO  15:49:07,125 - Obradjuje se funkcija main na liniji 13
+INFO  15:49:07,125 - upotreba globalne promenljive b na liniji 15
+INFO  15:49:07,126 - upotreba lokalne promenljive kiki na liniji 16
+INFO  15:49:07,126 - upotreba globalne promenljive b na liniji 16
+ERROR 15:49:07,128 - greska na liniji 16 nije prosledjen odgovarajuci tip argumenta
+INFO  15:49:07,129 - Pronadjen poziv funkcije kiki na liniji 16
+INFO  15:49:07,130 - Print calls = 0
+ERROR 15:49:07,135 - Parsiranje NIJE uspesno zavrseno!

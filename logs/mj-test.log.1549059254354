@@ -1,0 +1,316 @@
+INFO  23:00:42,466 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:00:42,608 - #2 program
+INFO  23:00:42,609 - #15 test301
+INFO  23:00:42,609 - #44 enum
+INFO  23:00:42,612 - #15 Broj
+INFO  23:00:42,613 - #3 {
+INFO  23:00:42,615 - #15 NULA
+INFO  23:00:42,615 - #8 ,
+INFO  23:00:42,617 - #15 JEDAN
+INFO  23:00:42,618 - #8 ,
+INFO  23:00:42,618 - #15 PET
+INFO  23:00:42,618 - #12 =
+INFO  23:00:42,618 - #14 5
+INFO  23:00:42,619 - #8 ,
+INFO  23:00:42,620 - #15 DESET
+INFO  23:00:42,620 - #12 =
+INFO  23:00:42,620 - #14 10
+INFO  23:00:42,620 - #4 }
+INFO  23:00:42,623 - #43 const
+INFO  23:00:42,624 - #15 int
+INFO  23:00:42,625 - #15 jedan
+INFO  23:00:42,627 - #12 =
+INFO  23:00:42,628 - #14 1
+INFO  23:00:42,628 - #5 ;
+INFO  23:00:42,631 - #43 const
+INFO  23:00:42,632 - #15 int
+INFO  23:00:42,633 - #15 pet
+INFO  23:00:42,633 - #12 =
+INFO  23:00:42,633 - #14 5
+INFO  23:00:42,633 - #5 ;
+INFO  23:00:42,633 - #15 int
+INFO  23:00:42,634 - #15 niz
+INFO  23:00:42,634 - #29 [
+INFO  23:00:42,634 - #30 ]
+INFO  23:00:42,634 - #5 ;
+INFO  23:00:42,634 - #15 char
+INFO  23:00:42,634 - #15 nizch
+INFO  23:00:42,635 - #29 [
+INFO  23:00:42,635 - #30 ]
+INFO  23:00:42,635 - #5 ;
+INFO  23:00:42,635 - #3 {
+INFO  23:00:42,635 - #13 void
+INFO  23:00:42,637 - #15 main
+INFO  23:00:42,640 - #6 (
+INFO  23:00:42,640 - #7 )
+INFO  23:00:42,642 - #15 int
+INFO  23:00:42,642 - #15 bodovi
+INFO  23:00:42,642 - #5 ;
+INFO  23:00:42,644 - #15 Broj
+INFO  23:00:42,645 - #15 nula
+INFO  23:00:42,645 - #5 ;
+INFO  23:00:42,645 - #15 Broj
+INFO  23:00:42,645 - #15 jedan
+INFO  23:00:42,645 - #5 ;
+INFO  23:00:42,645 - #3 {
+INFO  23:00:42,646 - #15 nula
+INFO  23:00:42,647 - #12 =
+INFO  23:00:42,651 - #15 Broj
+INFO  23:00:42,652 - #31 .
+INFO  23:00:42,652 - #15 NULA
+INFO  23:00:42,652 - #5 ;
+INFO  23:00:42,666 - #15 jedan
+INFO  23:00:42,667 - #12 =
+INFO  23:00:42,667 - #15 Broj
+INFO  23:00:42,667 - #31 .
+INFO  23:00:42,668 - #15 JEDAN
+INFO  23:00:42,668 - #5 ;
+INFO  23:00:42,668 - #15 bodovi
+INFO  23:00:42,668 - #12 =
+INFO  23:00:42,668 - #14 0
+INFO  23:00:42,668 - #5 ;
+INFO  23:00:42,669 - #15 bodovi
+INFO  23:00:42,669 - #18 ++
+INFO  23:00:42,669 - #5 ;
+INFO  23:00:42,669 - #15 bodovi
+INFO  23:00:42,670 - #12 =
+INFO  23:00:42,670 - #15 bodovi
+INFO  23:00:42,670 - #11 +
+INFO  23:00:42,670 - #15 jedan
+INFO  23:00:42,672 - #5 ;
+INFO  23:00:42,673 - #15 bodovi
+INFO  23:00:42,673 - #12 =
+INFO  23:00:42,673 - #15 bodovi
+INFO  23:00:42,673 - #22 *
+INFO  23:00:42,673 - #15 pet
+INFO  23:00:42,675 - #5 ;
+INFO  23:00:42,676 - #15 bodovi
+INFO  23:00:42,676 - #19 --
+INFO  23:00:42,676 - #5 ;
+INFO  23:00:42,676 - #9 print
+INFO  23:00:42,677 - #6 (
+INFO  23:00:42,677 - #15 bodovi
+INFO  23:00:42,677 - #7 )
+INFO  23:00:42,677 - #5 ;
+INFO  23:00:42,677 - #15 niz
+INFO  23:00:42,678 - #12 =
+INFO  23:00:42,678 - #28 new
+INFO  23:00:42,678 - #15 int
+INFO  23:00:42,678 - #29 [
+INFO  23:00:42,678 - #14 2
+INFO  23:00:42,679 - #30 ]
+INFO  23:00:42,679 - #5 ;
+INFO  23:00:42,679 - #15 niz
+INFO  23:00:42,679 - #29 [
+INFO  23:00:42,679 - #15 nula
+INFO  23:00:42,679 - #30 ]
+INFO  23:00:42,680 - #12 =
+INFO  23:00:42,680 - #15 pet
+INFO  23:00:42,680 - #5 ;
+INFO  23:00:42,680 - #15 niz
+INFO  23:00:42,680 - #29 [
+INFO  23:00:42,681 - #14 1
+INFO  23:00:42,681 - #30 ]
+INFO  23:00:42,681 - #12 =
+INFO  23:00:42,681 - #15 Broj
+INFO  23:00:42,681 - #31 .
+INFO  23:00:42,681 - #15 DESET
+INFO  23:00:42,681 - #5 ;
+INFO  23:00:42,681 - #15 bodovi
+INFO  23:00:42,682 - #12 =
+INFO  23:00:42,682 - #15 niz
+INFO  23:00:42,683 - #29 [
+INFO  23:00:42,683 - #14 1
+INFO  23:00:42,683 - #30 ]
+INFO  23:00:42,683 - #23 /
+INFO  23:00:42,684 - #15 niz
+INFO  23:00:42,689 - #29 [
+INFO  23:00:42,689 - #14 0
+INFO  23:00:42,689 - #30 ]
+INFO  23:00:42,689 - #5 ;
+INFO  23:00:42,690 - #9 print
+INFO  23:00:42,690 - #6 (
+INFO  23:00:42,690 - #15 bodovi
+INFO  23:00:42,690 - #7 )
+INFO  23:00:42,690 - #5 ;
+INFO  23:00:42,690 - #9 print
+INFO  23:00:42,690 - #6 (
+INFO  23:00:42,690 - #15 niz
+INFO  23:00:42,970 - #29 [
+INFO  23:00:42,970 - #15 Broj
+INFO  23:00:42,970 - #31 .
+INFO  23:00:42,970 - #15 JEDAN
+INFO  23:00:42,971 - #30 ]
+INFO  23:00:42,971 - #7 )
+INFO  23:00:42,971 - #5 ;
+INFO  23:00:42,971 - #15 nizch
+INFO  23:00:42,971 - #12 =
+INFO  23:00:42,971 - #28 new
+INFO  23:00:42,971 - #15 char
+INFO  23:00:42,971 - #29 [
+INFO  23:00:42,972 - #14 3
+INFO  23:00:42,972 - #30 ]
+INFO  23:00:42,972 - #5 ;
+INFO  23:00:42,972 - #15 nizch
+INFO  23:00:42,972 - #29 [
+INFO  23:00:42,972 - #14 0
+INFO  23:00:42,972 - #30 ]
+INFO  23:00:42,972 - #12 =
+INFO  23:00:42,973 - #25 a
+INFO  23:00:42,973 - #5 ;
+INFO  23:00:42,974 - #15 nizch
+INFO  23:00:42,975 - #29 [
+INFO  23:00:42,975 - #15 jedan
+INFO  23:00:42,975 - #30 ]
+INFO  23:00:42,975 - #12 =
+INFO  23:00:42,975 - #25 b
+INFO  23:00:42,975 - #5 ;
+INFO  23:00:42,975 - #15 nizch
+INFO  23:00:42,975 - #29 [
+INFO  23:00:42,975 - #15 pet
+INFO  23:00:42,975 - #21 -
+INFO  23:00:42,976 - #14 3
+INFO  23:00:42,977 - #30 ]
+INFO  23:00:42,977 - #12 =
+INFO  23:00:42,977 - #25 c
+INFO  23:00:42,977 - #5 ;
+INFO  23:00:42,977 - #9 print
+INFO  23:00:42,978 - #6 (
+INFO  23:00:42,978 - #15 nizch
+INFO  23:00:42,978 - #29 [
+INFO  23:00:42,978 - #14 2
+INFO  23:00:42,978 - #21 -
+INFO  23:00:42,978 - #14 1
+INFO  23:00:42,978 - #30 ]
+INFO  23:00:42,978 - #7 )
+INFO  23:00:42,978 - #5 ;
+INFO  23:00:42,978 - #9 print
+INFO  23:00:42,978 - #6 (
+INFO  23:00:42,978 - #15 nizch
+INFO  23:00:42,978 - #29 [
+INFO  23:00:42,979 - #15 jedan
+INFO  23:00:42,979 - #22 *
+INFO  23:00:42,979 - #14 2
+INFO  23:00:42,979 - #30 ]
+INFO  23:00:42,979 - #7 )
+INFO  23:00:42,979 - #5 ;
+INFO  23:00:42,979 - #15 bodovi
+INFO  23:00:42,980 - #12 =
+INFO  23:00:42,980 - #15 bodovi
+INFO  23:00:42,980 - #11 +
+INFO  23:00:42,980 - #6 (
+INFO  23:00:42,980 - #6 (
+INFO  23:00:42,980 - #15 pet
+INFO  23:00:42,980 - #22 *
+INFO  23:00:42,980 - #15 jedan
+INFO  23:00:42,980 - #21 -
+INFO  23:00:42,981 - #14 1
+INFO  23:00:42,981 - #7 )
+INFO  23:00:42,981 - #22 *
+INFO  23:00:42,981 - #14 2
+INFO  23:00:42,981 - #21 -
+INFO  23:00:42,981 - #6 (
+INFO  23:00:42,981 - #14 3
+INFO  23:00:42,981 - #24 %
+INFO  23:00:42,982 - #14 2
+INFO  23:00:42,983 - #11 +
+INFO  23:00:42,983 - #14 3
+INFO  23:00:42,983 - #22 *
+INFO  23:00:42,983 - #14 2
+INFO  23:00:42,983 - #21 -
+INFO  23:00:42,983 - #14 3
+INFO  23:00:42,984 - #7 )
+INFO  23:00:42,984 - #21 -
+INFO  23:00:42,984 - #15 Broj
+INFO  23:00:42,984 - #31 .
+INFO  23:00:42,984 - #15 JEDAN
+INFO  23:00:42,984 - #22 *
+INFO  23:00:42,984 - #14 0
+INFO  23:00:42,984 - #7 )
+INFO  23:00:42,984 - #5 ;
+INFO  23:00:42,985 - #9 print
+INFO  23:00:42,985 - #6 (
+INFO  23:00:42,985 - #15 bodovi
+INFO  23:00:42,985 - #7 )
+INFO  23:00:42,985 - #5 ;
+INFO  23:00:42,985 - #20 read
+INFO  23:00:42,985 - #6 (
+INFO  23:00:42,985 - #15 bodovi
+INFO  23:00:42,986 - #7 )
+INFO  23:00:42,986 - #5 ;
+INFO  23:00:42,986 - #15 bodovi
+INFO  23:00:42,986 - #12 =
+INFO  23:00:42,986 - #15 bodovi
+INFO  23:00:42,986 - #11 +
+INFO  23:00:42,987 - #14 1
+INFO  23:00:42,987 - #5 ;
+INFO  23:00:42,987 - #9 print
+INFO  23:00:42,987 - #6 (
+INFO  23:00:42,987 - #15 bodovi
+INFO  23:00:42,987 - #7 )
+INFO  23:00:42,987 - #5 ;
+INFO  23:00:42,987 - #4 }
+INFO  23:00:42,988 - #4 }
+INFO  23:00:43,032 - Deklarisana konstanta jedan na liniji 7
+INFO  23:00:43,033 - Deklarisana konstanta pet na liniji 8
+INFO  23:00:43,033 - Deklarisan niz niz na liniji 10
+INFO  23:00:43,034 - Deklarisan niz nizch na liniji 11
+INFO  23:00:43,034 - Obradjuje se funkcija main na liniji 14
+INFO  23:00:43,035 - Deklarisana promenljiva bodovi na liniji 15
+INFO  23:00:43,035 - Deklarisana promenljiva nula na liniji 16
+INFO  23:00:43,035 - Deklarisana promenljiva jedan na liniji 17
+INFO  23:00:43,035 - upotreba lokalne promenljive nula na liniji 19
+INFO  23:00:43,036 - upotreba globalne promenljive Broj na liniji 19
+ERROR 23:00:43,036 - Greska na liniji 19 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  23:00:43,036 - upotreba lokalne promenljive jedan na liniji 20
+INFO  23:00:43,036 - upotreba globalne promenljive Broj na liniji 20
+ERROR 23:00:43,036 - Greska na liniji 20 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  23:00:43,036 - upotreba lokalne promenljive bodovi na liniji 22
+INFO  23:00:43,037 - upotreba lokalne promenljive bodovi na liniji 23
+INFO  23:00:43,037 - upotreba lokalne promenljive bodovi na liniji 24
+INFO  23:00:43,037 - upotreba lokalne promenljive bodovi na liniji 24
+INFO  23:00:43,037 - upotreba lokalne promenljive jedan na liniji 24
+ERROR 23:00:43,037 - Greska na liniji 24 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 23:00:43,037 - Greska na liniji 24 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  23:00:43,037 - upotreba lokalne promenljive bodovi na liniji 25
+INFO  23:00:43,037 - upotreba lokalne promenljive bodovi na liniji 25
+INFO  23:00:43,038 - upotreba globalne konstante pet na liniji 25
+INFO  23:00:43,038 - upotreba lokalne promenljive bodovi na liniji 26
+INFO  23:00:43,038 - upotreba lokalne promenljive bodovi na liniji 27
+INFO  23:00:43,038 - upotreba globalne promenljive niz na liniji 30
+INFO  23:00:43,038 - upotreba lokalne promenljive nula na liniji 31
+ERROR 23:00:43,038 - Greska na liniji 31 Indeks mora biti integer
+INFO  23:00:43,038 - upotreba globalne promenljive niz na liniji 31
+INFO  23:00:43,038 - upotreba globalne konstante pet na liniji 31
+INFO  23:00:43,039 - upotreba globalne promenljive niz na liniji 32
+INFO  23:00:43,039 - upotreba globalne promenljive Broj na liniji 32
+INFO  23:00:43,039 - upotreba lokalne promenljive bodovi na liniji 33
+INFO  23:00:43,039 - upotreba globalne promenljive niz na liniji 33
+INFO  23:00:43,039 - upotreba globalne promenljive niz na liniji 33
+INFO  23:00:43,039 - upotreba lokalne promenljive bodovi na liniji 34
+INFO  23:00:43,039 - upotreba globalne promenljive Broj na liniji 35
+INFO  23:00:43,039 - upotreba globalne promenljive niz na liniji 35
+INFO  23:00:43,039 - upotreba globalne promenljive nizch na liniji 38
+INFO  23:00:43,040 - upotreba globalne promenljive nizch na liniji 39
+INFO  23:00:43,040 - upotreba lokalne promenljive jedan na liniji 40
+ERROR 23:00:43,040 - Greska na liniji 40 Indeks mora biti integer
+INFO  23:00:43,040 - upotreba globalne promenljive nizch na liniji 40
+INFO  23:00:43,040 - upotreba globalne konstante pet na liniji 41
+INFO  23:00:43,040 - upotreba globalne promenljive nizch na liniji 41
+INFO  23:00:43,041 - upotreba globalne promenljive nizch na liniji 42
+INFO  23:00:43,041 - upotreba lokalne promenljive jedan na liniji 43
+ERROR 23:00:43,041 - Greska na liniji 43 Indeks mora biti integer
+INFO  23:00:43,041 - upotreba globalne promenljive nizch na liniji 43
+INFO  23:00:43,041 - upotreba lokalne promenljive bodovi na liniji 46
+INFO  23:00:43,041 - upotreba lokalne promenljive bodovi na liniji 46
+INFO  23:00:43,041 - upotreba globalne konstante pet na liniji 46
+INFO  23:00:43,041 - upotreba lokalne promenljive jedan na liniji 46
+ERROR 23:00:43,042 - Greska na liniji 46 : nekompatibilni tipovi u mnozenju ili deljenju.
+INFO  23:00:43,042 - upotreba globalne promenljive Broj na liniji 46
+INFO  23:00:43,042 - upotreba lokalne promenljive bodovi na liniji 47
+INFO  23:00:43,042 - upotreba lokalne promenljive bodovi na liniji 50
+INFO  23:00:43,042 - upotreba lokalne promenljive bodovi na liniji 51
+INFO  23:00:43,043 - upotreba lokalne promenljive bodovi na liniji 51
+INFO  23:00:43,043 - upotreba lokalne promenljive bodovi na liniji 52
+INFO  23:00:43,043 - Print calls = 7
+ERROR 23:00:43,045 - Parsiranje NIJE uspesno zavrseno!

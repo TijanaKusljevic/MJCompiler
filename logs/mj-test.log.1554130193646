@@ -1,0 +1,41 @@
+INFO  16:49:38,237 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:49:38,407 - #2 program
+INFO  16:49:38,408 - #15 MJProgram
+INFO  16:49:38,408 - #15 int
+INFO  16:49:38,415 - #15 a
+INFO  16:49:38,417 - #8 ,
+INFO  16:49:38,422 - #15 b
+INFO  16:49:38,423 - #8 ,
+INFO  16:49:38,423 - #15 c
+INFO  16:49:38,423 - #5 ;
+INFO  16:49:38,424 - #3 {
+INFO  16:49:38,424 - #15 int
+INFO  16:49:38,426 - #15 main
+INFO  16:49:38,427 - #6 (
+INFO  16:49:38,428 - #7 )
+INFO  16:49:38,430 - #3 {
+INFO  16:49:38,430 - #15 a
+INFO  16:49:38,431 - #12 =
+INFO  16:49:38,435 - #14 7
+INFO  16:49:38,435 - #5 ;
+INFO  16:49:38,439 - #15 b
+INFO  16:49:38,440 - #12 =
+INFO  16:49:38,440 - #14 9
+INFO  16:49:38,446 - #5 ;
+INFO  16:49:38,447 - #15 c
+INFO  16:49:38,447 - #12 =
+INFO  16:49:38,447 - #14 90
+INFO  16:49:38,447 - #5 ;
+INFO  16:49:38,448 - #10 return
+INFO  16:49:38,448 - #14 0
+INFO  16:49:38,448 - #5 ;
+INFO  16:49:38,448 - #4 }
+INFO  16:49:38,448 - #4 }
+INFO  16:49:38,486 - Deklarisana promenljiva a na liniji 3
+INFO  16:49:38,486 - Obradjuje se funkcija main na liniji 6
+INFO  16:49:38,486 - upotreba globalne promenljive a na liniji 8
+INFO  16:49:38,487 - upotreba globalne promenljive b na liniji 9
+INFO  16:49:38,487 - upotreba globalne promenljive c na liniji 10
+INFO  16:49:38,487 - Print calls = 0
+INFO  16:49:38,489 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:49:38,503 - Parsiranje uspesno zavrseno!

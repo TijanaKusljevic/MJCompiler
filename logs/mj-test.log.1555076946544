@@ -1,0 +1,43 @@
+INFO  15:47:59,735 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:47:59,986 - #2 program
+INFO  15:47:59,987 - #15 test302
+INFO  15:47:59,987 - #15 int
+INFO  15:47:59,991 - #15 b
+INFO  15:47:59,992 - #5 ;
+INFO  15:47:59,997 - #15 int
+INFO  15:47:59,999 - #15 niz
+INFO  15:48:00,000 - #29 [
+INFO  15:48:00,001 - #30 ]
+INFO  15:48:00,001 - #5 ;
+INFO  15:48:00,003 - #3 {
+INFO  15:48:00,003 - #15 int
+INFO  15:48:00,005 - #15 main
+INFO  15:48:00,006 - #6 (
+INFO  15:48:00,007 - #7 )
+INFO  15:48:00,008 - #3 {
+INFO  15:48:00,011 - #15 b
+INFO  15:48:00,013 - #12 =
+INFO  15:48:00,023 - #14 65
+INFO  15:48:00,023 - #5 ;
+INFO  15:48:00,029 - #9 print
+INFO  15:48:00,030 - #6 (
+INFO  15:48:00,030 - #15 ord
+INFO  15:48:00,030 - #6 (
+INFO  15:48:00,031 - #18 A
+INFO  15:48:00,031 - #7 )
+INFO  15:48:00,032 - #7 )
+INFO  15:48:00,032 - #5 ;
+INFO  15:48:00,032 - #10 return
+INFO  15:48:00,035 - #14 0
+INFO  15:48:00,035 - #5 ;
+INFO  15:48:00,036 - #4 }
+INFO  15:48:00,036 - #4 }
+INFO  15:48:00,083 - Deklarisana promenljiva b na liniji 4
+INFO  15:48:00,083 - Deklarisan niz niz na liniji 5
+INFO  15:48:00,084 - Obradjuje se funkcija main na liniji 10
+INFO  15:48:00,084 - upotreba globalne promenljive b na liniji 12
+INFO  15:48:00,084 - upotreba lokalne promenljive ord na liniji 13
+INFO  15:48:00,085 - Pronadjen poziv funkcije ord na liniji 13
+INFO  15:48:00,085 - Print calls = 1
+INFO  15:48:00,086 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:48:00,102 - Parsiranje uspesno zavrseno!

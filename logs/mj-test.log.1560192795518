@@ -1,0 +1,206 @@
+INFO  20:51:52,489 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:51:52,692 - #2 program
+INFO  20:51:52,707 - #15 test301
+INFO  20:51:52,707 - #15 int
+INFO  20:51:52,707 - #15 niz
+INFO  20:51:52,707 - #29 [
+INFO  20:51:52,707 - #30 ]
+INFO  20:51:52,707 - #5 ;
+INFO  20:51:52,707 - #15 char
+INFO  20:51:52,707 - #15 nizc
+INFO  20:51:52,707 - #29 [
+INFO  20:51:52,707 - #30 ]
+INFO  20:51:52,707 - #5 ;
+INFO  20:51:52,707 - #15 int
+INFO  20:51:52,707 - #15 niz1
+INFO  20:51:52,723 - #29 [
+INFO  20:51:52,723 - #30 ]
+INFO  20:51:52,723 - #5 ;
+INFO  20:51:52,723 - #15 char
+INFO  20:51:52,723 - #15 nizc1
+INFO  20:51:52,723 - #29 [
+INFO  20:51:52,723 - #30 ]
+INFO  20:51:52,723 - #5 ;
+INFO  20:51:52,723 - #15 int
+INFO  20:51:52,723 - #15 broj
+INFO  20:51:52,723 - #5 ;
+INFO  20:51:52,723 - #15 char
+INFO  20:51:52,723 - #15 c
+INFO  20:51:52,723 - #5 ;
+INFO  20:51:52,723 - #3 {
+INFO  20:51:52,723 - #13 void
+INFO  20:51:52,723 - #15 main
+INFO  20:51:52,723 - #6 (
+INFO  20:51:52,723 - #7 )
+INFO  20:51:52,739 - #3 {
+INFO  20:51:52,739 - #15 niz
+INFO  20:51:52,739 - #12 =
+INFO  20:51:52,739 - #28 new
+INFO  20:51:52,739 - #15 int
+INFO  20:51:52,739 - #29 [
+INFO  20:51:52,739 - #14 3
+INFO  20:51:52,739 - #30 ]
+INFO  20:51:52,739 - #3 {
+INFO  20:51:52,739 - #14 1
+INFO  20:51:52,754 - #8 ,
+INFO  20:51:52,754 - #14 2
+INFO  20:51:52,754 - #8 ,
+INFO  20:51:52,754 - #14 3
+INFO  20:51:52,754 - #4 }
+INFO  20:51:52,754 - #5 ;
+INFO  20:51:52,754 - #15 nizc
+INFO  20:51:52,754 - #12 =
+INFO  20:51:52,754 - #28 new
+INFO  20:51:52,754 - #15 char
+INFO  20:51:52,754 - #29 [
+INFO  20:51:52,754 - #14 2
+INFO  20:51:52,754 - #30 ]
+INFO  20:51:52,754 - #3 {
+INFO  20:51:52,754 - #18 a
+INFO  20:51:52,754 - #8 ,
+INFO  20:51:52,754 - #18 b
+INFO  20:51:52,754 - #4 }
+INFO  20:51:52,770 - #5 ;
+INFO  20:51:52,770 - #9 print
+INFO  20:51:52,770 - #6 (
+INFO  20:51:52,770 - #15 niz
+INFO  20:51:52,770 - #29 [
+INFO  20:51:52,770 - #14 2
+INFO  20:51:52,770 - #30 ]
+INFO  20:51:52,770 - #7 )
+INFO  20:51:52,770 - #5 ;
+INFO  20:51:52,770 - #9 print
+INFO  20:51:52,770 - #6 (
+INFO  20:51:52,770 - #15 nizc
+INFO  20:51:52,770 - #29 [
+INFO  20:51:52,770 - #14 0
+INFO  20:51:52,770 - #30 ]
+INFO  20:51:52,770 - #7 )
+INFO  20:51:52,770 - #5 ;
+INFO  20:51:52,770 - #15 niz1
+INFO  20:51:52,770 - #12 =
+INFO  20:51:52,770 - #28 new
+INFO  20:51:52,770 - #15 int
+INFO  20:51:52,770 - #29 [
+INFO  20:51:52,770 - #14 2
+INFO  20:51:52,770 - #30 ]
+INFO  20:51:52,770 - #5 ;
+INFO  20:51:52,770 - #15 nizc1
+INFO  20:51:52,770 - #12 =
+INFO  20:51:52,770 - #28 new
+INFO  20:51:52,770 - #15 char
+INFO  20:51:52,770 - #29 [
+INFO  20:51:52,770 - #14 4
+INFO  20:51:52,770 - #30 ]
+INFO  20:51:52,770 - #5 ;
+INFO  20:51:52,770 - #15 niz1
+INFO  20:51:52,785 - #29 [
+INFO  20:51:52,785 - #14 0
+INFO  20:51:52,785 - #30 ]
+INFO  20:51:52,785 - #12 =
+INFO  20:51:52,785 - #14 7
+INFO  20:51:52,785 - #5 ;
+INFO  20:51:52,785 - #15 niz1
+INFO  20:51:52,785 - #29 [
+INFO  20:51:52,785 - #14 1
+INFO  20:51:52,785 - #30 ]
+INFO  20:51:52,785 - #12 =
+INFO  20:51:52,785 - #14 17
+INFO  20:51:52,785 - #5 ;
+INFO  20:51:52,785 - #15 broj
+INFO  20:51:52,785 - #12 =
+INFO  20:51:52,785 - #15 niz1
+INFO  20:51:52,785 - #29 [
+INFO  20:51:52,785 - #14 0
+INFO  20:51:52,801 - #30 ]
+INFO  20:51:52,801 - #11 +
+INFO  20:51:52,801 - #15 niz1
+INFO  20:51:52,801 - #29 [
+INFO  20:51:52,801 - #14 1
+INFO  20:51:52,801 - #30 ]
+INFO  20:51:52,801 - #5 ;
+INFO  20:51:52,817 - #9 print
+INFO  20:51:52,817 - #6 (
+INFO  20:51:52,817 - #15 broj
+INFO  20:51:52,817 - #7 )
+INFO  20:51:52,817 - #5 ;
+INFO  20:51:52,817 - #15 niz
+INFO  20:51:52,817 - #29 [
+INFO  20:51:52,817 - #14 1
+INFO  20:51:52,817 - #30 ]
+INFO  20:51:52,817 - #12 =
+INFO  20:51:52,817 - #15 broj
+INFO  20:51:52,817 - #5 ;
+INFO  20:51:52,817 - #9 print
+INFO  20:51:52,817 - #6 (
+INFO  20:51:52,817 - #15 niz
+INFO  20:51:52,817 - #29 [
+INFO  20:51:52,817 - #14 1
+INFO  20:51:52,817 - #30 ]
+INFO  20:51:52,832 - #7 )
+INFO  20:51:52,832 - #5 ;
+INFO  20:51:52,832 - #15 niz
+INFO  20:51:52,832 - #29 [
+INFO  20:51:52,832 - #14 1
+INFO  20:51:52,832 - #30 ]
+INFO  20:51:52,832 - #12 =
+INFO  20:51:52,832 - #14 0
+INFO  20:51:52,832 - #5 ;
+INFO  20:51:52,832 - #15 c
+INFO  20:51:52,832 - #12 =
+INFO  20:51:52,832 - #15 nizc
+INFO  20:51:52,832 - #29 [
+INFO  20:51:52,832 - #15 niz
+INFO  20:51:52,832 - #29 [
+INFO  20:51:52,832 - #14 1
+INFO  20:51:52,832 - #30 ]
+INFO  20:51:52,832 - #30 ]
+INFO  20:51:52,832 - #5 ;
+INFO  20:51:52,832 - #9 print
+INFO  20:51:52,832 - #6 (
+INFO  20:51:52,832 - #15 c
+INFO  20:51:52,832 - #7 )
+INFO  20:51:52,832 - #5 ;
+INFO  20:51:52,832 - #4 }
+INFO  20:51:52,832 - #4 }
+INFO  20:51:52,895 - Deklarisan niz niz na liniji 5
+INFO  20:51:52,895 - Deklarisan niz nizc na liniji 6
+INFO  20:51:52,895 - Deklarisan niz niz1 na liniji 8
+INFO  20:51:52,895 - Deklarisan niz nizc1 na liniji 9
+INFO  20:51:52,895 - Deklarisana promenljiva broj na liniji 11
+INFO  20:51:52,895 - Deklarisana promenljiva c na liniji 12
+INFO  20:51:52,895 - Obradjuje se funkcija main na liniji 17
+INFO  20:51:52,895 - upotreba globalne promenljive niz na liniji 21
+INFO  20:51:52,895 - upotreba globalne promenljive nizc na liniji 22
+INFO  20:51:52,895 - Pristup elementu niza  na liniji 24
+INFO  20:51:52,895 - upotreba globalne promenljive niz na liniji 24
+INFO  20:51:52,895 - Pristup elementu niza  na liniji 25
+INFO  20:51:52,895 - upotreba globalne promenljive nizc na liniji 25
+INFO  20:51:52,895 - upotreba globalne promenljive niz1 na liniji 27
+INFO  20:51:52,895 - upotreba globalne promenljive nizc1 na liniji 28
+INFO  20:51:52,895 - Pristup elementu niza  na liniji 30
+INFO  20:51:52,895 - upotreba globalne promenljive niz1 na liniji 30
+INFO  20:51:52,895 - Pristup elementu niza  na liniji 31
+INFO  20:51:52,895 - upotreba globalne promenljive niz1 na liniji 31
+INFO  20:51:52,895 - upotreba globalne promenljive broj na liniji 33
+INFO  20:51:52,895 - Pristup elementu niza  na liniji 33
+INFO  20:51:52,895 - upotreba globalne promenljive niz1 na liniji 33
+INFO  20:51:52,911 - Pristup elementu niza  na liniji 33
+INFO  20:51:52,911 - upotreba globalne promenljive niz1 na liniji 33
+INFO  20:51:52,911 - upotreba globalne promenljive broj na liniji 35
+INFO  20:51:52,911 - Pristup elementu niza  na liniji 36
+INFO  20:51:52,911 - upotreba globalne promenljive niz na liniji 36
+INFO  20:51:52,911 - upotreba globalne promenljive broj na liniji 36
+INFO  20:51:52,912 - Pristup elementu niza  na liniji 37
+INFO  20:51:52,912 - upotreba globalne promenljive niz na liniji 37
+INFO  20:51:52,912 - Pristup elementu niza  na liniji 39
+INFO  20:51:52,912 - upotreba globalne promenljive niz na liniji 39
+INFO  20:51:52,912 - upotreba globalne promenljive c na liniji 41
+INFO  20:51:52,912 - Pristup elementu niza  na liniji 41
+INFO  20:51:52,912 - upotreba globalne promenljive niz na liniji 41
+INFO  20:51:52,912 - Pristup elementu niza  na liniji 41
+INFO  20:51:52,913 - upotreba globalne promenljive nizc na liniji 41
+INFO  20:51:52,913 - upotreba globalne promenljive c na liniji 42
+INFO  20:51:52,929 - Print calls = 5
+INFO  20:51:52,929 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:51:52,944 - Parsiranje uspesno zavrseno!

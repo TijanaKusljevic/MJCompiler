@@ -1,0 +1,210 @@
+INFO  13:49:36,475 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:49:36,632 - #2 program
+INFO  13:49:36,632 - #15 MJProgram
+INFO  13:49:36,632 - #15 int
+INFO  13:49:36,632 - #15 x
+INFO  13:49:36,632 - #5 ;
+INFO  13:49:36,632 - #15 int
+INFO  13:49:36,632 - #15 y
+INFO  13:49:36,632 - #5 ;
+INFO  13:49:36,632 - #43 const
+INFO  13:49:36,632 - #15 int
+INFO  13:49:36,632 - #15 soi
+INFO  13:49:36,632 - #12 =
+INFO  13:49:36,632 - #14 7
+INFO  13:49:36,632 - #5 ;
+INFO  13:49:36,632 - #43 const
+INFO  13:49:36,632 - #15 int
+INFO  13:49:36,632 - #15 so
+INFO  13:49:36,632 - #12 =
+INFO  13:49:36,632 - #14 0
+INFO  13:49:36,632 - #5 ;
+INFO  13:49:36,647 - #43 const
+INFO  13:49:36,647 - #15 char
+INFO  13:49:36,647 - #15 caki
+INFO  13:49:36,647 - #12 =
+INFO  13:49:36,647 - #25 a
+INFO  13:49:36,647 - #5 ;
+INFO  13:49:36,647 - #15 int
+INFO  13:49:36,647 - #15 niz
+INFO  13:49:36,647 - #29 [
+INFO  13:49:36,647 - #30 ]
+INFO  13:49:36,647 - #5 ;
+INFO  13:49:36,647 - #43 const
+INFO  13:49:36,647 - #15 bool
+INFO  13:49:36,647 - #15 pera
+INFO  13:49:36,647 - #12 =
+INFO  13:49:36,647 - #27 true
+INFO  13:49:36,647 - #5 ;
+INFO  13:49:36,647 - #15 char
+INFO  13:49:36,647 - #15 b
+INFO  13:49:36,647 - #5 ;
+INFO  13:49:36,647 - #15 bool
+INFO  13:49:36,647 - #15 kikisa
+INFO  13:49:36,647 - #5 ;
+INFO  13:49:36,647 - #44 enum
+INFO  13:49:36,647 - #15 ukucani
+INFO  13:49:36,647 - #3 {
+INFO  13:49:36,647 - #15 ja
+INFO  13:49:36,647 - #8 ,
+INFO  13:49:36,647 - #15 diki
+INFO  13:49:36,647 - #4 }
+INFO  13:49:36,647 - #3 {
+INFO  13:49:36,663 - #15 int
+INFO  13:49:36,663 - #15 k
+INFO  13:49:36,663 - #6 (
+INFO  13:49:36,663 - #15 int
+INFO  13:49:36,663 - #15 miki
+INFO  13:49:36,663 - #7 )
+INFO  13:49:36,663 - #15 int
+INFO  13:49:36,663 - #15 c
+INFO  13:49:36,663 - #5 ;
+INFO  13:49:36,679 - #3 {
+INFO  13:49:36,679 - #15 c
+INFO  13:49:36,679 - #12 =
+INFO  13:49:36,679 - #14 1
+INFO  13:49:36,679 - #5 ;
+INFO  13:49:36,679 - #15 c
+INFO  13:49:36,694 - #12 =
+INFO  13:49:36,694 - #15 miki
+INFO  13:49:36,694 - #5 ;
+INFO  13:49:36,694 - #10 return
+INFO  13:49:36,694 - #14 2
+INFO  13:49:36,694 - #5 ;
+INFO  13:49:36,694 - #4 }
+INFO  13:49:36,694 - #15 int
+INFO  13:49:36,694 - #15 main
+INFO  13:49:36,694 - #6 (
+INFO  13:49:36,694 - #7 )
+INFO  13:49:36,694 - #3 {
+INFO  13:49:36,694 - #15 y
+INFO  13:49:36,694 - #12 =
+INFO  13:49:36,694 - #14 2
+INFO  13:49:36,694 - #22 *
+INFO  13:49:36,694 - #14 5
+INFO  13:49:36,694 - #5 ;
+INFO  13:49:36,694 - #15 y
+INFO  13:49:36,694 - #12 =
+INFO  13:49:36,694 - #15 y
+INFO  13:49:36,694 - #21 -
+INFO  13:49:36,694 - #14 1
+INFO  13:49:36,694 - #5 ;
+INFO  13:49:36,694 - #15 y
+INFO  13:49:36,694 - #18 ++
+INFO  13:49:36,694 - #5 ;
+INFO  13:49:36,694 - #15 x
+INFO  13:49:36,694 - #12 =
+INFO  13:49:36,694 - #15 y
+INFO  13:49:36,694 - #11 +
+INFO  13:49:36,694 - #14 2
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #15 y
+INFO  13:49:36,710 - #12 =
+INFO  13:49:36,710 - #21 -
+INFO  13:49:36,710 - #14 7
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #15 b
+INFO  13:49:36,710 - #12 =
+INFO  13:49:36,710 - #25 m
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #15 x
+INFO  13:49:36,710 - #18 ++
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #3 {
+INFO  13:49:36,710 - #15 y
+INFO  13:49:36,710 - #12 =
+INFO  13:49:36,710 - #14 3
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #3 {
+INFO  13:49:36,710 - #15 x
+INFO  13:49:36,710 - #12 =
+INFO  13:49:36,710 - #15 k
+INFO  13:49:36,710 - #6 (
+INFO  13:49:36,710 - #27 true
+INFO  13:49:36,710 - #7 )
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #4 }
+INFO  13:49:36,710 - #4 }
+INFO  13:49:36,710 - #34 for
+INFO  13:49:36,710 - #6 (
+INFO  13:49:36,710 - #15 x
+INFO  13:49:36,710 - #12 =
+INFO  13:49:36,710 - #14 4
+INFO  13:49:36,710 - #5 ;
+INFO  13:49:36,710 - #15 x
+INFO  13:49:36,710 - #39 <
+INFO  13:49:36,710 - #14 6
+INFO  13:49:36,710 - #35 ||
+INFO  13:49:36,725 - #15 y
+INFO  13:49:36,725 - #39 <
+INFO  13:49:36,725 - #14 1000
+INFO  13:49:36,725 - #36 &&
+INFO  13:49:36,897 - #15 y
+INFO  13:49:36,897 - #40 >
+INFO  13:49:36,897 - #14 0
+INFO  13:49:36,897 - #5 ;
+INFO  13:49:36,913 - #15 x
+INFO  13:49:36,913 - #18 ++
+INFO  13:49:36,913 - #7 )
+INFO  13:49:36,913 - #3 {
+INFO  13:49:36,913 - #15 y
+INFO  13:49:36,913 - #12 =
+INFO  13:49:36,913 - #14 7
+INFO  13:49:36,913 - #5 ;
+INFO  13:49:36,913 - #33 continue
+INFO  13:49:36,913 - #5 ;
+INFO  13:49:36,913 - #4 }
+INFO  13:49:36,913 - #9 print
+INFO  13:49:36,913 - #6 (
+INFO  13:49:36,913 - #15 y
+INFO  13:49:36,913 - #7 )
+INFO  13:49:36,913 - #5 ;
+INFO  13:49:36,913 - #20 read
+INFO  13:49:36,913 - #6 (
+INFO  13:49:36,913 - #15 y
+INFO  13:49:36,913 - #7 )
+INFO  13:49:36,913 - #5 ;
+INFO  13:49:36,913 - #10 return
+INFO  13:49:36,913 - #14 0
+INFO  13:49:36,913 - #5 ;
+INFO  13:49:36,913 - #4 }
+INFO  13:49:36,913 - #4 }
+INFO  13:49:36,960 - Deklarisana promenljiva x na liniji 2
+INFO  13:49:36,960 - Deklarisana promenljiva y na liniji 2
+INFO  13:49:36,960 - Deklarisana konstanta soi na liniji 3
+INFO  13:49:36,960 - Deklarisana konstanta so na liniji 4
+INFO  13:49:36,960 - Deklarisana konstanta caki na liniji 5
+INFO  13:49:36,960 - Deklarisan niz niz na liniji 6
+INFO  13:49:36,960 - Deklarisana konstanta pera na liniji 7
+INFO  13:49:36,960 - Deklarisana promenljiva b na liniji 8
+INFO  13:49:36,960 - Deklarisana promenljiva kikisa na liniji 9
+INFO  13:49:36,960 - Obradjuje se funkcija k na liniji 15
+INFO  13:49:36,960 - Deklarisana promenljiva c na liniji 15
+INFO  13:49:36,960 - upotreba lokalne promenljive c na liniji 16
+INFO  13:49:36,960 - upotreba lokalne promenljive c na liniji 17
+INFO  13:49:36,960 - upotreba lokalne promenljive miki na liniji 17
+INFO  13:49:36,960 - Obradjuje se funkcija main na liniji 38
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 39
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 40
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 40
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 41
+INFO  13:49:36,960 - upotreba globalne promenljive x na liniji 42
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 42
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 45
+INFO  13:49:36,960 - upotreba globalne promenljive b na liniji 51
+INFO  13:49:36,960 - upotreba globalne promenljive x na liniji 52
+INFO  13:49:36,960 - upotreba globalne promenljive y na liniji 54
+INFO  13:49:36,960 - upotreba globalne promenljive x na liniji 56
+INFO  13:49:36,960 - upotreba lokalne promenljive k na liniji 56
+INFO  13:49:36,960 - Pronadjen poziv funkcije k na liniji 56
+INFO  13:49:36,975 - upotreba globalne promenljive x na liniji 60
+INFO  13:49:36,975 - upotreba globalne promenljive x na liniji 60
+INFO  13:49:36,975 - upotreba globalne promenljive y na liniji 60
+INFO  13:49:36,975 - upotreba globalne promenljive y na liniji 60
+INFO  13:49:36,975 - upotreba globalne promenljive x na liniji 60
+INFO  13:49:36,975 - upotreba globalne promenljive y na liniji 61
+INFO  13:49:36,975 - upotreba globalne promenljive y na liniji 70
+INFO  13:49:36,975 - upotreba globalne promenljive y na liniji 71
+INFO  13:49:36,975 - Print calls = 1
+INFO  13:49:36,975 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  13:49:36,991 - Parsiranje uspesno zavrseno!

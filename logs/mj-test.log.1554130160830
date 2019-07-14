@@ -1,0 +1,119 @@
+INFO  16:48:46,772 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:48:46,942 - #2 program
+INFO  16:48:46,944 - #15 MJProgram
+INFO  16:48:46,944 - #15 int
+INFO  16:48:46,950 - #15 a
+INFO  16:48:46,952 - #8 ,
+INFO  16:48:46,958 - #15 niz
+INFO  16:48:46,959 - #29 [
+INFO  16:48:46,960 - #30 ]
+INFO  16:48:46,960 - #8 ,
+INFO  16:48:46,962 - #15 b
+INFO  16:48:46,963 - #8 ,
+INFO  16:48:46,963 - #15 c
+INFO  16:48:46,963 - #8 ,
+INFO  16:48:46,964 - #15 niz1
+INFO  16:48:46,964 - #29 [
+INFO  16:48:46,964 - #30 ]
+INFO  16:48:46,964 - #5 ;
+INFO  16:48:46,965 - #3 {
+INFO  16:48:46,966 - #15 int
+INFO  16:48:46,970 - #15 main
+INFO  16:48:46,970 - #6 (
+INFO  16:48:46,973 - #7 )
+INFO  16:48:46,975 - #3 {
+INFO  16:48:46,975 - #15 a
+INFO  16:48:46,977 - #12 =
+INFO  16:48:46,980 - #14 7
+INFO  16:48:46,980 - #5 ;
+INFO  16:48:46,984 - #15 b
+INFO  16:48:46,986 - #12 =
+INFO  16:48:46,986 - #14 9
+INFO  16:48:46,986 - #5 ;
+INFO  16:48:46,986 - #15 c
+INFO  16:48:46,987 - #12 =
+INFO  16:48:46,987 - #14 90
+INFO  16:48:46,987 - #5 ;
+INFO  16:48:46,987 - #15 niz
+INFO  16:48:46,988 - #12 =
+INFO  16:48:46,988 - #28 new
+INFO  16:48:46,989 - #15 int
+INFO  16:48:46,989 - #29 [
+INFO  16:48:46,989 - #14 3
+INFO  16:48:46,989 - #30 ]
+INFO  16:48:46,992 - #5 ;
+INFO  16:48:46,994 - #15 niz1
+INFO  16:48:46,994 - #12 =
+INFO  16:48:46,995 - #28 new
+INFO  16:48:46,995 - #15 int
+INFO  16:48:46,996 - #29 [
+INFO  16:48:46,996 - #14 2
+INFO  16:48:46,996 - #30 ]
+INFO  16:48:46,997 - #5 ;
+INFO  16:48:46,997 - #15 niz
+INFO  16:48:47,001 - #29 [
+INFO  16:48:47,001 - #14 0
+INFO  16:48:47,001 - #30 ]
+INFO  16:48:47,004 - #12 =
+INFO  16:48:47,004 - #14 3
+INFO  16:48:47,005 - #5 ;
+INFO  16:48:47,005 - #15 niz
+INFO  16:48:47,005 - #29 [
+INFO  16:48:47,016 - #14 1
+INFO  16:48:47,016 - #30 ]
+INFO  16:48:47,017 - #12 =
+INFO  16:48:47,017 - #14 33
+INFO  16:48:47,017 - #5 ;
+INFO  16:48:47,018 - #15 niz
+INFO  16:48:47,018 - #29 [
+INFO  16:48:47,018 - #14 2
+INFO  16:48:47,019 - #30 ]
+INFO  16:48:47,019 - #12 =
+INFO  16:48:47,019 - #14 333
+INFO  16:48:47,019 - #5 ;
+INFO  16:48:47,019 - #15 niz1
+INFO  16:48:47,020 - #29 [
+INFO  16:48:47,020 - #14 0
+INFO  16:48:47,020 - #30 ]
+INFO  16:48:47,020 - #12 =
+INFO  16:48:47,020 - #14 1
+INFO  16:48:47,021 - #5 ;
+INFO  16:48:47,021 - #15 niz1
+INFO  16:48:47,021 - #29 [
+INFO  16:48:47,022 - #14 1
+INFO  16:48:47,022 - #30 ]
+INFO  16:48:47,023 - #12 =
+INFO  16:48:47,023 - #14 11
+INFO  16:48:47,023 - #5 ;
+INFO  16:48:47,023 - #10 return
+INFO  16:48:47,024 - #14 0
+INFO  16:48:47,024 - #5 ;
+INFO  16:48:47,024 - #4 }
+INFO  16:48:47,024 - #4 }
+INFO  16:48:47,085 - Deklarisan niz a na liniji 3
+INFO  16:48:47,086 - Obradjuje se funkcija main na liniji 6
+INFO  16:48:47,086 - upotreba globalne promenljive a na liniji 8
+ERROR 16:48:47,087 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:48:47,087 - upotreba globalne promenljive b na liniji 9
+INFO  16:48:47,087 - upotreba globalne promenljive c na liniji 10
+INFO  16:48:47,088 - upotreba globalne promenljive niz na liniji 12
+ERROR 16:48:47,088 - Greska na liniji 12 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:48:47,088 - upotreba globalne promenljive niz1 na liniji 13
+ERROR 16:48:47,088 - Greska na liniji 13 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:48:47,089 - Pristup elementu niza  na liniji 15
+INFO  16:48:47,089 - upotreba globalne promenljive niz na liniji 15
+ERROR 16:48:47,089 - greska na liniji 15 niz nije niz
+INFO  16:48:47,089 - Pristup elementu niza  na liniji 16
+INFO  16:48:47,089 - upotreba globalne promenljive niz na liniji 16
+ERROR 16:48:47,089 - greska na liniji 16 niz nije niz
+INFO  16:48:47,090 - Pristup elementu niza  na liniji 17
+INFO  16:48:47,090 - upotreba globalne promenljive niz na liniji 17
+ERROR 16:48:47,090 - greska na liniji 17 niz nije niz
+INFO  16:48:47,090 - Pristup elementu niza  na liniji 19
+INFO  16:48:47,090 - upotreba globalne promenljive niz1 na liniji 19
+ERROR 16:48:47,091 - greska na liniji 19 niz1 nije niz
+INFO  16:48:47,091 - Pristup elementu niza  na liniji 20
+INFO  16:48:47,091 - upotreba globalne promenljive niz1 na liniji 20
+ERROR 16:48:47,091 - greska na liniji 20 niz1 nije niz
+INFO  16:48:47,092 - Print calls = 0
+ERROR 16:48:47,095 - Parsiranje NIJE uspesno zavrseno!

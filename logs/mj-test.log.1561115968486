@@ -1,0 +1,81 @@
+INFO  13:16:31,831 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:16:32,003 - #2 program
+INFO  13:16:32,003 - #15 test301
+INFO  13:16:32,003 - #15 int
+INFO  13:16:32,003 - #15 a
+INFO  13:16:32,019 - #5 ;
+INFO  13:16:32,019 - #15 int
+INFO  13:16:32,019 - #15 b
+INFO  13:16:32,019 - #5 ;
+INFO  13:16:32,019 - #15 int
+INFO  13:16:32,019 - #15 c
+INFO  13:16:32,019 - #5 ;
+INFO  13:16:32,019 - #15 int
+INFO  13:16:32,019 - #15 niz
+INFO  13:16:32,019 - #29 [
+INFO  13:16:32,019 - #30 ]
+INFO  13:16:32,019 - #5 ;
+INFO  13:16:32,019 - #3 {
+INFO  13:16:32,019 - #13 void
+INFO  13:16:32,019 - #15 main
+INFO  13:16:32,019 - #6 (
+INFO  13:16:32,019 - #7 )
+INFO  13:16:32,034 - #3 {
+INFO  13:16:32,034 - #15 a
+INFO  13:16:32,034 - #12 =
+INFO  13:16:32,034 - #14 1
+INFO  13:16:32,034 - #5 ;
+INFO  13:16:32,034 - #15 b
+INFO  13:16:32,034 - #12 =
+INFO  13:16:32,034 - #14 2
+INFO  13:16:32,034 - #5 ;
+INFO  13:16:32,034 - #15 c
+INFO  13:16:32,034 - #12 =
+INFO  13:16:32,050 - #14 900
+INFO  13:16:32,050 - #5 ;
+INFO  13:16:32,050 - #15 niz
+INFO  13:16:32,050 - #12 =
+INFO  13:16:32,050 - #28 new
+INFO  13:16:32,050 - #15 int
+INFO  13:16:32,050 - #29 [
+INFO  13:16:32,050 - #14 3
+INFO  13:16:32,050 - #30 ]
+INFO  13:16:32,050 - #3 {
+INFO  13:16:32,050 - #14 5
+INFO  13:16:32,050 - #8 ,
+INFO  13:16:32,050 - #14 6
+INFO  13:16:32,050 - #8 ,
+INFO  13:16:32,050 - #14 7
+INFO  13:16:32,050 - #4 }
+INFO  13:16:32,050 - #5 ;
+INFO  13:16:32,050 - #15 c
+INFO  13:16:32,065 - #12 =
+INFO  13:16:32,065 - #15 niz
+INFO  13:16:32,065 - #29 [
+INFO  13:16:32,065 - #14 1
+INFO  13:16:32,065 - #45 :
+INFO  13:16:32,065 - #14 2
+INFO  13:16:32,065 - #30 ]
+INFO  13:16:32,065 - #5 ;
+INFO  13:16:32,065 - #9 print
+INFO  13:16:32,065 - #6 (
+INFO  13:16:32,065 - #15 c
+INFO  13:16:32,065 - #7 )
+INFO  13:16:32,065 - #5 ;
+INFO  13:16:32,065 - #4 }
+INFO  13:16:32,065 - #4 }
+INFO  13:16:32,112 - Deklarisana promenljiva a na liniji 5
+INFO  13:16:32,112 - Deklarisana promenljiva b na liniji 6
+INFO  13:16:32,112 - Deklarisana promenljiva c na liniji 7
+INFO  13:16:32,112 - Deklarisan niz niz na liniji 8
+INFO  13:16:32,112 - Obradjuje se funkcija main na liniji 14
+INFO  13:16:32,112 - upotreba globalne promenljive a na liniji 17
+INFO  13:16:32,128 - upotreba globalne promenljive b na liniji 18
+INFO  13:16:32,128 - upotreba globalne promenljive c na liniji 19
+INFO  13:16:32,128 - upotreba globalne promenljive niz na liniji 20
+INFO  13:16:32,128 - upotreba globalne promenljive c na liniji 21
+INFO  13:16:32,128 - upotreba globalne promenljive niz na liniji 21
+INFO  13:16:32,128 - upotreba globalne promenljive c na liniji 22
+INFO  13:16:32,222 - Print calls = 1
+INFO  13:16:32,222 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  13:16:32,253 - Parsiranje uspesno zavrseno!

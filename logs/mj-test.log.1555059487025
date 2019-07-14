@@ -1,0 +1,62 @@
+INFO  10:52:05,387 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:52:05,571 - #2 program
+INFO  10:52:05,572 - #15 MJProgram
+INFO  10:52:05,572 - #15 int
+INFO  10:52:05,574 - #15 niz
+INFO  10:52:05,576 - #29 [
+INFO  10:52:05,576 - #30 ]
+INFO  10:52:05,576 - #5 ;
+INFO  10:52:05,580 - #3 {
+INFO  10:52:05,581 - #15 int
+INFO  10:52:05,583 - #15 main
+INFO  10:52:05,583 - #6 (
+INFO  10:52:05,583 - #7 )
+INFO  10:52:05,585 - #3 {
+INFO  10:52:05,585 - #15 niz
+INFO  10:52:05,586 - #12 =
+INFO  10:52:05,589 - #28 new
+INFO  10:52:05,590 - #15 int
+INFO  10:52:05,590 - #29 [
+INFO  10:52:05,590 - #14 2
+INFO  10:52:05,590 - #30 ]
+INFO  10:52:05,594 - #5 ;
+INFO  10:52:05,596 - #15 niz
+INFO  10:52:05,597 - #29 [
+INFO  10:52:05,597 - #14 0
+INFO  10:52:05,597 - #30 ]
+INFO  10:52:05,597 - #12 =
+INFO  10:52:05,597 - #14 9
+INFO  10:52:05,598 - #5 ;
+INFO  10:52:05,598 - #21 read
+INFO  10:52:05,598 - #6 (
+INFO  10:52:05,598 - #15 niz
+INFO  10:52:05,598 - #29 [
+INFO  10:52:05,598 - #14 0
+INFO  10:52:05,599 - #30 ]
+INFO  10:52:05,599 - #7 )
+INFO  10:52:05,599 - #5 ;
+INFO  10:52:05,599 - #9 print
+INFO  10:52:05,600 - #6 (
+INFO  10:52:05,600 - #15 niz
+INFO  10:52:05,600 - #29 [
+INFO  10:52:05,600 - #14 0
+INFO  10:52:05,600 - #30 ]
+INFO  10:52:05,600 - #7 )
+INFO  10:52:05,601 - #5 ;
+INFO  10:52:05,601 - #10 return
+INFO  10:52:05,601 - #14 0
+INFO  10:52:05,602 - #5 ;
+INFO  10:52:05,602 - #4 }
+INFO  10:52:05,602 - #4 }
+INFO  10:52:05,650 - Deklarisan niz niz na liniji 3
+INFO  10:52:05,651 - Obradjuje se funkcija main na liniji 8
+INFO  10:52:05,652 - upotreba globalne promenljive niz na liniji 9
+INFO  10:52:05,652 - Pristup elementu niza  na liniji 10
+INFO  10:52:05,652 - upotreba globalne promenljive niz na liniji 10
+INFO  10:52:05,653 - Pristup elementu niza  na liniji 11
+INFO  10:52:05,653 - upotreba globalne promenljive niz na liniji 11
+INFO  10:52:05,653 - Pristup elementu niza  na liniji 12
+INFO  10:52:05,653 - upotreba globalne promenljive niz na liniji 12
+INFO  10:52:05,654 - Print calls = 1
+INFO  10:52:05,656 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  10:52:05,667 - Parsiranje uspesno zavrseno!

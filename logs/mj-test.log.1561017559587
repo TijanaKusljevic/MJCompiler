@@ -1,0 +1,76 @@
+INFO  09:57:16,933 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:57:17,058 - #2 program
+INFO  09:57:17,058 - #15 test302
+INFO  09:57:17,058 - #44 enum
+INFO  09:57:17,058 - #15 IncrementType
+INFO  09:57:17,058 - #3 {
+INFO  09:57:17,073 - #15 BY_ONE
+INFO  09:57:17,073 - #8 ,
+INFO  09:57:17,073 - #15 DOUBLE_VALUE
+INFO  09:57:17,073 - #4 }
+INFO  09:57:17,073 - #15 int
+INFO  09:57:17,073 - #15 i
+INFO  09:57:17,073 - #5 ;
+INFO  09:57:17,073 - #15 int
+INFO  09:57:17,073 - #15 j
+INFO  09:57:17,073 - #5 ;
+INFO  09:57:17,073 - #15 int
+INFO  09:57:17,073 - #15 k
+INFO  09:57:17,073 - #5 ;
+INFO  09:57:17,073 - #15 int
+INFO  09:57:17,073 - #15 br
+INFO  09:57:17,089 - #5 ;
+INFO  09:57:17,089 - #15 bool
+INFO  09:57:17,089 - #15 ibool
+INFO  09:57:17,089 - #5 ;
+INFO  09:57:17,089 - #43 const
+INFO  09:57:17,089 - #15 char
+INFO  09:57:17,089 - #15 kon
+INFO  09:57:17,089 - #12 =
+INFO  09:57:17,089 - #18 a
+INFO  09:57:17,089 - #5 ;
+INFO  09:57:17,089 - #43 const
+INFO  09:57:17,089 - #15 bool
+INFO  09:57:17,089 - #15 bki
+INFO  09:57:17,089 - #12 =
+INFO  09:57:17,089 - #27 true
+INFO  09:57:17,089 - #5 ;
+INFO  09:57:17,089 - #15 int
+INFO  09:57:17,089 - #15 niz
+INFO  09:57:17,089 - #29 [
+INFO  09:57:17,089 - #30 ]
+INFO  09:57:17,089 - #5 ;
+INFO  09:57:17,089 - #3 {
+INFO  09:57:17,089 - #13 void
+INFO  09:57:17,089 - #15 main
+INFO  09:57:17,089 - #6 (
+INFO  09:57:17,089 - #7 )
+INFO  09:57:17,089 - #3 {
+INFO  09:57:17,089 - #34 for
+INFO  09:57:17,104 - #6 (
+INFO  09:57:17,104 - #5 ;
+INFO  09:57:17,104 - #5 ;
+INFO  09:57:17,104 - #7 )
+INFO  09:57:17,104 - #3 {
+INFO  09:57:17,104 - #9 print
+INFO  09:57:17,104 - #6 (
+INFO  09:57:17,104 - #18 j
+INFO  09:57:17,120 - #7 )
+INFO  09:57:17,120 - #5 ;
+INFO  09:57:17,120 - #32 break
+INFO  09:57:17,120 - #5 ;
+INFO  09:57:17,136 - #4 }
+INFO  09:57:17,136 - #4 }
+INFO  09:57:17,136 - #4 }
+INFO  09:57:17,183 - Deklarisana promenljiva i na liniji 7
+INFO  09:57:17,183 - Deklarisana promenljiva j na liniji 8
+INFO  09:57:17,183 - Deklarisana promenljiva k na liniji 9
+INFO  09:57:17,183 - Deklarisana promenljiva br na liniji 10
+INFO  09:57:17,183 - Deklarisana promenljiva ibool na liniji 11
+INFO  09:57:17,183 - Deklarisana konstanta kon na liniji 13
+INFO  09:57:17,183 - Deklarisana konstanta bki na liniji 14
+INFO  09:57:17,183 - Deklarisan niz niz na liniji 16
+INFO  09:57:17,183 - Obradjuje se funkcija main na liniji 21
+INFO  09:57:17,183 - Print calls = 1
+INFO  09:57:17,183 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  09:57:17,198 - Parsiranje uspesno zavrseno!

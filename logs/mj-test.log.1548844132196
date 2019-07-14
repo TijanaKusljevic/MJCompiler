@@ -1,0 +1,183 @@
+INFO  11:28:00,450 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:28:00,575 - #2 program
+INFO  11:28:00,575 - #15 MJProgram
+INFO  11:28:00,575 - #15 int
+INFO  11:28:00,591 - #15 x
+INFO  11:28:00,591 - #5 ;
+INFO  11:28:00,591 - #15 int
+INFO  11:28:00,591 - #15 y
+INFO  11:28:00,591 - #5 ;
+INFO  11:28:00,591 - #3 {
+INFO  11:28:00,591 - #15 int
+INFO  11:28:00,591 - #15 k
+INFO  11:28:00,591 - #6 (
+INFO  11:28:00,591 - #7 )
+INFO  11:28:00,591 - #15 int
+INFO  11:28:00,591 - #15 c
+INFO  11:28:00,591 - #5 ;
+INFO  11:28:00,591 - #3 {
+INFO  11:28:00,606 - #15 c
+INFO  11:28:00,606 - #12 =
+INFO  11:28:00,606 - #14 1
+INFO  11:28:00,606 - #5 ;
+INFO  11:28:00,606 - #10 return
+INFO  11:28:00,622 - #14 2
+INFO  11:28:00,622 - #5 ;
+INFO  11:28:00,622 - #4 }
+INFO  11:28:00,622 - #15 int
+INFO  11:28:00,622 - #15 r
+INFO  11:28:00,622 - #6 (
+INFO  11:28:00,622 - #7 )
+INFO  11:28:00,622 - #15 int
+INFO  11:28:00,622 - #15 n
+INFO  11:28:00,622 - #5 ;
+INFO  11:28:00,622 - #3 {
+INFO  11:28:00,622 - #15 x
+INFO  11:28:00,622 - #12 =
+INFO  11:28:00,622 - #14 7
+INFO  11:28:00,622 - #5 ;
+INFO  11:28:00,622 - #15 n
+INFO  11:28:00,622 - #12 =
+INFO  11:28:00,622 - #14 0
+INFO  11:28:00,622 - #5 ;
+INFO  11:28:00,622 - #10 return
+INFO  11:28:00,622 - #15 n
+INFO  11:28:00,622 - #5 ;
+INFO  11:28:00,622 - #4 }
+INFO  11:28:00,622 - #15 int
+INFO  11:28:00,622 - #15 main
+INFO  11:28:00,622 - #6 (
+INFO  11:28:00,622 - #7 )
+INFO  11:28:00,622 - #3 {
+INFO  11:28:00,638 - #15 y
+INFO  11:28:00,638 - #12 =
+INFO  11:28:00,638 - #14 2
+INFO  11:28:00,638 - #22 *
+INFO  11:28:00,638 - #14 5
+INFO  11:28:00,638 - #5 ;
+INFO  11:28:00,638 - #15 y
+INFO  11:28:00,638 - #12 =
+INFO  11:28:00,638 - #15 y
+INFO  11:28:00,638 - #21 -
+INFO  11:28:00,653 - #14 1
+INFO  11:28:00,653 - #5 ;
+INFO  11:28:00,653 - #15 y
+INFO  11:28:00,653 - #18 ++
+INFO  11:28:00,653 - #5 ;
+INFO  11:28:00,653 - #15 x
+INFO  11:28:00,653 - #12 =
+INFO  11:28:00,653 - #15 y
+INFO  11:28:00,653 - #11 +
+INFO  11:28:00,653 - #14 2
+INFO  11:28:00,653 - #5 ;
+INFO  11:28:00,653 - #15 y
+INFO  11:28:00,653 - #12 =
+INFO  11:28:00,653 - #15 k
+INFO  11:28:00,653 - #6 (
+INFO  11:28:00,653 - #7 )
+INFO  11:28:00,653 - #11 +
+INFO  11:28:00,653 - #14 3
+INFO  11:28:00,653 - #5 ;
+INFO  11:28:00,653 - #15 y
+INFO  11:28:00,653 - #12 =
+INFO  11:28:00,669 - #14 3
+INFO  11:28:00,669 - #22 *
+INFO  11:28:00,669 - #15 y
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #15 x
+INFO  11:28:00,669 - #12 =
+INFO  11:28:00,669 - #27 true
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #15 y
+INFO  11:28:00,669 - #12 =
+INFO  11:28:00,669 - #15 x
+INFO  11:28:00,669 - #29 [
+INFO  11:28:00,669 - #14 2
+INFO  11:28:00,669 - #30 ]
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #3 {
+INFO  11:28:00,669 - #15 y
+INFO  11:28:00,669 - #12 =
+INFO  11:28:00,669 - #14 3
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #3 {
+INFO  11:28:00,669 - #15 x
+INFO  11:28:00,669 - #12 =
+INFO  11:28:00,669 - #15 k
+INFO  11:28:00,669 - #6 (
+INFO  11:28:00,669 - #7 )
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #4 }
+INFO  11:28:00,669 - #4 }
+INFO  11:28:00,669 - #34 for
+INFO  11:28:00,669 - #6 (
+INFO  11:28:00,669 - #15 x
+INFO  11:28:00,669 - #12 =
+INFO  11:28:00,669 - #14 4
+INFO  11:28:00,669 - #5 ;
+INFO  11:28:00,669 - #15 x
+INFO  11:28:00,669 - #39 <
+INFO  11:28:00,669 - #14 6
+INFO  11:28:00,685 - #35 ||
+INFO  11:28:00,685 - #15 y
+INFO  11:28:00,685 - #39 <
+INFO  11:28:00,685 - #14 1000
+INFO  11:28:00,685 - #36 &&
+INFO  11:28:00,685 - #15 y
+INFO  11:28:00,685 - #40 >
+INFO  11:28:00,685 - #14 0
+INFO  11:28:00,685 - #5 ;
+INFO  11:28:00,685 - #15 x
+INFO  11:28:00,685 - #18 ++
+INFO  11:28:00,685 - #7 )
+INFO  11:28:00,685 - #3 {
+INFO  11:28:00,685 - #15 y
+INFO  11:28:00,685 - #12 =
+INFO  11:28:00,685 - #15 x
+INFO  11:28:00,685 - #5 ;
+INFO  11:28:00,685 - #4 }
+INFO  11:28:00,685 - #16 if
+INFO  11:28:00,685 - #6 (
+INFO  11:28:00,685 - #15 x
+INFO  11:28:00,685 - #37 ==
+INFO  11:28:00,685 - #14 5
+INFO  11:28:00,700 - #7 )
+INFO  11:28:01,263 - #3 {
+INFO  11:28:01,263 - #15 y
+INFO  11:28:01,263 - #12 =
+INFO  11:28:01,263 - #14 347
+INFO  11:28:01,263 - #5 ;
+INFO  11:28:01,263 - #4 }
+INFO  11:28:01,263 - #9 print
+INFO  11:28:01,263 - #6 (
+INFO  11:28:01,263 - #15 y
+INFO  11:28:01,263 - #7 )
+INFO  11:28:01,263 - #5 ;
+INFO  11:28:01,263 - #20 read
+INFO  11:28:01,263 - #6 (
+INFO  11:28:01,263 - #15 y
+INFO  11:28:01,263 - #7 )
+INFO  11:28:01,263 - #5 ;
+INFO  11:28:01,263 - #10 return
+INFO  11:28:01,263 - #14 0
+INFO  11:28:01,263 - #5 ;
+INFO  11:28:01,263 - #4 }
+INFO  11:28:01,263 - #4 }
+INFO  11:28:01,294 - Deklarisana promenljiva x na liniji 2
+INFO  11:28:01,294 - Deklarisana promenljiva y na liniji 2
+INFO  11:28:01,294 - Obradjuje se funkcija k na liniji 7
+INFO  11:28:01,294 - Deklarisana promenljiva c na liniji 7
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 8
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 9
+INFO  11:28:01,294 - Obradjuje se funkcija r na liniji 12
+INFO  11:28:01,294 - Deklarisana promenljiva n na liniji 12
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 13
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 14
+INFO  11:28:01,294 - Obradjuje se funkcija main na liniji 18
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 19
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 19
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 20
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 22
+INFO  11:28:01,294 - Pronadjen poziv funkcije k na liniji 23
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 23
+INFO  11:28:01,294 - Koriscenje konstante  brojcane na liniji 24

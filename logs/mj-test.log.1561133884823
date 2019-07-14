@@ -1,0 +1,57 @@
+INFO  18:17:38,511 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:17:38,727 - #2 program
+INFO  18:17:38,727 - #15 test301
+INFO  18:17:38,727 - #44 enum
+INFO  18:17:38,727 - #15 A
+INFO  18:17:38,743 - #3 {
+INFO  18:17:38,743 - #15 NULA
+INFO  18:17:38,743 - #8 ,
+INFO  18:17:38,743 - #15 JEDAN
+INFO  18:17:38,743 - #4 }
+INFO  18:17:38,743 - #44 enum
+INFO  18:17:38,743 - #15 B
+INFO  18:17:38,743 - #3 {
+INFO  18:17:38,743 - #15 DVA
+INFO  18:17:38,743 - #12 =
+INFO  18:17:38,743 - #14 2
+INFO  18:17:38,758 - #8 ,
+INFO  18:17:38,758 - #15 TRI
+INFO  18:17:38,758 - #12 =
+INFO  18:17:38,758 - #14 3
+INFO  18:17:38,758 - #4 }
+INFO  18:17:38,758 - #44 enum
+INFO  18:17:38,758 - #15 C
+INFO  18:17:38,758 - #12 =
+INFO  18:17:38,758 - #15 A
+INFO  18:17:38,758 - #11 +
+INFO  18:17:38,758 - #15 B
+INFO  18:17:38,758 - #15 int
+INFO  18:17:38,758 - #15 a
+INFO  18:17:38,758 - #5 ;
+INFO  18:17:38,774 - #3 {
+INFO  18:17:38,774 - #13 void
+INFO  18:17:38,774 - #15 main
+INFO  18:17:38,774 - #6 (
+INFO  18:17:38,774 - #7 )
+INFO  18:17:38,774 - #3 {
+INFO  18:17:38,774 - #15 a
+INFO  18:17:38,774 - #12 =
+INFO  18:17:38,789 - #15 C
+INFO  18:17:38,789 - #31 .
+INFO  18:17:38,789 - #15 JEDAN
+INFO  18:17:38,789 - #5 ;
+INFO  18:17:38,789 - #9 print
+INFO  18:17:38,789 - #6 (
+INFO  18:17:38,789 - #15 a
+INFO  18:17:38,805 - #7 )
+INFO  18:17:38,805 - #5 ;
+INFO  18:17:38,805 - #4 }
+INFO  18:17:38,805 - #4 }
+INFO  18:17:38,883 - Deklarisana promenljiva a na liniji 9
+INFO  18:17:38,883 - Obradjuje se funkcija main na liniji 16
+INFO  18:17:38,883 - upotreba globalne promenljive a na liniji 21
+INFO  18:17:38,883 - upotreba globalne promenljive C na liniji 21
+INFO  18:17:38,883 - upotreba globalne promenljive a na liniji 22
+INFO  18:17:38,883 - Print calls = 1
+INFO  18:17:38,883 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:17:38,899 - Parsiranje uspesno zavrseno!

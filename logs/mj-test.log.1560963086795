@@ -1,0 +1,60 @@
+INFO  18:51:11,296 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:51:11,523 - #2 program
+INFO  18:51:11,524 - #15 test302
+INFO  18:51:11,524 - #44 enum
+INFO  18:51:11,528 - #15 IncrementType
+INFO  18:51:11,528 - #3 {
+INFO  18:51:11,531 - #15 BY_ONE
+INFO  18:51:11,531 - #8 ,
+INFO  18:51:11,542 - #15 DOUBLE_VALUE
+INFO  18:51:11,542 - #4 }
+INFO  18:51:11,543 - #15 int
+INFO  18:51:11,544 - #15 i
+INFO  18:51:11,546 - #5 ;
+INFO  18:51:11,551 - #15 int
+INFO  18:51:11,552 - #15 j
+INFO  18:51:11,552 - #5 ;
+INFO  18:51:11,553 - #15 int
+INFO  18:51:11,554 - #15 k
+INFO  18:51:11,554 - #5 ;
+INFO  18:51:11,554 - #15 int
+INFO  18:51:11,554 - #15 br
+INFO  18:51:11,555 - #5 ;
+INFO  18:51:11,556 - #15 bool
+INFO  18:51:11,556 - #15 ibool
+INFO  18:51:11,556 - #5 ;
+INFO  18:51:11,557 - #43 const
+INFO  18:51:11,557 - #15 char
+INFO  18:51:11,557 - #15 kon
+INFO  18:51:11,557 - #12 =
+INFO  18:51:11,558 - #18 a
+INFO  18:51:11,558 - #5 ;
+INFO  18:51:11,567 - #15 int
+INFO  18:51:11,570 - #15 niz
+INFO  18:51:11,571 - #29 [
+INFO  18:51:11,571 - #30 ]
+INFO  18:51:11,573 - #5 ;
+INFO  18:51:11,575 - #3 {
+INFO  18:51:11,576 - #13 void
+INFO  18:51:11,578 - #15 main
+INFO  18:51:11,578 - #6 (
+INFO  18:51:11,579 - #7 )
+INFO  18:51:11,581 - #3 {
+INFO  18:51:11,581 - #15 i
+INFO  18:51:11,583 - #12 =
+INFO  18:51:11,589 - #14 0
+INFO  18:51:11,589 - #5 ;
+INFO  18:51:11,595 - #4 }
+INFO  18:51:11,596 - #4 }
+INFO  18:51:11,657 - Deklarisana promenljiva i na liniji 7
+INFO  18:51:11,657 - Deklarisana promenljiva j na liniji 8
+INFO  18:51:11,657 - Deklarisana promenljiva k na liniji 9
+INFO  18:51:11,657 - Deklarisana promenljiva br na liniji 10
+INFO  18:51:11,659 - Deklarisana promenljiva ibool na liniji 11
+INFO  18:51:11,660 - Deklarisana konstanta kon na liniji 13
+INFO  18:51:11,660 - Deklarisan niz niz na liniji 15
+INFO  18:51:11,660 - Obradjuje se funkcija main na liniji 20
+INFO  18:51:11,671 - upotreba globalne promenljive i na liniji 22
+INFO  18:51:11,759 - Print calls = 0
+INFO  18:51:11,759 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:51:11,774 - Parsiranje uspesno zavrseno!

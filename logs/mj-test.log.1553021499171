@@ -1,0 +1,143 @@
+INFO  19:51:28,869 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:51:29,025 - #2 program
+INFO  19:51:29,025 - #15 MJProgram
+INFO  19:51:29,025 - #15 int
+INFO  19:51:29,025 - #15 y
+INFO  19:51:29,025 - #5 ;
+INFO  19:51:29,025 - #15 int
+INFO  19:51:29,041 - #15 x
+INFO  19:51:29,041 - #5 ;
+INFO  19:51:29,041 - #15 int
+INFO  19:51:29,041 - #15 z
+INFO  19:51:29,041 - #5 ;
+INFO  19:51:29,041 - #3 {
+INFO  19:51:29,041 - #15 int
+INFO  19:51:29,041 - #15 k
+INFO  19:51:29,041 - #6 (
+INFO  19:51:29,041 - #7 )
+INFO  19:51:29,041 - #15 int
+INFO  19:51:29,041 - #15 c
+INFO  19:51:29,041 - #5 ;
+INFO  19:51:29,041 - #3 {
+INFO  19:51:29,041 - #15 c
+INFO  19:51:29,041 - #12 =
+INFO  19:51:29,041 - #14 2
+INFO  19:51:29,041 - #5 ;
+INFO  19:51:29,056 - #9 print
+INFO  19:51:29,056 - #6 (
+INFO  19:51:29,056 - #15 c
+INFO  19:51:29,056 - #7 )
+INFO  19:51:29,056 - #5 ;
+INFO  19:51:29,056 - #9 print
+INFO  19:51:29,056 - #6 (
+INFO  19:51:29,056 - #15 c
+INFO  19:51:29,056 - #7 )
+INFO  19:51:29,056 - #5 ;
+INFO  19:51:29,056 - #10 return
+INFO  19:51:29,056 - #15 c
+INFO  19:51:29,056 - #11 +
+INFO  19:51:29,056 - #14 2
+INFO  19:51:29,056 - #5 ;
+INFO  19:51:29,056 - #4 }
+INFO  19:51:29,056 - #15 int
+INFO  19:51:29,072 - #15 main
+INFO  19:51:29,072 - #6 (
+INFO  19:51:29,072 - #7 )
+INFO  19:51:29,072 - #3 {
+INFO  19:51:29,072 - #15 y
+INFO  19:51:29,072 - #12 =
+INFO  19:51:29,072 - #14 7
+INFO  19:51:29,072 - #5 ;
+INFO  19:51:29,072 - #15 x
+INFO  19:51:29,072 - #12 =
+INFO  19:51:29,072 - #14 3
+INFO  19:51:29,072 - #5 ;
+INFO  19:51:29,072 - #15 z
+INFO  19:51:29,072 - #12 =
+INFO  19:51:29,072 - #14 4
+INFO  19:51:29,072 - #5 ;
+INFO  19:51:29,072 - #16 if
+INFO  19:51:29,072 - #6 (
+INFO  19:51:29,072 - #15 z
+INFO  19:51:29,087 - #37 ==
+INFO  19:51:29,087 - #14 0
+INFO  19:51:29,087 - #35 ||
+INFO  19:51:29,087 - #15 z
+INFO  19:51:29,087 - #37 ==
+INFO  19:51:29,087 - #14 4
+INFO  19:51:29,087 - #7 )
+INFO  19:51:29,103 - #3 {
+INFO  19:51:29,103 - #9 print
+INFO  19:51:29,103 - #6 (
+INFO  19:51:29,103 - #14 12
+INFO  19:51:29,103 - #7 )
+INFO  19:51:29,103 - #5 ;
+INFO  19:51:29,103 - #16 if
+INFO  19:51:29,103 - #6 (
+INFO  19:51:29,103 - #15 y
+INFO  19:51:29,103 - #37 ==
+INFO  19:51:29,103 - #14 7
+INFO  19:51:29,103 - #36 &&
+INFO  19:51:29,103 - #15 x
+INFO  19:51:29,103 - #37 ==
+INFO  19:51:29,103 - #14 3
+INFO  19:51:29,103 - #7 )
+INFO  19:51:29,103 - #3 {
+INFO  19:51:29,103 - #9 print
+INFO  19:51:29,103 - #6 (
+INFO  19:51:29,103 - #14 9
+INFO  19:51:29,103 - #7 )
+INFO  19:51:29,103 - #5 ;
+INFO  19:51:29,103 - #4 }
+INFO  19:51:29,103 - #17 else
+INFO  19:51:29,103 - #3 {
+INFO  19:51:29,103 - #4 }
+ERROR 19:51:29,103 - 
+Sintaksna greska na liniji 27
+INFO  19:51:29,103 - #4 }
+INFO  19:51:29,103 - #17 else
+INFO  19:51:29,103 - #3 {
+INFO  19:51:29,103 - #9 print
+INFO  19:51:29,103 - #6 (
+INFO  19:51:29,103 - #14 34
+INFO  19:51:29,103 - #7 )
+INFO  19:51:29,103 - #5 ;
+INFO  19:51:29,103 - #4 }
+INFO  19:51:29,103 - #9 print
+INFO  19:51:29,103 - #6 (
+DEBUG 19:51:29,103 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  19:51:29,119 - #15 y
+INFO  19:51:29,119 - #7 )
+INFO  19:51:29,119 - #5 ;
+INFO  19:51:29,119 - #10 return
+INFO  19:51:29,119 - #14 0
+INFO  19:51:29,119 - #5 ;
+INFO  19:51:29,119 - #4 }
+INFO  19:51:29,119 - #4 }
+ERROR 19:51:29,119 - 
+Sintaksna greska na liniji 36
+ERROR 19:51:29,119 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 36
+ERROR 19:51:29,150 - Greska na liniji 18 : ime y nije deklarisano! 
+INFO  19:51:29,150 - upotreba lokalne promenljive y na liniji 18
+ERROR 19:51:29,150 - Greska na liniji 18 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 19:51:29,150 - Greska na liniji 19 : ime x nije deklarisano! 
+INFO  19:51:29,150 - upotreba lokalne promenljive x na liniji 19
+ERROR 19:51:29,150 - Greska na liniji 19 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 19:51:29,150 - Greska na liniji 20 : ime z nije deklarisano! 
+INFO  19:51:29,150 - upotreba lokalne promenljive z na liniji 20
+ERROR 19:51:29,244 - Greska na liniji 20 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 19:51:29,244 - Greska na liniji 21 : ime z nije deklarisano! 
+INFO  19:51:29,244 - upotreba lokalne promenljive z na liniji 21
+ERROR 19:51:29,244 - nekompatibilni tipovi za poredjenje na liniji 21
+ERROR 19:51:29,244 - Greska na liniji 21 : ime z nije deklarisano! 
+INFO  19:51:29,244 - upotreba lokalne promenljive z na liniji 21
+ERROR 19:51:29,244 - nekompatibilni tipovi za poredjenje na liniji 21
+ERROR 19:51:29,244 - Greska na liniji 23 : ime y nije deklarisano! 
+INFO  19:51:29,244 - upotreba lokalne promenljive y na liniji 23
+ERROR 19:51:29,244 - nekompatibilni tipovi za poredjenje na liniji 23
+ERROR 19:51:29,244 - Greska na liniji 23 : ime x nije deklarisano! 
+INFO  19:51:29,244 - upotreba lokalne promenljive x na liniji 23
+ERROR 19:51:29,244 - nekompatibilni tipovi za poredjenje na liniji 23
+ERROR 19:51:29,244 - Greska na liniji 33 : ime y nije deklarisano! 
+INFO  19:51:29,244 - upotreba lokalne promenljive y na liniji 33
+ERROR 19:51:29,244 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 33

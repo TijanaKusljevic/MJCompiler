@@ -1,0 +1,67 @@
+INFO  10:01:01,434 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:01:01,634 - #2 program
+INFO  10:01:01,635 - #15 MJProgram
+INFO  10:01:01,635 - #15 int
+INFO  10:01:01,638 - #15 a
+INFO  10:01:01,641 - #5 ;
+INFO  10:01:01,646 - #3 {
+INFO  10:01:01,647 - #13 void
+INFO  10:01:01,649 - #15 k
+INFO  10:01:01,649 - #6 (
+INFO  10:01:01,650 - #15 int
+INFO  10:01:01,650 - #15 b
+INFO  10:01:01,650 - #7 )
+INFO  10:01:01,653 - #3 {
+INFO  10:01:01,653 - #9 print
+INFO  10:01:01,654 - #6 (
+INFO  10:01:01,655 - #15 b
+INFO  10:01:01,655 - #7 )
+INFO  10:01:01,661 - #5 ;
+INFO  10:01:01,661 - #10 return
+INFO  10:01:01,663 - #5 ;
+INFO  10:01:01,663 - #4 }
+INFO  10:01:01,665 - #15 int
+INFO  10:01:01,667 - #15 main
+INFO  10:01:01,668 - #6 (
+INFO  10:01:01,668 - #7 )
+INFO  10:01:01,669 - #3 {
+INFO  10:01:01,670 - #15 a
+INFO  10:01:01,670 - #12 =
+INFO  10:01:01,670 - #14 7
+INFO  10:01:01,670 - #5 ;
+INFO  10:01:01,671 - #15 a
+INFO  10:01:01,671 - #12 =
+INFO  10:01:01,671 - #15 k
+INFO  10:01:01,671 - #6 (
+INFO  10:01:01,671 - #15 a
+INFO  10:01:01,671 - #7 )
+INFO  10:01:01,672 - #5 ;
+INFO  10:01:01,672 - #15 a
+INFO  10:01:01,672 - #12 =
+INFO  10:01:01,672 - #14 9
+INFO  10:01:01,672 - #5 ;
+INFO  10:01:01,672 - #9 print
+INFO  10:01:01,673 - #6 (
+INFO  10:01:01,673 - #15 a
+INFO  10:01:01,673 - #7 )
+INFO  10:01:01,673 - #5 ;
+INFO  10:01:01,673 - #10 return
+INFO  10:01:01,673 - #14 0
+INFO  10:01:01,674 - #5 ;
+INFO  10:01:01,674 - #4 }
+INFO  10:01:01,674 - #4 }
+INFO  10:01:01,729 - Deklarisana promenljiva a na liniji 3
+INFO  10:01:01,729 - Obradjuje se funkcija k na liniji 8
+INFO  10:01:01,729 - Deklarisana promenljiva b na liniji 8
+INFO  10:01:01,729 - upotreba formalnog parametra b na liniji 9
+INFO  10:01:01,730 - Obradjuje se funkcija main na liniji 13
+INFO  10:01:01,730 - upotreba globalne promenljive a na liniji 14
+INFO  10:01:01,730 - upotreba globalne promenljive a na liniji 15
+INFO  10:01:01,731 - upotreba lokalne promenljive k na liniji 15
+INFO  10:01:01,741 - upotreba globalne promenljive a na liniji 15
+INFO  10:01:01,742 - Pronadjen poziv funkcije k na liniji 15
+ERROR 10:01:01,743 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  10:01:01,743 - upotreba globalne promenljive a na liniji 17
+INFO  10:01:01,744 - upotreba globalne promenljive a na liniji 18
+INFO  10:01:01,744 - Print calls = 2
+ERROR 10:01:01,746 - Parsiranje NIJE uspesno zavrseno!

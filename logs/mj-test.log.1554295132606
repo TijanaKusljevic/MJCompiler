@@ -1,0 +1,103 @@
+INFO  14:22:09,326 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:22:09,493 - #2 program
+INFO  14:22:09,493 - #15 MJProgram
+INFO  14:22:09,494 - #44 enum
+INFO  14:22:09,497 - #15 Voce
+INFO  14:22:09,497 - #3 {
+INFO  14:22:09,499 - #15 JABUKA
+INFO  14:22:09,500 - #12 =
+INFO  14:22:09,500 - #14 0
+INFO  14:22:09,501 - #8 ,
+INFO  14:22:09,506 - #15 KRUSKA
+INFO  14:22:09,507 - #8 ,
+INFO  14:22:09,509 - #15 SLJIVA
+INFO  14:22:09,509 - #12 =
+INFO  14:22:09,510 - #14 0
+INFO  14:22:09,510 - #8 ,
+INFO  14:22:09,510 - #15 KIVI
+INFO  14:22:09,510 - #4 }
+INFO  14:22:09,510 - #15 Voce
+INFO  14:22:09,511 - #15 v
+INFO  14:22:09,512 - #8 ,
+INFO  14:22:09,516 - #15 u
+INFO  14:22:09,516 - #8 ,
+INFO  14:22:09,517 - #15 k
+INFO  14:22:09,517 - #8 ,
+INFO  14:22:09,517 - #15 i
+INFO  14:22:09,517 - #5 ;
+INFO  14:22:09,517 - #3 {
+INFO  14:22:09,517 - #15 int
+INFO  14:22:09,519 - #15 main
+INFO  14:22:09,519 - #6 (
+INFO  14:22:09,519 - #7 )
+INFO  14:22:09,520 - #3 {
+INFO  14:22:09,521 - #15 v
+INFO  14:22:09,522 - #12 =
+INFO  14:22:09,525 - #15 Voce
+INFO  14:22:09,525 - #31 .
+INFO  14:22:09,525 - #15 JABUKA
+INFO  14:22:09,525 - #5 ;
+INFO  14:22:09,529 - #15 k
+INFO  14:22:09,529 - #12 =
+INFO  14:22:09,529 - #15 Voce
+INFO  14:22:09,529 - #31 .
+INFO  14:22:09,530 - #15 KRUSKA
+INFO  14:22:09,530 - #5 ;
+INFO  14:22:09,530 - #15 i
+INFO  14:22:09,530 - #12 =
+INFO  14:22:09,530 - #15 Voce
+INFO  14:22:09,530 - #31 .
+INFO  14:22:09,530 - #15 SLJIVA
+INFO  14:22:09,530 - #5 ;
+INFO  14:22:09,530 - #15 u
+INFO  14:22:09,531 - #12 =
+INFO  14:22:09,531 - #15 Voce
+INFO  14:22:09,531 - #31 .
+INFO  14:22:09,531 - #15 KIVI
+INFO  14:22:09,531 - #5 ;
+INFO  14:22:09,531 - #9 print
+INFO  14:22:09,532 - #6 (
+INFO  14:22:09,532 - #15 v
+INFO  14:22:09,532 - #7 )
+INFO  14:22:09,541 - #5 ;
+INFO  14:22:09,541 - #9 print
+INFO  14:22:09,542 - #6 (
+INFO  14:22:09,542 - #15 k
+INFO  14:22:09,542 - #7 )
+INFO  14:22:09,542 - #5 ;
+INFO  14:22:09,542 - #9 print
+INFO  14:22:09,543 - #6 (
+INFO  14:22:09,543 - #15 i
+INFO  14:22:09,543 - #7 )
+INFO  14:22:09,543 - #5 ;
+INFO  14:22:09,543 - #9 print
+INFO  14:22:09,543 - #6 (
+INFO  14:22:09,543 - #15 u
+INFO  14:22:09,544 - #7 )
+INFO  14:22:09,544 - #5 ;
+INFO  14:22:09,544 - #10 return
+INFO  14:22:09,544 - #14 0
+INFO  14:22:09,544 - #5 ;
+INFO  14:22:09,544 - #4 }
+INFO  14:22:09,545 - #4 }
+ERROR 14:22:09,588 - Nedozvoljena vrednost u nabrajanju na liniji 6
+ERROR 14:22:09,588 - Nedozvoljena vrednost u nabrajanju na liniji 19
+INFO  14:22:09,589 - Deklarisana promenljiva u na liniji 6
+INFO  14:22:09,589 - Deklarisana promenljiva k na liniji 6
+INFO  14:22:09,589 - Deklarisana promenljiva i na liniji 6
+INFO  14:22:09,589 - Deklarisana promenljiva v na liniji 8
+INFO  14:22:09,590 - Obradjuje se funkcija main na liniji 14
+INFO  14:22:09,590 - upotreba globalne promenljive v na liniji 20
+INFO  14:22:09,590 - upotreba globalne promenljive Voce na liniji 20
+INFO  14:22:09,590 - upotreba globalne promenljive k na liniji 21
+INFO  14:22:09,590 - upotreba globalne promenljive Voce na liniji 21
+INFO  14:22:09,590 - upotreba globalne promenljive i na liniji 22
+INFO  14:22:09,590 - upotreba globalne promenljive Voce na liniji 22
+INFO  14:22:09,591 - upotreba globalne promenljive u na liniji 23
+INFO  14:22:09,591 - upotreba globalne promenljive Voce na liniji 23
+INFO  14:22:09,591 - upotreba globalne promenljive v na liniji 25
+INFO  14:22:09,591 - upotreba globalne promenljive k na liniji 26
+INFO  14:22:09,591 - upotreba globalne promenljive i na liniji 27
+INFO  14:22:09,591 - upotreba globalne promenljive u na liniji 28
+INFO  14:22:09,591 - Print calls = 4
+ERROR 14:22:09,857 - Parsiranje NIJE uspesno zavrseno!

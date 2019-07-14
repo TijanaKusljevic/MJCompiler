@@ -1,0 +1,64 @@
+// Test301
+
+program test301
+
+	int niz[];
+	char nizc[];
+	
+	int niz1[];
+	char nizc1[];
+	
+	int broj;
+	char c;
+	
+	bool bo;
+	
+	bool nizb[];
+	
+	
+	
+{
+	void main()	
+		
+	{
+		
+		bo=false;
+		niz = new int[3] {1,2,3};	
+		nizc= new char[2] {'a', 'b'};
+		nizb= new bool[1];
+		
+		print(niz[2]);
+		print(nizc[0]);
+		
+		niz1=new int[2];
+		nizc1=new char[4];
+		
+		niz1[0]=7;
+		niz1[1]=17;
+		
+		broj=niz1[0]+niz1[1];
+		
+		print(broj);
+		niz[1]=broj;
+		print(niz[1]);
+		
+		if(bo){
+			niz[1]=0;
+		}
+		else {
+			niz[1]=1;
+		}
+		
+		c=nizc[niz[1]];
+		print(c);
+		
+		nizb[0]=true;
+		
+		if(nizb[0]){
+			print(99);
+		}
+	
+	}
+}
+
+

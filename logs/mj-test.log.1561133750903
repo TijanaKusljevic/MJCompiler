@@ -1,0 +1,95 @@
+INFO  18:14:58,756 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:14:58,897 - #2 program
+INFO  18:14:58,897 - #15 test301
+INFO  18:14:58,897 - #15 int
+INFO  18:14:58,897 - #15 a
+INFO  18:14:58,897 - #5 ;
+INFO  18:14:58,897 - #15 int
+INFO  18:14:58,897 - #15 b
+INFO  18:14:58,897 - #5 ;
+INFO  18:14:58,897 - #15 int
+INFO  18:14:58,897 - #15 c
+INFO  18:14:58,897 - #5 ;
+INFO  18:14:58,897 - #15 int
+INFO  18:14:58,913 - #15 niz
+INFO  18:14:58,913 - #29 [
+INFO  18:14:58,913 - #30 ]
+INFO  18:14:58,913 - #5 ;
+INFO  18:14:58,913 - #15 bool
+INFO  18:14:58,913 - #15 bb
+INFO  18:14:58,913 - #5 ;
+INFO  18:14:58,913 - #15 Enum
+INFO  18:14:58,913 - #15 A
+INFO  18:14:58,913 - #3 {
+ERROR 18:14:58,913 - 
+Sintaksna greska na liniji 11
+INFO  18:14:58,913 - #15 NULA
+INFO  18:14:58,913 - #8 ,
+INFO  18:14:58,913 - #15 JEDAN
+INFO  18:14:58,913 - #4 }
+INFO  18:14:58,913 - #15 Enum
+INFO  18:14:58,913 - #15 B
+INFO  18:14:58,913 - #3 {
+INFO  18:14:58,913 - #15 DVA
+INFO  18:14:58,913 - #12 =
+INFO  18:14:58,913 - #14 2
+INFO  18:14:58,913 - #8 ,
+INFO  18:14:58,913 - #15 TRI
+INFO  18:14:58,913 - #12 =
+INFO  18:14:58,913 - #14 3
+INFO  18:14:58,913 - #4 }
+INFO  18:14:58,913 - #15 ENUM
+INFO  18:14:58,913 - #15 C
+INFO  18:14:58,913 - #12 =
+INFO  18:14:58,913 - #15 A
+INFO  18:14:58,913 - #11 +
+INFO  18:14:58,913 - #15 B
+INFO  18:14:58,913 - #5 ;
+INFO  18:14:58,913 - #3 {
+INFO  18:14:58,913 - #13 void
+INFO  18:14:58,913 - #15 main
+INFO  18:14:58,913 - #6 (
+DEBUG 18:14:58,913 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  18:14:58,928 - #7 )
+INFO  18:14:58,928 - #3 {
+INFO  18:14:58,928 - #15 a
+INFO  18:14:58,928 - #12 =
+INFO  18:14:58,928 - #14 5
+INFO  18:14:58,928 - #5 ;
+INFO  18:14:58,928 - #15 b
+INFO  18:14:58,928 - #12 =
+INFO  18:14:58,928 - #14 6
+INFO  18:14:58,928 - #5 ;
+INFO  18:14:58,928 - #15 bb
+INFO  18:14:58,928 - #12 =
+INFO  18:14:58,928 - #27 true
+INFO  18:14:58,928 - #5 ;
+INFO  18:14:58,944 - #15 c
+INFO  18:14:58,944 - #12 =
+INFO  18:14:58,944 - #14 900
+INFO  18:14:58,944 - #5 ;
+INFO  18:14:58,944 - #9 print
+INFO  18:14:58,944 - #6 (
+INFO  18:14:58,944 - #15 c
+INFO  18:14:58,944 - #7 )
+INFO  18:14:58,944 - #5 ;
+INFO  18:14:58,944 - #4 }
+INFO  18:14:58,944 - #4 }
+INFO  18:14:58,991 - Obradjuje se funkcija main na liniji 18
+ERROR 18:14:58,991 - Greska na liniji 21 : ime a nije deklarisano! 
+INFO  18:14:58,991 - upotreba lokalne promenljive a na liniji 21
+ERROR 18:14:58,991 - Greska na liniji 21 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 18:14:58,991 - Greska na liniji 22 : ime b nije deklarisano! 
+INFO  18:14:58,991 - upotreba lokalne promenljive b na liniji 22
+ERROR 18:14:58,991 - Greska na liniji 22 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 18:14:58,991 - Greska na liniji 23 : ime bb nije deklarisano! 
+INFO  18:14:58,991 - upotreba lokalne promenljive bb na liniji 23
+ERROR 18:14:58,991 - Greska na liniji 23 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 18:14:58,991 - Greska na liniji 24 : ime c nije deklarisano! 
+INFO  18:14:58,991 - upotreba lokalne promenljive c na liniji 24
+ERROR 18:14:58,991 - Greska na liniji 24 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 18:14:58,991 - Greska na liniji 27 : ime c nije deklarisano! 
+INFO  18:14:58,991 - upotreba lokalne promenljive c na liniji 27
+ERROR 18:14:58,991 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 27
+INFO  18:14:58,991 - Print calls = 1
+ERROR 18:14:58,991 - Parsiranje NIJE uspesno zavrseno!

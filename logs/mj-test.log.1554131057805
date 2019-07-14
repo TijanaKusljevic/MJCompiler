@@ -1,0 +1,157 @@
+INFO  17:04:03,161 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:04:03,420 - #2 program
+INFO  17:04:03,421 - #15 MJProgram
+INFO  17:04:03,421 - #15 int
+INFO  17:04:03,431 - #15 a
+INFO  17:04:03,434 - #8 ,
+INFO  17:04:03,444 - #15 niz
+INFO  17:04:03,445 - #29 [
+INFO  17:04:03,445 - #30 ]
+INFO  17:04:03,445 - #8 ,
+INFO  17:04:03,448 - #15 b
+INFO  17:04:03,448 - #8 ,
+INFO  17:04:03,449 - #15 c
+INFO  17:04:03,449 - #8 ,
+INFO  17:04:03,449 - #15 niz1
+INFO  17:04:03,450 - #29 [
+INFO  17:04:03,450 - #30 ]
+INFO  17:04:03,450 - #5 ;
+INFO  17:04:03,450 - #15 char
+INFO  17:04:03,453 - #15 ch
+INFO  17:04:03,453 - #8 ,
+INFO  17:04:03,453 - #15 nizc
+INFO  17:04:03,454 - #29 [
+INFO  17:04:03,454 - #30 ]
+INFO  17:04:03,454 - #5 ;
+INFO  17:04:03,455 - #3 {
+INFO  17:04:03,455 - #15 int
+INFO  17:04:03,457 - #15 main
+INFO  17:04:03,457 - #6 (
+INFO  17:04:03,458 - #7 )
+INFO  17:04:03,459 - #3 {
+INFO  17:04:03,460 - #15 a
+INFO  17:04:03,461 - #12 =
+INFO  17:04:03,463 - #14 7
+INFO  17:04:03,463 - #5 ;
+INFO  17:04:03,468 - #15 b
+INFO  17:04:03,470 - #12 =
+INFO  17:04:03,470 - #14 9
+INFO  17:04:03,471 - #5 ;
+INFO  17:04:03,471 - #15 c
+INFO  17:04:03,471 - #12 =
+INFO  17:04:03,472 - #14 90
+INFO  17:04:03,472 - #5 ;
+INFO  17:04:03,472 - #15 niz
+INFO  17:04:03,473 - #12 =
+INFO  17:04:03,473 - #28 new
+INFO  17:04:03,473 - #15 int
+INFO  17:04:03,475 - #29 [
+INFO  17:04:03,477 - #14 3
+INFO  17:04:03,477 - #30 ]
+INFO  17:04:03,477 - #5 ;
+INFO  17:04:03,478 - #15 niz1
+INFO  17:04:03,479 - #12 =
+INFO  17:04:03,479 - #28 new
+INFO  17:04:03,479 - #15 int
+INFO  17:04:03,479 - #29 [
+INFO  17:04:03,480 - #14 2
+INFO  17:04:03,480 - #30 ]
+INFO  17:04:03,480 - #5 ;
+INFO  17:04:03,480 - #15 nizc
+INFO  17:04:03,481 - #12 =
+INFO  17:04:03,481 - #28 new
+INFO  17:04:03,481 - #15 char
+INFO  17:04:03,481 - #29 [
+INFO  17:04:03,482 - #14 2
+INFO  17:04:03,485 - #30 ]
+INFO  17:04:03,485 - #5 ;
+INFO  17:04:03,486 - #15 ch
+INFO  17:04:03,486 - #12 =
+INFO  17:04:03,487 - #18 h
+INFO  17:04:03,487 - #5 ;
+INFO  17:04:03,488 - #15 nizc
+INFO  17:04:03,488 - #29 [
+INFO  17:04:03,489 - #14 0
+INFO  17:04:03,489 - #30 ]
+INFO  17:04:03,489 - #12 =
+INFO  17:04:03,491 - #18 t
+INFO  17:04:03,491 - #5 ;
+INFO  17:04:03,491 - #15 niz
+INFO  17:04:03,492 - #29 [
+INFO  17:04:03,493 - #14 1
+INFO  17:04:03,493 - #30 ]
+INFO  17:04:03,494 - #12 =
+INFO  17:04:03,494 - #18 i
+INFO  17:04:03,495 - #5 ;
+INFO  17:04:03,495 - #15 niz
+INFO  17:04:03,495 - #29 [
+INFO  17:04:03,496 - #14 0
+INFO  17:04:03,496 - #30 ]
+INFO  17:04:03,496 - #12 =
+INFO  17:04:03,497 - #14 3
+INFO  17:04:03,497 - #5 ;
+INFO  17:04:03,497 - #15 niz
+INFO  17:04:03,498 - #29 [
+INFO  17:04:03,498 - #14 1
+INFO  17:04:03,498 - #30 ]
+INFO  17:04:03,499 - #12 =
+INFO  17:04:03,499 - #14 33
+INFO  17:04:03,499 - #5 ;
+INFO  17:04:03,499 - #15 niz
+INFO  17:04:03,499 - #29 [
+INFO  17:04:03,500 - #14 2
+INFO  17:04:03,500 - #30 ]
+INFO  17:04:03,500 - #12 =
+INFO  17:04:03,500 - #14 333
+INFO  17:04:03,500 - #5 ;
+INFO  17:04:03,500 - #15 niz1
+INFO  17:04:03,501 - #29 [
+INFO  17:04:03,501 - #14 0
+INFO  17:04:03,501 - #30 ]
+INFO  17:04:03,501 - #12 =
+INFO  17:04:03,501 - #14 1
+INFO  17:04:03,501 - #5 ;
+INFO  17:04:03,502 - #15 niz1
+INFO  17:04:03,502 - #29 [
+INFO  17:04:03,502 - #14 1
+INFO  17:04:03,502 - #30 ]
+INFO  17:04:03,502 - #12 =
+INFO  17:04:03,502 - #14 11
+INFO  17:04:03,502 - #5 ;
+INFO  17:04:03,503 - #10 return
+INFO  17:04:03,503 - #14 0
+INFO  17:04:03,503 - #5 ;
+INFO  17:04:03,503 - #4 }
+INFO  17:04:03,503 - #4 }
+INFO  17:04:03,570 - Deklarisan niz niz na liniji 5
+INFO  17:04:03,570 - Deklarisana promenljiva b na liniji 5
+INFO  17:04:03,570 - Deklarisana promenljiva c na liniji 5
+INFO  17:04:03,571 - Deklarisan niz niz1 na liniji 5
+INFO  17:04:03,571 - Deklarisana promenljiva a na liniji 3
+INFO  17:04:03,571 - Deklarisan niz nizc na liniji 6
+INFO  17:04:03,571 - Deklarisana promenljiva ch na liniji 4
+INFO  17:04:03,571 - Obradjuje se funkcija main na liniji 7
+INFO  17:04:03,571 - upotreba globalne promenljive a na liniji 9
+INFO  17:04:03,572 - upotreba globalne promenljive b na liniji 10
+INFO  17:04:03,572 - upotreba globalne promenljive c na liniji 11
+INFO  17:04:03,572 - upotreba globalne promenljive niz na liniji 13
+INFO  17:04:03,572 - upotreba globalne promenljive niz1 na liniji 14
+INFO  17:04:03,572 - upotreba globalne promenljive nizc na liniji 16
+INFO  17:04:03,572 - upotreba globalne promenljive ch na liniji 18
+INFO  17:04:03,573 - Pristup elementu niza  na liniji 19
+INFO  17:04:03,573 - upotreba globalne promenljive nizc na liniji 19
+INFO  17:04:03,573 - Pristup elementu niza  na liniji 20
+INFO  17:04:03,573 - upotreba globalne promenljive niz na liniji 20
+ERROR 17:04:03,577 - Greska na liniji 20 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  17:04:03,577 - Pristup elementu niza  na liniji 21
+INFO  17:04:03,577 - upotreba globalne promenljive niz na liniji 21
+INFO  17:04:03,578 - Pristup elementu niza  na liniji 22
+INFO  17:04:03,579 - upotreba globalne promenljive niz na liniji 22
+INFO  17:04:03,579 - Pristup elementu niza  na liniji 23
+INFO  17:04:03,579 - upotreba globalne promenljive niz na liniji 23
+INFO  17:04:03,579 - Pristup elementu niza  na liniji 25
+INFO  17:04:03,580 - upotreba globalne promenljive niz1 na liniji 25
+INFO  17:04:03,580 - Pristup elementu niza  na liniji 26
+INFO  17:04:03,580 - upotreba globalne promenljive niz1 na liniji 26
+INFO  17:04:03,580 - Print calls = 0
+ERROR 17:04:03,582 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,127 @@
+INFO  21:52:01,394 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:52:01,560 - #2 program
+INFO  21:52:01,561 - #15 test301
+INFO  21:52:01,561 - #15 int
+INFO  21:52:01,565 - #15 i
+INFO  21:52:01,567 - #5 ;
+INFO  21:52:01,572 - #15 int
+INFO  21:52:01,581 - #15 j
+INFO  21:52:01,582 - #5 ;
+INFO  21:52:01,583 - #15 int
+INFO  21:52:01,583 - #15 k
+INFO  21:52:01,584 - #5 ;
+INFO  21:52:01,584 - #3 {
+INFO  21:52:01,586 - #13 void
+INFO  21:52:01,588 - #15 main
+INFO  21:52:01,589 - #6 (
+INFO  21:52:01,589 - #7 )
+INFO  21:52:01,592 - #3 {
+INFO  21:52:01,592 - #15 i
+INFO  21:52:01,594 - #12 =
+INFO  21:52:01,598 - #14 0
+INFO  21:52:01,598 - #5 ;
+INFO  21:52:01,605 - #15 j
+INFO  21:52:01,607 - #12 =
+INFO  21:52:01,607 - #14 0
+INFO  21:52:01,607 - #5 ;
+INFO  21:52:01,608 - #15 k
+INFO  21:52:01,608 - #12 =
+INFO  21:52:01,608 - #14 0
+INFO  21:52:01,608 - #5 ;
+INFO  21:52:01,608 - #34 for
+INFO  21:52:01,609 - #6 (
+INFO  21:52:01,611 - #15 i
+INFO  21:52:01,611 - #12 =
+INFO  21:52:01,611 - #14 0
+INFO  21:52:01,617 - #5 ;
+INFO  21:52:01,618 - #15 i
+INFO  21:52:01,621 - #39 <
+INFO  21:52:01,622 - #14 3
+INFO  21:52:01,625 - #5 ;
+INFO  21:52:01,634 - #15 i
+INFO  21:52:01,636 - #19 ++
+INFO  21:52:01,636 - #7 )
+INFO  21:52:01,639 - #3 {
+INFO  21:52:01,642 - #34 for
+INFO  21:52:01,643 - #6 (
+INFO  21:52:01,643 - #15 j
+INFO  21:52:01,643 - #12 =
+INFO  21:52:01,644 - #14 0
+INFO  21:52:01,644 - #5 ;
+INFO  21:52:01,645 - #15 j
+INFO  21:52:01,645 - #39 <
+INFO  21:52:01,646 - #14 5
+INFO  21:52:01,646 - #5 ;
+INFO  21:52:01,646 - #15 j
+INFO  21:52:01,647 - #19 ++
+INFO  21:52:01,647 - #7 )
+INFO  21:52:01,657 - #3 {
+INFO  21:52:01,657 - #9 print
+INFO  21:52:01,657 - #6 (
+INFO  21:52:01,657 - #15 j
+INFO  21:52:01,657 - #7 )
+INFO  21:52:01,658 - #5 ;
+INFO  21:52:01,658 - #16 if
+INFO  21:52:01,659 - #6 (
+INFO  21:52:01,661 - #15 j
+INFO  21:52:01,662 - #37 ==
+INFO  21:52:01,662 - #14 2
+INFO  21:52:01,663 - #35 ||
+INFO  21:52:01,663 - #15 j
+INFO  21:52:01,665 - #37 ==
+INFO  21:52:01,666 - #14 3
+INFO  21:52:01,666 - #36 &&
+INFO  21:52:01,666 - #15 i
+INFO  21:52:01,667 - #37 ==
+INFO  21:52:01,667 - #14 2
+INFO  21:52:01,667 - #7 )
+INFO  21:52:01,668 - #3 {
+INFO  21:52:01,672 - #9 print
+INFO  21:52:01,672 - #6 (
+INFO  21:52:01,672 - #18 u
+INFO  21:52:01,672 - #7 )
+INFO  21:52:01,673 - #5 ;
+INFO  21:52:01,673 - #4 }
+INFO  21:52:01,673 - #16 if
+INFO  21:52:01,675 - #6 (
+INFO  21:52:01,675 - #15 j
+INFO  21:52:01,675 - #37 ==
+INFO  21:52:01,676 - #14 4
+INFO  21:52:01,676 - #7 )
+INFO  21:52:01,676 - #3 {
+INFO  21:52:01,676 - #32 break
+INFO  21:52:01,676 - #5 ;
+INFO  21:52:01,678 - #5 ;
+ERROR 21:52:01,679 - 
+Sintaksna greska na liniji 28
+INFO  21:52:01,679 - #4 }
+INFO  21:52:01,679 - #4 }
+INFO  21:52:01,679 - #9 print
+DEBUG 21:52:01,681 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  21:52:01,687 - #6 (
+INFO  21:52:01,687 - #18 i
+INFO  21:52:01,687 - #7 )
+INFO  21:52:01,687 - #5 ;
+INFO  21:52:01,687 - #4 }
+INFO  21:52:01,687 - #4 }
+INFO  21:52:01,688 - #4 }
+INFO  21:52:01,714 - Deklarisana promenljiva i na liniji 5
+INFO  21:52:01,714 - Deklarisana promenljiva j na liniji 6
+INFO  21:52:01,714 - Deklarisana promenljiva k na liniji 7
+INFO  21:52:01,714 - Obradjuje se funkcija main na liniji 14
+INFO  21:52:01,714 - upotreba globalne promenljive i na liniji 17
+INFO  21:52:01,715 - upotreba globalne promenljive j na liniji 18
+INFO  21:52:01,715 - upotreba globalne promenljive k na liniji 19
+INFO  21:52:01,715 - upotreba globalne promenljive i na liniji 21
+INFO  21:52:01,715 - upotreba globalne promenljive i na liniji 21
+INFO  21:52:01,716 - upotreba globalne promenljive i na liniji 21
+INFO  21:52:01,716 - upotreba globalne promenljive j na liniji 22
+INFO  21:52:01,716 - upotreba globalne promenljive j na liniji 22
+INFO  21:52:01,716 - upotreba globalne promenljive j na liniji 22
+INFO  21:52:01,717 - upotreba globalne promenljive j na liniji 23
+INFO  21:52:01,717 - upotreba globalne promenljive j na liniji 24
+INFO  21:52:01,717 - upotreba globalne promenljive j na liniji 24
+INFO  21:52:01,717 - upotreba globalne promenljive i na liniji 24
+INFO  21:52:01,717 - upotreba globalne promenljive j na liniji 27
+INFO  21:52:01,725 - Print calls = 3
+ERROR 21:52:01,726 - Parsiranje NIJE uspesno zavrseno!

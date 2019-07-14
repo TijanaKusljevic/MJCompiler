@@ -1,0 +1,264 @@
+INFO  21:27:02,741 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:27:02,937 - #2 program
+INFO  21:27:02,937 - #15 test301
+INFO  21:27:02,938 - #15 int
+INFO  21:27:02,943 - #15 p
+INFO  21:27:02,948 - #5 ;
+INFO  21:27:02,953 - #15 int
+INFO  21:27:02,954 - #15 q
+INFO  21:27:02,958 - #5 ;
+INFO  21:27:02,958 - #15 int
+INFO  21:27:02,959 - #15 r
+INFO  21:27:02,960 - #5 ;
+INFO  21:27:02,960 - #15 bool
+INFO  21:27:02,960 - #15 bo
+INFO  21:27:02,961 - #5 ;
+INFO  21:27:02,961 - #15 char
+INFO  21:27:02,961 - #15 niz
+INFO  21:27:02,962 - #29 [
+INFO  21:27:02,962 - #30 ]
+INFO  21:27:02,962 - #5 ;
+INFO  21:27:02,964 - #3 {
+INFO  21:27:02,965 - #15 int
+INFO  21:27:02,967 - #15 sum
+INFO  21:27:02,967 - #6 (
+INFO  21:27:02,968 - #15 int
+INFO  21:27:02,968 - #15 z
+INFO  21:27:02,968 - #8 ,
+INFO  21:27:02,971 - #15 int
+INFO  21:27:02,971 - #15 d
+INFO  21:27:02,974 - #7 )
+INFO  21:27:02,974 - #3 {
+INFO  21:27:02,975 - #10 return
+INFO  21:27:02,978 - #15 z
+INFO  21:27:02,982 - #11 +
+INFO  21:27:02,992 - #15 d
+INFO  21:27:02,995 - #5 ;
+INFO  21:27:02,997 - #4 }
+INFO  21:27:02,999 - #15 int
+INFO  21:27:03,004 - #15 sumsub
+INFO  21:27:03,004 - #6 (
+INFO  21:27:03,004 - #15 int
+INFO  21:27:03,005 - #15 a
+INFO  21:27:03,005 - #8 ,
+INFO  21:27:03,005 - #15 int
+INFO  21:27:03,006 - #15 b
+INFO  21:27:03,006 - #8 ,
+INFO  21:27:03,006 - #15 int
+INFO  21:27:03,006 - #15 c
+INFO  21:27:03,006 - #8 ,
+INFO  21:27:03,007 - #15 bool
+INFO  21:27:03,007 - #15 g
+INFO  21:27:03,007 - #7 )
+INFO  21:27:03,007 - #3 {
+INFO  21:27:03,008 - #16 if
+INFO  21:27:03,008 - #6 (
+INFO  21:27:03,011 - #15 g
+INFO  21:27:03,011 - #7 )
+INFO  21:27:03,036 - #10 return
+INFO  21:27:03,040 - #15 a
+INFO  21:27:03,040 - #11 +
+INFO  21:27:03,041 - #15 b
+INFO  21:27:03,042 - #11 +
+INFO  21:27:03,043 - #15 c
+INFO  21:27:03,044 - #5 ;
+INFO  21:27:03,051 - #17 else
+INFO  21:27:03,052 - #10 return
+INFO  21:27:03,054 - #15 a
+INFO  21:27:03,054 - #11 +
+INFO  21:27:03,054 - #15 b
+INFO  21:27:03,055 - #22 -
+INFO  21:27:03,056 - #15 c
+INFO  21:27:03,058 - #5 ;
+INFO  21:27:03,059 - #4 }
+INFO  21:27:03,062 - #15 char
+INFO  21:27:03,063 - #15 getind
+INFO  21:27:03,063 - #6 (
+INFO  21:27:03,063 - #15 char
+INFO  21:27:03,063 - #15 niz
+INFO  21:27:03,064 - #29 [
+INFO  21:27:03,064 - #30 ]
+INFO  21:27:03,064 - #8 ,
+INFO  21:27:03,065 - #15 int
+INFO  21:27:03,065 - #15 i
+INFO  21:27:03,066 - #7 )
+INFO  21:27:03,066 - #3 {
+INFO  21:27:03,066 - #10 return
+INFO  21:27:03,067 - #15 niz
+INFO  21:27:03,067 - #29 [
+INFO  21:27:03,068 - #15 i
+INFO  21:27:03,068 - #30 ]
+INFO  21:27:03,068 - #5 ;
+INFO  21:27:03,069 - #4 }
+INFO  21:27:03,069 - #13 void
+INFO  21:27:03,069 - #15 main
+INFO  21:27:03,069 - #6 (
+INFO  21:27:03,070 - #7 )
+INFO  21:27:03,072 - #3 {
+INFO  21:27:03,073 - #15 p
+INFO  21:27:03,073 - #12 =
+INFO  21:27:03,073 - #14 1
+INFO  21:27:03,073 - #5 ;
+INFO  21:27:03,074 - #15 q
+INFO  21:27:03,074 - #12 =
+INFO  21:27:03,075 - #14 2
+INFO  21:27:03,075 - #5 ;
+INFO  21:27:03,075 - #15 r
+INFO  21:27:03,075 - #12 =
+INFO  21:27:03,075 - #15 sum
+INFO  21:27:03,076 - #6 (
+INFO  21:27:03,076 - #15 p
+INFO  21:27:03,076 - #8 ,
+INFO  21:27:03,077 - #15 q
+INFO  21:27:03,077 - #7 )
+INFO  21:27:03,078 - #5 ;
+INFO  21:27:03,079 - #9 print
+INFO  21:27:03,079 - #6 (
+INFO  21:27:03,079 - #15 r
+INFO  21:27:03,079 - #7 )
+INFO  21:27:03,079 - #5 ;
+INFO  21:27:03,080 - #15 bo
+INFO  21:27:03,080 - #12 =
+INFO  21:27:03,080 - #27 true
+INFO  21:27:03,081 - #5 ;
+INFO  21:27:03,084 - #9 print
+INFO  21:27:03,084 - #6 (
+INFO  21:27:03,085 - #15 sumsub
+INFO  21:27:03,085 - #6 (
+INFO  21:27:03,085 - #15 sum
+INFO  21:27:03,086 - #6 (
+INFO  21:27:03,086 - #15 p
+INFO  21:27:03,086 - #8 ,
+INFO  21:27:03,086 - #15 r
+INFO  21:27:03,087 - #7 )
+INFO  21:27:03,087 - #8 ,
+INFO  21:27:03,087 - #15 q
+INFO  21:27:03,087 - #8 ,
+INFO  21:27:03,088 - #14 10
+INFO  21:27:03,088 - #8 ,
+INFO  21:27:03,088 - #15 bo
+INFO  21:27:03,088 - #7 )
+INFO  21:27:03,088 - #7 )
+INFO  21:27:03,089 - #5 ;
+INFO  21:27:03,089 - #15 niz
+INFO  21:27:03,089 - #12 =
+INFO  21:27:03,089 - #28 new
+INFO  21:27:03,089 - #15 char
+INFO  21:27:03,089 - #29 [
+INFO  21:27:03,090 - #14 3
+INFO  21:27:03,090 - #30 ]
+INFO  21:27:03,090 - #5 ;
+INFO  21:27:03,091 - #15 niz
+INFO  21:27:03,091 - #29 [
+INFO  21:27:03,091 - #14 0
+INFO  21:27:03,091 - #30 ]
+INFO  21:27:03,092 - #12 =
+INFO  21:27:03,092 - #18 z
+INFO  21:27:03,093 - #5 ;
+INFO  21:27:03,093 - #15 niz
+INFO  21:27:03,093 - #29 [
+INFO  21:27:03,093 - #14 1
+INFO  21:27:03,094 - #30 ]
+INFO  21:27:03,094 - #12 =
+INFO  21:27:03,094 - #18 p
+INFO  21:27:03,094 - #5 ;
+INFO  21:27:03,095 - #15 niz
+INFO  21:27:03,095 - #29 [
+INFO  21:27:03,095 - #14 2
+INFO  21:27:03,095 - #30 ]
+INFO  21:27:03,096 - #12 =
+INFO  21:27:03,096 - #18 u
+INFO  21:27:03,096 - #5 ;
+INFO  21:27:03,097 - #9 print
+INFO  21:27:03,097 - #6 (
+INFO  21:27:03,097 - #15 getind
+INFO  21:27:03,097 - #6 (
+INFO  21:27:03,098 - #15 niz
+INFO  21:27:03,098 - #29 [
+INFO  21:27:03,098 - #30 ]
+ERROR 21:27:03,098 - 
+Sintaksna greska na liniji 48
+INFO  21:27:03,099 - #8 ,
+INFO  21:27:03,099 - #14 0
+INFO  21:27:03,099 - #7 )
+INFO  21:27:03,101 - #7 )
+INFO  21:27:03,101 - #5 ;
+INFO  21:27:03,102 - #9 print
+INFO  21:27:03,102 - #6 (
+INFO  21:27:03,102 - #15 len
+DEBUG 21:27:03,102 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  21:27:03,104 - #6 (
+INFO  21:27:03,104 - #15 niz
+INFO  21:27:03,104 - #7 )
+INFO  21:27:03,105 - #7 )
+INFO  21:27:03,105 - #5 ;
+INFO  21:27:03,105 - #9 print
+INFO  21:27:03,105 - #6 (
+INFO  21:27:03,105 - #15 ord
+INFO  21:27:03,106 - #6 (
+INFO  21:27:03,106 - #18 w
+INFO  21:27:03,106 - #7 )
+INFO  21:27:03,106 - #7 )
+INFO  21:27:03,106 - #5 ;
+INFO  21:27:03,107 - #4 }
+INFO  21:27:03,107 - #4 }
+INFO  21:27:03,143 - Deklarisana promenljiva p na liniji 5
+INFO  21:27:03,144 - Deklarisana promenljiva q na liniji 6
+INFO  21:27:03,145 - Deklarisana promenljiva r na liniji 7
+INFO  21:27:03,145 - Deklarisana promenljiva bo na liniji 8
+INFO  21:27:03,146 - Deklarisan niz niz na liniji 9
+INFO  21:27:03,146 - Obradjuje se funkcija sum na liniji 14
+INFO  21:27:03,147 - Deklarisana promenljiva z na liniji 14
+INFO  21:27:03,148 - Deklarisana promenljiva d na liniji 14
+INFO  21:27:03,149 - upotreba formalnog parametra z na liniji 16
+INFO  21:27:03,150 - upotreba formalnog parametra d na liniji 16
+INFO  21:27:03,152 - Obradjuje se funkcija sumsub na liniji 19
+INFO  21:27:03,152 - Deklarisana promenljiva a na liniji 19
+INFO  21:27:03,153 - Deklarisana promenljiva b na liniji 19
+INFO  21:27:03,158 - Deklarisana promenljiva c na liniji 19
+INFO  21:27:03,158 - Deklarisana promenljiva g na liniji 19
+INFO  21:27:03,158 - upotreba formalnog parametra g na liniji 20
+INFO  21:27:03,159 - upotreba formalnog parametra a na liniji 21
+INFO  21:27:03,159 - upotreba formalnog parametra b na liniji 21
+INFO  21:27:03,160 - upotreba formalnog parametra c na liniji 21
+INFO  21:27:03,161 - upotreba formalnog parametra a na liniji 23
+INFO  21:27:03,161 - upotreba formalnog parametra b na liniji 23
+INFO  21:27:03,162 - upotreba formalnog parametra c na liniji 23
+INFO  21:27:03,162 - Obradjuje se funkcija getind na liniji 26
+INFO  21:27:03,162 - Deklarisan niz niz na liniji 26
+INFO  21:27:03,162 - Deklarisana promenljiva i na liniji 26
+INFO  21:27:03,163 - upotreba formalnog parametra i na liniji 27
+INFO  21:27:03,164 - Pristup elementu niza  na liniji 27
+INFO  21:27:03,165 - upotreba formalnog parametra niz na liniji 27
+INFO  21:27:03,166 - Obradjuje se funkcija main na liniji 30
+INFO  21:27:03,166 - upotreba globalne promenljive p na liniji 33
+INFO  21:27:03,166 - upotreba globalne promenljive q na liniji 34
+INFO  21:27:03,166 - upotreba globalne promenljive r na liniji 36
+INFO  21:27:03,167 - upotreba lokalne promenljive sum na liniji 36
+INFO  21:27:03,167 - upotreba globalne promenljive p na liniji 36
+INFO  21:27:03,167 - upotreba globalne promenljive q na liniji 36
+INFO  21:27:03,169 - Pronadjen poziv funkcije sum na liniji 36
+INFO  21:27:03,169 - upotreba globalne promenljive r na liniji 37
+INFO  21:27:03,170 - upotreba globalne promenljive bo na liniji 39
+INFO  21:27:03,170 - upotreba lokalne promenljive sumsub na liniji 40
+INFO  21:27:03,171 - upotreba lokalne promenljive sum na liniji 40
+INFO  21:27:03,171 - upotreba globalne promenljive p na liniji 40
+INFO  21:27:03,171 - upotreba globalne promenljive r na liniji 40
+INFO  21:27:03,172 - Pronadjen poziv funkcije sum na liniji 40
+INFO  21:27:03,172 - upotreba globalne promenljive q na liniji 40
+INFO  21:27:03,173 - upotreba globalne promenljive bo na liniji 40
+INFO  21:27:03,174 - Pronadjen poziv funkcije sumsub na liniji 40
+INFO  21:27:03,174 - upotreba globalne promenljive niz na liniji 42
+INFO  21:27:03,174 - Pristup elementu niza  na liniji 44
+INFO  21:27:03,174 - upotreba globalne promenljive niz na liniji 44
+INFO  21:27:03,175 - Pristup elementu niza  na liniji 45
+INFO  21:27:03,175 - upotreba globalne promenljive niz na liniji 45
+INFO  21:27:03,176 - Pristup elementu niza  na liniji 46
+INFO  21:27:03,179 - upotreba globalne promenljive niz na liniji 46
+INFO  21:27:03,181 - upotreba lokalne promenljive len na liniji 49
+INFO  21:27:03,181 - upotreba globalne promenljive niz na liniji 49
+INFO  21:27:03,181 - Pronadjen poziv funkcije len na liniji 49
+INFO  21:27:03,182 - upotreba lokalne promenljive ord na liniji 50
+INFO  21:27:03,182 - Pronadjen poziv funkcije ord na liniji 50
+INFO  21:27:03,197 - Print calls = 4
+ERROR 21:27:03,198 - Parsiranje NIJE uspesno zavrseno!

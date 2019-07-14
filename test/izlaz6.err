@@ -1,0 +1,9 @@
+ERROR 16:54:55,322 - 
+Sintaksna greska na liniji 7
+ERROR 16:54:55,507 - Greska na liniji 23 : ime q nije deklarisano! 
+ERROR 16:54:55,507 - Greska na liniji 23 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 16:54:55,508 - Greska na liniji 24 : ime q nije deklarisano! 
+ERROR 16:54:55,508 - nekompatibilni tipovi za poredjenje na liniji 24
+ERROR 16:54:55,509 - Greska na liniji 25 : ime q nije deklarisano! 
+ERROR 16:54:55,509 - Greska na liniji 25 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 16:54:55,519 - Parsiranje NIJE uspesno zavrseno!

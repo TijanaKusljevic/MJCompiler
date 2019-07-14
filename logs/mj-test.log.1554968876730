@@ -1,0 +1,57 @@
+INFO  09:47:48,727 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:47:48,870 - #2 program
+INFO  09:47:48,870 - #15 MJProgram
+INFO  09:47:48,871 - #15 int
+INFO  09:47:48,874 - #15 a
+INFO  09:47:48,876 - #5 ;
+INFO  09:47:48,881 - #3 {
+INFO  09:47:48,882 - #13 void
+INFO  09:47:48,884 - #15 k
+INFO  09:47:48,884 - #6 (
+INFO  09:47:48,884 - #15 int
+INFO  09:47:48,885 - #15 b
+INFO  09:47:48,885 - #7 )
+INFO  09:47:48,887 - #3 {
+INFO  09:47:48,888 - #9 print
+INFO  09:47:48,890 - #6 (
+INFO  09:47:48,890 - #15 b
+INFO  09:47:48,890 - #7 )
+INFO  09:47:48,896 - #5 ;
+INFO  09:47:48,896 - #4 }
+INFO  09:47:48,898 - #15 int
+INFO  09:47:48,900 - #15 main
+INFO  09:47:48,901 - #6 (
+INFO  09:47:48,902 - #7 )
+INFO  09:47:48,903 - #3 {
+INFO  09:47:48,903 - #15 a
+INFO  09:47:48,904 - #12 =
+INFO  09:47:48,904 - #14 7
+INFO  09:47:48,904 - #5 ;
+INFO  09:47:48,905 - #15 k
+INFO  09:47:48,905 - #6 (
+INFO  09:47:48,906 - #15 a
+INFO  09:47:48,906 - #7 )
+INFO  09:47:48,907 - #5 ;
+INFO  09:47:48,907 - #9 print
+INFO  09:47:48,907 - #6 (
+INFO  09:47:48,907 - #15 a
+INFO  09:47:48,908 - #7 )
+INFO  09:47:48,908 - #5 ;
+INFO  09:47:48,908 - #10 return
+INFO  09:47:48,908 - #14 0
+INFO  09:47:48,909 - #5 ;
+INFO  09:47:48,909 - #4 }
+INFO  09:47:48,914 - #4 }
+INFO  09:47:48,959 - Deklarisana promenljiva a na liniji 3
+INFO  09:47:48,959 - Obradjuje se funkcija k na liniji 8
+INFO  09:47:48,960 - Deklarisana promenljiva b na liniji 8
+INFO  09:47:48,960 - upotreba formalnog parametra b na liniji 9
+INFO  09:47:48,960 - Obradjuje se funkcija main na liniji 13
+INFO  09:47:48,961 - upotreba globalne promenljive a na liniji 14
+INFO  09:47:48,961 - upotreba lokalne promenljive k na liniji 15
+INFO  09:47:48,961 - upotreba globalne promenljive a na liniji 15
+INFO  09:47:48,962 - Pronadjen poziv funkcije k na liniji 15
+INFO  09:47:48,962 - upotreba globalne promenljive a na liniji 18
+INFO  09:47:48,962 - Print calls = 2
+INFO  09:47:48,963 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  09:47:48,981 - Parsiranje uspesno zavrseno!

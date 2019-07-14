@@ -1,0 +1,35 @@
+INFO  11:33:00,061 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:33:00,362 - #2 program
+INFO  11:33:00,362 - #15 MJProgram
+INFO  11:33:00,363 - #44 enum
+INFO  11:33:00,373 - #15 Zivotinja
+INFO  11:33:00,373 - #3 {
+INFO  11:33:00,375 - #15 ZEBRA
+INFO  11:33:00,375 - #4 }
+INFO  11:33:00,379 - #15 Zivotinja
+INFO  11:33:00,380 - #15 ziv
+INFO  11:33:00,382 - #5 ;
+INFO  11:33:00,388 - #3 {
+INFO  11:33:00,389 - #15 int
+INFO  11:33:00,391 - #15 main
+INFO  11:33:00,391 - #6 (
+INFO  11:33:00,391 - #7 )
+INFO  11:33:00,393 - #3 {
+INFO  11:33:00,393 - #15 ziv
+INFO  11:33:00,394 - #12 =
+INFO  11:33:00,397 - #15 Zivotinja
+INFO  11:33:00,398 - #31 .
+INFO  11:33:00,398 - #15 ZEBRA
+INFO  11:33:00,399 - #5 ;
+INFO  11:33:00,403 - #10 return
+INFO  11:33:00,404 - #14 0
+INFO  11:33:00,404 - #5 ;
+INFO  11:33:00,404 - #4 }
+INFO  11:33:00,404 - #4 }
+INFO  11:33:00,459 - Deklarisana promenljiva ziv na liniji 4
+INFO  11:33:00,460 - Obradjuje se funkcija main na liniji 10
+INFO  11:33:00,460 - upotreba globalne promenljive ziv na liniji 12
+INFO  11:33:00,461 - upotreba globalne promenljive Zivotinja na liniji 12
+INFO  11:33:00,462 - Print calls = 0
+INFO  11:33:00,463 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:33:00,481 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,73 @@
+INFO  23:00:29,719 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:00:29,969 - #2 program
+INFO  23:00:29,969 - #15 test302
+INFO  23:00:29,969 - #44 enum
+INFO  23:00:29,984 - #15 IncrementType
+INFO  23:00:29,984 - #3 {
+INFO  23:00:29,984 - #15 BY_ONE
+INFO  23:00:29,984 - #8 ,
+INFO  23:00:30,000 - #15 DOUBLE_VALUE
+INFO  23:00:30,000 - #4 }
+INFO  23:00:30,000 - #15 int
+INFO  23:00:30,000 - #15 i
+INFO  23:00:30,000 - #5 ;
+INFO  23:00:30,000 - #15 bool
+INFO  23:00:30,000 - #15 ibool
+INFO  23:00:30,000 - #5 ;
+INFO  23:00:30,015 - #15 int
+INFO  23:00:30,015 - #15 k
+INFO  23:00:30,015 - #5 ;
+INFO  23:00:30,015 - #15 int
+INFO  23:00:30,015 - #15 josniz
+INFO  23:00:30,015 - #29 [
+INFO  23:00:30,015 - #30 ]
+INFO  23:00:30,015 - #5 ;
+INFO  23:00:30,015 - #15 int
+INFO  23:00:30,015 - #15 nizk
+INFO  23:00:30,015 - #29 [
+INFO  23:00:30,015 - #30 ]
+INFO  23:00:30,015 - #5 ;
+INFO  23:00:30,015 - #15 int
+INFO  23:00:30,015 - #15 niz
+INFO  23:00:30,015 - #29 [
+INFO  23:00:30,015 - #30 ]
+INFO  23:00:30,015 - #5 ;
+INFO  23:00:30,015 - #3 {
+INFO  23:00:30,015 - #13 void
+INFO  23:00:30,015 - #15 main
+INFO  23:00:30,015 - #6 (
+INFO  23:00:30,015 - #7 )
+INFO  23:00:30,015 - #3 {
+INFO  23:00:30,015 - #15 nizk
+INFO  23:00:30,015 - #12 =
+INFO  23:00:30,031 - #28 new
+INFO  23:00:30,031 - #15 int
+INFO  23:00:30,031 - #29 [
+INFO  23:00:30,031 - #14 2
+INFO  23:00:30,031 - #30 ]
+INFO  23:00:30,047 - #5 ;
+INFO  23:00:30,047 - #15 niz
+INFO  23:00:30,047 - #12 =
+INFO  23:00:30,047 - #28 new
+INFO  23:00:30,047 - #15 int
+INFO  23:00:30,047 - #29 [
+INFO  23:00:30,047 - #14 1
+INFO  23:00:30,047 - #30 ]
+INFO  23:00:30,047 - #3 {
+INFO  23:00:30,047 - #14 7
+INFO  23:00:30,047 - #4 }
+INFO  23:00:30,062 - #5 ;
+INFO  23:00:30,062 - #4 }
+INFO  23:00:30,062 - #4 }
+INFO  23:00:30,125 - Deklarisana promenljiva i na liniji 7
+INFO  23:00:30,125 - Deklarisana promenljiva ibool na liniji 8
+INFO  23:00:30,125 - Deklarisana promenljiva k na liniji 9
+INFO  23:00:30,125 - Deklarisan niz josniz na liniji 11
+INFO  23:00:30,125 - Deklarisan niz nizk na liniji 12
+INFO  23:00:30,125 - Deklarisan niz niz na liniji 13
+INFO  23:00:30,125 - Obradjuje se funkcija main na liniji 19
+INFO  23:00:30,125 - upotreba globalne promenljive nizk na liniji 21
+INFO  23:00:30,125 - upotreba globalne promenljive niz na liniji 22
+INFO  23:00:30,125 - Print calls = 0
+INFO  23:00:30,140 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  23:00:30,156 - Parsiranje uspesno zavrseno!

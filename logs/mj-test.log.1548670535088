@@ -1,0 +1,75 @@
+INFO  11:08:09,729 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:08:09,791 - #2 program
+INFO  11:08:09,791 - #15 MJProgram
+INFO  11:08:09,791 - #15 int
+INFO  11:08:09,791 - #15 x
+INFO  11:08:09,791 - #5 ;
+INFO  11:08:09,791 - #15 int
+INFO  11:08:09,791 - #15 y
+INFO  11:08:09,791 - #5 ;
+INFO  11:08:09,791 - #3 {
+INFO  11:08:09,791 - #15 int
+INFO  11:08:09,807 - #15 k
+INFO  11:08:09,807 - #6 (
+INFO  11:08:09,807 - #7 )
+INFO  11:08:09,807 - #15 int
+INFO  11:08:09,807 - #15 c
+INFO  11:08:09,807 - #5 ;
+INFO  11:08:09,807 - #3 {
+INFO  11:08:09,807 - #15 c
+INFO  11:08:09,807 - #12 =
+INFO  11:08:09,807 - #14 1
+INFO  11:08:09,807 - #5 ;
+INFO  11:08:09,807 - #10 return
+INFO  11:08:09,807 - #15 c
+INFO  11:08:09,807 - #11 +
+INFO  11:08:09,807 - #14 2
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #4 }
+INFO  11:08:09,822 - #15 int
+INFO  11:08:09,822 - #15 main
+INFO  11:08:09,822 - #6 (
+INFO  11:08:09,822 - #7 )
+INFO  11:08:09,822 - #3 {
+INFO  11:08:09,822 - #15 y
+INFO  11:08:09,822 - #12 =
+INFO  11:08:09,822 - #21 -
+INFO  11:08:09,822 - #14 2
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #15 y
+INFO  11:08:09,822 - #18 ++
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #15 x
+INFO  11:08:09,822 - #12 =
+INFO  11:08:09,822 - #15 y
+INFO  11:08:09,822 - #11 +
+INFO  11:08:09,822 - #14 2
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #15 y
+INFO  11:08:09,822 - #12 =
+INFO  11:08:09,822 - #15 k
+INFO  11:08:09,822 - #6 (
+INFO  11:08:09,822 - #7 )
+INFO  11:08:09,822 - #11 +
+INFO  11:08:09,822 - #14 3
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #9 print
+INFO  11:08:09,822 - #6 (
+INFO  11:08:09,822 - #15 y
+INFO  11:08:09,822 - #7 )
+INFO  11:08:09,822 - #5 ;
+INFO  11:08:09,822 - #20 read
+INFO  11:08:09,838 - #6 (
+INFO  11:08:09,838 - #15 y
+INFO  11:08:09,838 - #7 )
+INFO  11:08:09,838 - #5 ;
+INFO  11:08:09,838 - #10 return
+INFO  11:08:09,838 - #14 0
+INFO  11:08:09,838 - #5 ;
+INFO  11:08:09,838 - #4 }
+INFO  11:08:09,838 - #4 }
+INFO  11:08:09,885 - Deklarisana promenljiva x na liniji 2
+INFO  11:08:09,885 - Deklarisana promenljiva y na liniji 2
+INFO  11:08:09,885 - Obradjuje se funkcija k na liniji 5
+INFO  11:08:09,885 - Deklarisana promenljiva c na liniji 5
+INFO  11:08:09,885 - Obradjuje se funkcija main na liniji 10

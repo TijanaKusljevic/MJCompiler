@@ -1,0 +1,61 @@
+INFO  10:53:14,656 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:53:14,944 - #2 program
+INFO  10:53:14,944 - #15 test302
+INFO  10:53:14,944 - #44 enum
+INFO  10:53:14,948 - #15 IncrementType
+INFO  10:53:14,948 - #3 {
+INFO  10:53:14,950 - #15 BY_ONE
+INFO  10:53:14,950 - #8 ,
+INFO  10:53:14,955 - #15 DOUBLE_VALUE
+INFO  10:53:14,956 - #4 }
+INFO  10:53:14,957 - #15 int
+INFO  10:53:14,958 - #15 k
+INFO  10:53:14,959 - #5 ;
+INFO  10:53:14,964 - #3 {
+INFO  10:53:14,964 - #13 void
+INFO  10:53:14,966 - #15 main
+INFO  10:53:14,966 - #6 (
+INFO  10:53:14,967 - #7 )
+INFO  10:53:14,969 - #3 {
+INFO  10:53:14,969 - #21 read
+INFO  10:53:14,971 - #6 (
+INFO  10:53:14,974 - #15 k
+INFO  10:53:14,974 - #7 )
+INFO  10:53:14,977 - #5 ;
+INFO  10:53:14,978 - #34 for
+INFO  10:53:14,981 - #6 (
+INFO  10:53:14,982 - #5 ;
+INFO  10:53:14,984 - #15 k
+INFO  10:53:14,988 - #39 <
+INFO  10:53:14,997 - #14 5
+INFO  10:53:15,001 - #5 ;
+INFO  10:53:15,013 - #7 )
+INFO  10:53:15,026 - #3 {
+INFO  10:53:15,030 - #9 print
+INFO  10:53:15,030 - #6 (
+INFO  10:53:15,031 - #18 j
+INFO  10:53:15,031 - #7 )
+INFO  10:53:15,032 - #5 ;
+INFO  10:53:15,032 - #21 read
+INFO  10:53:15,033 - #6 (
+INFO  10:53:15,034 - #15 k
+INFO  10:53:15,034 - #7 )
+INFO  10:53:15,034 - #5 ;
+INFO  10:53:15,035 - #32 break
+INFO  10:53:15,035 - #5 ;
+INFO  10:53:15,039 - #4 }
+INFO  10:53:15,039 - #9 print
+INFO  10:53:15,044 - #6 (
+INFO  10:53:15,044 - #14 3
+INFO  10:53:15,044 - #7 )
+INFO  10:53:15,045 - #5 ;
+INFO  10:53:15,045 - #4 }
+INFO  10:53:15,045 - #4 }
+INFO  10:53:15,097 - Deklarisana promenljiva k na liniji 8
+INFO  10:53:15,097 - Obradjuje se funkcija main na liniji 14
+INFO  10:53:15,097 - upotreba globalne promenljive k na liniji 16
+INFO  10:53:15,107 - upotreba globalne promenljive k na liniji 17
+INFO  10:53:15,107 - upotreba globalne promenljive k na liniji 19
+INFO  10:53:16,658 - Print calls = 2
+INFO  10:53:16,658 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  10:53:16,686 - Parsiranje uspesno zavrseno!

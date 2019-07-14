@@ -1,0 +1,70 @@
+INFO  11:44:36,133 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:44:36,278 - #2 program
+INFO  11:44:36,279 - #15 MJProgram
+INFO  11:44:36,279 - #15 int
+INFO  11:44:36,282 - #15 a
+INFO  11:44:36,286 - #5 ;
+INFO  11:44:36,291 - #15 char
+INFO  11:44:36,292 - #15 c
+INFO  11:44:36,292 - #5 ;
+INFO  11:44:36,293 - #44 enum
+INFO  11:44:36,293 - #15 Zivotinja
+INFO  11:44:36,293 - #3 {
+INFO  11:44:36,295 - #15 ZEBRA
+INFO  11:44:36,296 - #4 }
+INFO  11:44:36,300 - #15 Zivotinja
+INFO  11:44:36,300 - #15 ziv
+INFO  11:44:36,301 - #5 ;
+INFO  11:44:36,301 - #3 {
+INFO  11:44:36,303 - #15 int
+INFO  11:44:36,305 - #15 main
+INFO  11:44:36,305 - #6 (
+INFO  11:44:36,305 - #7 )
+INFO  11:44:36,308 - #3 {
+INFO  11:44:36,308 - #15 ziv
+INFO  11:44:36,309 - #12 =
+INFO  11:44:36,313 - #15 Zivotinja
+INFO  11:44:36,314 - #31 .
+INFO  11:44:36,314 - #15 ZEBRA
+INFO  11:44:36,314 - #5 ;
+INFO  11:44:36,325 - #15 a
+INFO  11:44:36,325 - #12 =
+INFO  11:44:36,326 - #14 1
+INFO  11:44:36,326 - #5 ;
+INFO  11:44:36,326 - #15 c
+INFO  11:44:36,326 - #12 =
+INFO  11:44:36,326 - #18 i
+INFO  11:44:36,326 - #5 ;
+INFO  11:44:36,326 - #15 c
+INFO  11:44:36,326 - #12 =
+INFO  11:44:36,327 - #14 3
+INFO  11:44:36,327 - #5 ;
+INFO  11:44:36,327 - #9 print
+INFO  11:44:36,327 - #6 (
+INFO  11:44:36,327 - #15 a
+INFO  11:44:36,327 - #7 )
+INFO  11:44:36,328 - #5 ;
+INFO  11:44:36,328 - #9 print
+INFO  11:44:36,328 - #6 (
+INFO  11:44:36,328 - #15 c
+INFO  11:44:36,328 - #7 )
+INFO  11:44:36,329 - #5 ;
+INFO  11:44:36,329 - #10 return
+INFO  11:44:36,330 - #14 0
+INFO  11:44:36,330 - #5 ;
+INFO  11:44:36,330 - #4 }
+INFO  11:44:36,331 - #4 }
+INFO  11:44:36,378 - Deklarisana promenljiva a na liniji 3
+INFO  11:44:36,378 - Deklarisana promenljiva c na liniji 4
+INFO  11:44:36,379 - Deklarisana promenljiva ziv na liniji 6
+INFO  11:44:36,379 - Obradjuje se funkcija main na liniji 12
+INFO  11:44:36,387 - upotreba globalne promenljive ziv na liniji 14
+INFO  11:44:36,387 - upotreba globalne promenljive Zivotinja na liniji 14
+INFO  11:44:36,388 - upotreba globalne promenljive a na liniji 15
+INFO  11:44:36,388 - upotreba globalne promenljive c na liniji 16
+INFO  11:44:36,388 - upotreba globalne promenljive c na liniji 17
+ERROR 11:44:36,388 - Greska na liniji 17 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  11:44:36,389 - upotreba globalne promenljive a na liniji 18
+INFO  11:44:36,389 - upotreba globalne promenljive c na liniji 19
+INFO  11:44:36,389 - Print calls = 2
+ERROR 11:44:36,390 - Parsiranje NIJE uspesno zavrseno!

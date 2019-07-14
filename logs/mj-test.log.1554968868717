@@ -1,0 +1,62 @@
+INFO  09:47:17,240 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:47:17,388 - #2 program
+INFO  09:47:17,388 - #15 MJProgram
+INFO  09:47:17,388 - #15 int
+INFO  09:47:17,392 - #15 a
+INFO  09:47:17,394 - #5 ;
+INFO  09:47:17,399 - #3 {
+INFO  09:47:17,400 - #13 void
+INFO  09:47:17,401 - #15 k
+INFO  09:47:17,401 - #6 (
+INFO  09:47:17,402 - #15 int
+INFO  09:47:17,402 - #15 b
+INFO  09:47:17,402 - #7 )
+INFO  09:47:17,404 - #3 {
+INFO  09:47:17,404 - #9 print
+INFO  09:47:17,407 - #6 (
+INFO  09:47:17,407 - #15 b
+INFO  09:47:17,407 - #7 )
+INFO  09:47:17,413 - #5 ;
+INFO  09:47:17,413 - #20 --
+ERROR 09:47:17,413 - 
+Sintaksna greska na liniji 10
+INFO  09:47:17,414 - #10 return
+INFO  09:47:17,415 - #14 3
+INFO  09:47:17,415 - #5 ;
+INFO  09:47:17,416 - #4 }
+INFO  09:47:17,416 - #15 int
+INFO  09:47:17,416 - #15 main
+DEBUG 09:47:17,417 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  09:47:17,421 - #6 (
+INFO  09:47:17,421 - #7 )
+INFO  09:47:17,424 - #3 {
+INFO  09:47:17,424 - #15 a
+INFO  09:47:17,424 - #12 =
+INFO  09:47:17,424 - #14 7
+INFO  09:47:17,425 - #5 ;
+INFO  09:47:17,425 - #15 k
+INFO  09:47:17,426 - #6 (
+INFO  09:47:17,426 - #15 a
+INFO  09:47:17,426 - #7 )
+INFO  09:47:17,427 - #5 ;
+INFO  09:47:17,427 - #9 print
+INFO  09:47:17,427 - #6 (
+INFO  09:47:17,427 - #15 a
+INFO  09:47:17,428 - #7 )
+INFO  09:47:17,428 - #5 ;
+INFO  09:47:17,428 - #10 return
+INFO  09:47:17,428 - #14 0
+INFO  09:47:17,428 - #5 ;
+INFO  09:47:17,429 - #4 }
+INFO  09:47:17,429 - #4 }
+INFO  09:47:17,485 - Deklarisana promenljiva a na liniji 3
+INFO  09:47:17,485 - Obradjuje se funkcija k na liniji 8
+INFO  09:47:17,485 - Deklarisana promenljiva b na liniji 8
+INFO  09:47:17,486 - Obradjuje se funkcija main na liniji 13
+INFO  09:47:17,486 - upotreba globalne promenljive a na liniji 14
+INFO  09:47:17,486 - upotreba lokalne promenljive k na liniji 15
+INFO  09:47:17,487 - upotreba globalne promenljive a na liniji 15
+INFO  09:47:17,488 - Pronadjen poziv funkcije k na liniji 15
+INFO  09:47:17,488 - upotreba globalne promenljive a na liniji 18
+INFO  09:47:17,488 - Print calls = 1
+ERROR 09:47:17,499 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,50 @@
+INFO  20:42:12,448 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:42:12,635 - #2 program
+INFO  20:42:12,635 - #15 test302
+INFO  20:42:12,635 - #44 enum
+INFO  20:42:12,635 - #15 IncrementType
+INFO  20:42:12,635 - #3 {
+INFO  20:42:12,635 - #15 BY_ONE
+INFO  20:42:12,635 - #8 ,
+INFO  20:42:12,651 - #15 DOUBLE_VALUE
+INFO  20:42:12,651 - #4 }
+INFO  20:42:12,651 - #15 int
+INFO  20:42:12,651 - #15 i
+INFO  20:42:12,651 - #5 ;
+INFO  20:42:12,651 - #15 bool
+INFO  20:42:12,651 - #15 ibool
+INFO  20:42:12,651 - #5 ;
+INFO  20:42:12,651 - #15 int
+INFO  20:42:12,651 - #15 niz
+INFO  20:42:12,651 - #29 [
+INFO  20:42:12,651 - #30 ]
+INFO  20:42:12,651 - #5 ;
+INFO  20:42:12,651 - #3 {
+INFO  20:42:12,651 - #13 void
+INFO  20:42:12,651 - #15 main
+INFO  20:42:12,651 - #6 (
+INFO  20:42:12,666 - #7 )
+INFO  20:42:12,666 - #3 {
+INFO  20:42:12,666 - #15 niz
+INFO  20:42:12,666 - #12 =
+INFO  20:42:12,666 - #28 new
+INFO  20:42:12,666 - #15 int
+INFO  20:42:12,666 - #29 [
+INFO  20:42:12,666 - #14 2
+INFO  20:42:12,666 - #30 ]
+INFO  20:42:12,666 - #3 {
+INFO  20:42:12,666 - #14 1
+INFO  20:42:12,666 - #8 ,
+INFO  20:42:12,666 - #14 2
+INFO  20:42:12,666 - #4 }
+INFO  20:42:12,666 - #5 ;
+INFO  20:42:12,666 - #4 }
+INFO  20:42:12,666 - #4 }
+INFO  20:42:12,713 - Deklarisana promenljiva i na liniji 7
+INFO  20:42:12,713 - Deklarisana promenljiva ibool na liniji 8
+INFO  20:42:12,713 - Deklarisan niz niz na liniji 10
+INFO  20:42:12,713 - Obradjuje se funkcija main na liniji 31
+INFO  20:42:12,713 - upotreba globalne promenljive niz na liniji 36
+INFO  20:42:12,713 - Print calls = 0
+INFO  20:42:12,713 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:42:12,729 - Parsiranje uspesno zavrseno!

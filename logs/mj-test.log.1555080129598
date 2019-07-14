@@ -1,0 +1,169 @@
+INFO  16:30:10,250 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:30:10,537 - #2 program
+INFO  16:30:10,541 - #15 test302
+INFO  16:30:10,542 - #44 enum
+INFO  16:30:10,547 - #15 IncrementType
+INFO  16:30:10,547 - #3 {
+INFO  16:30:10,550 - #15 BY_ONE
+INFO  16:30:10,550 - #8 ,
+INFO  16:30:10,555 - #15 DOUBLE_VALUE
+INFO  16:30:10,556 - #4 }
+INFO  16:30:10,556 - #15 int
+INFO  16:30:10,557 - #15 i
+INFO  16:30:10,558 - #5 ;
+INFO  16:30:10,561 - #15 bool
+INFO  16:30:10,562 - #15 ibool
+INFO  16:30:10,562 - #5 ;
+INFO  16:30:10,562 - #15 int
+INFO  16:30:10,563 - #15 niz
+INFO  16:30:10,563 - #29 [
+INFO  16:30:10,563 - #30 ]
+INFO  16:30:10,563 - #5 ;
+INFO  16:30:10,565 - #3 {
+INFO  16:30:10,565 - #15 int
+INFO  16:30:10,567 - #15 sum2
+INFO  16:30:10,567 - #6 (
+INFO  16:30:10,567 - #15 int
+INFO  16:30:10,568 - #15 z
+INFO  16:30:10,568 - #8 ,
+INFO  16:30:10,570 - #15 int
+INFO  16:30:10,570 - #15 d
+INFO  16:30:10,570 - #7 )
+INFO  16:30:10,571 - #15 int
+INFO  16:30:10,571 - #15 f
+INFO  16:30:10,571 - #8 ,
+INFO  16:30:10,571 - #15 g
+INFO  16:30:10,571 - #8 ,
+INFO  16:30:10,572 - #15 h
+INFO  16:30:10,572 - #5 ;
+INFO  16:30:10,572 - #3 {
+INFO  16:30:10,572 - #15 f
+INFO  16:30:10,574 - #12 =
+INFO  16:30:10,576 - #14 3
+INFO  16:30:10,576 - #5 ;
+INFO  16:30:10,580 - #15 g
+INFO  16:30:10,581 - #12 =
+INFO  16:30:10,581 - #14 4
+INFO  16:30:10,581 - #5 ;
+INFO  16:30:10,582 - #15 h
+INFO  16:30:10,582 - #12 =
+INFO  16:30:10,582 - #14 5
+INFO  16:30:10,582 - #5 ;
+INFO  16:30:10,583 - #10 return
+INFO  16:30:10,583 - #15 z
+INFO  16:30:10,583 - #11 +
+INFO  16:30:10,584 - #15 d
+INFO  16:30:10,587 - #11 +
+INFO  16:30:10,588 - #15 f
+INFO  16:30:10,592 - #11 +
+INFO  16:30:10,592 - #15 g
+INFO  16:30:10,603 - #11 +
+INFO  16:30:10,603 - #15 h
+INFO  16:30:10,615 - #5 ;
+INFO  16:30:10,615 - #4 }
+INFO  16:30:10,615 - #15 int
+INFO  16:30:10,618 - #15 sum
+INFO  16:30:10,618 - #6 (
+INFO  16:30:10,618 - #15 int
+INFO  16:30:10,618 - #15 z
+INFO  16:30:10,618 - #8 ,
+INFO  16:30:10,618 - #15 int
+INFO  16:30:10,619 - #15 d
+INFO  16:30:10,619 - #7 )
+INFO  16:30:10,619 - #15 int
+INFO  16:30:10,619 - #15 f
+INFO  16:30:10,619 - #8 ,
+INFO  16:30:10,619 - #15 g
+INFO  16:30:10,620 - #8 ,
+INFO  16:30:10,620 - #15 h
+INFO  16:30:10,620 - #5 ;
+INFO  16:30:10,620 - #3 {
+INFO  16:30:10,620 - #15 f
+INFO  16:30:10,621 - #12 =
+INFO  16:30:10,621 - #14 1
+INFO  16:30:10,621 - #5 ;
+INFO  16:30:10,621 - #15 g
+INFO  16:30:10,621 - #12 =
+INFO  16:30:10,622 - #14 1
+INFO  16:30:10,622 - #5 ;
+INFO  16:30:10,622 - #15 h
+INFO  16:30:10,622 - #12 =
+INFO  16:30:10,622 - #14 1
+INFO  16:30:10,623 - #5 ;
+INFO  16:30:10,623 - #10 return
+INFO  16:30:10,623 - #15 sum2
+INFO  16:30:10,623 - #6 (
+INFO  16:30:10,624 - #15 z
+INFO  16:30:10,624 - #8 ,
+INFO  16:30:10,624 - #15 d
+INFO  16:30:10,625 - #7 )
+INFO  16:30:10,625 - #11 +
+INFO  16:30:10,627 - #15 f
+INFO  16:30:10,628 - #11 +
+INFO  16:30:10,628 - #15 g
+INFO  16:30:10,628 - #11 +
+INFO  16:30:10,628 - #15 h
+INFO  16:30:10,628 - #5 ;
+INFO  16:30:10,629 - #4 }
+INFO  16:30:10,629 - #13 void
+INFO  16:30:10,630 - #15 main
+INFO  16:30:10,630 - #6 (
+INFO  16:30:10,631 - #7 )
+INFO  16:30:10,632 - #3 {
+INFO  16:30:10,632 - #15 i
+INFO  16:30:10,632 - #12 =
+INFO  16:30:10,632 - #15 sum
+INFO  16:30:10,633 - #6 (
+INFO  16:30:10,633 - #14 1
+INFO  16:30:10,633 - #8 ,
+INFO  16:30:10,633 - #14 2
+INFO  16:30:10,633 - #7 )
+INFO  16:30:10,634 - #5 ;
+INFO  16:30:10,634 - #9 print
+INFO  16:30:10,634 - #6 (
+INFO  16:30:10,634 - #15 i
+INFO  16:30:10,635 - #7 )
+INFO  16:30:10,635 - #5 ;
+INFO  16:30:10,636 - #4 }
+INFO  16:30:10,641 - #4 }
+INFO  16:30:10,725 - Deklarisana promenljiva i na liniji 7
+INFO  16:30:10,725 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:30:10,726 - Deklarisan niz niz na liniji 10
+INFO  16:30:10,726 - Obradjuje se funkcija sum2 na liniji 13
+INFO  16:30:10,727 - Deklarisana promenljiva z na liniji 13
+INFO  16:30:10,727 - Deklarisana promenljiva d na liniji 13
+INFO  16:30:10,727 - Deklarisana promenljiva g na liniji 28
+INFO  16:30:10,727 - Deklarisana promenljiva h na liniji 28
+INFO  16:30:10,727 - Deklarisana promenljiva f na liniji 13
+INFO  16:30:10,727 - upotreba lokalne promenljive f na liniji 15
+INFO  16:30:10,728 - upotreba lokalne promenljive g na liniji 16
+INFO  16:30:10,728 - upotreba lokalne promenljive h na liniji 17
+INFO  16:30:10,728 - upotreba formalnog parametra z na liniji 18
+INFO  16:30:10,728 - upotreba formalnog parametra d na liniji 18
+INFO  16:30:10,728 - upotreba lokalne promenljive f na liniji 18
+INFO  16:30:10,728 - upotreba lokalne promenljive g na liniji 18
+INFO  16:30:10,728 - upotreba lokalne promenljive h na liniji 18
+INFO  16:30:10,729 - Obradjuje se funkcija sum na liniji 21
+INFO  16:30:10,729 - Deklarisana promenljiva z na liniji 21
+INFO  16:30:10,729 - Deklarisana promenljiva d na liniji 21
+INFO  16:30:10,730 - Deklarisana promenljiva g na liniji 27
+INFO  16:30:10,731 - Deklarisana promenljiva h na liniji 27
+INFO  16:30:10,731 - Deklarisana promenljiva f na liniji 21
+INFO  16:30:10,731 - upotreba lokalne promenljive f na liniji 23
+INFO  16:30:10,731 - upotreba lokalne promenljive g na liniji 24
+INFO  16:30:10,731 - upotreba lokalne promenljive h na liniji 25
+INFO  16:30:10,731 - upotreba lokalne promenljive sum2 na liniji 26
+INFO  16:30:10,731 - upotreba formalnog parametra z na liniji 26
+INFO  16:30:10,732 - upotreba formalnog parametra d na liniji 26
+INFO  16:30:10,732 - Pronadjen poziv funkcije sum2 na liniji 26
+INFO  16:30:10,733 - upotreba lokalne promenljive f na liniji 26
+INFO  16:30:10,733 - upotreba lokalne promenljive g na liniji 26
+INFO  16:30:10,733 - upotreba lokalne promenljive h na liniji 26
+INFO  16:30:10,733 - Obradjuje se funkcija main na liniji 31
+INFO  16:30:10,734 - upotreba globalne promenljive i na liniji 33
+INFO  16:30:10,734 - upotreba lokalne promenljive sum na liniji 33
+INFO  16:30:10,734 - Pronadjen poziv funkcije sum na liniji 33
+INFO  16:30:10,734 - upotreba globalne promenljive i na liniji 34
+INFO  16:30:10,734 - Print calls = 1
+INFO  16:30:10,737 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:30:10,752 - Parsiranje uspesno zavrseno!

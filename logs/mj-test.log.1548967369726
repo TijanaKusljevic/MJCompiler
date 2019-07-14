@@ -1,0 +1,75 @@
+INFO  21:42:31,778 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:42:31,929 - #2 program
+INFO  21:42:31,929 - #15 MJProgram
+INFO  21:42:31,929 - #15 int
+INFO  21:42:31,940 - #15 x
+INFO  21:42:31,940 - #5 ;
+INFO  21:42:31,940 - #15 int
+INFO  21:42:31,940 - #15 y
+INFO  21:42:31,940 - #5 ;
+INFO  21:42:31,940 - #43 const
+INFO  21:42:31,940 - #15 int
+INFO  21:42:31,940 - #15 soi
+INFO  21:42:31,940 - #12 =
+INFO  21:42:31,940 - #14 7
+INFO  21:42:31,940 - #5 ;
+INFO  21:42:31,940 - #43 const
+INFO  21:42:31,940 - #15 int
+INFO  21:42:31,940 - #15 so
+INFO  21:42:31,940 - #12 =
+INFO  21:42:31,940 - #14 0
+INFO  21:42:31,940 - #5 ;
+INFO  21:42:31,940 - #43 const
+INFO  21:42:31,940 - #15 char
+INFO  21:42:31,940 - #15 caki
+INFO  21:42:31,948 - #12 =
+INFO  21:42:31,950 - #25 a
+INFO  21:42:31,950 - #5 ;
+INFO  21:42:31,950 - #15 int
+INFO  21:42:31,950 - #15 niz
+INFO  21:42:31,950 - #29 [
+INFO  21:42:31,950 - #30 ]
+INFO  21:42:31,950 - #5 ;
+INFO  21:42:31,950 - #43 const
+INFO  21:42:31,950 - #15 bool
+INFO  21:42:31,950 - #15 pera
+INFO  21:42:31,950 - #12 =
+INFO  21:42:31,950 - #27 true
+INFO  21:42:31,950 - #5 ;
+INFO  21:42:31,950 - #15 char
+INFO  21:42:31,950 - #15 b
+INFO  21:42:31,950 - #5 ;
+INFO  21:42:31,958 - #15 bool
+INFO  21:42:31,958 - #15 kikisa
+INFO  21:42:31,960 - #5 ;
+INFO  21:42:31,960 - #44 enum
+INFO  21:42:31,960 - #15 ukucani
+INFO  21:42:31,960 - #3 {
+INFO  21:42:31,960 - #15 ja
+INFO  21:42:31,960 - #8 ,
+INFO  21:42:31,960 - #15 diki
+INFO  21:42:31,960 - #4 }
+INFO  21:42:31,960 - #3 {
+INFO  21:42:31,960 - #15 int
+INFO  21:42:31,968 - #15 main
+INFO  21:42:31,968 - #6 (
+INFO  21:42:31,968 - #7 )
+INFO  21:42:31,970 - #3 {
+INFO  21:42:31,990 - #10 return
+INFO  21:42:31,990 - #14 0
+INFO  21:42:31,990 - #5 ;
+INFO  21:42:31,990 - #4 }
+INFO  21:42:32,008 - #4 }
+INFO  21:42:32,040 - Deklarisana promenljiva x na liniji 2
+INFO  21:42:32,040 - Deklarisana promenljiva y na liniji 2
+INFO  21:42:32,040 - Deklarisana konstanta soi na liniji 3
+INFO  21:42:32,040 - Deklarisana konstanta so na liniji 4
+INFO  21:42:32,040 - Deklarisana konstanta caki na liniji 5
+INFO  21:42:32,040 - Deklarisan niz niz na liniji 6
+INFO  21:42:32,040 - Deklarisana konstanta pera na liniji 7
+INFO  21:42:32,040 - Deklarisana promenljiva b na liniji 8
+INFO  21:42:32,040 - Deklarisana promenljiva kikisa na liniji 9
+INFO  21:42:32,048 - Obradjuje se funkcija main na liniji 38
+INFO  21:42:32,048 - Print calls = 0
+INFO  21:42:32,050 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:42:32,060 - Parsiranje uspesno zavrseno!

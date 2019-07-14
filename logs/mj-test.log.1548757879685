@@ -1,0 +1,160 @@
+INFO  11:30:54,400 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:30:54,612 - #2 program
+INFO  11:30:54,613 - #15 MJProgram
+INFO  11:30:54,613 - #15 int
+INFO  11:30:54,622 - #15 x
+INFO  11:30:54,624 - #5 ;
+INFO  11:30:54,625 - #15 int
+INFO  11:30:54,627 - #15 y
+INFO  11:30:54,629 - #5 ;
+INFO  11:30:54,629 - #3 {
+INFO  11:30:54,630 - #15 int
+INFO  11:30:54,631 - #15 k
+INFO  11:30:54,632 - #6 (
+INFO  11:30:54,634 - #7 )
+INFO  11:30:54,636 - #15 int
+INFO  11:30:54,636 - #15 c
+INFO  11:30:54,636 - #5 ;
+INFO  11:30:54,637 - #3 {
+INFO  11:30:54,637 - #15 c
+INFO  11:30:54,639 - #12 =
+INFO  11:30:54,649 - #14 1
+INFO  11:30:54,649 - #5 ;
+INFO  11:30:54,659 - #10 return
+INFO  11:30:54,661 - #15 c
+INFO  11:30:54,661 - #11 +
+INFO  11:30:54,662 - #14 2
+INFO  11:30:54,664 - #5 ;
+INFO  11:30:54,665 - #4 }
+INFO  11:30:54,666 - #15 int
+INFO  11:30:54,668 - #15 main
+INFO  11:30:54,668 - #6 (
+INFO  11:30:54,668 - #7 )
+INFO  11:30:54,668 - #3 {
+INFO  11:30:54,669 - #15 y
+INFO  11:30:54,669 - #12 =
+INFO  11:30:54,669 - #14 2
+INFO  11:30:54,669 - #22 *
+INFO  11:30:54,669 - #14 5
+INFO  11:30:54,672 - #5 ;
+INFO  11:30:54,673 - #15 y
+INFO  11:30:54,673 - #12 =
+INFO  11:30:54,673 - #15 y
+INFO  11:30:54,674 - #21 -
+INFO  11:30:54,674 - #14 1
+INFO  11:30:54,676 - #5 ;
+INFO  11:30:54,676 - #15 y
+INFO  11:30:54,677 - #18 ++
+INFO  11:30:54,677 - #5 ;
+INFO  11:30:54,677 - #15 x
+INFO  11:30:54,677 - #12 =
+INFO  11:30:54,678 - #15 y
+INFO  11:30:54,678 - #11 +
+INFO  11:30:54,678 - #14 2
+INFO  11:30:54,678 - #5 ;
+INFO  11:30:54,679 - #15 y
+INFO  11:30:54,679 - #12 =
+INFO  11:30:54,679 - #15 k
+INFO  11:30:54,679 - #6 (
+INFO  11:30:54,679 - #7 )
+INFO  11:30:54,681 - #11 +
+INFO  11:30:54,681 - #14 3
+INFO  11:30:54,681 - #5 ;
+INFO  11:30:54,681 - #15 y
+INFO  11:30:54,682 - #12 =
+INFO  11:30:54,682 - #15 x
+INFO  11:30:54,683 - #29 [
+INFO  11:30:54,684 - #14 2
+INFO  11:30:54,685 - #30 ]
+INFO  11:30:54,685 - #5 ;
+INFO  11:30:54,686 - #3 {
+INFO  11:30:54,686 - #15 y
+INFO  11:30:54,686 - #12 =
+INFO  11:30:54,686 - #14 3
+INFO  11:30:54,687 - #5 ;
+INFO  11:30:54,687 - #3 {
+INFO  11:30:54,687 - #15 x
+INFO  11:30:54,687 - #12 =
+INFO  11:30:54,687 - #15 k
+INFO  11:30:54,688 - #6 (
+INFO  11:30:54,688 - #7 )
+INFO  11:30:54,688 - #5 ;
+INFO  11:30:54,688 - #4 }
+INFO  11:30:54,702 - #4 }
+INFO  11:30:54,702 - #34 for
+INFO  11:30:54,703 - #6 (
+INFO  11:30:54,704 - #15 x
+INFO  11:30:54,705 - #12 =
+INFO  11:30:54,705 - #14 4
+INFO  11:30:54,706 - #5 ;
+INFO  11:30:54,707 - #15 x
+INFO  11:30:54,707 - #39 <
+INFO  11:30:54,708 - #14 6
+INFO  11:30:54,711 - #35 ||
+INFO  11:30:54,718 - #15 y
+INFO  11:30:54,718 - #39 <
+INFO  11:30:54,719 - #14 1000
+INFO  11:30:54,719 - #36 &&
+INFO  11:30:54,719 - #15 y
+INFO  11:30:54,719 - #40 >
+INFO  11:30:54,720 - #14 0
+INFO  11:30:54,722 - #5 ;
+INFO  11:30:54,725 - #15 x
+INFO  11:30:54,725 - #18 ++
+INFO  11:30:54,725 - #7 )
+INFO  11:30:54,726 - #3 {
+INFO  11:30:54,726 - #15 y
+INFO  11:30:54,726 - #12 =
+INFO  11:30:54,726 - #15 x
+INFO  11:30:54,726 - #5 ;
+INFO  11:30:54,726 - #4 }
+INFO  11:30:54,726 - #16 if
+INFO  11:30:54,727 - #6 (
+INFO  11:30:54,727 - #15 x
+INFO  11:30:54,727 - #37 ==
+INFO  11:30:54,728 - #14 5
+INFO  11:30:54,729 - #7 )
+INFO  11:30:54,730 - #3 {
+INFO  11:30:54,730 - #15 y
+INFO  11:30:54,730 - #12 =
+INFO  11:30:54,731 - #14 347
+INFO  11:30:54,731 - #5 ;
+INFO  11:30:54,731 - #4 }
+INFO  11:30:54,731 - #15 aa
+INFO  11:30:54,732 - #15 u9
+ERROR 11:30:54,732 - 
+Sintaksna greska na liniji 34
+ERROR 11:30:54,748 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 34
+ERROR 11:30:54,806 - Greska na liniji 13 : ime y nije deklarisano! 
+ERROR 11:30:54,807 - Greska na liniji 13 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 11:30:54,810 - Greska na liniji 14 : ime y nije deklarisano! 
+ERROR 11:30:54,811 - Greska na liniji 14 : ime y nije deklarisano! 
+ERROR 11:30:54,811 - Greska na liniji 14 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 11:30:54,811 - Greska na liniji 15 : ime y nije deklarisano! 
+ERROR 11:30:54,812 - Greska na liniji 16 : ime x nije deklarisano! 
+ERROR 11:30:54,812 - Greska na liniji 16 : ime y nije deklarisano! 
+ERROR 11:30:54,813 - Greska na liniji 16 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 11:30:54,813 - Greska na liniji 17 : ime y nije deklarisano! 
+ERROR 11:30:54,813 - Greska na liniji 17 : ime k nije deklarisano! 
+ERROR 11:30:54,814 - Greska na liniji 17 : ime noObj nije funkcija!
+ERROR 11:30:54,814 - Greska na liniji 17 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 11:30:54,814 - Greska na liniji 19 : ime y nije deklarisano! 
+ERROR 11:30:54,814 - Greska na liniji 19 : ime x nije deklarisano! 
+ERROR 11:30:54,814 - Greska na liniji 21 : ime y nije deklarisano! 
+ERROR 11:30:54,815 - Greska na liniji 21 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 11:30:54,815 - Greska na liniji 23 : ime x nije deklarisano! 
+ERROR 11:30:54,815 - Greska na liniji 23 : ime k nije deklarisano! 
+ERROR 11:30:54,815 - Greska na liniji 23 : ime noObj nije funkcija!
+ERROR 11:30:54,816 - Greska na liniji 27 : ime x nije deklarisano! 
+ERROR 11:30:54,816 - Greska na liniji 27 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 11:30:54,816 - Greska na liniji 27 : ime x nije deklarisano! 
+ERROR 11:30:54,817 - Greska na liniji 27 : ime y nije deklarisano! 
+ERROR 11:30:54,817 - Greska na liniji 27 : ime y nije deklarisano! 
+ERROR 11:30:54,817 - Greska na liniji 27 : ime x nije deklarisano! 
+ERROR 11:30:54,817 - Greska na liniji 28 : ime y nije deklarisano! 
+ERROR 11:30:54,818 - Greska na liniji 28 : ime x nije deklarisano! 
+ERROR 11:30:54,819 - Greska na liniji 31 : ime x nije deklarisano! 
+ERROR 11:30:54,819 - Greska na liniji 32 : ime y nije deklarisano! 
+ERROR 11:30:54,819 - Greska na liniji 32 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  11:30:54,819 - Print calls = 0
+ERROR 11:30:54,821 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,59 @@
+INFO  18:49:05,742 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:49:05,914 - #2 program
+INFO  18:49:05,914 - #15 MJProgram
+INFO  18:49:05,914 - #15 int
+INFO  18:49:05,914 - #15 a
+INFO  18:49:05,930 - #8 ,
+INFO  18:49:05,930 - #15 b
+INFO  18:49:05,930 - #5 ;
+INFO  18:49:05,930 - #3 {
+INFO  18:49:05,930 - #15 int
+INFO  18:49:05,930 - #15 k
+INFO  18:49:05,930 - #6 (
+INFO  18:49:05,930 - #15 int
+INFO  18:49:05,930 - #15 m
+INFO  18:49:05,930 - #7 )
+INFO  18:49:05,930 - #3 {
+INFO  18:49:05,945 - #9 print
+INFO  18:49:05,945 - #6 (
+INFO  18:49:05,945 - #15 m
+INFO  18:49:05,945 - #7 )
+INFO  18:49:05,945 - #5 ;
+INFO  18:49:05,945 - #10 return
+INFO  18:49:05,961 - #14 3
+INFO  18:49:05,961 - #5 ;
+INFO  18:49:05,961 - #4 }
+INFO  18:49:05,961 - #15 int
+INFO  18:49:05,961 - #15 main
+INFO  18:49:05,961 - #6 (
+INFO  18:49:05,961 - #7 )
+INFO  18:49:05,961 - #3 {
+INFO  18:49:05,961 - #15 a
+INFO  18:49:05,961 - #12 =
+INFO  18:49:05,961 - #14 7
+INFO  18:49:05,961 - #5 ;
+INFO  18:49:05,961 - #15 b
+INFO  18:49:05,961 - #12 =
+INFO  18:49:05,961 - #14 9
+INFO  18:49:05,961 - #5 ;
+INFO  18:49:05,961 - #9 print
+INFO  18:49:05,961 - #6 (
+INFO  18:49:05,961 - #15 a
+INFO  18:49:05,961 - #7 )
+INFO  18:49:05,961 - #5 ;
+INFO  18:49:05,961 - #10 return
+INFO  18:49:05,961 - #14 0
+INFO  18:49:05,961 - #5 ;
+INFO  18:49:05,961 - #4 }
+INFO  18:49:05,961 - #4 }
+INFO  18:49:06,008 - Deklarisana promenljiva b na liniji 5
+INFO  18:49:06,008 - Deklarisana promenljiva a na liniji 3
+INFO  18:49:06,008 - Obradjuje se funkcija k na liniji 8
+INFO  18:49:06,008 - upotreba formalnog parametra m na liniji 10
+INFO  18:49:06,008 - Obradjuje se funkcija main na liniji 15
+INFO  18:49:06,008 - upotreba globalne promenljive a na liniji 17
+INFO  18:49:06,008 - upotreba globalne promenljive b na liniji 18
+INFO  18:49:06,008 - upotreba globalne promenljive a na liniji 38
+INFO  18:49:06,008 - Print calls = 2
+INFO  18:49:06,008 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:49:06,023 - Parsiranje uspesno zavrseno!

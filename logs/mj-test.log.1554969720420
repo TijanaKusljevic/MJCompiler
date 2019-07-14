@@ -1,0 +1,57 @@
+INFO  10:01:19,299 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:01:19,579 - #2 program
+INFO  10:01:19,580 - #15 MJProgram
+INFO  10:01:19,580 - #15 int
+INFO  10:01:19,586 - #15 a
+INFO  10:01:19,589 - #5 ;
+INFO  10:01:19,595 - #3 {
+INFO  10:01:19,596 - #13 void
+INFO  10:01:19,601 - #15 k
+INFO  10:01:19,602 - #6 (
+INFO  10:01:19,603 - #15 int
+INFO  10:01:19,603 - #15 b
+INFO  10:01:19,603 - #7 )
+INFO  10:01:19,607 - #3 {
+INFO  10:01:19,608 - #9 print
+INFO  10:01:19,612 - #6 (
+INFO  10:01:19,612 - #15 b
+INFO  10:01:19,612 - #7 )
+INFO  10:01:19,623 - #5 ;
+INFO  10:01:19,624 - #10 return
+INFO  10:01:19,628 - #14 3
+INFO  10:01:19,628 - #5 ;
+INFO  10:01:19,629 - #4 }
+INFO  10:01:19,629 - #15 int
+INFO  10:01:19,633 - #15 main
+INFO  10:01:19,633 - #6 (
+INFO  10:01:19,633 - #7 )
+INFO  10:01:19,637 - #3 {
+INFO  10:01:19,638 - #15 a
+INFO  10:01:19,638 - #12 =
+INFO  10:01:19,639 - #14 7
+INFO  10:01:19,639 - #5 ;
+INFO  10:01:19,640 - #15 a
+INFO  10:01:19,640 - #12 =
+INFO  10:01:19,640 - #14 9
+INFO  10:01:19,640 - #5 ;
+INFO  10:01:19,641 - #9 print
+INFO  10:01:19,641 - #6 (
+INFO  10:01:19,641 - #15 a
+INFO  10:01:19,641 - #7 )
+INFO  10:01:19,642 - #5 ;
+INFO  10:01:19,643 - #10 return
+INFO  10:01:19,643 - #14 0
+INFO  10:01:19,644 - #5 ;
+INFO  10:01:19,644 - #4 }
+INFO  10:01:19,644 - #4 }
+INFO  10:01:19,714 - Deklarisana promenljiva a na liniji 3
+INFO  10:01:19,714 - Obradjuje se funkcija k na liniji 8
+INFO  10:01:19,715 - Deklarisana promenljiva b na liniji 8
+INFO  10:01:19,716 - upotreba formalnog parametra b na liniji 9
+ERROR 10:01:19,716 - Greska na liniji 10 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije k
+INFO  10:01:19,717 - Obradjuje se funkcija main na liniji 13
+INFO  10:01:19,717 - upotreba globalne promenljive a na liniji 14
+INFO  10:01:19,718 - upotreba globalne promenljive a na liniji 17
+INFO  10:01:19,718 - upotreba globalne promenljive a na liniji 18
+INFO  10:01:19,720 - Print calls = 2
+ERROR 10:01:19,729 - Parsiranje NIJE uspesno zavrseno!

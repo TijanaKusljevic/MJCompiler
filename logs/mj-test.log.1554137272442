@@ -1,0 +1,54 @@
+INFO  18:46:34,840 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:46:35,027 - #2 program
+INFO  18:46:35,027 - #15 MJProgram
+INFO  18:46:35,027 - #15 int
+INFO  18:46:35,043 - #15 a
+INFO  18:46:35,043 - #8 ,
+INFO  18:46:35,043 - #15 b
+INFO  18:46:35,043 - #5 ;
+INFO  18:46:35,043 - #3 {
+INFO  18:46:35,043 - #15 int
+INFO  18:46:35,043 - #15 k
+INFO  18:46:35,043 - #6 (
+INFO  18:46:35,043 - #15 int
+INFO  18:46:35,043 - #15 m
+INFO  18:46:35,043 - #7 )
+INFO  18:46:35,059 - #3 {
+INFO  18:46:35,059 - #10 return
+INFO  18:46:35,059 - #14 3
+INFO  18:46:35,059 - #5 ;
+INFO  18:46:35,059 - #4 }
+INFO  18:46:35,059 - #15 int
+INFO  18:46:35,071 - #15 main
+INFO  18:46:35,072 - #6 (
+INFO  18:46:35,072 - #7 )
+INFO  18:46:35,074 - #3 {
+INFO  18:46:35,075 - #15 a
+INFO  18:46:35,075 - #12 =
+INFO  18:46:35,078 - #14 7
+INFO  18:46:35,078 - #5 ;
+INFO  18:46:35,078 - #15 b
+INFO  18:46:35,078 - #12 =
+INFO  18:46:35,078 - #14 9
+INFO  18:46:35,078 - #5 ;
+INFO  18:46:35,078 - #15 k
+INFO  18:46:35,078 - #6 (
+INFO  18:46:35,078 - #15 a
+INFO  18:46:35,078 - #7 )
+INFO  18:46:35,078 - #5 ;
+INFO  18:46:35,078 - #10 return
+INFO  18:46:35,078 - #14 0
+INFO  18:46:35,078 - #5 ;
+INFO  18:46:35,078 - #4 }
+INFO  18:46:35,078 - #4 }
+INFO  18:46:35,109 - Deklarisana promenljiva b na liniji 5
+INFO  18:46:35,109 - Deklarisana promenljiva a na liniji 3
+INFO  18:46:35,109 - Obradjuje se funkcija k na liniji 8
+INFO  18:46:35,109 - Obradjuje se funkcija main na liniji 15
+INFO  18:46:35,109 - upotreba globalne promenljive a na liniji 17
+INFO  18:46:35,109 - upotreba globalne promenljive b na liniji 18
+INFO  18:46:35,109 - upotreba lokalne promenljive k na liniji 38
+INFO  18:46:35,109 - upotreba globalne promenljive a na liniji 38
+INFO  18:46:35,109 - Print calls = 0
+INFO  18:46:35,109 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:46:35,124 - Parsiranje uspesno zavrseno!

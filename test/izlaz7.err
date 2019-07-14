@@ -1,0 +1,6 @@
+ERROR 16:58:52,776 - 
+Sintaksna greska na liniji 4
+ERROR 16:58:52,889 - Greska na liniji 15 : ime Pok nije deklarisano! 
+ERROR 16:58:52,896 - ne postoji takva mogucnost u nabrajanju na liniji 15
+ERROR 16:58:52,897 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti  
+ERROR 16:58:52,904 - Parsiranje NIJE uspesno zavrseno!

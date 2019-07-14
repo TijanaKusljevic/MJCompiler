@@ -1,0 +1,116 @@
+INFO  17:03:11,490 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:03:11,764 - #2 program
+INFO  17:03:11,765 - #15 MJProgram
+INFO  17:03:11,765 - #15 int
+INFO  17:03:11,767 - #15 a
+INFO  17:03:11,772 - #8 ,
+INFO  17:03:11,777 - #15 niz
+INFO  17:03:11,778 - #29 [
+INFO  17:03:11,778 - #30 ]
+INFO  17:03:11,778 - #8 ,
+INFO  17:03:11,780 - #15 b
+INFO  17:03:11,780 - #8 ,
+INFO  17:03:11,781 - #15 c
+INFO  17:03:11,781 - #8 ,
+INFO  17:03:11,781 - #15 niz1
+INFO  17:03:11,781 - #29 [
+INFO  17:03:11,782 - #30 ]
+INFO  17:03:11,782 - #5 ;
+INFO  17:03:11,782 - #3 {
+INFO  17:03:11,783 - #15 int
+INFO  17:03:11,786 - #15 main
+INFO  17:03:11,786 - #6 (
+INFO  17:03:11,787 - #7 )
+INFO  17:03:11,789 - #3 {
+INFO  17:03:11,789 - #15 a
+INFO  17:03:11,791 - #12 =
+INFO  17:03:11,793 - #14 7
+INFO  17:03:11,794 - #5 ;
+INFO  17:03:11,798 - #15 b
+INFO  17:03:11,798 - #12 =
+INFO  17:03:11,799 - #14 9
+INFO  17:03:11,799 - #5 ;
+INFO  17:03:11,799 - #15 c
+INFO  17:03:11,799 - #12 =
+INFO  17:03:11,799 - #14 90
+INFO  17:03:11,799 - #5 ;
+INFO  17:03:11,800 - #15 niz
+INFO  17:03:11,800 - #12 =
+INFO  17:03:11,800 - #28 new
+INFO  17:03:11,800 - #15 int
+INFO  17:03:11,800 - #29 [
+INFO  17:03:11,800 - #14 3
+INFO  17:03:11,801 - #30 ]
+INFO  17:03:11,801 - #5 ;
+INFO  17:03:11,802 - #15 niz1
+INFO  17:03:11,802 - #12 =
+INFO  17:03:11,804 - #28 new
+INFO  17:03:11,804 - #15 int
+INFO  17:03:11,804 - #29 [
+INFO  17:03:11,805 - #14 2
+INFO  17:03:11,805 - #30 ]
+INFO  17:03:11,805 - #5 ;
+INFO  17:03:11,806 - #15 niz
+INFO  17:03:11,809 - #29 [
+INFO  17:03:11,809 - #14 0
+INFO  17:03:11,810 - #30 ]
+INFO  17:03:11,810 - #12 =
+INFO  17:03:11,810 - #14 3
+INFO  17:03:11,815 - #5 ;
+INFO  17:03:11,816 - #15 niz
+INFO  17:03:11,816 - #29 [
+INFO  17:03:11,828 - #14 1
+INFO  17:03:11,828 - #30 ]
+INFO  17:03:11,828 - #12 =
+INFO  17:03:11,828 - #14 33
+INFO  17:03:11,828 - #5 ;
+INFO  17:03:11,829 - #15 niz
+INFO  17:03:11,829 - #29 [
+INFO  17:03:11,829 - #14 2
+INFO  17:03:11,829 - #30 ]
+INFO  17:03:11,829 - #12 =
+INFO  17:03:11,829 - #14 333
+INFO  17:03:11,829 - #5 ;
+INFO  17:03:11,830 - #15 niz1
+INFO  17:03:11,830 - #29 [
+INFO  17:03:11,830 - #14 0
+INFO  17:03:11,830 - #30 ]
+INFO  17:03:11,830 - #12 =
+INFO  17:03:11,831 - #14 1
+INFO  17:03:11,831 - #5 ;
+INFO  17:03:11,831 - #15 niz1
+INFO  17:03:11,831 - #29 [
+INFO  17:03:11,831 - #14 1
+INFO  17:03:11,831 - #30 ]
+INFO  17:03:11,832 - #12 =
+INFO  17:03:11,832 - #14 11
+INFO  17:03:11,832 - #5 ;
+INFO  17:03:11,832 - #10 return
+INFO  17:03:11,833 - #14 0
+INFO  17:03:11,833 - #5 ;
+INFO  17:03:11,833 - #4 }
+INFO  17:03:11,833 - #4 }
+INFO  17:03:11,884 - Deklarisan niz niz na liniji 5
+INFO  17:03:11,884 - Deklarisana promenljiva b na liniji 5
+INFO  17:03:11,884 - Deklarisana promenljiva c na liniji 5
+INFO  17:03:11,884 - Deklarisan niz niz1 na liniji 5
+INFO  17:03:11,885 - Deklarisana promenljiva a na liniji 3
+INFO  17:03:11,885 - Obradjuje se funkcija main na liniji 6
+INFO  17:03:11,885 - upotreba globalne promenljive a na liniji 8
+INFO  17:03:11,885 - upotreba globalne promenljive b na liniji 9
+INFO  17:03:11,886 - upotreba globalne promenljive c na liniji 10
+INFO  17:03:11,886 - upotreba globalne promenljive niz na liniji 12
+INFO  17:03:11,886 - upotreba globalne promenljive niz1 na liniji 13
+INFO  17:03:11,886 - Pristup elementu niza  na liniji 15
+INFO  17:03:11,886 - upotreba globalne promenljive niz na liniji 15
+INFO  17:03:11,887 - Pristup elementu niza  na liniji 16
+INFO  17:03:11,887 - upotreba globalne promenljive niz na liniji 16
+INFO  17:03:11,887 - Pristup elementu niza  na liniji 17
+INFO  17:03:11,887 - upotreba globalne promenljive niz na liniji 17
+INFO  17:03:11,887 - Pristup elementu niza  na liniji 19
+INFO  17:03:11,887 - upotreba globalne promenljive niz1 na liniji 19
+INFO  17:03:11,887 - Pristup elementu niza  na liniji 20
+INFO  17:03:11,888 - upotreba globalne promenljive niz1 na liniji 20
+INFO  17:03:11,888 - Print calls = 0
+INFO  17:03:11,889 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:03:11,901 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,28 @@
+//Test 302
+
+program test302
+
+
+
+int a;
+int b;
+int c;
+
+{
+	int sum(int a, int b){
+		return a+b;
+	}
+	
+	void main()
+	{
+		a=5;
+		b=6;
+		if(a=b){
+			print('j');
+			
+		}
+		
+		c=sum(a b);
+	}
+}
+

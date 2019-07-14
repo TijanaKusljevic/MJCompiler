@@ -1,0 +1,54 @@
+// Test301
+
+program test301
+
+int p;
+int q;
+int r;	
+bool bo;
+char niz[];
+	
+	
+{
+
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+	int sumsub(int a, int b, int c, bool g){
+		if(g)
+			return a+b+c;
+		else
+			return a+b-c;
+	}
+	
+	char getind(char niz[], int i){
+		return niz[i];
+	}
+
+	void main()	
+		
+	{
+		p=1;
+		q=2;
+		
+		r=sum(p, q);
+		print(r);
+		
+		bo=true;
+		print(sumsub(sum(p,r), q, 10, bo));
+		
+		niz=new char[3];
+		
+		niz[0]='z';
+		niz[1]='p';
+		niz[2]='u';
+		
+		print(getind(niz, 0));
+		print(len(niz));
+		print(ord('w'));
+	}
+}
+
+

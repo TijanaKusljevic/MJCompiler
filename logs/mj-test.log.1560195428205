@@ -1,0 +1,121 @@
+INFO  21:37:03,614 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:37:03,800 - #2 program
+INFO  21:37:03,801 - #15 test301
+INFO  21:37:03,801 - #15 int
+INFO  21:37:03,804 - #15 i
+INFO  21:37:03,807 - #5 ;
+INFO  21:37:03,813 - #15 int
+INFO  21:37:03,816 - #15 j
+INFO  21:37:03,817 - #5 ;
+INFO  21:37:03,818 - #15 int
+INFO  21:37:03,818 - #15 k
+INFO  21:37:03,819 - #5 ;
+INFO  21:37:03,820 - #3 {
+INFO  21:37:03,821 - #13 void
+INFO  21:37:03,823 - #15 main
+INFO  21:37:03,823 - #6 (
+INFO  21:37:03,824 - #7 )
+INFO  21:37:03,825 - #3 {
+INFO  21:37:03,826 - #15 i
+INFO  21:37:03,827 - #12 =
+INFO  21:37:03,831 - #14 0
+INFO  21:37:03,832 - #5 ;
+INFO  21:37:03,836 - #15 j
+INFO  21:37:03,838 - #12 =
+INFO  21:37:03,839 - #14 0
+INFO  21:37:03,839 - #5 ;
+INFO  21:37:03,839 - #15 k
+INFO  21:37:03,839 - #12 =
+INFO  21:37:03,839 - #14 0
+INFO  21:37:03,840 - #5 ;
+INFO  21:37:03,840 - #34 for
+INFO  21:37:03,842 - #6 (
+INFO  21:37:03,849 - #15 i
+INFO  21:37:03,852 - #12 =
+INFO  21:37:03,852 - #14 0
+INFO  21:37:03,852 - #5 ;
+INFO  21:37:03,853 - #15 i
+INFO  21:37:03,858 - #39 <
+INFO  21:37:03,858 - #14 3
+INFO  21:37:03,864 - #5 ;
+INFO  21:37:03,875 - #15 i
+INFO  21:37:03,878 - #19 ++
+INFO  21:37:03,879 - #7 )
+INFO  21:37:03,883 - #3 {
+INFO  21:37:03,885 - #34 for
+INFO  21:37:03,886 - #6 (
+INFO  21:37:03,886 - #15 j
+INFO  21:37:03,886 - #12 =
+INFO  21:37:03,887 - #14 0
+INFO  21:37:03,887 - #5 ;
+INFO  21:37:03,887 - #15 j
+INFO  21:37:03,887 - #39 <
+INFO  21:37:03,890 - #14 5
+INFO  21:37:03,890 - #5 ;
+INFO  21:37:03,890 - #15 j
+INFO  21:37:03,890 - #19 ++
+INFO  21:37:03,891 - #7 )
+INFO  21:37:03,900 - #3 {
+INFO  21:37:03,900 - #16 if
+INFO  21:37:03,900 - #6 (
+INFO  21:37:03,903 - #15 j
+INFO  21:37:03,903 - #37 ==
+INFO  21:37:03,905 - #14 2
+INFO  21:37:03,907 - #35 ||
+INFO  21:37:03,907 - #15 j
+INFO  21:37:03,911 - #37 ==
+INFO  21:37:03,911 - #14 3
+INFO  21:37:03,911 - #36 &&
+INFO  21:37:03,912 - #15 i
+INFO  21:37:03,912 - #37 ==
+INFO  21:37:03,912 - #14 2
+INFO  21:37:03,913 - #7 )
+INFO  21:37:03,914 - #3 {
+INFO  21:37:03,916 - #9 print
+INFO  21:37:03,916 - #6 (
+INFO  21:37:03,917 - #18 u
+INFO  21:37:03,917 - #7 )
+INFO  21:37:03,917 - #5 ;
+INFO  21:37:03,918 - #4 }
+INFO  21:37:03,918 - #16 if
+INFO  21:37:03,920 - #6 (
+INFO  21:37:03,921 - #15 j
+INFO  21:37:03,921 - #37 ==
+INFO  21:37:03,921 - #14 4
+INFO  21:37:03,921 - #7 )
+INFO  21:37:03,922 - #3 {
+INFO  21:37:03,922 - #32 break
+INFO  21:37:03,922 - #5 ;
+INFO  21:37:03,924 - #4 }
+INFO  21:37:03,924 - #17 else
+INFO  21:37:03,925 - #3 {
+INFO  21:37:03,926 - #9 print
+INFO  21:37:03,926 - #6 (
+INFO  21:37:03,926 - #18 k
+INFO  21:37:03,926 - #7 )
+INFO  21:37:03,926 - #5 ;
+INFO  21:37:03,926 - #4 }
+INFO  21:37:03,927 - #4 }
+INFO  21:37:03,928 - #4 }
+INFO  21:37:03,933 - #4 }
+INFO  21:37:03,934 - #4 }
+INFO  21:37:03,985 - Deklarisana promenljiva i na liniji 5
+INFO  21:37:03,985 - Deklarisana promenljiva j na liniji 6
+INFO  21:37:03,985 - Deklarisana promenljiva k na liniji 7
+INFO  21:37:03,985 - Obradjuje se funkcija main na liniji 14
+INFO  21:37:03,986 - upotreba globalne promenljive i na liniji 17
+INFO  21:37:03,986 - upotreba globalne promenljive j na liniji 18
+INFO  21:37:03,986 - upotreba globalne promenljive k na liniji 19
+INFO  21:37:03,987 - upotreba globalne promenljive i na liniji 21
+INFO  21:37:03,988 - upotreba globalne promenljive i na liniji 21
+INFO  21:37:03,988 - upotreba globalne promenljive i na liniji 21
+INFO  21:37:03,988 - upotreba globalne promenljive j na liniji 22
+INFO  21:37:03,988 - upotreba globalne promenljive j na liniji 22
+INFO  21:37:03,989 - upotreba globalne promenljive j na liniji 22
+INFO  21:37:03,989 - upotreba globalne promenljive j na liniji 23
+INFO  21:37:03,989 - upotreba globalne promenljive j na liniji 23
+INFO  21:37:03,989 - upotreba globalne promenljive i na liniji 23
+INFO  21:37:03,990 - upotreba globalne promenljive j na liniji 26
+INFO  21:37:03,990 - Print calls = 2
+INFO  21:37:03,992 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:37:04,017 - Parsiranje uspesno zavrseno!

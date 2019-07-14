@@ -1,0 +1,100 @@
+INFO  14:07:15,511 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:07:15,574 - #2 program
+INFO  14:07:15,574 - #15 MJProgram
+INFO  14:07:15,574 - #15 int
+INFO  14:07:15,589 - #15 x
+INFO  14:07:15,589 - #5 ;
+INFO  14:07:15,589 - #15 int
+INFO  14:07:15,589 - #15 y
+INFO  14:07:15,589 - #5 ;
+INFO  14:07:15,589 - #15 bool
+INFO  14:07:15,589 - #15 a
+INFO  14:07:15,589 - #5 ;
+INFO  14:07:15,589 - #3 {
+INFO  14:07:15,589 - #15 int
+INFO  14:07:15,605 - #15 k
+INFO  14:07:15,605 - #6 (
+INFO  14:07:15,605 - #7 )
+INFO  14:07:15,605 - #15 int
+INFO  14:07:15,605 - #15 c
+INFO  14:07:15,605 - #5 ;
+INFO  14:07:15,605 - #3 {
+INFO  14:07:15,605 - #15 c
+INFO  14:07:15,605 - #12 =
+INFO  14:07:15,621 - #14 1
+INFO  14:07:15,621 - #5 ;
+INFO  14:07:15,621 - #10 return
+INFO  14:07:15,621 - #15 c
+INFO  14:07:15,621 - #11 +
+INFO  14:07:15,621 - #14 2
+INFO  14:07:15,621 - #5 ;
+INFO  14:07:15,621 - #4 }
+INFO  14:07:15,621 - #15 int
+INFO  14:07:15,621 - #15 main
+INFO  14:07:15,621 - #6 (
+INFO  14:07:15,621 - #7 )
+INFO  14:07:15,621 - #3 {
+INFO  14:07:15,621 - #15 y
+INFO  14:07:15,621 - #12 =
+INFO  14:07:15,621 - #14 2
+INFO  14:07:15,636 - #22 *
+INFO  14:07:15,636 - #14 5
+INFO  14:07:15,636 - #5 ;
+INFO  14:07:15,636 - #15 y
+INFO  14:07:15,636 - #12 =
+INFO  14:07:15,636 - #15 y
+INFO  14:07:15,636 - #21 -
+INFO  14:07:15,636 - #14 1
+INFO  14:07:15,636 - #5 ;
+INFO  14:07:15,636 - #15 y
+INFO  14:07:15,636 - #18 ++
+INFO  14:07:15,636 - #5 ;
+INFO  14:07:15,652 - #15 x
+INFO  14:07:15,652 - #12 =
+INFO  14:07:15,652 - #15 y
+INFO  14:07:15,652 - #11 +
+INFO  14:07:15,652 - #14 2
+INFO  14:07:15,652 - #5 ;
+INFO  14:07:15,652 - #15 y
+INFO  14:07:15,652 - #12 =
+INFO  14:07:15,652 - #15 k
+INFO  14:07:15,652 - #6 (
+INFO  14:07:15,667 - #7 )
+INFO  14:07:15,667 - #11 +
+INFO  14:07:15,667 - #14 3
+INFO  14:07:15,667 - #5 ;
+INFO  14:07:15,667 - #15 x
+INFO  14:07:15,667 - #12 =
+INFO  14:07:15,667 - #6 (
+INFO  14:07:15,667 - #14 1
+INFO  14:07:15,667 - #11 +
+INFO  14:07:15,667 - #14 2
+INFO  14:07:15,667 - #7 )
+INFO  14:07:15,667 - #5 ;
+INFO  14:07:15,667 - #15 a
+INFO  14:07:15,667 - #12 =
+INFO  14:07:15,667 - #26 false
+INFO  14:07:15,667 - #5 ;
+INFO  14:07:15,667 - #9 print
+INFO  14:07:15,667 - #6 (
+INFO  14:07:15,667 - #15 y
+INFO  14:07:15,667 - #7 )
+INFO  14:07:15,667 - #5 ;
+INFO  14:07:15,667 - #20 read
+INFO  14:07:15,667 - #6 (
+INFO  14:07:15,667 - #15 y
+INFO  14:07:15,683 - #7 )
+INFO  14:07:15,683 - #5 ;
+INFO  14:07:15,683 - #10 return
+INFO  14:07:15,683 - #14 0
+INFO  14:07:15,683 - #5 ;
+INFO  14:07:15,683 - #4 }
+INFO  14:07:15,683 - #4 }
+INFO  14:07:15,714 - Deklarisana promenljiva x na liniji 2
+INFO  14:07:15,714 - Deklarisana promenljiva y na liniji 2
+ERROR 14:07:15,714 - Nije pronadjen tip bool u tabeli simbola
+INFO  14:07:15,714 - Deklarisana promenljiva a na liniji 3
+INFO  14:07:15,714 - Obradjuje se funkcija k na liniji 7
+INFO  14:07:15,714 - Deklarisana promenljiva c na liniji 7
+INFO  14:07:15,714 - Obradjuje se funkcija main na liniji 12
+INFO  14:07:15,714 - Pronadjen poziv funkcije k na liniji 17

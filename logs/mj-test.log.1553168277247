@@ -1,0 +1,54 @@
+INFO  12:33:45,132 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:33:45,382 - #2 program
+INFO  12:33:45,397 - #15 MJProgram
+INFO  12:33:45,397 - #15 int
+INFO  12:33:45,397 - #15 y
+INFO  12:33:45,413 - #5 ;
+INFO  12:33:45,429 - #15 int
+INFO  12:33:45,429 - #15 x
+INFO  12:33:45,429 - #5 ;
+INFO  12:33:45,429 - #15 int
+INFO  12:33:45,429 - #15 z
+INFO  12:33:45,429 - #5 ;
+INFO  12:33:45,429 - #15 int
+INFO  12:33:45,429 - #15 niz
+INFO  12:33:45,429 - #29 [
+INFO  12:33:45,429 - #30 ]
+INFO  12:33:45,429 - #5 ;
+INFO  12:33:45,429 - #3 {
+INFO  12:33:45,429 - #15 int
+INFO  12:33:45,444 - #15 main
+INFO  12:33:45,444 - #6 (
+INFO  12:33:45,444 - #7 )
+INFO  12:33:45,444 - #3 {
+INFO  12:33:45,444 - #15 niz
+INFO  12:33:45,444 - #12 =
+INFO  12:33:45,444 - #28 new
+INFO  12:33:45,444 - #15 int
+INFO  12:33:45,444 - #29 [
+INFO  12:33:45,444 - #14 3
+INFO  12:33:45,444 - #30 ]
+INFO  12:33:45,444 - #5 ;
+INFO  12:33:45,444 - #15 niz
+INFO  12:33:45,444 - #29 [
+INFO  12:33:45,444 - #14 1
+INFO  12:33:45,444 - #30 ]
+INFO  12:33:45,460 - #12 =
+INFO  12:33:45,460 - #14 9
+INFO  12:33:45,460 - #5 ;
+INFO  12:33:45,460 - #10 return
+INFO  12:33:45,460 - #14 0
+INFO  12:33:45,460 - #5 ;
+INFO  12:33:45,460 - #4 }
+INFO  12:33:45,460 - #4 }
+INFO  12:33:45,475 - Deklarisana promenljiva y na liniji 2
+INFO  12:33:45,491 - Deklarisana promenljiva x na liniji 3
+INFO  12:33:45,491 - Deklarisana promenljiva z na liniji 4
+INFO  12:33:45,491 - Deklarisan niz niz na liniji 5
+INFO  12:33:45,491 - Obradjuje se funkcija main na liniji 18
+INFO  12:33:45,491 - upotreba globalne promenljive niz na liniji 35
+INFO  12:33:45,491 - Pristup elementu niza  na liniji 37
+INFO  12:33:45,491 - upotreba globalne promenljive niz na liniji 37
+INFO  12:33:45,491 - Print calls = 0
+INFO  12:33:45,491 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:33:45,522 - Parsiranje uspesno zavrseno!

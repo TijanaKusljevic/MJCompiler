@@ -1,0 +1,58 @@
+INFO  22:40:28,613 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:40:28,785 - #2 program
+INFO  22:40:28,785 - #15 test302
+INFO  22:40:28,785 - #44 enum
+INFO  22:40:28,785 - #15 IncrementType
+INFO  22:40:28,785 - #3 {
+INFO  22:40:28,785 - #15 BY_ONE
+INFO  22:40:28,785 - #8 ,
+INFO  22:40:28,801 - #15 DOUBLE_VALUE
+INFO  22:40:28,801 - #4 }
+INFO  22:40:28,801 - #15 int
+INFO  22:40:28,801 - #15 i
+INFO  22:40:28,801 - #5 ;
+INFO  22:40:28,801 - #15 bool
+INFO  22:40:28,801 - #15 ibool
+INFO  22:40:28,801 - #5 ;
+INFO  22:40:28,801 - #15 int
+INFO  22:40:28,816 - #15 niz
+INFO  22:40:28,816 - #29 [
+INFO  22:40:28,816 - #30 ]
+INFO  22:40:28,816 - #5 ;
+INFO  22:40:28,816 - #15 int
+INFO  22:40:28,816 - #15 nizk
+INFO  22:40:28,816 - #29 [
+INFO  22:40:28,816 - #30 ]
+INFO  22:40:28,816 - #5 ;
+INFO  22:40:28,816 - #3 {
+INFO  22:40:28,816 - #13 void
+INFO  22:40:28,816 - #15 main
+INFO  22:40:28,816 - #6 (
+INFO  22:40:28,816 - #7 )
+INFO  22:40:28,816 - #3 {
+INFO  22:40:28,816 - #15 niz
+INFO  22:40:28,816 - #12 =
+INFO  22:40:28,816 - #28 new
+INFO  22:40:28,816 - #15 int
+INFO  22:40:28,816 - #29 [
+INFO  22:40:28,816 - #14 2
+INFO  22:40:28,816 - #30 ]
+INFO  22:40:28,832 - #3 {
+INFO  22:40:28,832 - #14 7
+INFO  22:40:28,832 - #8 ,
+INFO  22:40:28,832 - #14 8
+INFO  22:40:28,832 - #8 ,
+INFO  22:40:28,832 - #14 9
+INFO  22:40:28,832 - #4 }
+INFO  22:40:28,832 - #5 ;
+INFO  22:40:28,832 - #4 }
+INFO  22:40:28,832 - #4 }
+INFO  22:40:28,879 - Deklarisana promenljiva i na liniji 7
+INFO  22:40:28,879 - Deklarisana promenljiva ibool na liniji 8
+INFO  22:40:28,879 - Deklarisan niz niz na liniji 10
+INFO  22:40:28,879 - Deklarisan niz nizk na liniji 11
+INFO  22:40:28,879 - Obradjuje se funkcija main na liniji 17
+INFO  22:40:28,879 - upotreba globalne promenljive niz na liniji 20
+ERROR 22:40:28,879 - greska na liniji: 20 broj elemenata niza nije odgovarajuci 
+INFO  22:40:28,879 - Print calls = 0
+ERROR 22:40:28,879 - Parsiranje NIJE uspesno zavrseno!

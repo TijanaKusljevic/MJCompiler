@@ -1,0 +1,116 @@
+INFO  19:40:47,096 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:40:47,268 - #2 program
+INFO  19:40:47,268 - #15 MJProgram
+INFO  19:40:47,268 - #15 int
+INFO  19:40:47,268 - #15 y
+INFO  19:40:47,268 - #5 ;
+INFO  19:40:47,268 - #15 int
+INFO  19:40:47,268 - #15 x
+INFO  19:40:47,268 - #5 ;
+INFO  19:40:47,268 - #15 int
+INFO  19:40:47,268 - #15 z
+INFO  19:40:47,268 - #5 ;
+INFO  19:40:47,268 - #15 int
+INFO  19:40:47,268 - #15 niz
+INFO  19:40:47,268 - #29 [
+INFO  19:40:47,268 - #30 ]
+INFO  19:40:47,268 - #5 ;
+INFO  19:40:47,268 - #3 {
+INFO  19:40:47,283 - #15 int
+INFO  19:40:47,283 - #15 main
+INFO  19:40:47,283 - #6 (
+INFO  19:40:47,283 - #7 )
+INFO  19:40:47,283 - #3 {
+INFO  19:40:47,283 - #15 y
+INFO  19:40:47,283 - #12 =
+INFO  19:40:47,283 - #14 7
+INFO  19:40:47,283 - #5 ;
+INFO  19:40:47,283 - #34 for
+INFO  19:40:47,283 - #6 (
+INFO  19:40:47,283 - #15 x
+INFO  19:40:47,283 - #12 =
+INFO  19:40:47,283 - #14 0
+INFO  19:40:47,283 - #5 ;
+INFO  19:40:47,283 - #15 x
+INFO  19:40:47,299 - #39 <
+INFO  19:40:47,299 - #14 2
+INFO  19:40:47,299 - #5 ;
+INFO  19:40:47,299 - #15 x
+INFO  19:40:47,299 - #18 ++
+INFO  19:40:47,299 - #7 )
+INFO  19:40:47,299 - #3 {
+INFO  19:40:47,315 - #9 print
+INFO  19:40:47,315 - #6 (
+INFO  19:40:47,315 - #15 x
+INFO  19:40:47,315 - #7 )
+INFO  19:40:47,315 - #5 ;
+INFO  19:40:47,315 - #34 for
+INFO  19:40:47,315 - #6 (
+INFO  19:40:47,315 - #15 y
+INFO  19:40:47,315 - #12 =
+INFO  19:40:47,315 - #14 3
+INFO  19:40:47,315 - #5 ;
+INFO  19:40:47,315 - #15 y
+INFO  19:40:47,315 - #39 <
+INFO  19:40:47,315 - #14 5
+INFO  19:40:47,315 - #5 ;
+INFO  19:40:47,330 - #15 y
+INFO  19:40:47,330 - #18 ++
+INFO  19:40:47,330 - #7 )
+INFO  19:40:47,330 - #3 {
+INFO  19:40:47,330 - #16 if
+INFO  19:40:47,330 - #6 (
+INFO  19:40:47,330 - #15 y
+INFO  19:40:47,330 - #37 ==
+INFO  19:40:47,330 - #14 4
+INFO  19:40:47,330 - #7 )
+INFO  19:40:47,346 - #3 {
+INFO  19:40:47,346 - #32 break
+INFO  19:40:47,346 - #5 ;
+INFO  19:40:47,346 - #4 }
+INFO  19:40:47,346 - #9 print
+INFO  19:40:47,346 - #6 (
+INFO  19:40:47,346 - #15 y
+INFO  19:40:47,346 - #7 )
+INFO  19:40:47,346 - #5 ;
+INFO  19:40:47,346 - #4 }
+INFO  19:40:47,346 - #16 if
+INFO  19:40:47,346 - #6 (
+INFO  19:40:47,346 - #15 x
+INFO  19:40:47,346 - #37 ==
+INFO  19:40:47,346 - #14 1
+INFO  19:40:47,346 - #7 )
+INFO  19:40:47,346 - #3 {
+INFO  19:40:47,346 - #32 break
+INFO  19:40:47,346 - #5 ;
+INFO  19:40:47,346 - #4 }
+INFO  19:40:47,362 - #4 }
+INFO  19:40:47,362 - #9 print
+INFO  19:40:47,362 - #6 (
+INFO  19:40:47,362 - #14 12
+INFO  19:40:47,362 - #7 )
+INFO  19:40:47,362 - #5 ;
+INFO  19:40:47,362 - #10 return
+INFO  19:40:47,362 - #14 0
+INFO  19:40:47,362 - #5 ;
+INFO  19:40:47,362 - #4 }
+INFO  19:40:47,362 - #4 }
+INFO  19:40:47,393 - Deklarisana promenljiva y na liniji 2
+INFO  19:40:47,393 - Deklarisana promenljiva x na liniji 3
+INFO  19:40:47,393 - Deklarisana promenljiva z na liniji 4
+INFO  19:40:47,393 - Deklarisan niz niz na liniji 5
+INFO  19:40:47,393 - Obradjuje se funkcija main na liniji 18
+INFO  19:40:47,393 - upotreba globalne promenljive y na liniji 35
+INFO  19:40:47,408 - upotreba globalne promenljive x na liniji 36
+INFO  19:40:47,408 - upotreba globalne promenljive x na liniji 36
+INFO  19:40:47,408 - upotreba globalne promenljive x na liniji 36
+INFO  19:40:47,408 - upotreba globalne promenljive x na liniji 37
+INFO  19:40:47,408 - upotreba globalne promenljive y na liniji 38
+INFO  19:40:47,408 - upotreba globalne promenljive y na liniji 38
+INFO  19:40:47,408 - upotreba globalne promenljive y na liniji 38
+INFO  19:40:47,408 - upotreba globalne promenljive y na liniji 39
+INFO  19:40:47,408 - upotreba globalne promenljive y na liniji 42
+INFO  19:40:47,408 - upotreba globalne promenljive x na liniji 44
+INFO  19:40:47,408 - Print calls = 3
+INFO  19:40:47,908 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:40:47,924 - Parsiranje uspesno zavrseno!

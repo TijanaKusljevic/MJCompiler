@@ -1,0 +1,78 @@
+INFO  10:40:24,643 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:40:24,918 - #2 program
+INFO  10:40:24,918 - #15 test302
+INFO  10:40:24,918 - #44 enum
+INFO  10:40:24,918 - #15 IncrementType
+INFO  10:40:24,918 - #3 {
+INFO  10:40:24,918 - #15 BY_ONE
+INFO  10:40:24,918 - #8 ,
+INFO  10:40:24,918 - #15 DOUBLE_VALUE
+INFO  10:40:24,934 - #4 }
+INFO  10:40:24,934 - #15 int
+INFO  10:40:24,934 - #15 i
+INFO  10:40:24,934 - #5 ;
+INFO  10:40:24,934 - #15 bool
+INFO  10:40:24,934 - #15 ibool
+INFO  10:40:24,934 - #5 ;
+INFO  10:40:24,934 - #15 int
+INFO  10:40:24,934 - #15 k
+INFO  10:40:24,934 - #5 ;
+INFO  10:40:24,934 - #15 int
+INFO  10:40:24,934 - #15 josniz
+INFO  10:40:24,934 - #29 [
+INFO  10:40:24,934 - #30 ]
+INFO  10:40:24,934 - #5 ;
+INFO  10:40:24,950 - #15 int
+INFO  10:40:24,950 - #15 nizk
+INFO  10:40:24,950 - #29 [
+INFO  10:40:24,950 - #30 ]
+INFO  10:40:24,950 - #5 ;
+INFO  10:40:24,950 - #15 int
+INFO  10:40:24,950 - #15 niz
+INFO  10:40:24,950 - #29 [
+INFO  10:40:24,950 - #30 ]
+INFO  10:40:24,950 - #5 ;
+INFO  10:40:24,950 - #3 {
+INFO  10:40:24,950 - #13 void
+INFO  10:40:24,950 - #15 main
+INFO  10:40:24,950 - #6 (
+INFO  10:40:24,950 - #7 )
+INFO  10:40:24,950 - #3 {
+INFO  10:40:24,950 - #15 nizk
+INFO  10:40:24,950 - #12 =
+INFO  10:40:24,950 - #28 new
+INFO  10:40:24,950 - #15 int
+INFO  10:40:24,965 - #29 [
+INFO  10:40:24,965 - #14 2
+INFO  10:40:24,965 - #30 ]
+INFO  10:40:24,965 - #5 ;
+INFO  10:40:24,965 - #15 niz
+INFO  10:40:24,965 - #12 =
+INFO  10:40:24,965 - #28 new
+INFO  10:40:24,965 - #15 char
+INFO  10:40:24,965 - #29 [
+INFO  10:40:24,965 - #14 3
+INFO  10:40:24,965 - #30 ]
+INFO  10:40:24,965 - #3 {
+INFO  10:40:24,965 - #14 7
+INFO  10:40:24,965 - #8 ,
+INFO  10:40:24,965 - #14 7
+INFO  10:40:24,965 - #4 }
+INFO  10:40:24,965 - #5 ;
+INFO  10:40:24,981 - #4 }
+INFO  10:40:24,981 - #4 }
+INFO  10:40:25,059 - Deklarisana promenljiva i na liniji 7
+INFO  10:40:25,059 - Deklarisana promenljiva ibool na liniji 8
+INFO  10:40:25,059 - Deklarisana promenljiva k na liniji 9
+INFO  10:40:25,059 - Deklarisan niz josniz na liniji 11
+INFO  10:40:25,059 - Deklarisan niz nizk na liniji 12
+INFO  10:40:25,059 - Deklarisan niz niz na liniji 13
+INFO  10:40:25,059 - Obradjuje se funkcija main na liniji 19
+INFO  10:40:25,059 - upotreba globalne promenljive nizk na liniji 21
+INFO  10:40:25,059 - upotreba globalne promenljive niz na liniji 22
+ERROR 10:40:25,059 - greska na liniji: 22 element i niz nisu istog tipa 
+ERROR 10:40:25,059 - greska na liniji: 22 element i niz nisu istog tipa 
+ERROR 10:40:25,059 - greska na liniji: 22 broj elemenata niza nije odgovarajuci 
+ERROR 10:40:25,059 - Greska na liniji 22 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+INFO  10:40:25,059 - Print calls = 0
+ERROR 10:40:25,059 - Parsiranje NIJE uspesno zavrseno!

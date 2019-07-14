@@ -1,0 +1,186 @@
+INFO  18:13:13,310 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:13:13,467 - #2 program
+INFO  18:13:13,467 - #15 MJProgram
+INFO  18:13:13,467 - #15 int
+INFO  18:13:13,467 - #15 a
+INFO  18:13:13,467 - #8 ,
+INFO  18:13:13,482 - #15 niz
+INFO  18:13:13,482 - #29 [
+INFO  18:13:13,482 - #30 ]
+INFO  18:13:13,482 - #8 ,
+INFO  18:13:13,482 - #15 b
+INFO  18:13:13,482 - #8 ,
+INFO  18:13:13,482 - #15 c
+INFO  18:13:13,482 - #8 ,
+INFO  18:13:13,482 - #15 niz1
+INFO  18:13:13,482 - #29 [
+INFO  18:13:13,482 - #30 ]
+INFO  18:13:13,482 - #5 ;
+INFO  18:13:13,482 - #15 char
+INFO  18:13:13,482 - #15 ch
+INFO  18:13:13,482 - #8 ,
+INFO  18:13:13,482 - #15 nizc
+INFO  18:13:13,482 - #29 [
+INFO  18:13:13,482 - #30 ]
+INFO  18:13:13,482 - #5 ;
+INFO  18:13:13,482 - #3 {
+INFO  18:13:13,482 - #15 int
+INFO  18:13:13,482 - #15 k
+INFO  18:13:13,482 - #6 (
+INFO  18:13:13,498 - #15 int
+INFO  18:13:13,498 - #15 l
+INFO  18:13:13,498 - #8 ,
+INFO  18:13:13,498 - #15 int
+INFO  18:13:13,498 - #15 kiki
+INFO  18:13:13,498 - #29 [
+ERROR 18:13:13,498 - 
+Sintaksna greska na liniji 8
+INFO  18:13:13,498 - #30 ]
+INFO  18:13:13,498 - #7 )
+INFO  18:13:13,498 - #3 {
+INFO  18:13:13,498 - #10 return
+INFO  18:13:13,498 - #14 3
+DEBUG 18:13:13,498 - Uspesan oporavak od greske pri prosledjivanju parametara.
+INFO  18:13:13,498 - #5 ;
+INFO  18:13:13,498 - #4 }
+INFO  18:13:13,498 - #15 int
+INFO  18:13:13,513 - #15 main
+INFO  18:13:13,513 - #6 (
+INFO  18:13:13,513 - #7 )
+INFO  18:13:13,513 - #3 {
+INFO  18:13:13,513 - #15 a
+INFO  18:13:13,513 - #12 =
+INFO  18:13:13,513 - #14 7
+INFO  18:13:13,513 - #5 ;
+INFO  18:13:13,513 - #15 b
+INFO  18:13:13,513 - #12 =
+INFO  18:13:13,513 - #14 9
+INFO  18:13:13,513 - #5 ;
+INFO  18:13:13,513 - #15 c
+INFO  18:13:13,513 - #12 =
+INFO  18:13:13,513 - #14 90
+INFO  18:13:13,513 - #5 ;
+INFO  18:13:13,529 - #15 niz
+INFO  18:13:13,529 - #12 =
+INFO  18:13:13,529 - #28 new
+INFO  18:13:13,529 - #15 int
+INFO  18:13:13,529 - #29 [
+INFO  18:13:13,529 - #14 3
+INFO  18:13:13,529 - #30 ]
+INFO  18:13:13,529 - #5 ;
+INFO  18:13:13,529 - #15 niz1
+INFO  18:13:13,529 - #12 =
+INFO  18:13:13,529 - #28 new
+INFO  18:13:13,529 - #15 int
+INFO  18:13:13,529 - #29 [
+INFO  18:13:13,529 - #14 2
+INFO  18:13:13,529 - #30 ]
+INFO  18:13:13,529 - #5 ;
+INFO  18:13:13,529 - #15 nizc
+INFO  18:13:13,529 - #12 =
+INFO  18:13:13,529 - #28 new
+INFO  18:13:13,529 - #15 char
+INFO  18:13:13,529 - #29 [
+INFO  18:13:13,529 - #14 2
+INFO  18:13:13,529 - #30 ]
+INFO  18:13:13,529 - #5 ;
+INFO  18:13:13,529 - #15 ch
+INFO  18:13:13,529 - #12 =
+INFO  18:13:13,529 - #18 h
+INFO  18:13:13,529 - #5 ;
+INFO  18:13:13,545 - #15 nizc
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 0
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #18 t
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 nizc
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 1
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #18 i
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 niz
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 0
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #14 3
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 niz
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 1
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #14 33
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 niz
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 2
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #14 333
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 niz1
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 0
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #14 1
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 niz1
+INFO  18:13:13,545 - #29 [
+INFO  18:13:13,545 - #14 1
+INFO  18:13:13,545 - #30 ]
+INFO  18:13:13,545 - #12 =
+INFO  18:13:13,545 - #14 11
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #15 k
+INFO  18:13:13,545 - #6 (
+INFO  18:13:13,545 - #15 a
+INFO  18:13:13,545 - #8 ,
+INFO  18:13:13,545 - #15 niz
+INFO  18:13:13,545 - #7 )
+INFO  18:13:13,545 - #5 ;
+INFO  18:13:13,545 - #10 return
+INFO  18:13:13,560 - #14 0
+INFO  18:13:13,560 - #5 ;
+INFO  18:13:13,560 - #4 }
+INFO  18:13:13,560 - #4 }
+INFO  18:13:13,592 - Deklarisan niz niz na liniji 5
+INFO  18:13:13,592 - Deklarisana promenljiva b na liniji 5
+INFO  18:13:13,592 - Deklarisana promenljiva c na liniji 5
+INFO  18:13:13,592 - Deklarisan niz niz1 na liniji 5
+INFO  18:13:13,592 - Deklarisana promenljiva a na liniji 3
+INFO  18:13:13,592 - Deklarisan niz nizc na liniji 6
+INFO  18:13:13,592 - Deklarisana promenljiva ch na liniji 4
+INFO  18:13:13,592 - Obradjuje se funkcija k na liniji 8
+INFO  18:13:13,592 - Obradjuje se funkcija main na liniji 14
+INFO  18:13:13,592 - upotreba globalne promenljive a na liniji 16
+INFO  18:13:13,592 - upotreba globalne promenljive b na liniji 17
+INFO  18:13:13,592 - upotreba globalne promenljive c na liniji 18
+INFO  18:13:13,592 - upotreba globalne promenljive niz na liniji 20
+INFO  18:13:13,592 - upotreba globalne promenljive niz1 na liniji 21
+INFO  18:13:13,592 - upotreba globalne promenljive nizc na liniji 23
+INFO  18:13:13,592 - upotreba globalne promenljive ch na liniji 25
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 26
+INFO  18:13:13,592 - upotreba globalne promenljive nizc na liniji 26
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 27
+INFO  18:13:13,592 - upotreba globalne promenljive nizc na liniji 27
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 30
+INFO  18:13:13,592 - upotreba globalne promenljive niz na liniji 30
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 31
+INFO  18:13:13,592 - upotreba globalne promenljive niz na liniji 31
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 32
+INFO  18:13:13,592 - upotreba globalne promenljive niz na liniji 32
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 34
+INFO  18:13:13,592 - upotreba globalne promenljive niz1 na liniji 34
+INFO  18:13:13,592 - Pristup elementu niza  na liniji 35
+INFO  18:13:13,592 - upotreba globalne promenljive niz1 na liniji 35
+INFO  18:13:13,592 - upotreba globalne promenljive k na liniji 37
+INFO  18:13:13,592 - upotreba globalne promenljive a na liniji 37
+INFO  18:13:13,592 - upotreba globalne promenljive niz na liniji 37
+INFO  18:13:13,592 - Print calls = 0
+ERROR 18:13:13,607 - Parsiranje NIJE uspesno zavrseno!

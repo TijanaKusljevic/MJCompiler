@@ -1,0 +1,54 @@
+INFO  16:50:45,972 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:50:46,140 - #2 program
+INFO  16:50:46,141 - #15 MJProgram
+INFO  16:50:46,141 - #15 int
+INFO  16:50:46,146 - #15 a
+INFO  16:50:46,149 - #8 ,
+INFO  16:50:46,155 - #15 niz
+INFO  16:50:46,155 - #29 [
+INFO  16:50:46,155 - #30 ]
+INFO  16:50:46,156 - #8 ,
+INFO  16:50:46,158 - #15 b
+INFO  16:50:46,158 - #8 ,
+INFO  16:50:46,159 - #15 c
+INFO  16:50:46,159 - #5 ;
+INFO  16:50:46,159 - #3 {
+INFO  16:50:46,161 - #15 int
+INFO  16:50:46,163 - #15 main
+INFO  16:50:46,163 - #6 (
+INFO  16:50:46,164 - #7 )
+INFO  16:50:46,165 - #3 {
+INFO  16:50:46,166 - #15 a
+INFO  16:50:46,167 - #12 =
+INFO  16:50:46,171 - #14 7
+INFO  16:50:46,171 - #5 ;
+INFO  16:50:46,175 - #15 b
+INFO  16:50:46,176 - #12 =
+INFO  16:50:46,177 - #14 9
+INFO  16:50:46,178 - #5 ;
+INFO  16:50:46,178 - #15 c
+INFO  16:50:46,178 - #12 =
+INFO  16:50:46,178 - #14 90
+INFO  16:50:46,178 - #5 ;
+INFO  16:50:46,179 - #15 niz
+INFO  16:50:46,179 - #12 =
+INFO  16:50:46,179 - #28 new
+INFO  16:50:46,179 - #15 int
+INFO  16:50:46,179 - #29 [
+INFO  16:50:46,179 - #14 3
+INFO  16:50:46,179 - #30 ]
+INFO  16:50:46,179 - #5 ;
+INFO  16:50:46,180 - #10 return
+INFO  16:50:46,180 - #14 0
+INFO  16:50:46,181 - #5 ;
+INFO  16:50:46,181 - #4 }
+INFO  16:50:46,183 - #4 }
+INFO  16:50:46,226 - Deklarisana promenljiva a na liniji 3
+INFO  16:50:46,227 - Obradjuje se funkcija main na liniji 6
+INFO  16:50:46,227 - upotreba globalne promenljive a na liniji 8
+INFO  16:50:46,227 - upotreba globalne promenljive b na liniji 9
+INFO  16:50:46,228 - upotreba globalne promenljive c na liniji 10
+INFO  16:50:46,228 - upotreba globalne promenljive niz na liniji 12
+ERROR 16:50:46,228 - Greska na liniji 12 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:50:46,228 - Print calls = 0
+ERROR 16:50:46,230 - Parsiranje NIJE uspesno zavrseno!

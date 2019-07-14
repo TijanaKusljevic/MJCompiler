@@ -1,0 +1,83 @@
+INFO  21:43:55,451 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:43:55,622 - #2 program
+INFO  21:43:55,622 - #15 test302
+INFO  21:43:55,622 - #44 enum
+INFO  21:43:55,622 - #15 IncrementType
+INFO  21:43:55,638 - #3 {
+INFO  21:43:55,638 - #15 BY_ONE
+INFO  21:43:55,638 - #8 ,
+INFO  21:43:55,638 - #15 DOUBLE_VALUE
+INFO  21:43:55,638 - #4 }
+INFO  21:43:55,638 - #15 int
+INFO  21:43:55,638 - #15 i
+INFO  21:43:55,638 - #5 ;
+INFO  21:43:55,654 - #15 bool
+INFO  21:43:55,654 - #15 ibool
+INFO  21:43:55,654 - #5 ;
+INFO  21:43:55,654 - #15 int
+INFO  21:43:55,654 - #15 niz
+INFO  21:43:55,654 - #29 [
+INFO  21:43:55,654 - #30 ]
+INFO  21:43:55,654 - #5 ;
+INFO  21:43:55,654 - #15 int
+INFO  21:43:55,654 - #15 niz1
+INFO  21:43:55,654 - #29 [
+INFO  21:43:55,654 - #30 ]
+INFO  21:43:55,669 - #5 ;
+INFO  21:43:55,669 - #3 {
+INFO  21:43:55,669 - #13 void
+INFO  21:43:55,669 - #15 main
+INFO  21:43:55,669 - #6 (
+INFO  21:43:55,669 - #7 )
+INFO  21:43:55,669 - #3 {
+INFO  21:43:55,669 - #15 niz
+INFO  21:43:55,669 - #12 =
+INFO  21:43:55,685 - #28 new
+INFO  21:43:55,685 - #15 int
+INFO  21:43:55,685 - #29 [
+INFO  21:43:55,685 - #14 2
+INFO  21:43:55,685 - #30 ]
+INFO  21:43:55,685 - #3 {
+INFO  21:43:55,685 - #14 7
+INFO  21:43:55,685 - #8 ,
+INFO  21:43:55,685 - #14 8
+INFO  21:43:55,685 - #4 }
+INFO  21:43:55,685 - #5 ;
+INFO  21:43:55,685 - #15 niz1
+INFO  21:43:55,685 - #12 =
+INFO  21:43:55,685 - #28 new
+INFO  21:43:55,685 - #15 int
+INFO  21:43:55,685 - #29 [
+INFO  21:43:55,685 - #14 2
+INFO  21:43:55,685 - #30 ]
+INFO  21:43:55,685 - #5 ;
+INFO  21:43:55,701 - #15 niz1
+INFO  21:43:55,701 - #29 [
+INFO  21:43:55,701 - #14 0
+INFO  21:43:55,701 - #30 ]
+INFO  21:43:55,701 - #12 =
+INFO  21:43:55,701 - #14 5
+INFO  21:43:55,701 - #5 ;
+INFO  21:43:55,701 - #15 niz1
+INFO  21:43:55,701 - #29 [
+INFO  21:43:55,701 - #14 1
+INFO  21:43:55,701 - #30 ]
+INFO  21:43:55,701 - #12 =
+INFO  21:43:55,701 - #14 6
+INFO  21:43:55,701 - #5 ;
+INFO  21:43:55,701 - #4 }
+INFO  21:43:55,701 - #4 }
+INFO  21:43:55,747 - Deklarisana promenljiva i na liniji 7
+INFO  21:43:55,747 - Deklarisana promenljiva ibool na liniji 8
+INFO  21:43:55,747 - Deklarisan niz niz na liniji 10
+INFO  21:43:55,747 - Deklarisan niz niz1 na liniji 11
+INFO  21:43:55,747 - Obradjuje se funkcija main na liniji 32
+INFO  21:43:55,747 - upotreba globalne promenljive niz na liniji 37
+INFO  21:43:55,763 - upotreba globalne promenljive niz1 na liniji 39
+ERROR 21:43:55,763 - Greska na liniji 39 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  21:43:55,763 - Pristup elementu niza  na liniji 40
+INFO  21:43:55,763 - upotreba globalne promenljive niz1 na liniji 40
+INFO  21:43:55,763 - Pristup elementu niza  na liniji 41
+INFO  21:43:55,763 - upotreba globalne promenljive niz1 na liniji 41
+INFO  21:43:55,763 - Print calls = 0
+ERROR 21:43:55,763 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,108 @@
+INFO  21:42:49,726 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:42:49,871 - #2 program
+INFO  21:42:49,887 - #15 MJProgram
+INFO  21:42:49,887 - #15 int
+INFO  21:42:49,887 - #15 x
+INFO  21:42:49,887 - #5 ;
+INFO  21:42:49,887 - #15 int
+INFO  21:42:49,887 - #15 y
+INFO  21:42:49,887 - #5 ;
+INFO  21:42:49,887 - #43 const
+INFO  21:42:49,887 - #15 int
+INFO  21:42:49,887 - #15 soi
+INFO  21:42:49,887 - #12 =
+INFO  21:42:49,887 - #14 7
+INFO  21:42:49,887 - #5 ;
+INFO  21:42:49,887 - #43 const
+INFO  21:42:49,887 - #15 int
+INFO  21:42:49,887 - #15 so
+INFO  21:42:49,887 - #12 =
+INFO  21:42:49,887 - #14 0
+INFO  21:42:49,887 - #5 ;
+INFO  21:42:49,887 - #43 const
+INFO  21:42:49,887 - #15 char
+INFO  21:42:49,887 - #15 caki
+INFO  21:42:49,902 - #12 =
+INFO  21:42:49,902 - #25 a
+INFO  21:42:49,902 - #5 ;
+INFO  21:42:49,902 - #15 int
+INFO  21:42:49,902 - #15 niz
+INFO  21:42:49,902 - #29 [
+INFO  21:42:49,902 - #30 ]
+INFO  21:42:49,902 - #5 ;
+INFO  21:42:49,902 - #43 const
+INFO  21:42:49,902 - #15 bool
+INFO  21:42:49,902 - #15 pera
+INFO  21:42:49,902 - #12 =
+INFO  21:42:49,902 - #27 true
+INFO  21:42:49,902 - #5 ;
+INFO  21:42:49,902 - #15 char
+INFO  21:42:49,902 - #15 b
+INFO  21:42:49,902 - #5 ;
+INFO  21:42:49,902 - #15 bool
+INFO  21:42:49,902 - #15 kikisa
+INFO  21:42:49,902 - #5 ;
+INFO  21:42:49,902 - #44 enum
+INFO  21:42:49,902 - #15 ukucani
+INFO  21:42:49,902 - #3 {
+INFO  21:42:49,902 - #15 ja
+INFO  21:42:49,902 - #8 ,
+INFO  21:42:49,902 - #15 diki
+INFO  21:42:49,902 - #4 }
+INFO  21:42:49,918 - #3 {
+INFO  21:42:49,918 - #15 int
+INFO  21:42:49,918 - #15 main
+INFO  21:42:49,918 - #6 (
+INFO  21:42:49,918 - #7 )
+INFO  21:42:49,918 - #3 {
+INFO  21:42:49,918 - #15 y
+INFO  21:42:49,918 - #12 =
+INFO  21:42:49,918 - #14 2
+INFO  21:42:49,918 - #22 *
+INFO  21:42:49,942 - #14 5
+INFO  21:42:49,942 - #5 ;
+INFO  21:42:49,942 - #15 y
+INFO  21:42:49,950 - #12 =
+INFO  21:42:49,950 - #15 y
+INFO  21:42:49,950 - #21 -
+INFO  21:42:49,950 - #14 1
+INFO  21:42:49,952 - #5 ;
+INFO  21:42:49,952 - #15 y
+INFO  21:42:49,952 - #18 ++
+INFO  21:42:49,952 - #5 ;
+INFO  21:42:49,952 - #15 x
+INFO  21:42:49,952 - #12 =
+INFO  21:42:49,952 - #15 y
+INFO  21:42:49,952 - #11 +
+INFO  21:42:49,952 - #14 2
+INFO  21:42:49,952 - #5 ;
+INFO  21:42:49,952 - #15 y
+INFO  21:42:49,952 - #12 =
+INFO  21:42:49,952 - #21 -
+INFO  21:42:49,952 - #14 7
+INFO  21:42:49,952 - #5 ;
+INFO  21:42:49,952 - #10 return
+INFO  21:42:49,952 - #14 0
+INFO  21:42:49,952 - #5 ;
+INFO  21:42:49,952 - #4 }
+INFO  21:42:49,952 - #4 }
+INFO  21:42:49,992 - Deklarisana promenljiva x na liniji 2
+INFO  21:42:49,992 - Deklarisana promenljiva y na liniji 2
+INFO  21:42:49,992 - Deklarisana konstanta soi na liniji 3
+INFO  21:42:49,992 - Deklarisana konstanta so na liniji 4
+INFO  21:42:49,992 - Deklarisana konstanta caki na liniji 5
+INFO  21:42:49,992 - Deklarisan niz niz na liniji 6
+INFO  21:42:50,000 - Deklarisana konstanta pera na liniji 7
+INFO  21:42:50,000 - Deklarisana promenljiva b na liniji 8
+INFO  21:42:50,000 - Deklarisana promenljiva kikisa na liniji 9
+INFO  21:42:50,000 - Obradjuje se funkcija main na liniji 38
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 39
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 40
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 40
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 41
+INFO  21:42:50,000 - upotreba globalne promenljive x na liniji 42
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 42
+INFO  21:42:50,000 - upotreba globalne promenljive y na liniji 45
+INFO  21:42:50,000 - Print calls = 0
+INFO  21:42:50,123 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:42:50,141 - Parsiranje uspesno zavrseno!

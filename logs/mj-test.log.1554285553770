@@ -1,0 +1,82 @@
+INFO  11:59:05,009 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:59:05,185 - #2 program
+INFO  11:59:05,186 - #15 MJProgram
+INFO  11:59:05,186 - #15 int
+INFO  11:59:05,202 - #15 a
+INFO  11:59:05,204 - #5 ;
+INFO  11:59:05,209 - #15 char
+INFO  11:59:05,210 - #15 c
+INFO  11:59:05,210 - #5 ;
+INFO  11:59:05,210 - #44 enum
+INFO  11:59:05,210 - #15 Zivotinja
+INFO  11:59:05,211 - #3 {
+INFO  11:59:05,212 - #15 ZEBRA
+INFO  11:59:05,213 - #4 }
+INFO  11:59:05,215 - #44 enum
+INFO  11:59:05,217 - #15 Voze
+INFO  11:59:05,217 - #3 {
+INFO  11:59:05,217 - #15 JABUKA
+INFO  11:59:05,217 - #4 }
+INFO  11:59:05,218 - #15 Zivotinja
+INFO  11:59:05,218 - #15 ziv
+INFO  11:59:05,223 - #5 ;
+INFO  11:59:05,223 - #15 Voze
+INFO  11:59:05,224 - #15 v
+INFO  11:59:05,224 - #5 ;
+INFO  11:59:05,224 - #3 {
+INFO  11:59:05,224 - #15 int
+INFO  11:59:05,226 - #15 main
+INFO  11:59:05,226 - #6 (
+INFO  11:59:05,226 - #7 )
+INFO  11:59:05,227 - #3 {
+INFO  11:59:05,227 - #15 ziv
+INFO  11:59:05,228 - #12 =
+INFO  11:59:05,231 - #15 Zivotinja
+INFO  11:59:05,231 - #31 .
+INFO  11:59:05,231 - #15 ZEBRA
+INFO  11:59:05,231 - #5 ;
+INFO  11:59:05,234 - #15 a
+INFO  11:59:05,235 - #12 =
+INFO  11:59:05,235 - #14 1
+INFO  11:59:05,235 - #5 ;
+INFO  11:59:05,235 - #15 c
+INFO  11:59:05,236 - #12 =
+INFO  11:59:05,236 - #18 i
+INFO  11:59:05,236 - #5 ;
+INFO  11:59:05,237 - #9 print
+INFO  11:59:05,238 - #6 (
+INFO  11:59:05,238 - #15 a
+INFO  11:59:05,239 - #7 )
+INFO  11:59:05,239 - #5 ;
+INFO  11:59:05,239 - #15 v
+INFO  11:59:05,239 - #12 =
+INFO  11:59:05,243 - #15 Voze
+INFO  11:59:05,243 - #31 .
+INFO  11:59:05,243 - #15 JABUKA
+INFO  11:59:05,244 - #5 ;
+INFO  11:59:05,247 - #9 print
+INFO  11:59:05,247 - #6 (
+INFO  11:59:05,247 - #15 c
+INFO  11:59:05,247 - #7 )
+INFO  11:59:05,247 - #5 ;
+INFO  11:59:05,258 - #10 return
+INFO  11:59:05,258 - #14 0
+INFO  11:59:05,258 - #5 ;
+INFO  11:59:05,258 - #4 }
+INFO  11:59:05,259 - #4 }
+INFO  11:59:05,297 - Deklarisana promenljiva a na liniji 3
+INFO  11:59:05,298 - Deklarisana promenljiva c na liniji 4
+INFO  11:59:05,298 - Deklarisana promenljiva ziv na liniji 7
+INFO  11:59:05,298 - Deklarisana promenljiva v na liniji 8
+INFO  11:59:05,298 - Obradjuje se funkcija main na liniji 14
+INFO  11:59:05,299 - upotreba globalne promenljive ziv na liniji 16
+INFO  11:59:05,299 - upotreba globalne promenljive Zivotinja na liniji 16
+INFO  11:59:05,299 - upotreba globalne promenljive a na liniji 17
+INFO  11:59:05,299 - upotreba globalne promenljive c na liniji 18
+INFO  11:59:05,299 - upotreba globalne promenljive a na liniji 19
+INFO  11:59:05,299 - upotreba globalne promenljive v na liniji 20
+INFO  11:59:05,299 - upotreba globalne promenljive Voze na liniji 20
+INFO  11:59:05,299 - upotreba globalne promenljive c na liniji 21
+INFO  11:59:05,300 - Print calls = 2
+INFO  11:59:05,301 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:59:05,315 - Parsiranje uspesno zavrseno!

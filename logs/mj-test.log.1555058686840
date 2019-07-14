@@ -1,0 +1,39 @@
+INFO  10:43:44,400 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:43:44,518 - #2 program
+INFO  10:43:44,519 - #15 MJProgram
+INFO  10:43:44,519 - #15 int
+INFO  10:43:44,522 - #15 a
+INFO  10:43:44,524 - #5 ;
+INFO  10:43:44,528 - #3 {
+INFO  10:43:44,529 - #15 int
+INFO  10:43:44,530 - #15 main
+INFO  10:43:44,530 - #6 (
+INFO  10:43:44,530 - #7 )
+INFO  10:43:44,532 - #3 {
+INFO  10:43:44,532 - #15 a
+INFO  10:43:44,533 - #12 =
+INFO  10:43:44,535 - #14 7
+INFO  10:43:44,536 - #5 ;
+INFO  10:43:44,538 - #21 read
+INFO  10:43:44,539 - #6 (
+INFO  10:43:44,539 - #15 a
+INFO  10:43:44,539 - #7 )
+INFO  10:43:44,539 - #5 ;
+INFO  10:43:44,540 - #9 print
+INFO  10:43:44,548 - #6 (
+INFO  10:43:44,548 - #15 a
+INFO  10:43:44,548 - #7 )
+INFO  10:43:44,548 - #5 ;
+INFO  10:43:44,548 - #10 return
+INFO  10:43:44,549 - #14 0
+INFO  10:43:44,549 - #5 ;
+INFO  10:43:44,549 - #4 }
+INFO  10:43:44,549 - #4 }
+INFO  10:43:44,584 - Deklarisana promenljiva a na liniji 3
+INFO  10:43:44,584 - Obradjuje se funkcija main na liniji 9
+INFO  10:43:44,584 - upotreba globalne promenljive a na liniji 10
+INFO  10:43:44,584 - upotreba globalne promenljive a na liniji 13
+INFO  10:43:44,584 - upotreba globalne promenljive a na liniji 14
+INFO  10:43:44,585 - Print calls = 1
+INFO  10:43:44,586 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  10:43:44,598 - Parsiranje uspesno zavrseno!

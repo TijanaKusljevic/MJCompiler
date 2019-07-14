@@ -1,0 +1,30 @@
+INFO  16:19:21,751 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:19:21,943 - #2 program
+INFO  16:19:21,944 - #15 MJProgram
+INFO  16:19:21,944 - #43 const
+INFO  16:19:21,948 - #15 int
+INFO  16:19:21,949 - #15 a
+INFO  16:19:21,952 - #12 =
+INFO  16:19:21,952 - #14 8
+INFO  16:19:21,953 - #5 ;
+INFO  16:19:21,956 - #3 {
+INFO  16:19:21,958 - #15 int
+INFO  16:19:21,961 - #15 main
+INFO  16:19:21,961 - #6 (
+INFO  16:19:21,962 - #7 )
+INFO  16:19:21,964 - #3 {
+INFO  16:19:21,965 - #9 print
+INFO  16:19:21,966 - #6 (
+INFO  16:19:21,967 - #18 a
+INFO  16:19:21,967 - #7 )
+INFO  16:19:21,971 - #5 ;
+INFO  16:19:21,971 - #10 return
+INFO  16:19:21,972 - #14 0
+INFO  16:19:21,973 - #5 ;
+INFO  16:19:21,976 - #4 }
+INFO  16:19:21,976 - #4 }
+INFO  16:19:22,028 - Deklarisana konstanta a na liniji 3
+INFO  16:19:22,028 - Obradjuje se funkcija main na liniji 6
+INFO  16:19:22,029 - Print calls = 1
+INFO  16:19:22,031 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:19:22,045 - Parsiranje uspesno zavrseno!

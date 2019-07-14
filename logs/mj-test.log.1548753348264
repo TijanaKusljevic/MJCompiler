@@ -1,0 +1,59 @@
+INFO  10:15:35,210 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:15:35,349 - #2 program
+INFO  10:15:35,350 - #15 MJProgram
+INFO  10:15:35,350 - #15 int
+INFO  10:15:35,354 - #15 x
+INFO  10:15:35,357 - #5 ;
+INFO  10:15:35,358 - #15 int
+INFO  10:15:35,360 - #15 y
+INFO  10:15:35,361 - #5 ;
+INFO  10:15:35,361 - #3 {
+INFO  10:15:35,362 - #15 int
+INFO  10:15:35,364 - #15 k
+INFO  10:15:35,364 - #6 (
+INFO  10:15:35,367 - #7 )
+INFO  10:15:35,369 - #15 int
+INFO  10:15:35,370 - #15 c
+INFO  10:15:35,371 - #5 ;
+INFO  10:15:35,374 - #3 {
+INFO  10:15:35,375 - #15 c
+INFO  10:15:35,378 - #12 =
+INFO  10:15:35,383 - #14 1
+INFO  10:15:35,385 - #5 ;
+INFO  10:15:35,395 - #10 return
+INFO  10:15:35,397 - #15 c
+INFO  10:15:35,397 - #11 +
+INFO  10:15:35,398 - #14 2
+INFO  10:15:35,400 - #5 ;
+INFO  10:15:35,401 - #4 }
+INFO  10:15:35,401 - #15 int
+INFO  10:15:35,404 - #15 main
+INFO  10:15:35,404 - #6 (
+INFO  10:15:35,404 - #7 )
+INFO  10:15:35,405 - #3 {
+INFO  10:15:35,405 - #15 y
+INFO  10:15:35,405 - #18 ++
+INFO  10:15:35,405 - #5 ;
+INFO  10:15:35,406 - #9 print
+INFO  10:15:35,406 - #6 (
+INFO  10:15:35,406 - #15 y
+INFO  10:15:35,407 - #7 )
+INFO  10:15:35,407 - #5 ;
+INFO  10:15:35,407 - #20 read
+INFO  10:15:35,407 - #6 (
+INFO  10:15:35,408 - #15 y
+INFO  10:15:35,408 - #7 )
+INFO  10:15:35,408 - #5 ;
+INFO  10:15:35,408 - #10 return
+INFO  10:15:35,409 - #14 0
+INFO  10:15:35,409 - #5 ;
+INFO  10:15:35,409 - #4 }
+INFO  10:15:35,409 - #4 }
+INFO  10:15:35,467 - Deklarisana promenljiva x na liniji 2
+INFO  10:15:35,467 - Deklarisana promenljiva y na liniji 2
+INFO  10:15:35,467 - Obradjuje se funkcija k na liniji 7
+INFO  10:15:35,468 - Deklarisana promenljiva c na liniji 7
+INFO  10:15:35,468 - Obradjuje se funkcija main na liniji 12
+INFO  10:15:35,469 - Print calls = 1
+INFO  10:15:35,472 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  10:15:35,488 - Parsiranje uspesno zavrseno!

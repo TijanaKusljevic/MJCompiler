@@ -1,0 +1,40 @@
+INFO  16:38:47,411 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:38:47,982 - #2 program
+INFO  16:38:47,986 - #15 MJProgram
+INFO  16:38:47,986 - #43 const
+INFO  16:38:48,011 - #15 int
+INFO  16:38:48,012 - #15 a
+INFO  16:38:48,015 - #12 =
+INFO  16:38:48,015 - #14 8
+INFO  16:38:48,015 - #8 ,
+INFO  16:38:48,018 - #15 b
+INFO  16:38:48,018 - #12 =
+INFO  16:38:48,018 - #14 9
+INFO  16:38:48,018 - #5 ;
+INFO  16:38:48,026 - #3 {
+INFO  16:38:48,031 - #15 int
+INFO  16:38:48,033 - #15 main
+INFO  16:38:48,034 - #6 (
+INFO  16:38:48,035 - #7 )
+INFO  16:38:48,037 - #3 {
+INFO  16:38:48,047 - #9 print
+INFO  16:38:48,054 - #6 (
+INFO  16:38:48,055 - #15 a
+INFO  16:38:48,057 - #7 )
+INFO  16:38:48,066 - #5 ;
+INFO  16:38:48,066 - #9 print
+INFO  16:38:48,067 - #6 (
+INFO  16:38:48,067 - #15 b
+INFO  16:38:48,068 - #7 )
+INFO  16:38:48,068 - #5 ;
+INFO  16:38:48,068 - #10 return
+INFO  16:38:48,068 - #14 0
+INFO  16:38:48,068 - #5 ;
+INFO  16:38:48,069 - #4 }
+INFO  16:38:48,069 - #4 }
+INFO  16:38:48,141 - Deklarisana konstanta a na liniji 3
+INFO  16:38:48,142 - Obradjuje se funkcija main na liniji 6
+INFO  16:38:48,142 - upotreba globalne konstante a na liniji 8
+INFO  16:38:48,145 - upotreba globalne konstante b na liniji 9
+ERROR 16:38:48,146 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 9
+INFO  16:38:48,146 - Print calls = 2

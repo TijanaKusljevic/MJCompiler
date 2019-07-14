@@ -1,0 +1,119 @@
+INFO  20:09:19,421 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:09:19,683 - #2 program
+INFO  20:09:19,685 - #15 test301
+INFO  20:09:19,686 - #44 enum
+INFO  20:09:19,699 - #15 Broj
+INFO  20:09:19,699 - #3 {
+INFO  20:09:19,702 - #15 NULA
+INFO  20:09:19,702 - #8 ,
+INFO  20:09:19,715 - #15 JEDAN
+INFO  20:09:19,715 - #8 ,
+INFO  20:09:19,716 - #15 PET
+INFO  20:09:19,717 - #12 =
+INFO  20:09:19,718 - #14 5
+INFO  20:09:19,718 - #8 ,
+INFO  20:09:19,719 - #15 DESET
+INFO  20:09:19,719 - #12 =
+INFO  20:09:19,720 - #14 10
+INFO  20:09:19,721 - #4 }
+INFO  20:09:19,721 - #43 const
+INFO  20:09:19,723 - #15 int
+INFO  20:09:19,724 - #15 tri
+INFO  20:09:19,727 - #12 =
+INFO  20:09:19,728 - #14 3
+INFO  20:09:19,729 - #5 ;
+INFO  20:09:19,731 - #44 enum
+INFO  20:09:19,732 - #15 Iznos
+INFO  20:09:19,732 - #3 {
+INFO  20:09:19,732 - #15 NULA
+INFO  20:09:19,733 - #8 ,
+INFO  20:09:19,733 - #15 JEDAN
+INFO  20:09:19,733 - #8 ,
+INFO  20:09:19,733 - #15 DVA
+INFO  20:09:19,734 - #8 ,
+INFO  20:09:19,734 - #15 SEDAM
+INFO  20:09:19,735 - #12 =
+INFO  20:09:19,738 - #14 7
+INFO  20:09:19,738 - #8 ,
+INFO  20:09:19,739 - #15 OSAM
+INFO  20:09:19,739 - #4 }
+INFO  20:09:19,740 - #3 {
+INFO  20:09:19,740 - #13 void
+INFO  20:09:19,742 - #15 main
+INFO  20:09:19,742 - #6 (
+INFO  20:09:19,743 - #7 )
+INFO  20:09:19,747 - #15 int
+INFO  20:09:19,747 - #15 test
+INFO  20:09:19,747 - #5 ;
+INFO  20:09:19,763 - #15 Iznos
+INFO  20:09:19,764 - #15 sedam
+INFO  20:09:19,765 - #5 ;
+INFO  20:09:19,765 - #3 {
+INFO  20:09:19,765 - #15 sedam
+INFO  20:09:19,769 - #12 =
+INFO  20:09:19,775 - #15 Iznos
+INFO  20:09:19,776 - #31 .
+INFO  20:09:19,776 - #15 SEDAM
+INFO  20:09:19,776 - #5 ;
+INFO  20:09:19,796 - #15 test
+INFO  20:09:19,797 - #12 =
+INFO  20:09:19,798 - #15 sedam
+INFO  20:09:19,798 - #5 ;
+INFO  20:09:19,799 - #15 test
+INFO  20:09:19,801 - #12 =
+INFO  20:09:19,803 - #15 test
+INFO  20:09:19,805 - #11 +
+INFO  20:09:19,806 - #15 Iznos
+INFO  20:09:19,815 - #31 .
+INFO  20:09:19,816 - #15 JEDAN
+INFO  20:09:19,818 - #5 ;
+INFO  20:09:19,825 - #9 print
+INFO  20:09:19,825 - #6 (
+INFO  20:09:19,826 - #15 test
+INFO  20:09:19,826 - #7 )
+INFO  20:09:19,826 - #5 ;
+INFO  20:09:19,827 - #21 read
+INFO  20:09:19,827 - #6 (
+INFO  20:09:19,830 - #15 test
+INFO  20:09:19,831 - #7 )
+INFO  20:09:19,831 - #5 ;
+INFO  20:09:19,832 - #9 print
+INFO  20:09:19,832 - #6 (
+INFO  20:09:19,832 - #15 test
+INFO  20:09:19,832 - #22 -
+INFO  20:09:19,833 - #15 Iznos
+INFO  20:09:19,835 - #31 .
+INFO  20:09:19,835 - #15 OSAM
+INFO  20:09:19,836 - #7 )
+INFO  20:09:19,836 - #5 ;
+INFO  20:09:19,836 - #9 print
+INFO  20:09:19,836 - #6 (
+INFO  20:09:19,836 - #15 test
+INFO  20:09:19,837 - #23 *
+INFO  20:09:19,837 - #15 Iznos
+INFO  20:09:19,840 - #31 .
+INFO  20:09:19,840 - #15 NULA
+INFO  20:09:19,840 - #7 )
+INFO  20:09:19,841 - #5 ;
+INFO  20:09:19,841 - #4 }
+INFO  20:09:19,841 - #4 }
+INFO  20:09:19,909 - Deklarisana konstanta tri na liniji 7
+INFO  20:09:19,910 - Obradjuje se funkcija main na liniji 14
+INFO  20:09:19,910 - Deklarisana promenljiva test na liniji 15
+INFO  20:09:19,911 - Deklarisana promenljiva sedam na liniji 16
+INFO  20:09:19,911 - upotreba lokalne promenljive sedam na liniji 18
+INFO  20:09:19,911 - upotreba globalne promenljive Iznos na liniji 18
+INFO  20:09:19,912 - upotreba lokalne promenljive test na liniji 20
+INFO  20:09:19,912 - upotreba lokalne promenljive sedam na liniji 20
+INFO  20:09:19,913 - upotreba lokalne promenljive test na liniji 21
+INFO  20:09:19,913 - upotreba lokalne promenljive test na liniji 21
+INFO  20:09:19,913 - upotreba globalne promenljive Iznos na liniji 21
+INFO  20:09:19,914 - upotreba lokalne promenljive test na liniji 23
+INFO  20:09:19,914 - upotreba lokalne promenljive test na liniji 25
+INFO  20:09:19,914 - upotreba lokalne promenljive test na liniji 27
+INFO  20:09:19,915 - upotreba globalne promenljive Iznos na liniji 27
+INFO  20:09:19,915 - upotreba lokalne promenljive test na liniji 29
+INFO  20:09:19,916 - upotreba globalne promenljive Iznos na liniji 29
+INFO  20:09:19,933 - Print calls = 3
+INFO  20:09:19,934 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:09:19,978 - Parsiranje uspesno zavrseno!

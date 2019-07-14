@@ -1,0 +1,94 @@
+INFO  20:40:38,709 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:40:38,938 - #2 program
+INFO  20:40:38,938 - #15 MJProgram
+INFO  20:40:38,939 - #15 int
+INFO  20:40:38,946 - #15 a
+INFO  20:40:38,948 - #8 ,
+INFO  20:40:38,955 - #15 b
+INFO  20:40:38,955 - #5 ;
+INFO  20:40:38,956 - #15 int
+INFO  20:40:38,957 - #15 niz
+INFO  20:40:38,958 - #29 [
+INFO  20:40:38,958 - #30 ]
+INFO  20:40:38,958 - #5 ;
+INFO  20:40:38,961 - #3 {
+INFO  20:40:38,961 - #15 int
+INFO  20:40:38,965 - #15 k
+INFO  20:40:38,965 - #6 (
+INFO  20:40:38,966 - #15 int
+INFO  20:40:38,966 - #15 m
+INFO  20:40:38,966 - #8 ,
+INFO  20:40:38,970 - #15 char
+INFO  20:40:38,971 - #15 g
+INFO  20:40:38,971 - #7 )
+INFO  20:40:38,972 - #3 {
+INFO  20:40:38,972 - #9 print
+INFO  20:40:38,974 - #6 (
+INFO  20:40:38,974 - #15 m
+INFO  20:40:38,975 - #7 )
+INFO  20:40:38,981 - #5 ;
+INFO  20:40:38,981 - #10 return
+INFO  20:40:38,982 - #14 3
+INFO  20:40:38,983 - #5 ;
+INFO  20:40:38,983 - #4 }
+INFO  20:40:38,983 - #15 int
+INFO  20:40:38,986 - #15 main
+INFO  20:40:38,986 - #6 (
+INFO  20:40:38,986 - #7 )
+INFO  20:40:38,990 - #3 {
+INFO  20:40:38,991 - #15 a
+INFO  20:40:38,991 - #12 =
+INFO  20:40:38,991 - #14 7
+INFO  20:40:38,991 - #5 ;
+INFO  20:40:38,992 - #15 b
+INFO  20:40:38,993 - #12 =
+INFO  20:40:38,993 - #14 9
+INFO  20:40:38,994 - #5 ;
+INFO  20:40:38,995 - #15 niz
+INFO  20:40:38,995 - #12 =
+INFO  20:40:38,995 - #28 new
+INFO  20:40:38,995 - #15 int
+INFO  20:40:38,996 - #29 [
+INFO  20:40:38,996 - #14 3
+INFO  20:40:38,996 - #30 ]
+INFO  20:40:38,998 - #5 ;
+INFO  20:40:38,999 - #15 niz
+INFO  20:40:38,999 - #29 [
+INFO  20:40:39,000 - #14 0
+INFO  20:40:39,001 - #30 ]
+INFO  20:40:39,001 - #12 =
+INFO  20:40:39,004 - #14 3
+INFO  20:40:39,005 - #5 ;
+INFO  20:40:39,019 - #15 a
+INFO  20:40:39,019 - #12 =
+INFO  20:40:39,020 - #15 k
+INFO  20:40:39,021 - #6 (
+INFO  20:40:39,022 - #15 a
+INFO  20:40:39,023 - #8 ,
+INFO  20:40:39,024 - #15 b
+INFO  20:40:39,024 - #7 )
+INFO  20:40:39,025 - #5 ;
+INFO  20:40:39,027 - #10 return
+INFO  20:40:39,027 - #14 0
+INFO  20:40:39,028 - #5 ;
+INFO  20:40:39,028 - #4 }
+INFO  20:40:39,029 - #4 }
+INFO  20:40:39,106 - Deklarisana promenljiva b na liniji 5
+INFO  20:40:39,106 - Deklarisana promenljiva a na liniji 3
+INFO  20:40:39,106 - Deklarisan niz niz na liniji 4
+INFO  20:40:39,107 - Obradjuje se funkcija k na liniji 8
+INFO  20:40:39,108 - upotreba formalnog parametra m na liniji 10
+INFO  20:40:39,108 - Obradjuje se funkcija main na liniji 15
+INFO  20:40:39,108 - upotreba globalne promenljive a na liniji 17
+INFO  20:40:39,109 - upotreba globalne promenljive b na liniji 18
+INFO  20:40:39,109 - upotreba globalne promenljive niz na liniji 20
+INFO  20:40:39,109 - Pristup elementu niza  na liniji 25
+INFO  20:40:39,110 - upotreba globalne promenljive niz na liniji 25
+INFO  20:40:39,110 - upotreba globalne promenljive a na liniji 28
+INFO  20:40:39,110 - upotreba lokalne promenljive k na liniji 28
+INFO  20:40:39,110 - upotreba globalne promenljive a na liniji 28
+INFO  20:40:39,111 - upotreba globalne promenljive b na liniji 28
+ERROR 20:40:39,112 - greska na liniji 28 nije prosledjen odgovarajuci tip argumenta
+INFO  20:40:39,112 - Pronadjen poziv funkcije k na liniji 28
+INFO  20:40:39,113 - Print calls = 1
+ERROR 20:40:39,115 - Parsiranje NIJE uspesno zavrseno!

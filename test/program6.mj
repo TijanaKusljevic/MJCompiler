@@ -1,0 +1,31 @@
+// Test301
+
+program test301
+
+const int KONST=3;
+int q
+int r;	
+bool bo;
+int niz[];
+
+enum Pok {NULA, JEDAN, DVA, TRI}
+int l;
+	
+	
+{
+
+	
+
+	void main()	
+		
+	{
+		niz=new int[Pok.TRI] {1,2,3};
+		q=3;
+		if(q==3){
+			q=6;
+		}
+		print(niz[2]);
+	}
+}
+
+

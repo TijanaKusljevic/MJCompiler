@@ -1,0 +1,58 @@
+INFO  18:44:59,305 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:44:59,461 - #2 program
+INFO  18:44:59,461 - #15 MJProgram
+INFO  18:44:59,461 - #15 int
+INFO  18:44:59,461 - #15 a
+INFO  18:44:59,477 - #8 ,
+INFO  18:44:59,477 - #15 b
+INFO  18:44:59,477 - #8 ,
+INFO  18:44:59,477 - #15 c
+INFO  18:44:59,477 - #5 ;
+INFO  18:44:59,477 - #3 {
+INFO  18:44:59,477 - #15 int
+INFO  18:44:59,477 - #15 k
+INFO  18:44:59,477 - #6 (
+INFO  18:44:59,477 - #15 int
+INFO  18:44:59,477 - #15 m
+INFO  18:44:59,477 - #8 ,
+INFO  18:44:59,492 - #15 int
+INFO  18:44:59,492 - #15 n
+INFO  18:44:59,492 - #7 )
+INFO  18:44:59,492 - #3 {
+INFO  18:44:59,492 - #10 return
+INFO  18:44:59,492 - #14 3
+INFO  18:44:59,492 - #5 ;
+INFO  18:44:59,492 - #4 }
+INFO  18:44:59,492 - #15 int
+INFO  18:44:59,492 - #15 main
+INFO  18:44:59,492 - #6 (
+INFO  18:44:59,492 - #7 )
+INFO  18:44:59,492 - #3 {
+INFO  18:44:59,492 - #15 a
+INFO  18:44:59,492 - #12 =
+INFO  18:44:59,508 - #14 7
+INFO  18:44:59,508 - #5 ;
+INFO  18:44:59,508 - #15 k
+INFO  18:44:59,508 - #6 (
+INFO  18:44:59,508 - #15 a
+INFO  18:44:59,508 - #8 ,
+INFO  18:44:59,508 - #15 b
+INFO  18:44:59,508 - #7 )
+INFO  18:44:59,508 - #5 ;
+INFO  18:44:59,508 - #10 return
+INFO  18:44:59,508 - #14 0
+INFO  18:44:59,508 - #5 ;
+INFO  18:44:59,508 - #4 }
+INFO  18:44:59,508 - #4 }
+INFO  18:44:59,555 - Deklarisana promenljiva b na liniji 5
+INFO  18:44:59,555 - Deklarisana promenljiva c na liniji 5
+INFO  18:44:59,555 - Deklarisana promenljiva a na liniji 3
+INFO  18:44:59,555 - Obradjuje se funkcija k na liniji 8
+INFO  18:44:59,555 - Obradjuje se funkcija main na liniji 15
+INFO  18:44:59,555 - upotreba globalne promenljive a na liniji 17
+INFO  18:44:59,555 - upotreba lokalne promenljive k na liniji 38
+INFO  18:44:59,555 - upotreba globalne promenljive a na liniji 38
+INFO  18:44:59,555 - upotreba globalne promenljive b na liniji 38
+INFO  18:44:59,555 - Print calls = 0
+INFO  18:44:59,555 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:44:59,570 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,66 @@
+INFO  09:47:02,716 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:47:02,877 - #2 program
+INFO  09:47:02,878 - #15 MJProgram
+INFO  09:47:02,878 - #15 int
+INFO  09:47:02,882 - #15 a
+INFO  09:47:02,884 - #5 ;
+INFO  09:47:02,889 - #3 {
+INFO  09:47:02,890 - #13 void
+INFO  09:47:02,892 - #15 k
+INFO  09:47:02,893 - #6 (
+INFO  09:47:02,893 - #15 int
+INFO  09:47:02,893 - #15 b
+INFO  09:47:02,894 - #7 )
+INFO  09:47:02,897 - #3 {
+INFO  09:47:02,897 - #9 print
+INFO  09:47:02,900 - #6 (
+INFO  09:47:02,900 - #15 b
+INFO  09:47:02,900 - #7 )
+INFO  09:47:02,908 - #5 ;
+INFO  09:47:02,909 - #20 --
+ERROR 09:47:02,909 - 
+Sintaksna greska na liniji 10
+INFO  09:47:02,909 - #10 return
+INFO  09:47:02,910 - #14 3
+INFO  09:47:02,910 - #5 ;
+INFO  09:47:02,912 - #4 }
+INFO  09:47:02,912 - #15 int
+INFO  09:47:02,912 - #15 main
+DEBUG 09:47:02,912 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  09:47:02,917 - #6 (
+INFO  09:47:02,918 - #7 )
+INFO  09:47:02,919 - #3 {
+INFO  09:47:02,920 - #15 a
+INFO  09:47:02,920 - #12 =
+INFO  09:47:02,920 - #14 7
+INFO  09:47:02,920 - #5 ;
+INFO  09:47:02,921 - #15 a
+INFO  09:47:02,921 - #12 =
+INFO  09:47:02,922 - #15 k
+INFO  09:47:02,922 - #6 (
+INFO  09:47:02,922 - #15 a
+INFO  09:47:02,922 - #7 )
+INFO  09:47:02,924 - #5 ;
+INFO  09:47:02,924 - #9 print
+INFO  09:47:02,927 - #6 (
+INFO  09:47:02,927 - #15 a
+INFO  09:47:02,927 - #7 )
+INFO  09:47:02,927 - #5 ;
+INFO  09:47:02,928 - #10 return
+INFO  09:47:02,928 - #14 0
+INFO  09:47:02,928 - #5 ;
+INFO  09:47:02,928 - #4 }
+INFO  09:47:02,941 - #4 }
+INFO  09:47:02,990 - Deklarisana promenljiva a na liniji 3
+INFO  09:47:02,991 - Obradjuje se funkcija k na liniji 8
+INFO  09:47:02,991 - Deklarisana promenljiva b na liniji 8
+INFO  09:47:02,991 - Obradjuje se funkcija main na liniji 13
+INFO  09:47:02,992 - upotreba globalne promenljive a na liniji 14
+INFO  09:47:02,992 - upotreba globalne promenljive a na liniji 15
+INFO  09:47:02,992 - upotreba lokalne promenljive k na liniji 15
+INFO  09:47:02,993 - upotreba globalne promenljive a na liniji 15
+INFO  09:47:03,005 - Pronadjen poziv funkcije k na liniji 15
+ERROR 09:47:03,005 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  09:47:03,005 - upotreba globalne promenljive a na liniji 18
+INFO  09:47:03,007 - Print calls = 1
+ERROR 09:47:03,009 - Parsiranje NIJE uspesno zavrseno!

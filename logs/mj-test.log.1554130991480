@@ -1,0 +1,114 @@
+INFO  17:02:53,194 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:02:53,391 - #2 program
+INFO  17:02:53,392 - #15 MJProgram
+INFO  17:02:53,395 - #15 int
+INFO  17:02:53,398 - #15 a
+INFO  17:02:53,400 - #8 ,
+INFO  17:02:53,405 - #15 niz
+INFO  17:02:53,409 - #29 [
+INFO  17:02:53,410 - #30 ]
+INFO  17:02:53,411 - #8 ,
+INFO  17:02:53,413 - #15 b
+INFO  17:02:53,413 - #8 ,
+INFO  17:02:53,414 - #15 niz1
+INFO  17:02:53,414 - #29 [
+INFO  17:02:53,414 - #30 ]
+INFO  17:02:53,415 - #5 ;
+INFO  17:02:53,415 - #3 {
+INFO  17:02:53,416 - #15 int
+INFO  17:02:53,417 - #15 main
+INFO  17:02:53,418 - #6 (
+INFO  17:02:53,418 - #7 )
+INFO  17:02:53,420 - #3 {
+INFO  17:02:53,420 - #15 a
+INFO  17:02:53,422 - #12 =
+INFO  17:02:53,426 - #14 7
+INFO  17:02:53,426 - #5 ;
+INFO  17:02:53,430 - #15 b
+INFO  17:02:53,431 - #12 =
+INFO  17:02:53,431 - #14 9
+INFO  17:02:53,431 - #5 ;
+INFO  17:02:53,431 - #15 c
+INFO  17:02:53,432 - #12 =
+INFO  17:02:53,432 - #14 90
+INFO  17:02:53,432 - #5 ;
+INFO  17:02:53,432 - #15 niz
+INFO  17:02:53,432 - #12 =
+INFO  17:02:53,433 - #28 new
+INFO  17:02:53,433 - #15 int
+INFO  17:02:53,433 - #29 [
+INFO  17:02:53,433 - #14 3
+INFO  17:02:53,433 - #30 ]
+INFO  17:02:53,433 - #5 ;
+INFO  17:02:53,434 - #15 niz1
+INFO  17:02:53,434 - #12 =
+INFO  17:02:53,434 - #28 new
+INFO  17:02:53,434 - #15 int
+INFO  17:02:53,434 - #29 [
+INFO  17:02:53,435 - #14 2
+INFO  17:02:53,435 - #30 ]
+INFO  17:02:53,435 - #5 ;
+INFO  17:02:53,435 - #15 niz
+INFO  17:02:53,435 - #29 [
+INFO  17:02:53,435 - #14 0
+INFO  17:02:53,436 - #30 ]
+INFO  17:02:53,436 - #12 =
+INFO  17:02:53,437 - #14 3
+INFO  17:02:53,437 - #5 ;
+INFO  17:02:53,437 - #15 niz
+INFO  17:02:53,437 - #29 [
+INFO  17:02:53,438 - #14 1
+INFO  17:02:53,438 - #30 ]
+INFO  17:02:53,449 - #12 =
+INFO  17:02:53,450 - #14 33
+INFO  17:02:53,450 - #5 ;
+INFO  17:02:53,450 - #15 niz
+INFO  17:02:53,450 - #29 [
+INFO  17:02:53,450 - #14 2
+INFO  17:02:53,451 - #30 ]
+INFO  17:02:53,451 - #12 =
+INFO  17:02:53,451 - #14 333
+INFO  17:02:53,451 - #5 ;
+INFO  17:02:53,451 - #15 niz1
+INFO  17:02:53,451 - #29 [
+INFO  17:02:53,451 - #14 0
+INFO  17:02:53,452 - #30 ]
+INFO  17:02:53,452 - #12 =
+INFO  17:02:53,452 - #14 1
+INFO  17:02:53,452 - #5 ;
+INFO  17:02:53,452 - #15 niz1
+INFO  17:02:53,453 - #29 [
+INFO  17:02:53,454 - #14 1
+INFO  17:02:53,454 - #30 ]
+INFO  17:02:53,455 - #12 =
+INFO  17:02:53,455 - #14 11
+INFO  17:02:53,455 - #5 ;
+INFO  17:02:53,455 - #10 return
+INFO  17:02:53,456 - #14 0
+INFO  17:02:53,456 - #5 ;
+INFO  17:02:53,456 - #4 }
+INFO  17:02:53,456 - #4 }
+INFO  17:02:53,511 - Deklarisan niz niz na liniji 5
+INFO  17:02:53,512 - Deklarisana promenljiva b na liniji 5
+INFO  17:02:53,512 - Deklarisan niz niz1 na liniji 5
+INFO  17:02:53,512 - Deklarisana promenljiva a na liniji 3
+INFO  17:02:53,512 - Obradjuje se funkcija main na liniji 6
+INFO  17:02:53,513 - upotreba globalne promenljive a na liniji 8
+INFO  17:02:53,513 - upotreba globalne promenljive b na liniji 9
+ERROR 17:02:53,513 - Greska na liniji 10 : ime c nije deklarisano! 
+INFO  17:02:53,513 - upotreba lokalne promenljive c na liniji 10
+ERROR 17:02:53,514 - Greska na liniji 10 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  17:02:53,514 - upotreba globalne promenljive niz na liniji 12
+INFO  17:02:53,514 - upotreba globalne promenljive niz1 na liniji 13
+INFO  17:02:53,514 - Pristup elementu niza  na liniji 15
+INFO  17:02:53,514 - upotreba globalne promenljive niz na liniji 15
+INFO  17:02:53,515 - Pristup elementu niza  na liniji 16
+INFO  17:02:53,515 - upotreba globalne promenljive niz na liniji 16
+INFO  17:02:53,515 - Pristup elementu niza  na liniji 17
+INFO  17:02:53,515 - upotreba globalne promenljive niz na liniji 17
+INFO  17:02:53,515 - Pristup elementu niza  na liniji 19
+INFO  17:02:53,515 - upotreba globalne promenljive niz1 na liniji 19
+INFO  17:02:53,516 - Pristup elementu niza  na liniji 20
+INFO  17:02:53,516 - upotreba globalne promenljive niz1 na liniji 20
+INFO  17:02:53,516 - Print calls = 0
+ERROR 17:02:53,518 - Parsiranje NIJE uspesno zavrseno!

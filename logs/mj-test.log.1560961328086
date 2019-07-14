@@ -1,0 +1,122 @@
+INFO  18:18:48,698 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:18:48,855 - #2 program
+INFO  18:18:48,855 - #15 test302
+INFO  18:18:48,856 - #44 enum
+INFO  18:18:48,859 - #15 IncrementType
+INFO  18:18:48,859 - #3 {
+INFO  18:18:48,861 - #15 BY_ONE
+INFO  18:18:48,862 - #8 ,
+INFO  18:18:48,867 - #15 DOUBLE_VALUE
+INFO  18:18:48,868 - #4 }
+INFO  18:18:48,869 - #15 int
+INFO  18:18:48,870 - #15 i
+INFO  18:18:48,872 - #5 ;
+INFO  18:18:48,877 - #15 int
+INFO  18:18:48,878 - #15 j
+INFO  18:18:48,878 - #5 ;
+INFO  18:18:48,879 - #15 int
+INFO  18:18:48,879 - #15 k
+INFO  18:18:48,879 - #5 ;
+INFO  18:18:48,880 - #15 int
+INFO  18:18:48,880 - #15 br
+INFO  18:18:48,881 - #5 ;
+INFO  18:18:48,881 - #15 bool
+INFO  18:18:48,881 - #15 ibool
+INFO  18:18:48,881 - #5 ;
+INFO  18:18:48,882 - #15 int
+INFO  18:18:48,882 - #15 niz
+INFO  18:18:48,882 - #29 [
+INFO  18:18:48,882 - #30 ]
+INFO  18:18:48,882 - #5 ;
+INFO  18:18:48,884 - #3 {
+INFO  18:18:48,888 - #13 void
+INFO  18:18:48,890 - #15 main
+INFO  18:18:48,890 - #6 (
+INFO  18:18:48,891 - #7 )
+INFO  18:18:48,894 - #3 {
+INFO  18:18:48,895 - #15 i
+INFO  18:18:48,898 - #12 =
+INFO  18:18:48,902 - #14 0
+INFO  18:18:48,902 - #5 ;
+INFO  18:18:48,904 - #15 br
+INFO  18:18:48,904 - #12 =
+INFO  18:18:48,904 - #14 0
+INFO  18:18:48,904 - #5 ;
+INFO  18:18:48,904 - #34 for
+INFO  18:18:48,904 - #6 (
+INFO  18:18:48,904 - #15 i
+INFO  18:18:48,904 - #12 =
+INFO  18:18:48,904 - #14 0
+INFO  18:18:48,904 - #5 ;
+INFO  18:18:48,904 - #15 i
+INFO  18:18:48,904 - #39 <
+INFO  18:18:48,904 - #14 3
+INFO  18:18:48,904 - #5 ;
+INFO  18:18:48,920 - #15 i
+INFO  18:18:48,920 - #19 ++
+INFO  18:18:48,920 - #7 )
+INFO  18:18:48,946 - #3 {
+INFO  18:18:48,948 - #34 for
+INFO  18:18:48,948 - #6 (
+INFO  18:18:48,948 - #15 j
+INFO  18:18:48,949 - #12 =
+INFO  18:18:48,949 - #14 0
+INFO  18:18:48,949 - #5 ;
+INFO  18:18:48,949 - #15 j
+INFO  18:18:48,950 - #39 <
+INFO  18:18:48,950 - #14 2
+INFO  18:18:48,950 - #5 ;
+INFO  18:18:48,950 - #15 j
+INFO  18:18:48,950 - #19 ++
+INFO  18:18:48,950 - #7 )
+INFO  18:18:48,951 - #3 {
+INFO  18:18:48,951 - #34 for
+INFO  18:18:48,951 - #6 (
+INFO  18:18:48,952 - #15 k
+INFO  18:18:48,953 - #12 =
+INFO  18:18:48,953 - #14 0
+INFO  18:18:48,953 - #5 ;
+INFO  18:18:48,953 - #15 k
+INFO  18:18:48,953 - #39 <
+INFO  18:18:48,955 - #14 3
+INFO  18:18:48,955 - #5 ;
+INFO  18:18:48,956 - #15 k
+INFO  18:18:48,956 - #19 ++
+INFO  18:18:48,956 - #7 )
+INFO  18:18:48,956 - #3 {
+INFO  18:18:48,956 - #15 br
+INFO  18:18:48,957 - #19 ++
+INFO  18:18:48,957 - #5 ;
+INFO  18:18:48,957 - #4 }
+INFO  18:18:48,957 - #4 }
+INFO  18:18:48,962 - #4 }
+INFO  18:18:48,962 - #9 print
+INFO  18:18:48,962 - #6 (
+INFO  18:18:48,962 - #15 br
+INFO  18:18:48,962 - #7 )
+INFO  18:18:48,962 - #5 ;
+INFO  18:18:48,963 - #4 }
+INFO  18:18:48,963 - #4 }
+INFO  18:18:49,001 - Deklarisana promenljiva i na liniji 7
+INFO  18:18:49,002 - Deklarisana promenljiva j na liniji 8
+INFO  18:18:49,002 - Deklarisana promenljiva k na liniji 9
+INFO  18:18:49,002 - Deklarisana promenljiva br na liniji 10
+INFO  18:18:49,002 - Deklarisana promenljiva ibool na liniji 11
+INFO  18:18:49,002 - Deklarisan niz niz na liniji 13
+INFO  18:18:49,002 - Obradjuje se funkcija main na liniji 18
+INFO  18:18:49,003 - upotreba globalne promenljive i na liniji 20
+INFO  18:18:49,003 - upotreba globalne promenljive br na liniji 21
+INFO  18:18:49,003 - upotreba globalne promenljive i na liniji 22
+INFO  18:18:49,003 - upotreba globalne promenljive i na liniji 22
+INFO  18:18:49,004 - upotreba globalne promenljive i na liniji 22
+INFO  18:18:49,004 - upotreba globalne promenljive j na liniji 23
+INFO  18:18:49,004 - upotreba globalne promenljive j na liniji 23
+INFO  18:18:49,004 - upotreba globalne promenljive j na liniji 23
+INFO  18:18:49,004 - upotreba globalne promenljive k na liniji 24
+INFO  18:18:49,004 - upotreba globalne promenljive k na liniji 24
+INFO  18:18:49,004 - upotreba globalne promenljive k na liniji 24
+INFO  18:18:49,005 - upotreba globalne promenljive br na liniji 25
+INFO  18:18:49,006 - upotreba globalne promenljive br na liniji 29
+INFO  18:18:49,019 - Print calls = 1
+INFO  18:18:49,019 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:18:49,036 - Parsiranje uspesno zavrseno!

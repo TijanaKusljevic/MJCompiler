@@ -1,0 +1,53 @@
+INFO  18:50:24,130 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:50:24,413 - #2 program
+INFO  18:50:24,413 - #15 test302
+INFO  18:50:24,413 - #44 enum
+INFO  18:50:24,417 - #15 IncrementType
+INFO  18:50:24,418 - #3 {
+INFO  18:50:24,421 - #15 BY_ONE
+INFO  18:50:24,421 - #8 ,
+INFO  18:50:24,431 - #15 DOUBLE_VALUE
+INFO  18:50:24,432 - #4 }
+INFO  18:50:24,433 - #15 int
+INFO  18:50:24,435 - #15 i
+INFO  18:50:24,437 - #5 ;
+INFO  18:50:24,446 - #15 int
+INFO  18:50:24,447 - #15 j
+INFO  18:50:24,449 - #5 ;
+INFO  18:50:24,450 - #15 int
+INFO  18:50:24,450 - #15 k
+INFO  18:50:24,451 - #5 ;
+INFO  18:50:24,451 - #15 int
+INFO  18:50:24,452 - #15 br
+INFO  18:50:24,453 - #5 ;
+INFO  18:50:24,453 - #15 bool
+INFO  18:50:24,453 - #15 ibool
+INFO  18:50:24,454 - #5 ;
+INFO  18:50:24,454 - #15 int
+INFO  18:50:24,454 - #15 niz
+INFO  18:50:24,454 - #29 [
+INFO  18:50:24,455 - #30 ]
+INFO  18:50:24,455 - #5 ;
+INFO  18:50:24,457 - #3 {
+INFO  18:50:24,458 - #13 void
+INFO  18:50:24,460 - #15 main
+INFO  18:50:24,460 - #6 (
+INFO  18:50:24,461 - #7 )
+INFO  18:50:24,462 - #3 {
+INFO  18:50:24,463 - #15 i
+INFO  18:50:24,464 - #12 =
+INFO  18:50:24,468 - #14 0
+INFO  18:50:24,468 - #5 ;
+INFO  18:50:24,472 - #4 }
+INFO  18:50:24,473 - #4 }
+INFO  18:50:24,541 - Deklarisana promenljiva i na liniji 7
+INFO  18:50:24,541 - Deklarisana promenljiva j na liniji 8
+INFO  18:50:24,542 - Deklarisana promenljiva k na liniji 9
+INFO  18:50:24,542 - Deklarisana promenljiva br na liniji 10
+INFO  18:50:24,542 - Deklarisana promenljiva ibool na liniji 11
+INFO  18:50:24,543 - Deklarisan niz niz na liniji 15
+INFO  18:50:24,543 - Obradjuje se funkcija main na liniji 20
+INFO  18:50:24,544 - upotreba globalne promenljive i na liniji 22
+INFO  18:50:24,548 - Print calls = 0
+INFO  18:50:24,548 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:50:24,565 - Parsiranje uspesno zavrseno!

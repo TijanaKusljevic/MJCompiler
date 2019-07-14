@@ -1,0 +1,117 @@
+INFO  13:16:20,156 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:16:20,328 - #2 program
+INFO  13:16:20,328 - #15 MJProgram
+INFO  13:16:20,328 - #15 int
+INFO  13:16:20,344 - #15 y
+INFO  13:16:20,344 - #5 ;
+INFO  13:16:20,344 - #15 int
+INFO  13:16:20,344 - #15 x
+INFO  13:16:20,344 - #5 ;
+INFO  13:16:20,344 - #15 int
+INFO  13:16:20,344 - #15 z
+INFO  13:16:20,344 - #5 ;
+INFO  13:16:20,344 - #3 {
+INFO  13:16:20,344 - #15 int
+INFO  13:16:20,344 - #15 k
+INFO  13:16:20,344 - #6 (
+INFO  13:16:20,344 - #7 )
+INFO  13:16:20,344 - #15 int
+INFO  13:16:20,344 - #15 c
+INFO  13:16:20,344 - #5 ;
+INFO  13:16:20,344 - #3 {
+INFO  13:16:20,344 - #15 c
+INFO  13:16:20,359 - #12 =
+INFO  13:16:20,359 - #14 2
+INFO  13:16:20,359 - #5 ;
+INFO  13:16:20,359 - #9 print
+INFO  13:16:20,359 - #6 (
+INFO  13:16:20,359 - #15 c
+INFO  13:16:20,359 - #7 )
+INFO  13:16:20,359 - #5 ;
+INFO  13:16:20,359 - #9 print
+INFO  13:16:20,359 - #6 (
+INFO  13:16:20,359 - #15 c
+INFO  13:16:20,359 - #7 )
+INFO  13:16:20,359 - #5 ;
+INFO  13:16:20,359 - #10 return
+INFO  13:16:20,359 - #15 c
+INFO  13:16:20,359 - #11 +
+INFO  13:16:20,359 - #14 2
+INFO  13:16:20,359 - #5 ;
+INFO  13:16:20,375 - #4 }
+INFO  13:16:20,375 - #15 int
+INFO  13:16:20,375 - #15 main
+INFO  13:16:20,375 - #6 (
+INFO  13:16:20,375 - #7 )
+INFO  13:16:20,375 - #3 {
+INFO  13:16:20,375 - #15 y
+INFO  13:16:20,375 - #12 =
+INFO  13:16:20,375 - #14 7
+INFO  13:16:20,375 - #5 ;
+INFO  13:16:20,375 - #15 x
+INFO  13:16:20,375 - #12 =
+INFO  13:16:20,375 - #14 3
+INFO  13:16:20,375 - #5 ;
+INFO  13:16:20,375 - #15 z
+INFO  13:16:20,375 - #12 =
+INFO  13:16:20,375 - #14 4
+INFO  13:16:20,375 - #5 ;
+INFO  13:16:20,375 - #16 if
+INFO  13:16:20,375 - #6 (
+INFO  13:16:20,375 - #15 y
+INFO  13:16:20,391 - #37 ==
+INFO  13:16:20,391 - #14 7
+INFO  13:16:20,391 - #36 &&
+INFO  13:16:20,391 - #15 x
+INFO  13:16:20,391 - #37 ==
+INFO  13:16:20,391 - #14 3
+INFO  13:16:20,391 - #36 &&
+INFO  13:16:20,391 - #15 z
+INFO  13:16:20,391 - #37 ==
+INFO  13:16:20,391 - #14 5
+INFO  13:16:20,391 - #7 )
+INFO  13:16:20,406 - #3 {
+INFO  13:16:20,406 - #9 print
+INFO  13:16:20,406 - #6 (
+INFO  13:16:20,406 - #14 9
+INFO  13:16:20,406 - #7 )
+INFO  13:16:20,406 - #5 ;
+INFO  13:16:20,406 - #4 }
+INFO  13:16:20,406 - #17 else
+INFO  13:16:20,406 - #3 {
+INFO  13:16:20,406 - #9 print
+INFO  13:16:20,406 - #6 (
+INFO  13:16:20,406 - #14 1
+INFO  13:16:20,406 - #7 )
+INFO  13:16:20,406 - #5 ;
+INFO  13:16:20,406 - #4 }
+INFO  13:16:20,406 - #9 print
+INFO  13:16:20,406 - #6 (
+INFO  13:16:20,406 - #15 y
+INFO  13:16:20,406 - #7 )
+INFO  13:16:20,406 - #5 ;
+INFO  13:16:20,406 - #10 return
+INFO  13:16:20,406 - #14 0
+INFO  13:16:20,406 - #5 ;
+INFO  13:16:20,406 - #4 }
+INFO  13:16:20,406 - #4 }
+INFO  13:16:20,453 - Deklarisana promenljiva y na liniji 2
+INFO  13:16:20,453 - Deklarisana promenljiva x na liniji 3
+INFO  13:16:20,453 - Deklarisana promenljiva z na liniji 4
+INFO  13:16:20,453 - Obradjuje se funkcija k na liniji 9
+INFO  13:16:20,453 - Deklarisana promenljiva c na liniji 9
+INFO  13:16:20,453 - upotreba lokalne promenljive c na liniji 10
+INFO  13:16:20,453 - upotreba lokalne promenljive c na liniji 11
+INFO  13:16:20,453 - upotreba lokalne promenljive c na liniji 12
+INFO  13:16:20,453 - upotreba lokalne promenljive c na liniji 13
+INFO  13:16:20,453 - Obradjuje se funkcija main na liniji 17
+INFO  13:16:20,453 - upotreba globalne promenljive y na liniji 18
+INFO  13:16:20,453 - upotreba globalne promenljive x na liniji 19
+INFO  13:16:20,453 - upotreba globalne promenljive z na liniji 20
+INFO  13:16:20,453 - upotreba globalne promenljive y na liniji 21
+INFO  13:16:20,453 - upotreba globalne promenljive x na liniji 21
+INFO  13:16:20,453 - upotreba globalne promenljive z na liniji 21
+INFO  13:16:20,453 - upotreba globalne promenljive y na liniji 27
+INFO  13:16:20,453 - Print calls = 5
+INFO  13:16:20,453 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  13:16:20,469 - Parsiranje uspesno zavrseno!

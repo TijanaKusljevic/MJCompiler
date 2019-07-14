@@ -1,0 +1,22 @@
+INFO  15:44:38,759 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:44:38,865 - #2 program
+INFO  15:44:38,865 - #15 MJProgram
+INFO  15:44:38,865 - #15 int
+INFO  15:44:38,865 - #15 x
+INFO  15:44:38,865 - #5 ;
+INFO  15:44:38,865 - #15 int
+INFO  15:44:38,865 - #15 y
+INFO  15:44:38,865 - #5 ;
+INFO  15:44:38,865 - #3 {
+INFO  15:44:38,865 - #15 int
+INFO  15:44:38,881 - #15 k
+INFO  15:44:38,881 - #6 (
+INFO  15:44:38,881 - #15 int
+INFO  15:44:38,881 - #15 a
+INFO  15:44:38,881 - #8 ,
+INFO  15:44:38,881 - #7 )
+ERROR 15:44:38,881 - 
+Sintaksna greska na liniji 7
+ERROR 15:44:38,881 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7
+INFO  15:44:38,928 - Print calls = 0
+ERROR 15:44:38,943 - Parsiranje NIJE uspesno zavrseno!

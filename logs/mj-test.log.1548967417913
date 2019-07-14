@@ -1,0 +1,113 @@
+INFO  21:43:01,448 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:43:01,585 - #2 program
+INFO  21:43:01,585 - #15 MJProgram
+INFO  21:43:01,585 - #15 int
+INFO  21:43:01,585 - #15 x
+INFO  21:43:01,601 - #5 ;
+INFO  21:43:01,601 - #15 int
+INFO  21:43:01,601 - #15 y
+INFO  21:43:01,601 - #5 ;
+INFO  21:43:01,601 - #43 const
+INFO  21:43:01,601 - #15 int
+INFO  21:43:01,601 - #15 soi
+INFO  21:43:01,601 - #12 =
+INFO  21:43:01,601 - #14 7
+INFO  21:43:01,601 - #5 ;
+INFO  21:43:01,601 - #43 const
+INFO  21:43:01,607 - #15 int
+INFO  21:43:01,607 - #15 so
+INFO  21:43:01,607 - #12 =
+INFO  21:43:01,607 - #14 0
+INFO  21:43:01,607 - #5 ;
+INFO  21:43:01,607 - #43 const
+INFO  21:43:01,609 - #15 char
+INFO  21:43:01,609 - #15 caki
+INFO  21:43:01,609 - #12 =
+INFO  21:43:01,609 - #25 a
+INFO  21:43:01,609 - #5 ;
+INFO  21:43:01,609 - #15 int
+INFO  21:43:01,609 - #15 niz
+INFO  21:43:01,609 - #29 [
+INFO  21:43:01,609 - #30 ]
+INFO  21:43:01,609 - #5 ;
+INFO  21:43:01,609 - #43 const
+INFO  21:43:01,609 - #15 bool
+INFO  21:43:01,609 - #15 pera
+INFO  21:43:01,609 - #12 =
+INFO  21:43:01,609 - #27 true
+INFO  21:43:01,609 - #5 ;
+INFO  21:43:01,609 - #15 char
+INFO  21:43:01,609 - #15 b
+INFO  21:43:01,609 - #5 ;
+INFO  21:43:01,609 - #15 bool
+INFO  21:43:01,609 - #15 kikisa
+INFO  21:43:01,617 - #5 ;
+INFO  21:43:01,617 - #44 enum
+INFO  21:43:01,617 - #15 ukucani
+INFO  21:43:01,617 - #3 {
+INFO  21:43:01,617 - #15 ja
+INFO  21:43:01,617 - #8 ,
+INFO  21:43:01,619 - #15 diki
+INFO  21:43:01,619 - #4 }
+INFO  21:43:01,619 - #3 {
+INFO  21:43:01,619 - #15 int
+INFO  21:43:01,619 - #15 main
+INFO  21:43:01,619 - #6 (
+INFO  21:43:01,619 - #7 )
+INFO  21:43:01,619 - #3 {
+INFO  21:43:01,627 - #15 y
+INFO  21:43:01,629 - #12 =
+INFO  21:43:01,629 - #14 2
+INFO  21:43:01,629 - #22 *
+INFO  21:43:01,648 - #14 5
+INFO  21:43:01,650 - #5 ;
+INFO  21:43:01,650 - #15 y
+INFO  21:43:01,650 - #12 =
+INFO  21:43:01,650 - #15 y
+INFO  21:43:01,650 - #21 -
+INFO  21:43:01,650 - #14 1
+INFO  21:43:01,658 - #5 ;
+INFO  21:43:01,659 - #15 y
+INFO  21:43:01,659 - #18 ++
+INFO  21:43:01,659 - #5 ;
+INFO  21:43:01,660 - #15 x
+INFO  21:43:01,660 - #12 =
+INFO  21:43:01,660 - #15 y
+INFO  21:43:01,660 - #11 +
+INFO  21:43:01,660 - #14 2
+INFO  21:43:01,661 - #5 ;
+INFO  21:43:01,661 - #15 y
+INFO  21:43:01,661 - #12 =
+INFO  21:43:01,661 - #21 -
+INFO  21:43:01,661 - #14 7
+INFO  21:43:01,661 - #5 ;
+INFO  21:43:01,662 - #9 print
+INFO  21:43:01,662 - #6 (
+INFO  21:43:01,662 - #27 true
+INFO  21:43:01,663 - #7 )
+INFO  21:43:01,668 - #5 ;
+INFO  21:43:01,669 - #10 return
+INFO  21:43:01,669 - #14 0
+INFO  21:43:01,669 - #5 ;
+INFO  21:43:01,669 - #4 }
+INFO  21:43:01,669 - #4 }
+INFO  21:43:01,711 - Deklarisana promenljiva x na liniji 2
+INFO  21:43:01,711 - Deklarisana promenljiva y na liniji 2
+INFO  21:43:01,711 - Deklarisana konstanta soi na liniji 3
+INFO  21:43:01,711 - Deklarisana konstanta so na liniji 4
+INFO  21:43:01,711 - Deklarisana konstanta caki na liniji 5
+INFO  21:43:01,711 - Deklarisan niz niz na liniji 6
+INFO  21:43:01,711 - Deklarisana konstanta pera na liniji 7
+INFO  21:43:01,711 - Deklarisana promenljiva b na liniji 8
+INFO  21:43:01,711 - Deklarisana promenljiva kikisa na liniji 9
+INFO  21:43:01,711 - Obradjuje se funkcija main na liniji 38
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 39
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 40
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 40
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 41
+INFO  21:43:01,711 - upotreba globalne promenljive x na liniji 42
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 42
+INFO  21:43:01,711 - upotreba globalne promenljive y na liniji 45
+INFO  21:43:01,711 - Print calls = 1
+INFO  21:43:01,798 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:43:01,820 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,53 @@
+INFO  11:42:14,300 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:42:14,441 - #2 program
+INFO  11:42:14,441 - #15 MJProgram
+INFO  11:42:14,441 - #15 int
+INFO  11:42:14,441 - #15 a
+INFO  11:42:14,441 - #5 ;
+INFO  11:42:14,457 - #15 char
+INFO  11:42:14,457 - #15 c
+INFO  11:42:14,457 - #5 ;
+INFO  11:42:14,457 - #44 enum
+INFO  11:42:14,457 - #15 Zivotinja
+INFO  11:42:14,457 - #3 {
+INFO  11:42:14,457 - #15 ZEBRA
+INFO  11:42:14,457 - #4 }
+INFO  11:42:14,457 - #15 Zivotinja
+INFO  11:42:14,457 - #15 ziv
+INFO  11:42:14,457 - #5 ;
+INFO  11:42:14,457 - #3 {
+INFO  11:42:14,457 - #15 int
+INFO  11:42:14,472 - #15 main
+INFO  11:42:14,472 - #6 (
+INFO  11:42:14,472 - #7 )
+INFO  11:42:14,472 - #3 {
+INFO  11:42:14,472 - #15 ziv
+INFO  11:42:14,472 - #12 =
+INFO  11:42:14,472 - #15 Zivotinja
+INFO  11:42:14,472 - #31 .
+INFO  11:42:14,472 - #15 ZEBRA
+INFO  11:42:14,472 - #5 ;
+INFO  11:42:14,488 - #15 a
+INFO  11:42:14,488 - #12 =
+INFO  11:42:14,488 - #14 1
+INFO  11:42:14,488 - #5 ;
+INFO  11:42:14,488 - #15 c
+INFO  11:42:14,488 - #12 =
+INFO  11:42:14,488 - #18 i
+INFO  11:42:14,488 - #5 ;
+INFO  11:42:14,488 - #10 return
+INFO  11:42:14,488 - #14 0
+INFO  11:42:14,488 - #5 ;
+INFO  11:42:14,488 - #4 }
+INFO  11:42:14,488 - #4 }
+INFO  11:42:14,535 - Deklarisana promenljiva a na liniji 3
+INFO  11:42:14,535 - Deklarisana promenljiva c na liniji 4
+INFO  11:42:14,535 - Deklarisana promenljiva ziv na liniji 6
+INFO  11:42:14,535 - Obradjuje se funkcija main na liniji 12
+INFO  11:42:14,535 - upotreba globalne promenljive ziv na liniji 14
+INFO  11:42:14,535 - upotreba globalne promenljive Zivotinja na liniji 14
+INFO  11:42:14,535 - upotreba globalne promenljive a na liniji 15
+INFO  11:42:14,535 - upotreba globalne promenljive c na liniji 16
+INFO  11:42:14,535 - Print calls = 0
+INFO  11:42:14,535 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:42:14,550 - Parsiranje uspesno zavrseno!

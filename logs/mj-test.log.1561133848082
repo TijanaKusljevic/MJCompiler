@@ -1,0 +1,44 @@
+INFO  18:17:09,441 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:17:09,582 - #2 program
+INFO  18:17:09,582 - #15 test301
+INFO  18:17:09,582 - #44 enum
+INFO  18:17:09,598 - #15 A
+INFO  18:17:09,598 - #3 {
+INFO  18:17:09,598 - #15 NULA
+INFO  18:17:09,598 - #8 ,
+INFO  18:17:09,598 - #15 JEDAN
+INFO  18:17:09,598 - #4 }
+INFO  18:17:09,598 - #44 enum
+INFO  18:17:09,598 - #15 B
+INFO  18:17:09,598 - #3 {
+INFO  18:17:09,598 - #15 DVA
+INFO  18:17:09,598 - #12 =
+INFO  18:17:09,598 - #14 2
+INFO  18:17:09,598 - #8 ,
+INFO  18:17:09,598 - #15 TRI
+INFO  18:17:09,598 - #12 =
+INFO  18:17:09,598 - #14 3
+INFO  18:17:09,598 - #4 }
+INFO  18:17:09,598 - #44 enum
+INFO  18:17:09,598 - #15 C
+INFO  18:17:09,598 - #12 =
+INFO  18:17:09,598 - #15 A
+INFO  18:17:09,598 - #11 +
+INFO  18:17:09,598 - #15 B
+INFO  18:17:09,598 - #3 {
+INFO  18:17:09,598 - #13 void
+INFO  18:17:09,613 - #15 main
+INFO  18:17:09,613 - #6 (
+INFO  18:17:09,613 - #7 )
+INFO  18:17:09,613 - #3 {
+INFO  18:17:09,613 - #9 print
+INFO  18:17:09,613 - #6 (
+INFO  18:17:09,613 - #18 a
+INFO  18:17:09,613 - #7 )
+INFO  18:17:09,613 - #5 ;
+INFO  18:17:09,613 - #4 }
+INFO  18:17:09,613 - #4 }
+INFO  18:17:09,660 - Obradjuje se funkcija main na liniji 14
+INFO  18:17:09,660 - Print calls = 1
+INFO  18:17:09,660 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:17:09,676 - Parsiranje uspesno zavrseno!

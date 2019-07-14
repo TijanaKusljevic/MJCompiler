@@ -1,0 +1,135 @@
+INFO  21:46:50,284 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:46:50,447 - #2 program
+INFO  21:46:50,448 - #15 test301
+INFO  21:46:50,448 - #15 int
+INFO  21:46:50,452 - #15 i
+INFO  21:46:50,453 - #5 ;
+INFO  21:46:50,458 - #15 int
+INFO  21:46:50,460 - #15 j
+INFO  21:46:50,461 - #5 ;
+INFO  21:46:50,461 - #15 int
+INFO  21:46:50,462 - #15 k
+INFO  21:46:50,463 - #5 ;
+INFO  21:46:50,463 - #3 {
+INFO  21:46:50,465 - #13 void
+INFO  21:46:50,467 - #15 main
+INFO  21:46:50,467 - #6 (
+INFO  21:46:50,467 - #7 )
+INFO  21:46:50,469 - #3 {
+INFO  21:46:50,469 - #15 i
+INFO  21:46:50,471 - #12 =
+INFO  21:46:50,475 - #14 0
+INFO  21:46:50,476 - #5 ;
+INFO  21:46:50,478 - #15 j
+INFO  21:46:50,480 - #12 =
+INFO  21:46:50,480 - #14 0
+INFO  21:46:50,480 - #5 ;
+INFO  21:46:50,481 - #15 k
+INFO  21:46:50,481 - #12 =
+INFO  21:46:50,481 - #14 0
+INFO  21:46:50,481 - #5 ;
+INFO  21:46:50,481 - #34 for
+INFO  21:46:50,482 - #6 (
+INFO  21:46:50,484 - #15 i
+INFO  21:46:50,484 - #12 =
+INFO  21:46:50,484 - #14 0
+INFO  21:46:50,485 - #5 ;
+INFO  21:46:50,486 - #15 i
+INFO  21:46:50,489 - #39 <
+INFO  21:46:50,489 - #14 3
+INFO  21:46:50,492 - #5 ;
+INFO  21:46:50,503 - #15 i
+INFO  21:46:50,505 - #19 ++
+INFO  21:46:50,506 - #7 )
+INFO  21:46:50,508 - #3 {
+INFO  21:46:50,511 - #34 for
+INFO  21:46:50,511 - #6 (
+INFO  21:46:50,512 - #15 j
+INFO  21:46:50,512 - #12 =
+INFO  21:46:50,512 - #14 0
+INFO  21:46:50,512 - #5 ;
+INFO  21:46:50,512 - #15 j
+INFO  21:46:50,513 - #39 <
+INFO  21:46:50,513 - #14 5
+INFO  21:46:50,513 - #5 ;
+INFO  21:46:50,514 - #15 j
+INFO  21:46:50,514 - #19 ++
+INFO  21:46:50,514 - #7 )
+INFO  21:46:50,523 - #3 {
+INFO  21:46:50,523 - #9 print
+INFO  21:46:50,523 - #6 (
+INFO  21:46:50,523 - #15 j
+INFO  21:46:50,523 - #7 )
+INFO  21:46:50,525 - #5 ;
+INFO  21:46:50,525 - #16 if
+INFO  21:46:50,526 - #6 (
+INFO  21:46:50,529 - #15 j
+INFO  21:46:50,530 - #37 ==
+INFO  21:46:50,530 - #14 2
+INFO  21:46:50,531 - #35 ||
+INFO  21:46:50,532 - #15 j
+INFO  21:46:50,534 - #37 ==
+INFO  21:46:50,534 - #14 3
+INFO  21:46:50,535 - #36 &&
+INFO  21:46:50,535 - #15 i
+INFO  21:46:50,535 - #37 ==
+INFO  21:46:50,535 - #14 2
+INFO  21:46:50,535 - #7 )
+INFO  21:46:50,536 - #3 {
+INFO  21:46:50,539 - #9 print
+INFO  21:46:50,539 - #6 (
+INFO  21:46:50,539 - #18 u
+INFO  21:46:50,539 - #7 )
+INFO  21:46:50,540 - #5 ;
+INFO  21:46:50,540 - #4 }
+INFO  21:46:50,540 - #17 else
+INFO  21:46:50,541 - #3 {
+INFO  21:46:50,543 - #15 k
+INFO  21:46:50,544 - #12 =
+INFO  21:46:50,544 - #14 3
+INFO  21:46:50,544 - #5 ;
+INFO  21:46:50,544 - #4 }
+INFO  21:46:50,545 - #16 if
+INFO  21:46:50,547 - #6 (
+INFO  21:46:50,547 - #15 j
+INFO  21:46:50,547 - #37 ==
+INFO  21:46:50,547 - #14 4
+INFO  21:46:50,547 - #7 )
+INFO  21:46:50,548 - #3 {
+INFO  21:46:50,548 - #32 break
+INFO  21:46:50,548 - #5 ;
+INFO  21:46:50,550 - #4 }
+INFO  21:46:50,551 - #17 else
+INFO  21:46:50,551 - #3 {
+INFO  21:46:50,551 - #15 k
+INFO  21:46:50,551 - #12 =
+INFO  21:46:50,551 - #14 4
+INFO  21:46:50,552 - #5 ;
+INFO  21:46:50,552 - #4 }
+INFO  21:46:50,552 - #4 }
+INFO  21:46:50,552 - #4 }
+INFO  21:46:50,557 - #4 }
+INFO  21:46:50,557 - #4 }
+INFO  21:46:50,597 - Deklarisana promenljiva i na liniji 5
+INFO  21:46:50,597 - Deklarisana promenljiva j na liniji 6
+INFO  21:46:50,597 - Deklarisana promenljiva k na liniji 7
+INFO  21:46:50,597 - Obradjuje se funkcija main na liniji 14
+INFO  21:46:50,598 - upotreba globalne promenljive i na liniji 17
+INFO  21:46:50,598 - upotreba globalne promenljive j na liniji 18
+INFO  21:46:50,598 - upotreba globalne promenljive k na liniji 19
+INFO  21:46:50,598 - upotreba globalne promenljive i na liniji 21
+INFO  21:46:50,598 - upotreba globalne promenljive i na liniji 21
+INFO  21:46:50,599 - upotreba globalne promenljive i na liniji 21
+INFO  21:46:50,599 - upotreba globalne promenljive j na liniji 22
+INFO  21:46:50,600 - upotreba globalne promenljive j na liniji 22
+INFO  21:46:50,600 - upotreba globalne promenljive j na liniji 22
+INFO  21:46:50,600 - upotreba globalne promenljive j na liniji 23
+INFO  21:46:50,600 - upotreba globalne promenljive j na liniji 24
+INFO  21:46:50,600 - upotreba globalne promenljive j na liniji 24
+INFO  21:46:50,601 - upotreba globalne promenljive i na liniji 24
+INFO  21:46:50,601 - upotreba globalne promenljive k na liniji 27
+INFO  21:46:50,601 - upotreba globalne promenljive j na liniji 29
+INFO  21:46:50,601 - upotreba globalne promenljive k na liniji 32
+INFO  21:46:50,609 - Print calls = 2
+INFO  21:46:50,609 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:46:50,634 - Parsiranje uspesno zavrseno!

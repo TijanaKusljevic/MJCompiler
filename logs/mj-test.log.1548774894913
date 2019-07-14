@@ -1,0 +1,158 @@
+INFO  16:14:30,213 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:14:30,343 - #2 program
+INFO  16:14:30,344 - #15 MJProgram
+INFO  16:14:30,344 - #15 int
+INFO  16:14:30,348 - #5 ;
+ERROR 16:14:30,351 - 
+Sintaksna greska na liniji 2
+INFO  16:14:30,351 - #15 int
+INFO  16:14:30,351 - #15 y
+INFO  16:14:30,351 - #5 ;
+INFO  16:14:30,353 - #3 {
+DEBUG 16:14:30,353 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  16:14:30,358 - #15 int
+INFO  16:14:30,360 - #15 k
+INFO  16:14:30,361 - #6 (
+INFO  16:14:30,367 - #7 )
+INFO  16:14:30,370 - #15 int
+INFO  16:14:30,370 - #15 c
+INFO  16:14:30,371 - #5 ;
+INFO  16:14:30,373 - #3 {
+INFO  16:14:30,373 - #15 c
+INFO  16:14:30,375 - #12 =
+INFO  16:14:30,379 - #14 1
+INFO  16:14:30,380 - #5 ;
+INFO  16:14:30,387 - #10 return
+INFO  16:14:30,388 - #14 2
+INFO  16:14:30,388 - #5 ;
+INFO  16:14:30,388 - #4 }
+INFO  16:14:30,388 - #15 int
+INFO  16:14:30,392 - #15 main
+INFO  16:14:30,392 - #6 (
+INFO  16:14:30,392 - #7 )
+INFO  16:14:30,392 - #3 {
+INFO  16:14:30,393 - #15 y
+INFO  16:14:30,393 - #12 =
+INFO  16:14:30,394 - #14 2
+INFO  16:14:30,394 - #22 *
+INFO  16:14:30,394 - #14 5
+INFO  16:14:30,397 - #5 ;
+INFO  16:14:30,399 - #15 y
+INFO  16:14:30,399 - #12 =
+INFO  16:14:30,399 - #15 y
+INFO  16:14:30,400 - #21 -
+INFO  16:14:30,401 - #14 1
+INFO  16:14:30,406 - #5 ;
+INFO  16:14:30,407 - #15 y
+INFO  16:14:30,407 - #18 ++
+INFO  16:14:30,407 - #5 ;
+INFO  16:14:30,407 - #15 x
+INFO  16:14:30,408 - #12 =
+INFO  16:14:30,408 - #15 y
+INFO  16:14:30,408 - #11 +
+INFO  16:14:30,408 - #14 2
+INFO  16:14:30,408 - #5 ;
+INFO  16:14:30,409 - #15 y
+INFO  16:14:30,409 - #12 =
+INFO  16:14:30,409 - #15 k
+INFO  16:14:30,410 - #6 (
+INFO  16:14:30,410 - #7 )
+INFO  16:14:30,411 - #11 +
+INFO  16:14:30,412 - #14 3
+INFO  16:14:30,412 - #5 ;
+INFO  16:14:30,424 - #15 y
+INFO  16:14:30,424 - #12 =
+INFO  16:14:30,424 - #15 x
+INFO  16:14:30,425 - #29 [
+INFO  16:14:30,430 - #14 2
+INFO  16:14:30,430 - #30 ]
+INFO  16:14:30,430 - #5 ;
+INFO  16:14:30,432 - #3 {
+INFO  16:14:30,432 - #15 y
+INFO  16:14:30,432 - #12 =
+INFO  16:14:30,433 - #14 3
+INFO  16:14:30,433 - #5 ;
+INFO  16:14:30,433 - #3 {
+INFO  16:14:30,433 - #15 x
+INFO  16:14:30,434 - #12 =
+INFO  16:14:30,434 - #15 k
+INFO  16:14:30,434 - #6 (
+INFO  16:14:30,434 - #7 )
+INFO  16:14:30,434 - #5 ;
+INFO  16:14:30,434 - #4 }
+INFO  16:14:30,435 - #4 }
+INFO  16:14:30,436 - #34 for
+INFO  16:14:30,436 - #6 (
+INFO  16:14:30,436 - #15 x
+INFO  16:14:30,436 - #12 =
+INFO  16:14:30,436 - #14 4
+INFO  16:14:30,436 - #5 ;
+INFO  16:14:30,437 - #15 x
+INFO  16:14:30,437 - #39 <
+INFO  16:14:30,438 - #14 6
+INFO  16:14:30,441 - #35 ||
+INFO  16:14:30,448 - #15 y
+INFO  16:14:30,448 - #39 <
+INFO  16:14:30,449 - #14 1000
+INFO  16:14:30,449 - #36 &&
+INFO  16:14:30,449 - #15 y
+INFO  16:14:30,449 - #40 >
+INFO  16:14:30,449 - #14 0
+INFO  16:14:30,451 - #5 ;
+INFO  16:14:30,452 - #15 x
+INFO  16:14:30,452 - #18 ++
+INFO  16:14:30,452 - #7 )
+INFO  16:14:30,452 - #3 {
+INFO  16:14:30,452 - #15 y
+INFO  16:14:30,452 - #12 =
+INFO  16:14:30,452 - #15 x
+INFO  16:14:30,452 - #5 ;
+INFO  16:14:30,453 - #4 }
+INFO  16:14:30,453 - #16 if
+INFO  16:14:30,453 - #6 (
+INFO  16:14:30,453 - #15 x
+INFO  16:14:30,453 - #37 ==
+INFO  16:14:30,454 - #14 5
+INFO  16:14:30,456 - #7 )
+INFO  16:14:30,456 - #3 {
+INFO  16:14:30,456 - #15 y
+INFO  16:14:30,457 - #12 =
+INFO  16:14:30,457 - #14 347
+INFO  16:14:30,457 - #5 ;
+INFO  16:14:30,457 - #4 }
+INFO  16:14:30,457 - #9 print
+INFO  16:14:30,458 - #6 (
+INFO  16:14:30,458 - #15 y
+INFO  16:14:30,458 - #7 )
+INFO  16:14:30,458 - #5 ;
+INFO  16:14:30,458 - #20 read
+INFO  16:14:30,458 - #6 (
+INFO  16:14:30,458 - #15 y
+INFO  16:14:30,458 - #7 )
+INFO  16:14:30,458 - #5 ;
+INFO  16:14:30,458 - #10 return
+INFO  16:14:30,459 - #14 0
+INFO  16:14:30,459 - #5 ;
+INFO  16:14:30,459 - #4 }
+INFO  16:14:30,459 - #4 }
+INFO  16:14:30,495 - Deklarisana promenljiva y na liniji 2
+INFO  16:14:30,495 - Obradjuje se funkcija k na liniji 7
+INFO  16:14:30,495 - Deklarisana promenljiva c na liniji 7
+INFO  16:14:30,551 - Obradjuje se funkcija main na liniji 14
+ERROR 16:14:30,552 - Greska na liniji 18 : ime x nije deklarisano! 
+ERROR 16:14:30,552 - Greska na liniji 18 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:14:30,552 - Pronadjen poziv funkcije k na liniji 19
+ERROR 16:14:30,552 - Greska na liniji 21 : ime x nije deklarisano! 
+ERROR 16:14:30,552 - Greska na liniji 21 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:14:30,552 - Greska na liniji 25 : ime x nije deklarisano! 
+INFO  16:14:30,552 - Pronadjen poziv funkcije k na liniji 25
+ERROR 16:14:30,552 - Greska na liniji 25 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:14:30,553 - Greska na liniji 29 : ime x nije deklarisano! 
+ERROR 16:14:30,553 - Greska na liniji 29 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:14:30,553 - Greska na liniji 29 : ime x nije deklarisano! 
+ERROR 16:14:30,553 - Greska na liniji 29 : ime x nije deklarisano! 
+ERROR 16:14:30,553 - Greska na liniji 30 : ime x nije deklarisano! 
+ERROR 16:14:30,553 - Greska na liniji 30 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:14:30,554 - Greska na liniji 33 : ime x nije deklarisano! 
+INFO  16:14:30,554 - Print calls = 1
+ERROR 16:14:30,556 - Parsiranje NIJE uspesno zavrseno!

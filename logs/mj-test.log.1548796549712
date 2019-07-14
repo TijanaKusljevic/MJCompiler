@@ -1,0 +1,154 @@
+INFO  18:57:59,890 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:58:00,026 - #2 program
+INFO  18:58:00,029 - #15 MJProgram
+INFO  18:58:00,029 - #15 int
+INFO  18:58:00,033 - #15 x
+INFO  18:58:00,035 - #5 ;
+INFO  18:58:00,036 - #15 x
+INFO  18:58:00,038 - #15 y
+INFO  18:58:00,038 - #5 ;
+INFO  18:58:00,039 - #3 {
+INFO  18:58:00,040 - #15 int
+INFO  18:58:00,042 - #15 k
+INFO  18:58:00,042 - #6 (
+INFO  18:58:00,045 - #7 )
+INFO  18:58:00,047 - #15 int
+INFO  18:58:00,048 - #15 c
+INFO  18:58:00,049 - #5 ;
+INFO  18:58:00,050 - #3 {
+INFO  18:58:00,050 - #15 c
+INFO  18:58:00,052 - #12 =
+INFO  18:58:00,056 - #14 1
+INFO  18:58:00,056 - #5 ;
+INFO  18:58:00,061 - #10 return
+INFO  18:58:00,064 - #14 2
+INFO  18:58:00,064 - #5 ;
+INFO  18:58:00,064 - #4 }
+INFO  18:58:00,064 - #15 int
+INFO  18:58:00,067 - #15 main
+INFO  18:58:00,067 - #6 (
+INFO  18:58:00,067 - #7 )
+INFO  18:58:00,068 - #3 {
+INFO  18:58:00,068 - #15 y
+INFO  18:58:00,068 - #12 =
+INFO  18:58:00,069 - #14 2
+INFO  18:58:00,069 - #22 *
+INFO  18:58:00,069 - #14 5
+INFO  18:58:00,072 - #5 ;
+INFO  18:58:00,073 - #15 y
+INFO  18:58:00,074 - #12 =
+INFO  18:58:00,074 - #15 y
+INFO  18:58:00,074 - #21 -
+INFO  18:58:00,074 - #14 1
+INFO  18:58:00,077 - #5 ;
+INFO  18:58:00,096 - #15 y
+INFO  18:58:00,096 - #18 ++
+INFO  18:58:00,097 - #5 ;
+INFO  18:58:00,097 - #15 x
+INFO  18:58:00,098 - #12 =
+INFO  18:58:00,098 - #15 y
+INFO  18:58:00,098 - #11 +
+INFO  18:58:00,098 - #14 2
+INFO  18:58:00,099 - #5 ;
+INFO  18:58:00,099 - #15 y
+INFO  18:58:00,099 - #12 =
+INFO  18:58:00,100 - #15 k
+INFO  18:58:00,101 - #6 (
+INFO  18:58:00,101 - #7 )
+INFO  18:58:00,103 - #11 +
+INFO  18:58:00,103 - #14 3
+INFO  18:58:00,104 - #5 ;
+INFO  18:58:00,104 - #15 y
+INFO  18:58:00,116 - #12 =
+INFO  18:58:00,118 - #15 x
+INFO  18:58:00,118 - #29 [
+INFO  18:58:00,123 - #14 2
+INFO  18:58:00,125 - #30 ]
+INFO  18:58:00,125 - #5 ;
+INFO  18:58:00,126 - #3 {
+INFO  18:58:00,126 - #15 y
+INFO  18:58:00,127 - #12 =
+INFO  18:58:00,127 - #14 3
+INFO  18:58:00,127 - #5 ;
+INFO  18:58:00,129 - #3 {
+INFO  18:58:00,129 - #15 x
+INFO  18:58:00,130 - #12 =
+INFO  18:58:00,130 - #15 k
+INFO  18:58:00,130 - #6 (
+INFO  18:58:00,130 - #7 )
+INFO  18:58:00,131 - #5 ;
+INFO  18:58:00,131 - #4 }
+INFO  18:58:00,131 - #4 }
+INFO  18:58:00,133 - #34 for
+INFO  18:58:00,133 - #6 (
+INFO  18:58:00,134 - #15 x
+INFO  18:58:00,134 - #12 =
+INFO  18:58:00,135 - #14 4
+INFO  18:58:00,135 - #5 ;
+INFO  18:58:00,135 - #15 x
+INFO  18:58:00,136 - #39 <
+INFO  18:58:00,136 - #14 6
+INFO  18:58:00,142 - #35 ||
+INFO  18:58:00,156 - #15 y
+INFO  18:58:00,157 - #39 <
+INFO  18:58:00,158 - #14 1000
+INFO  18:58:00,158 - #36 &&
+INFO  18:58:00,158 - #15 y
+INFO  18:58:00,158 - #40 >
+INFO  18:58:00,159 - #14 0
+INFO  18:58:00,161 - #5 ;
+INFO  18:58:00,162 - #15 x
+INFO  18:58:00,162 - #18 ++
+INFO  18:58:00,163 - #7 )
+INFO  18:58:00,163 - #3 {
+INFO  18:58:00,163 - #15 y
+INFO  18:58:00,163 - #12 =
+INFO  18:58:00,164 - #15 x
+INFO  18:58:00,164 - #5 ;
+INFO  18:58:00,164 - #4 }
+INFO  18:58:00,164 - #16 if
+INFO  18:58:00,165 - #6 (
+INFO  18:58:00,165 - #15 x
+INFO  18:58:00,166 - #37 ==
+INFO  18:58:00,166 - #14 5
+INFO  18:58:00,167 - #7 )
+INFO  18:58:00,168 - #3 {
+INFO  18:58:00,168 - #15 y
+INFO  18:58:00,168 - #12 =
+INFO  18:58:00,169 - #14 347
+INFO  18:58:00,169 - #5 ;
+INFO  18:58:00,169 - #4 }
+INFO  18:58:00,169 - #9 print
+INFO  18:58:00,170 - #6 (
+INFO  18:58:00,170 - #15 y
+INFO  18:58:00,171 - #7 )
+INFO  18:58:00,171 - #5 ;
+INFO  18:58:00,171 - #20 read
+INFO  18:58:00,172 - #6 (
+INFO  18:58:00,172 - #15 y
+INFO  18:58:00,172 - #7 )
+INFO  18:58:00,174 - #5 ;
+INFO  18:58:00,174 - #10 return
+INFO  18:58:00,175 - #14 0
+INFO  18:58:00,175 - #5 ;
+INFO  18:58:00,175 - #4 }
+INFO  18:58:00,176 - #4 }
+INFO  18:58:00,232 - Deklarisana promenljiva x na liniji 2
+ERROR 18:58:00,233 - Greska: Ime x ne predstavlja tip  na liniji 2
+INFO  18:58:00,233 - Deklarisana promenljiva y na liniji 2
+INFO  18:58:00,233 - Obradjuje se funkcija k na liniji 7
+INFO  18:58:00,233 - Deklarisana promenljiva c na liniji 7
+INFO  18:58:00,234 - Obradjuje se funkcija main na liniji 14
+ERROR 18:58:00,234 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:58:00,235 - Greska na liniji 16 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 18:58:00,235 - Greska na liniji 18 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 18:58:00,235 - Greska na liniji 18 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:58:00,235 - Pronadjen poziv funkcije k na liniji 19
+ERROR 18:58:00,235 - Greska na liniji 19 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:58:00,235 - Greska na liniji 21 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:58:00,236 - Greska na liniji 23 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:58:00,236 - Pronadjen poziv funkcije k na liniji 25
+ERROR 18:58:00,236 - Greska na liniji 30 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:58:00,236 - Greska na liniji 34 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:58:00,237 - Print calls = 1
+ERROR 18:58:00,239 - Parsiranje NIJE uspesno zavrseno!

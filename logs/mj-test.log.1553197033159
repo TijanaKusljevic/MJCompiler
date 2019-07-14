@@ -1,0 +1,123 @@
+INFO  20:35:40,264 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:35:40,465 - #2 program
+INFO  20:35:40,465 - #15 MJProgram
+INFO  20:35:40,465 - #15 int
+INFO  20:35:40,497 - #15 y
+INFO  20:35:40,497 - #5 ;
+INFO  20:35:40,497 - #15 int
+INFO  20:35:40,497 - #15 x
+INFO  20:35:40,497 - #5 ;
+INFO  20:35:40,497 - #15 int
+INFO  20:35:40,497 - #15 z
+INFO  20:35:40,497 - #5 ;
+INFO  20:35:40,497 - #15 int
+INFO  20:35:40,497 - #15 niz
+INFO  20:35:40,497 - #29 [
+INFO  20:35:40,497 - #30 ]
+INFO  20:35:40,497 - #5 ;
+INFO  20:35:40,497 - #3 {
+INFO  20:35:40,497 - #15 int
+INFO  20:35:40,497 - #15 main
+INFO  20:35:40,497 - #6 (
+INFO  20:35:40,512 - #7 )
+INFO  20:35:40,512 - #3 {
+INFO  20:35:40,512 - #15 y
+INFO  20:35:40,512 - #12 =
+INFO  20:35:40,512 - #14 7
+INFO  20:35:40,512 - #5 ;
+INFO  20:35:40,512 - #15 x
+INFO  20:35:40,512 - #12 =
+INFO  20:35:40,512 - #14 1
+INFO  20:35:40,512 - #5 ;
+INFO  20:35:40,512 - #34 for
+INFO  20:35:40,512 - #6 (
+INFO  20:35:40,528 - #15 x
+INFO  20:35:40,528 - #12 =
+INFO  20:35:40,528 - #14 0
+INFO  20:35:40,528 - #5 ;
+INFO  20:35:40,528 - #15 x
+INFO  20:35:40,528 - #39 <
+INFO  20:35:40,528 - #14 2
+INFO  20:35:40,528 - #5 ;
+INFO  20:35:40,543 - #15 x
+INFO  20:35:40,543 - #18 ++
+INFO  20:35:40,543 - #7 )
+INFO  20:35:40,543 - #3 {
+INFO  20:35:40,559 - #9 print
+INFO  20:35:40,559 - #6 (
+INFO  20:35:40,559 - #15 x
+INFO  20:35:40,559 - #7 )
+INFO  20:35:40,559 - #5 ;
+INFO  20:35:40,559 - #34 for
+INFO  20:35:40,559 - #6 (
+INFO  20:35:40,559 - #15 y
+INFO  20:35:40,559 - #12 =
+INFO  20:35:40,559 - #14 3
+INFO  20:35:40,559 - #5 ;
+INFO  20:35:40,559 - #15 y
+INFO  20:35:40,559 - #39 <
+INFO  20:35:40,559 - #14 9
+INFO  20:35:40,559 - #5 ;
+INFO  20:35:40,559 - #15 y
+INFO  20:35:40,575 - #18 ++
+INFO  20:35:40,575 - #7 )
+INFO  20:35:40,575 - #3 {
+INFO  20:35:40,575 - #16 if
+INFO  20:35:40,575 - #6 (
+INFO  20:35:40,575 - #15 y
+INFO  20:35:40,575 - #37 ==
+INFO  20:35:40,575 - #14 4
+INFO  20:35:40,590 - #7 )
+INFO  20:35:40,590 - #3 {
+INFO  20:35:40,590 - #9 print
+INFO  20:35:40,590 - #6 (
+INFO  20:35:40,590 - #14 999
+INFO  20:35:40,590 - #7 )
+INFO  20:35:40,590 - #5 ;
+INFO  20:35:40,590 - #32 break
+INFO  20:35:40,590 - #5 ;
+INFO  20:35:40,590 - #4 }
+INFO  20:35:40,590 - #17 else
+INFO  20:35:40,590 - #3 {
+INFO  20:35:40,590 - #9 print
+INFO  20:35:40,606 - #6 (
+INFO  20:35:40,606 - #14 444
+INFO  20:35:40,606 - #7 )
+INFO  20:35:40,606 - #5 ;
+INFO  20:35:40,606 - #4 }
+INFO  20:35:40,606 - #9 print
+INFO  20:35:40,606 - #6 (
+INFO  20:35:40,606 - #15 y
+INFO  20:35:40,606 - #7 )
+INFO  20:35:40,606 - #5 ;
+INFO  20:35:40,606 - #4 }
+INFO  20:35:40,606 - #4 }
+INFO  20:35:40,606 - #9 print
+INFO  20:35:40,606 - #6 (
+INFO  20:35:40,606 - #14 12
+INFO  20:35:40,606 - #7 )
+INFO  20:35:40,606 - #5 ;
+INFO  20:35:40,606 - #10 return
+INFO  20:35:40,606 - #14 0
+INFO  20:35:40,622 - #5 ;
+INFO  20:35:40,622 - #4 }
+INFO  20:35:40,622 - #4 }
+INFO  20:35:40,668 - Deklarisana promenljiva y na liniji 2
+INFO  20:35:40,668 - Deklarisana promenljiva x na liniji 3
+INFO  20:35:40,668 - Deklarisana promenljiva z na liniji 4
+INFO  20:35:40,668 - Deklarisan niz niz na liniji 5
+INFO  20:35:40,668 - Obradjuje se funkcija main na liniji 18
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 35
+INFO  20:35:40,668 - upotreba globalne promenljive x na liniji 36
+INFO  20:35:40,668 - upotreba globalne promenljive x na liniji 37
+INFO  20:35:40,668 - upotreba globalne promenljive x na liniji 37
+INFO  20:35:40,668 - upotreba globalne promenljive x na liniji 37
+INFO  20:35:40,668 - upotreba globalne promenljive x na liniji 38
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 39
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 39
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 39
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 40
+INFO  20:35:40,668 - upotreba globalne promenljive y na liniji 46
+INFO  20:35:40,668 - Print calls = 5
+INFO  20:35:41,792 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:35:41,808 - Parsiranje uspesno zavrseno!

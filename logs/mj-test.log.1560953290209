@@ -1,0 +1,86 @@
+INFO  16:07:19,902 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:07:20,090 - #2 program
+INFO  16:07:20,091 - #15 test301
+INFO  16:07:20,093 - #43 const
+INFO  16:07:20,097 - #15 int
+INFO  16:07:20,097 - #15 KONST
+INFO  16:07:20,100 - #12 =
+INFO  16:07:20,100 - #14 3
+INFO  16:07:20,101 - #5 ;
+INFO  16:07:20,104 - #15 int
+INFO  16:07:20,105 - #15 q
+INFO  16:07:20,105 - #5 ;
+INFO  16:07:20,109 - #15 int
+INFO  16:07:20,110 - #15 r
+INFO  16:07:20,110 - #5 ;
+INFO  16:07:20,110 - #15 bool
+INFO  16:07:20,113 - #15 bo
+INFO  16:07:20,114 - #5 ;
+INFO  16:07:20,114 - #15 int
+INFO  16:07:20,114 - #15 niz
+INFO  16:07:20,114 - #29 [
+INFO  16:07:20,115 - #30 ]
+INFO  16:07:20,115 - #5 ;
+INFO  16:07:20,117 - #3 {
+INFO  16:07:20,118 - #13 void
+INFO  16:07:20,120 - #15 main
+INFO  16:07:20,120 - #6 (
+INFO  16:07:20,120 - #7 )
+INFO  16:07:20,122 - #3 {
+INFO  16:07:20,122 - #15 niz
+INFO  16:07:20,126 - #12 =
+INFO  16:07:20,130 - #28 new
+INFO  16:07:20,131 - #15 int
+INFO  16:07:20,131 - #29 [
+INFO  16:07:20,131 - #15 KONST
+INFO  16:07:20,134 - #30 ]
+INFO  16:07:20,139 - #3 {
+INFO  16:07:20,144 - #14 1
+INFO  16:07:20,146 - #8 ,
+INFO  16:07:20,147 - #14 2
+INFO  16:07:20,147 - #8 ,
+INFO  16:07:20,148 - #14 3
+INFO  16:07:20,148 - #4 }
+INFO  16:07:20,149 - #5 ;
+INFO  16:07:20,150 - #15 q
+INFO  16:07:20,153 - #12 =
+INFO  16:07:20,153 - #14 3
+INFO  16:07:20,153 - #5 ;
+INFO  16:07:20,154 - #16 if
+INFO  16:07:20,154 - #6 (
+INFO  16:07:20,157 - #15 q
+INFO  16:07:20,158 - #37 ==
+INFO  16:07:20,158 - #14 3
+INFO  16:07:20,161 - #7 )
+INFO  16:07:20,172 - #3 {
+INFO  16:07:20,173 - #15 q
+INFO  16:07:20,174 - #12 =
+INFO  16:07:20,182 - #14 6
+INFO  16:07:20,182 - #5 ;
+INFO  16:07:20,182 - #4 }
+INFO  16:07:20,182 - #9 print
+INFO  16:07:20,189 - #6 (
+INFO  16:07:20,189 - #15 niz
+INFO  16:07:20,189 - #29 [
+INFO  16:07:20,189 - #14 2
+INFO  16:07:20,190 - #30 ]
+INFO  16:07:20,190 - #7 )
+INFO  16:07:20,191 - #5 ;
+INFO  16:07:20,191 - #4 }
+INFO  16:07:20,193 - #4 }
+INFO  16:07:20,249 - Deklarisana konstanta KONST na liniji 5
+INFO  16:07:20,249 - Deklarisana promenljiva q na liniji 6
+INFO  16:07:20,250 - Deklarisana promenljiva r na liniji 7
+INFO  16:07:20,250 - Deklarisana promenljiva bo na liniji 8
+INFO  16:07:20,250 - Deklarisan niz niz na liniji 9
+INFO  16:07:20,250 - Obradjuje se funkcija main na liniji 16
+INFO  16:07:20,251 - upotreba globalne promenljive niz na liniji 19
+INFO  16:07:20,251 - upotreba globalne konstante KONST na liniji 19
+INFO  16:07:20,252 - upotreba globalne promenljive q na liniji 20
+INFO  16:07:20,252 - upotreba globalne promenljive q na liniji 21
+INFO  16:07:20,252 - upotreba globalne promenljive q na liniji 22
+INFO  16:07:20,252 - Pristup elementu niza  na liniji 24
+INFO  16:07:20,253 - upotreba globalne promenljive niz na liniji 24
+INFO  16:07:20,687 - Print calls = 1
+INFO  16:07:20,688 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:07:20,713 - Parsiranje uspesno zavrseno!

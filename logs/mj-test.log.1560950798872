@@ -1,0 +1,46 @@
+INFO  15:26:13,759 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:26:13,913 - #2 program
+INFO  15:26:13,914 - #15 test301
+INFO  15:26:13,914 - #43 const
+INFO  15:26:13,916 - #15 int
+INFO  15:26:13,917 - #15 KONST
+INFO  15:26:13,918 - #12 =
+INFO  15:26:13,919 - #14 3
+INFO  15:26:13,920 - #5 ;
+INFO  15:26:13,922 - #15 int
+INFO  15:26:13,922 - #15 q
+INFO  15:26:13,923 - #5 ;
+INFO  15:26:13,926 - #15 int
+INFO  15:26:13,926 - #15 r
+INFO  15:26:13,927 - #5 ;
+INFO  15:26:13,927 - #15 bool
+INFO  15:26:13,927 - #15 bo
+INFO  15:26:13,927 - #5 ;
+INFO  15:26:13,927 - #15 int
+INFO  15:26:13,928 - #15 niz
+INFO  15:26:13,928 - #29 [
+INFO  15:26:13,928 - #30 ]
+INFO  15:26:13,929 - #5 ;
+INFO  15:26:13,930 - #3 {
+INFO  15:26:13,930 - #13 void
+INFO  15:26:13,931 - #15 main
+INFO  15:26:13,931 - #6 (
+INFO  15:26:13,932 - #7 )
+INFO  15:26:13,933 - #3 {
+INFO  15:26:13,933 - #15 q
+INFO  15:26:13,934 - #12 =
+INFO  15:26:13,937 - #14 3
+INFO  15:26:13,937 - #5 ;
+INFO  15:26:13,940 - #16 if
+INFO  15:26:13,941 - #6 (
+INFO  15:26:13,944 - #15 q
+INFO  15:26:13,944 - #37 ==
+INFO  15:26:13,944 - #14 3
+INFO  15:26:13,946 - #7 )
+INFO  15:26:13,954 - #3 {
+INFO  15:26:13,956 - #4 }
+ERROR 15:26:13,956 - 
+Sintaksna greska na liniji 22
+INFO  15:26:13,957 - #4 }
+INFO  15:26:13,957 - #4 }
+ERROR 15:26:13,958 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 27

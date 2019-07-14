@@ -1,0 +1,63 @@
+INFO  15:38:59,344 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:38:59,501 - #2 program
+INFO  15:38:59,501 - #15 test301
+INFO  15:38:59,501 - #15 int
+INFO  15:38:59,516 - #15 i
+INFO  15:38:59,516 - #5 ;
+INFO  15:38:59,516 - #15 int
+INFO  15:38:59,516 - #15 j
+INFO  15:38:59,516 - #5 ;
+INFO  15:38:59,516 - #15 int
+INFO  15:38:59,516 - #15 k
+INFO  15:38:59,516 - #5 ;
+INFO  15:38:59,516 - #3 {
+INFO  15:38:59,516 - #13 void
+INFO  15:38:59,516 - #15 main
+INFO  15:38:59,516 - #6 (
+INFO  15:38:59,516 - #7 )
+INFO  15:38:59,516 - #3 {
+INFO  15:38:59,516 - #15 i
+INFO  15:38:59,516 - #12 =
+INFO  15:38:59,534 - #14 3
+INFO  15:38:59,534 - #5 ;
+INFO  15:38:59,534 - #15 b
+INFO  15:38:59,534 - #12 =
+INFO  15:38:59,534 - #14 4
+INFO  15:38:59,534 - #5 ;
+INFO  15:38:59,534 - #15 c
+INFO  15:38:59,534 - #12 =
+INFO  15:38:59,534 - #14 5
+INFO  15:38:59,534 - #5 ;
+INFO  15:38:59,534 - #15 c
+INFO  15:38:59,534 - #12 =
+INFO  15:38:59,534 - #15 c
+INFO  15:38:59,534 - #11 +
+INFO  15:38:59,534 - #15 a
+INFO  15:38:59,534 - #23 *
+INFO  15:38:59,534 - #15 b
+INFO  15:38:59,550 - #5 ;
+INFO  15:38:59,550 - #4 }
+INFO  15:38:59,550 - #4 }
+INFO  15:38:59,597 - Deklarisana promenljiva i na liniji 5
+INFO  15:38:59,597 - Deklarisana promenljiva j na liniji 6
+INFO  15:38:59,597 - Deklarisana promenljiva k na liniji 7
+INFO  15:38:59,597 - Obradjuje se funkcija main na liniji 14
+INFO  15:38:59,597 - upotreba globalne promenljive i na liniji 17
+ERROR 15:38:59,597 - Greska na liniji 18 : ime b nije deklarisano! 
+INFO  15:38:59,597 - upotreba lokalne promenljive b na liniji 18
+ERROR 15:38:59,597 - Greska na liniji 18 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 15:38:59,597 - Greska na liniji 19 : ime c nije deklarisano! 
+INFO  15:38:59,597 - upotreba lokalne promenljive c na liniji 19
+ERROR 15:38:59,597 - Greska na liniji 19 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 15:38:59,597 - Greska na liniji 20 : ime c nije deklarisano! 
+INFO  15:38:59,612 - upotreba lokalne promenljive c na liniji 20
+ERROR 15:38:59,612 - Greska na liniji 20 : ime c nije deklarisano! 
+INFO  15:38:59,612 - upotreba lokalne promenljive c na liniji 20
+ERROR 15:38:59,612 - Greska na liniji 20 : ime a nije deklarisano! 
+INFO  15:38:59,612 - upotreba lokalne promenljive a na liniji 20
+ERROR 15:38:59,612 - Greska na liniji 20 : ime b nije deklarisano! 
+INFO  15:38:59,612 - upotreba lokalne promenljive b na liniji 20
+ERROR 15:38:59,612 - Greska na liniji 20 : nekompatibilni tipovi u mnozenju ili deljenju.
+ERROR 15:38:59,612 - Greska na liniji 20 : nekompatibilni tipovi u izrazu za sabiranje.
+INFO  15:38:59,628 - Print calls = 0
+ERROR 15:38:59,628 - Parsiranje NIJE uspesno zavrseno!

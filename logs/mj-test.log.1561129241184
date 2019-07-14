@@ -1,0 +1,70 @@
+INFO  16:59:39,154 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:59:39,326 - #2 program
+INFO  16:59:39,326 - #15 test301
+INFO  16:59:39,326 - #15 int
+INFO  16:59:39,326 - #15 a
+INFO  16:59:39,342 - #5 ;
+INFO  16:59:39,342 - #15 int
+INFO  16:59:39,342 - #15 b
+INFO  16:59:39,342 - #5 ;
+INFO  16:59:39,342 - #15 int
+INFO  16:59:39,342 - #15 c
+INFO  16:59:39,342 - #5 ;
+INFO  16:59:39,342 - #15 int
+INFO  16:59:39,342 - #15 niz
+INFO  16:59:39,342 - #29 [
+INFO  16:59:39,342 - #30 ]
+INFO  16:59:39,342 - #5 ;
+INFO  16:59:39,342 - #15 bool
+INFO  16:59:39,342 - #15 bb
+INFO  16:59:39,342 - #5 ;
+INFO  16:59:39,342 - #3 {
+INFO  16:59:39,342 - #13 void
+INFO  16:59:39,342 - #15 main
+INFO  16:59:39,342 - #6 (
+INFO  16:59:39,342 - #7 )
+INFO  16:59:39,342 - #3 {
+INFO  16:59:39,358 - #15 a
+INFO  16:59:39,358 - #12 =
+INFO  16:59:39,358 - #14 5
+INFO  16:59:39,358 - #5 ;
+INFO  16:59:39,358 - #15 b
+INFO  16:59:39,358 - #12 =
+INFO  16:59:39,358 - #14 6
+INFO  16:59:39,358 - #5 ;
+INFO  16:59:39,358 - #15 bb
+INFO  16:59:39,358 - #12 =
+INFO  16:59:39,373 - #27 true
+INFO  16:59:39,373 - #5 ;
+INFO  16:59:39,373 - #15 bb
+INFO  16:59:39,373 - #46 ?
+INFO  16:59:39,373 - #15 c
+INFO  16:59:39,373 - #12 =
+ERROR 16:59:39,373 - 
+Sintaksna greska na liniji 22
+INFO  16:59:39,373 - #15 a
+INFO  16:59:39,373 - #45 :
+INFO  16:59:39,373 - #15 c
+INFO  16:59:39,389 - #12 =
+INFO  16:59:39,389 - #15 b
+INFO  16:59:39,389 - #5 ;
+INFO  16:59:39,389 - #9 print
+INFO  16:59:39,389 - #6 (
+INFO  16:59:39,389 - #15 c
+DEBUG 16:59:39,389 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  16:59:39,389 - #7 )
+INFO  16:59:39,389 - #5 ;
+INFO  16:59:39,389 - #4 }
+INFO  16:59:39,389 - #4 }
+INFO  16:59:39,436 - Deklarisana promenljiva a na liniji 5
+INFO  16:59:39,436 - Deklarisana promenljiva b na liniji 6
+INFO  16:59:39,436 - Deklarisana promenljiva c na liniji 7
+INFO  16:59:39,436 - Deklarisan niz niz na liniji 8
+INFO  16:59:39,436 - Deklarisana promenljiva bb na liniji 9
+INFO  16:59:39,436 - Obradjuje se funkcija main na liniji 15
+INFO  16:59:39,436 - upotreba globalne promenljive a na liniji 18
+INFO  16:59:39,436 - upotreba globalne promenljive b na liniji 19
+INFO  16:59:39,436 - upotreba globalne promenljive bb na liniji 20
+INFO  16:59:39,436 - upotreba globalne promenljive c na liniji 24
+INFO  16:59:39,608 - Print calls = 1
+ERROR 16:59:39,608 - Parsiranje NIJE uspesno zavrseno!

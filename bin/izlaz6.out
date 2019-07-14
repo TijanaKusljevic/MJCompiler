@@ -1,0 +1,108 @@
+INFO  17:22:15,841 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:22:16,083 - #2 program
+INFO  17:22:16,084 - #15 test301
+INFO  17:22:16,084 - #43 const
+INFO  17:22:16,087 - #15 int
+INFO  17:22:16,088 - #15 KONST
+INFO  17:22:16,090 - #12 =
+INFO  17:22:16,090 - #14 3
+INFO  17:22:16,091 - #5 ;
+INFO  17:22:16,096 - #15 int
+INFO  17:22:16,098 - #15 q
+INFO  17:22:16,099 - #15 int
+ERROR 17:22:16,100 - 
+Sintaksna greska na liniji 7
+INFO  17:22:16,101 - #15 r
+INFO  17:22:16,101 - #5 ;
+INFO  17:22:16,102 - #15 bool
+DEBUG 17:22:16,103 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  17:22:16,112 - #15 bo
+INFO  17:22:16,112 - #5 ;
+INFO  17:22:16,118 - #15 int
+INFO  17:22:16,118 - #15 niz
+INFO  17:22:16,118 - #29 [
+INFO  17:22:16,118 - #30 ]
+INFO  17:22:16,119 - #5 ;
+INFO  17:22:16,120 - #44 enum
+INFO  17:22:16,121 - #15 Pok
+INFO  17:22:16,121 - #3 {
+INFO  17:22:16,123 - #15 NULA
+INFO  17:22:16,123 - #8 ,
+INFO  17:22:16,129 - #15 JEDAN
+INFO  17:22:16,129 - #8 ,
+INFO  17:22:16,130 - #15 DVA
+INFO  17:22:16,130 - #8 ,
+INFO  17:22:16,130 - #15 TRI
+INFO  17:22:16,130 - #4 }
+INFO  17:22:16,131 - #15 int
+INFO  17:22:16,131 - #15 l
+INFO  17:22:16,131 - #5 ;
+INFO  17:22:16,132 - #3 {
+INFO  17:22:16,132 - #13 void
+INFO  17:22:16,134 - #15 main
+INFO  17:22:16,134 - #6 (
+INFO  17:22:16,135 - #7 )
+INFO  17:22:16,137 - #3 {
+INFO  17:22:16,137 - #15 niz
+INFO  17:22:16,138 - #12 =
+INFO  17:22:16,141 - #28 new
+INFO  17:22:16,141 - #15 int
+INFO  17:22:16,142 - #29 [
+INFO  17:22:16,142 - #15 Pok
+INFO  17:22:16,145 - #31 .
+INFO  17:22:16,145 - #15 TRI
+INFO  17:22:16,145 - #30 ]
+INFO  17:22:16,149 - #3 {
+INFO  17:22:16,156 - #14 1
+INFO  17:22:16,157 - #8 ,
+INFO  17:22:16,158 - #14 2
+INFO  17:22:16,168 - #8 ,
+INFO  17:22:16,169 - #14 3
+INFO  17:22:16,169 - #4 }
+INFO  17:22:16,170 - #5 ;
+INFO  17:22:16,172 - #15 q
+INFO  17:22:16,175 - #12 =
+INFO  17:22:16,176 - #14 3
+INFO  17:22:16,176 - #5 ;
+INFO  17:22:16,176 - #16 if
+INFO  17:22:16,179 - #6 (
+INFO  17:22:16,182 - #15 q
+INFO  17:22:16,182 - #37 ==
+INFO  17:22:16,183 - #14 3
+INFO  17:22:16,186 - #7 )
+INFO  17:22:16,208 - #3 {
+INFO  17:22:16,211 - #15 q
+INFO  17:22:16,211 - #12 =
+INFO  17:22:16,211 - #14 6
+INFO  17:22:16,212 - #5 ;
+INFO  17:22:16,212 - #4 }
+INFO  17:22:16,212 - #9 print
+INFO  17:22:16,215 - #6 (
+INFO  17:22:16,215 - #15 niz
+INFO  17:22:16,215 - #29 [
+INFO  17:22:16,216 - #14 2
+INFO  17:22:16,216 - #30 ]
+INFO  17:22:16,216 - #7 )
+INFO  17:22:16,217 - #5 ;
+INFO  17:22:16,217 - #4 }
+INFO  17:22:16,217 - #4 }
+INFO  17:22:16,286 - Deklarisana promenljiva r na liniji 7
+INFO  17:22:16,287 - Deklarisana promenljiva bo na liniji 8
+INFO  17:22:16,288 - Deklarisan niz niz na liniji 9
+INFO  17:22:16,289 - Deklarisana promenljiva l na liniji 12
+INFO  17:22:16,291 - Obradjuje se funkcija main na liniji 19
+INFO  17:22:16,291 - upotreba globalne promenljive niz na liniji 22
+INFO  17:22:16,291 - upotreba globalne promenljive Pok na liniji 22
+ERROR 17:22:16,292 - Greska na liniji 23 : ime q nije deklarisano! 
+INFO  17:22:16,293 - upotreba lokalne promenljive q na liniji 23
+ERROR 17:22:16,295 - Greska na liniji 23 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+ERROR 17:22:16,296 - Greska na liniji 24 : ime q nije deklarisano! 
+INFO  17:22:16,296 - upotreba lokalne promenljive q na liniji 24
+ERROR 17:22:16,296 - nekompatibilni tipovi za poredjenje na liniji 24
+ERROR 17:22:16,297 - Greska na liniji 25 : ime q nije deklarisano! 
+INFO  17:22:16,297 - upotreba lokalne promenljive q na liniji 25
+ERROR 17:22:16,297 - Greska na liniji 25 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+INFO  17:22:16,298 - Pristup elementu niza  na liniji 27
+INFO  17:22:16,298 - upotreba globalne promenljive niz na liniji 27
+INFO  17:22:16,897 - Print calls = 1
+ERROR 17:22:16,897 - Parsiranje NIJE uspesno zavrseno!

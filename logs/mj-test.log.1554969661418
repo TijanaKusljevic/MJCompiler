@@ -1,0 +1,69 @@
+INFO  09:58:33,134 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:58:33,321 - #2 program
+INFO  09:58:33,337 - #15 MJProgram
+INFO  09:58:33,337 - #15 int
+INFO  09:58:33,337 - #15 a
+INFO  09:58:33,337 - #5 ;
+INFO  09:58:33,353 - #3 {
+INFO  09:58:33,353 - #13 void
+INFO  09:58:33,353 - #15 k
+INFO  09:58:33,353 - #6 (
+INFO  09:58:33,353 - #15 int
+INFO  09:58:33,353 - #15 b
+INFO  09:58:33,353 - #7 )
+INFO  09:58:33,368 - #3 {
+INFO  09:58:33,368 - #9 print
+INFO  09:58:33,368 - #6 (
+INFO  09:58:33,368 - #15 b
+INFO  09:58:33,368 - #7 )
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,384 - #10 return
+INFO  09:58:33,384 - #14 3
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,384 - #4 }
+INFO  09:58:33,384 - #15 int
+INFO  09:58:33,384 - #15 main
+INFO  09:58:33,384 - #6 (
+INFO  09:58:33,384 - #7 )
+INFO  09:58:33,384 - #3 {
+INFO  09:58:33,384 - #15 a
+INFO  09:58:33,384 - #12 =
+INFO  09:58:33,384 - #14 7
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,384 - #15 a
+INFO  09:58:33,384 - #12 =
+INFO  09:58:33,384 - #15 k
+INFO  09:58:33,384 - #6 (
+INFO  09:58:33,384 - #15 a
+INFO  09:58:33,384 - #7 )
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,384 - #15 a
+INFO  09:58:33,384 - #12 =
+INFO  09:58:33,384 - #14 9
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,384 - #9 print
+INFO  09:58:33,384 - #6 (
+INFO  09:58:33,384 - #15 a
+INFO  09:58:33,384 - #7 )
+INFO  09:58:33,384 - #5 ;
+INFO  09:58:33,399 - #10 return
+INFO  09:58:33,399 - #14 0
+INFO  09:58:33,399 - #5 ;
+INFO  09:58:33,415 - #4 }
+INFO  09:58:33,415 - #4 }
+INFO  09:58:33,478 - Deklarisana promenljiva a na liniji 3
+INFO  09:58:33,478 - Obradjuje se funkcija k na liniji 8
+INFO  09:58:33,478 - Deklarisana promenljiva b na liniji 8
+INFO  09:58:33,493 - upotreba formalnog parametra b na liniji 9
+ERROR 09:58:33,493 - Greska na liniji 10 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije k
+INFO  09:58:33,493 - Obradjuje se funkcija main na liniji 13
+INFO  09:58:33,493 - upotreba globalne promenljive a na liniji 14
+INFO  09:58:33,493 - upotreba globalne promenljive a na liniji 15
+INFO  09:58:33,493 - upotreba lokalne promenljive k na liniji 15
+INFO  09:58:33,493 - upotreba globalne promenljive a na liniji 15
+INFO  09:58:33,509 - Pronadjen poziv funkcije k na liniji 15
+ERROR 09:58:33,509 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  09:58:33,509 - upotreba globalne promenljive a na liniji 17
+INFO  09:58:33,509 - upotreba globalne promenljive a na liniji 18
+INFO  09:58:33,509 - Print calls = 2
+ERROR 09:58:33,509 - Parsiranje NIJE uspesno zavrseno!

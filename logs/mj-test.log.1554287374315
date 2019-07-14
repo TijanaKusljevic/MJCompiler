@@ -1,0 +1,47 @@
+INFO  12:29:14,856 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:29:15,031 - #2 program
+INFO  12:29:15,032 - #15 MJProgram
+INFO  12:29:15,033 - #44 enum
+INFO  12:29:15,037 - #15 Voce
+INFO  12:29:15,038 - #3 {
+INFO  12:29:15,049 - #15 JABUKA
+INFO  12:29:15,049 - #8 ,
+INFO  12:29:15,071 - #15 KRUSKA
+INFO  12:29:15,072 - #8 ,
+INFO  12:29:15,073 - #15 SLJIVA
+INFO  12:29:15,073 - #8 ,
+INFO  12:29:15,073 - #15 KIVI
+INFO  12:29:15,074 - #4 }
+INFO  12:29:15,076 - #15 Voce
+INFO  12:29:15,079 - #15 v
+INFO  12:29:15,079 - #5 ;
+INFO  12:29:15,079 - #3 {
+INFO  12:29:15,079 - #15 int
+INFO  12:29:15,079 - #15 main
+INFO  12:29:15,079 - #6 (
+INFO  12:29:15,079 - #7 )
+INFO  12:29:15,079 - #3 {
+INFO  12:29:15,079 - #15 v
+INFO  12:29:15,079 - #12 =
+INFO  12:29:15,079 - #15 Voce
+INFO  12:29:15,079 - #31 .
+INFO  12:29:15,079 - #15 KRUSKA
+INFO  12:29:15,079 - #5 ;
+INFO  12:29:15,094 - #9 print
+INFO  12:29:15,094 - #6 (
+INFO  12:29:15,094 - #15 v
+INFO  12:29:15,094 - #7 )
+INFO  12:29:15,094 - #5 ;
+INFO  12:29:15,094 - #10 return
+INFO  12:29:15,094 - #14 0
+INFO  12:29:15,094 - #5 ;
+INFO  12:29:15,094 - #4 }
+INFO  12:29:15,094 - #4 }
+INFO  12:29:15,141 - Deklarisana promenljiva v na liniji 8
+INFO  12:29:15,141 - Obradjuje se funkcija main na liniji 14
+INFO  12:29:15,141 - upotreba globalne promenljive v na liniji 20
+INFO  12:29:15,141 - upotreba globalne promenljive Voce na liniji 20
+INFO  12:29:15,141 - upotreba globalne promenljive v na liniji 22
+INFO  12:29:15,141 - Print calls = 1
+INFO  12:29:15,141 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:29:15,164 - Parsiranje uspesno zavrseno!

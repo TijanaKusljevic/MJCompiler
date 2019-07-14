@@ -1,0 +1,40 @@
+//Test 302
+
+program test302
+
+enum IncrementType { BY_ONE, DOUBLE_VALUE }
+
+int a;
+int b;
+int c;
+
+{
+	
+	
+	void main()
+	{
+		a=5;
+		b=6;
+		
+		if(a<=b){
+			print('m');
+		}  
+		a++;
+		if(a==b){
+			print('j');
+		}
+		a++;
+		if(a<=b){
+			print('m');
+		} else {
+			print('v');
+			c=a+b;
+			print(c);
+				
+			c=-1*c;
+			print(c);
+			
+		}
+	}
+}
+

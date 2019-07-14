@@ -1,0 +1,44 @@
+INFO  15:41:04,404 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:41:04,577 - #2 program
+INFO  15:41:04,579 - #15 test302
+INFO  15:41:04,580 - #15 int
+INFO  15:41:04,583 - #15 b
+INFO  15:41:04,583 - #5 ;
+INFO  15:41:04,583 - #15 int
+INFO  15:41:04,583 - #15 niz
+INFO  15:41:04,583 - #29 [
+INFO  15:41:04,583 - #30 ]
+INFO  15:41:04,583 - #5 ;
+INFO  15:41:04,583 - #3 {
+INFO  15:41:04,583 - #15 int
+INFO  15:41:04,583 - #15 main
+INFO  15:41:04,583 - #6 (
+INFO  15:41:04,583 - #7 )
+INFO  15:41:04,598 - #3 {
+INFO  15:41:04,598 - #15 b
+INFO  15:41:04,598 - #12 =
+INFO  15:41:04,598 - #14 65
+INFO  15:41:04,598 - #5 ;
+INFO  15:41:04,598 - #9 print
+INFO  15:41:04,598 - #6 (
+INFO  15:41:04,598 - #15 chr
+INFO  15:41:04,598 - #6 (
+INFO  15:41:04,598 - #15 b
+INFO  15:41:04,598 - #7 )
+INFO  15:41:04,598 - #7 )
+INFO  15:41:04,598 - #5 ;
+INFO  15:41:04,598 - #10 return
+INFO  15:41:04,614 - #14 0
+INFO  15:41:04,614 - #5 ;
+INFO  15:41:04,614 - #4 }
+INFO  15:41:04,614 - #4 }
+INFO  15:41:04,645 - Deklarisana promenljiva b na liniji 4
+INFO  15:41:04,645 - Deklarisan niz niz na liniji 5
+INFO  15:41:04,645 - Obradjuje se funkcija main na liniji 10
+INFO  15:41:04,645 - upotreba globalne promenljive b na liniji 12
+INFO  15:41:04,645 - upotreba lokalne promenljive chr na liniji 13
+INFO  15:41:04,645 - upotreba globalne promenljive b na liniji 13
+INFO  15:41:04,661 - Pronadjen poziv funkcije chr na liniji 13
+INFO  15:41:04,661 - Print calls = 1
+INFO  15:41:04,661 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:41:04,661 - Parsiranje uspesno zavrseno!

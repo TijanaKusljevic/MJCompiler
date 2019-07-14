@@ -1,0 +1,93 @@
+INFO  17:20:34,867 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:20:35,017 - #2 program
+INFO  17:20:35,017 - #15 MJProgram
+INFO  17:20:35,025 - #15 int
+INFO  17:20:35,027 - #15 x
+INFO  17:20:35,027 - #5 ;
+INFO  17:20:35,035 - #15 int
+INFO  17:20:35,035 - #15 y
+INFO  17:20:35,035 - #5 ;
+INFO  17:20:35,037 - #3 {
+INFO  17:20:35,037 - #15 int
+INFO  17:20:35,037 - #15 k
+INFO  17:20:35,037 - #6 (
+INFO  17:20:35,037 - #7 )
+INFO  17:20:35,037 - #15 int
+INFO  17:20:35,037 - #15 c
+INFO  17:20:35,037 - #5 ;
+INFO  17:20:35,037 - #3 {
+INFO  17:20:35,037 - #15 c
+INFO  17:20:35,037 - #12 =
+INFO  17:20:35,047 - #14 2
+INFO  17:20:35,047 - #5 ;
+INFO  17:20:35,047 - #9 print
+INFO  17:20:35,047 - #6 (
+INFO  17:20:35,047 - #15 c
+INFO  17:20:35,047 - #7 )
+INFO  17:20:35,047 - #5 ;
+INFO  17:20:35,047 - #9 print
+INFO  17:20:35,055 - #6 (
+INFO  17:20:35,055 - #15 c
+INFO  17:20:35,055 - #7 )
+INFO  17:20:35,055 - #5 ;
+INFO  17:20:35,056 - #10 return
+INFO  17:20:35,056 - #15 c
+INFO  17:20:35,056 - #11 +
+INFO  17:20:35,056 - #14 2
+INFO  17:20:35,058 - #5 ;
+INFO  17:20:35,059 - #4 }
+INFO  17:20:35,060 - #15 int
+INFO  17:20:35,063 - #15 main
+INFO  17:20:35,063 - #6 (
+INFO  17:20:35,064 - #7 )
+INFO  17:20:35,064 - #3 {
+INFO  17:20:35,069 - #15 x
+INFO  17:20:35,069 - #12 =
+INFO  17:20:35,070 - #14 3
+INFO  17:20:35,071 - #5 ;
+INFO  17:20:35,071 - #9 print
+INFO  17:20:35,072 - #6 (
+INFO  17:20:35,072 - #14 1
+INFO  17:20:35,072 - #7 )
+INFO  17:20:35,072 - #5 ;
+INFO  17:20:35,072 - #9 print
+INFO  17:20:35,079 - #6 (
+INFO  17:20:35,079 - #15 x
+INFO  17:20:35,079 - #7 )
+INFO  17:20:35,082 - #5 ;
+INFO  17:20:35,082 - #15 y
+INFO  17:20:35,082 - #12 =
+INFO  17:20:35,083 - #15 k
+INFO  17:20:35,083 - #6 (
+INFO  17:20:35,092 - #7 )
+INFO  17:20:35,093 - #21 -
+INFO  17:20:35,094 - #14 2
+INFO  17:20:35,096 - #5 ;
+INFO  17:20:35,096 - #9 print
+INFO  17:20:35,096 - #6 (
+INFO  17:20:35,096 - #15 y
+INFO  17:20:35,096 - #7 )
+INFO  17:20:35,096 - #5 ;
+INFO  17:20:35,096 - #10 return
+INFO  17:20:35,096 - #14 0
+INFO  17:20:35,096 - #5 ;
+INFO  17:20:35,097 - #4 }
+INFO  17:20:35,097 - #4 }
+INFO  17:20:35,138 - Deklarisana promenljiva x na liniji 3
+INFO  17:20:35,138 - Deklarisana promenljiva y na liniji 4
+INFO  17:20:35,138 - Obradjuje se funkcija k na liniji 9
+INFO  17:20:35,138 - Deklarisana promenljiva c na liniji 9
+INFO  17:20:35,138 - upotreba lokalne promenljive c na liniji 10
+INFO  17:20:35,138 - upotreba lokalne promenljive c na liniji 11
+INFO  17:20:35,138 - upotreba lokalne promenljive c na liniji 12
+INFO  17:20:35,138 - upotreba lokalne promenljive c na liniji 13
+INFO  17:20:35,138 - Obradjuje se funkcija main na liniji 17
+INFO  17:20:35,138 - upotreba globalne promenljive x na liniji 18
+INFO  17:20:35,138 - upotreba globalne promenljive x na liniji 20
+INFO  17:20:35,138 - upotreba globalne promenljive y na liniji 22
+INFO  17:20:35,138 - upotreba globalne promenljive k na liniji 22
+INFO  17:20:35,138 - Pronadjen poziv funkcije k na liniji 22
+INFO  17:20:35,138 - upotreba globalne promenljive y na liniji 23
+INFO  17:20:35,138 - Print calls = 5
+INFO  17:20:35,138 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:20:35,158 - Parsiranje uspesno zavrseno!

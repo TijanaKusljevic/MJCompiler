@@ -1,0 +1,47 @@
+INFO  16:12:08,945 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:12:09,139 - #2 program
+INFO  16:12:09,139 - #15 MJProgram
+INFO  16:12:09,139 - #15 bool
+INFO  16:12:09,139 - #15 b
+INFO  16:12:09,139 - #5 ;
+INFO  16:12:09,155 - #3 {
+INFO  16:12:09,155 - #15 int
+INFO  16:12:09,155 - #15 main
+INFO  16:12:09,155 - #6 (
+INFO  16:12:09,155 - #7 )
+INFO  16:12:09,155 - #3 {
+INFO  16:12:09,155 - #15 b
+INFO  16:12:09,155 - #12 =
+INFO  16:12:09,155 - #26 false
+INFO  16:12:09,155 - #5 ;
+INFO  16:12:09,170 - #16 if
+INFO  16:12:09,170 - #6 (
+INFO  16:12:09,170 - #15 b
+INFO  16:12:09,170 - #7 )
+INFO  16:12:09,186 - #3 {
+INFO  16:12:09,186 - #9 print
+INFO  16:12:09,186 - #6 (
+INFO  16:12:09,186 - #18 t
+INFO  16:12:09,186 - #7 )
+INFO  16:12:09,186 - #5 ;
+INFO  16:12:09,186 - #4 }
+INFO  16:12:09,186 - #17 else
+INFO  16:12:09,186 - #3 {
+INFO  16:12:09,186 - #9 print
+INFO  16:12:09,186 - #6 (
+INFO  16:12:09,186 - #18 n
+INFO  16:12:09,186 - #7 )
+INFO  16:12:09,186 - #5 ;
+INFO  16:12:09,186 - #4 }
+INFO  16:12:09,186 - #10 return
+INFO  16:12:09,186 - #14 0
+INFO  16:12:09,186 - #5 ;
+INFO  16:12:09,186 - #4 }
+INFO  16:12:09,186 - #4 }
+INFO  16:12:09,233 - Deklarisana promenljiva b na liniji 3
+INFO  16:12:09,233 - Obradjuje se funkcija main na liniji 6
+INFO  16:12:09,233 - upotreba globalne promenljive b na liniji 9
+INFO  16:12:09,233 - upotreba globalne promenljive b na liniji 11
+INFO  16:12:09,233 - Print calls = 2
+INFO  16:12:09,233 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:12:09,249 - Parsiranje uspesno zavrseno!

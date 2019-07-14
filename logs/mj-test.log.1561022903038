@@ -1,0 +1,178 @@
+INFO  11:22:51,771 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:22:51,943 - #2 program
+INFO  11:22:51,943 - #15 test301
+INFO  11:22:51,943 - #15 int
+INFO  11:22:51,943 - #15 i
+INFO  11:22:51,943 - #5 ;
+INFO  11:22:51,959 - #15 int
+INFO  11:22:51,959 - #15 j
+INFO  11:22:51,959 - #5 ;
+INFO  11:22:51,959 - #15 int
+INFO  11:22:51,959 - #15 k
+INFO  11:22:51,959 - #5 ;
+INFO  11:22:51,959 - #3 {
+INFO  11:22:51,959 - #13 void
+INFO  11:22:51,959 - #15 main
+INFO  11:22:51,959 - #6 (
+INFO  11:22:51,959 - #7 )
+INFO  11:22:51,959 - #3 {
+INFO  11:22:51,959 - #15 i
+INFO  11:22:51,959 - #12 =
+INFO  11:22:51,959 - #14 0
+INFO  11:22:51,959 - #5 ;
+INFO  11:22:51,974 - #15 j
+INFO  11:22:51,974 - #12 =
+INFO  11:22:51,974 - #14 0
+INFO  11:22:51,974 - #5 ;
+INFO  11:22:51,974 - #15 k
+INFO  11:22:51,974 - #12 =
+INFO  11:22:51,974 - #14 0
+INFO  11:22:51,974 - #5 ;
+INFO  11:22:51,974 - #34 for
+INFO  11:22:51,974 - #6 (
+INFO  11:22:51,974 - #15 i
+INFO  11:22:51,990 - #12 =
+INFO  11:22:51,990 - #14 0
+INFO  11:22:51,990 - #5 ;
+INFO  11:22:51,990 - #15 i
+INFO  11:22:51,990 - #39 <
+INFO  11:22:51,990 - #14 3
+INFO  11:22:51,990 - #5 ;
+INFO  11:22:52,005 - #15 i
+INFO  11:22:52,005 - #19 ++
+INFO  11:22:52,005 - #7 )
+INFO  11:22:52,005 - #3 {
+INFO  11:22:52,005 - #16 if
+INFO  11:22:52,005 - #6 (
+INFO  11:22:52,021 - #15 i
+INFO  11:22:52,021 - #37 ==
+INFO  11:22:52,021 - #14 2
+INFO  11:22:52,021 - #7 )
+INFO  11:22:52,021 - #3 {
+INFO  11:22:52,021 - #32 break
+INFO  11:22:52,021 - #5 ;
+INFO  11:22:52,021 - #4 }
+INFO  11:22:52,021 - #34 for
+INFO  11:22:52,021 - #6 (
+INFO  11:22:52,021 - #15 j
+INFO  11:22:52,037 - #12 =
+INFO  11:22:52,037 - #14 0
+INFO  11:22:52,037 - #5 ;
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #39 <
+INFO  11:22:52,037 - #14 5
+INFO  11:22:52,037 - #5 ;
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #19 ++
+INFO  11:22:52,037 - #7 )
+INFO  11:22:52,037 - #3 {
+INFO  11:22:52,037 - #9 print
+INFO  11:22:52,037 - #6 (
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #7 )
+INFO  11:22:52,037 - #5 ;
+INFO  11:22:52,037 - #16 if
+INFO  11:22:52,037 - #6 (
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #37 ==
+INFO  11:22:52,037 - #14 2
+INFO  11:22:52,037 - #35 ||
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #37 ==
+INFO  11:22:52,037 - #14 1
+INFO  11:22:52,037 - #36 &&
+INFO  11:22:52,037 - #15 i
+INFO  11:22:52,037 - #37 ==
+INFO  11:22:52,037 - #14 0
+INFO  11:22:52,037 - #7 )
+INFO  11:22:52,037 - #3 {
+INFO  11:22:52,037 - #9 print
+INFO  11:22:52,037 - #6 (
+INFO  11:22:52,037 - #18 u
+INFO  11:22:52,037 - #7 )
+INFO  11:22:52,037 - #5 ;
+INFO  11:22:52,037 - #4 }
+INFO  11:22:52,037 - #16 if
+INFO  11:22:52,037 - #6 (
+INFO  11:22:52,037 - #15 j
+INFO  11:22:52,037 - #37 ==
+INFO  11:22:52,037 - #14 4
+INFO  11:22:52,052 - #7 )
+INFO  11:22:52,052 - #3 {
+INFO  11:22:52,052 - #32 break
+INFO  11:22:52,052 - #5 ;
+INFO  11:22:52,052 - #4 }
+INFO  11:22:52,052 - #16 if
+INFO  11:22:52,052 - #6 (
+INFO  11:22:52,052 - #15 j
+INFO  11:22:52,052 - #37 ==
+INFO  11:22:52,052 - #14 3
+INFO  11:22:52,052 - #35 ||
+INFO  11:22:52,052 - #15 j
+INFO  11:22:52,052 - #37 ==
+INFO  11:22:52,052 - #14 0
+INFO  11:22:52,052 - #7 )
+INFO  11:22:52,052 - #3 {
+INFO  11:22:52,052 - #34 for
+INFO  11:22:52,052 - #6 (
+INFO  11:22:52,052 - #15 k
+INFO  11:22:52,052 - #12 =
+INFO  11:22:52,052 - #14 0
+INFO  11:22:52,052 - #5 ;
+INFO  11:22:52,052 - #15 k
+INFO  11:22:52,052 - #39 <
+INFO  11:22:52,052 - #14 3
+INFO  11:22:52,052 - #5 ;
+INFO  11:22:52,052 - #15 k
+INFO  11:22:52,052 - #19 ++
+INFO  11:22:52,052 - #7 )
+INFO  11:22:52,052 - #3 {
+INFO  11:22:52,052 - #16 if
+INFO  11:22:52,052 - #6 (
+INFO  11:22:52,052 - #15 k
+INFO  11:22:52,052 - #37 ==
+INFO  11:22:52,052 - #14 1
+INFO  11:22:52,052 - #7 )
+INFO  11:22:52,052 - #3 {
+INFO  11:22:52,052 - #33 continue
+INFO  11:22:52,052 - #5 ;
+INFO  11:22:52,052 - #4 }
+INFO  11:22:52,052 - #9 print
+INFO  11:22:52,052 - #6 (
+INFO  11:22:52,052 - #18 k
+INFO  11:22:52,052 - #7 )
+INFO  11:22:52,052 - #5 ;
+INFO  11:22:52,958 - #4 }
+INFO  11:22:52,958 - #4 }
+INFO  11:22:52,974 - #4 }
+INFO  11:22:52,974 - #4 }
+INFO  11:22:52,974 - #4 }
+INFO  11:22:52,974 - #4 }
+INFO  11:22:53,021 - Deklarisana promenljiva i na liniji 5
+INFO  11:22:53,021 - Deklarisana promenljiva j na liniji 6
+INFO  11:22:53,021 - Deklarisana promenljiva k na liniji 7
+INFO  11:22:53,021 - Obradjuje se funkcija main na liniji 14
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 17
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 18
+INFO  11:22:53,021 - upotreba globalne promenljive k na liniji 19
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 21
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 21
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 21
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 22
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 25
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 25
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 25
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 26
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 27
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 27
+INFO  11:22:53,021 - upotreba globalne promenljive i na liniji 27
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 30
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 33
+INFO  11:22:53,021 - upotreba globalne promenljive j na liniji 33
+INFO  11:22:53,021 - upotreba globalne promenljive k na liniji 34
+INFO  11:22:53,021 - upotreba globalne promenljive k na liniji 34
+INFO  11:22:53,021 - upotreba globalne promenljive k na liniji 34
+INFO  11:22:53,021 - upotreba globalne promenljive k na liniji 36
+INFO  11:22:53,037 - Print calls = 3
+INFO  11:22:53,037 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:22:53,068 - Parsiranje uspesno zavrseno!

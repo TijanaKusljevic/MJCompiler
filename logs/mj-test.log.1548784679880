@@ -1,0 +1,150 @@
+INFO  18:55:46,183 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:55:46,457 - #2 program
+INFO  18:55:46,458 - #15 MJProgram
+INFO  18:55:46,459 - #15 kiki
+INFO  18:55:46,466 - #15 x
+INFO  18:55:46,469 - #5 ;
+INFO  18:55:46,469 - #15 int
+INFO  18:55:46,473 - #15 y
+INFO  18:55:46,473 - #5 ;
+INFO  18:55:46,474 - #3 {
+INFO  18:55:46,474 - #15 int
+INFO  18:55:46,478 - #15 k
+INFO  18:55:46,478 - #6 (
+INFO  18:55:46,480 - #7 )
+INFO  18:55:46,482 - #15 int
+INFO  18:55:46,482 - #15 c
+INFO  18:55:46,483 - #5 ;
+INFO  18:55:46,483 - #3 {
+INFO  18:55:46,483 - #15 c
+INFO  18:55:46,486 - #12 =
+INFO  18:55:46,491 - #14 1
+INFO  18:55:46,492 - #5 ;
+INFO  18:55:46,498 - #10 return
+INFO  18:55:46,501 - #14 2
+INFO  18:55:46,501 - #5 ;
+INFO  18:55:46,502 - #4 }
+INFO  18:55:46,502 - #15 int
+INFO  18:55:46,507 - #15 main
+INFO  18:55:46,507 - #6 (
+INFO  18:55:46,507 - #7 )
+INFO  18:55:46,508 - #3 {
+INFO  18:55:46,508 - #15 y
+INFO  18:55:46,508 - #12 =
+INFO  18:55:46,508 - #14 2
+INFO  18:55:46,512 - #22 *
+INFO  18:55:46,512 - #14 5
+INFO  18:55:46,517 - #5 ;
+INFO  18:55:46,520 - #15 y
+INFO  18:55:46,527 - #12 =
+INFO  18:55:46,527 - #15 y
+INFO  18:55:46,527 - #21 -
+INFO  18:55:46,529 - #14 1
+INFO  18:55:46,539 - #5 ;
+INFO  18:55:46,540 - #15 y
+INFO  18:55:46,540 - #18 ++
+INFO  18:55:46,541 - #5 ;
+INFO  18:55:46,541 - #15 x
+INFO  18:55:46,541 - #12 =
+INFO  18:55:46,542 - #15 y
+INFO  18:55:46,542 - #11 +
+INFO  18:55:46,542 - #14 2
+INFO  18:55:46,543 - #5 ;
+INFO  18:55:46,543 - #15 y
+INFO  18:55:46,543 - #12 =
+INFO  18:55:46,544 - #15 k
+INFO  18:55:46,544 - #6 (
+INFO  18:55:46,547 - #7 )
+INFO  18:55:46,549 - #11 +
+INFO  18:55:46,550 - #14 3
+INFO  18:55:46,551 - #5 ;
+INFO  18:55:46,551 - #15 y
+INFO  18:55:46,560 - #12 =
+INFO  18:55:46,561 - #15 x
+INFO  18:55:46,561 - #29 [
+INFO  18:55:46,561 - #14 2
+INFO  18:55:46,561 - #30 ]
+INFO  18:55:46,562 - #5 ;
+INFO  18:55:46,562 - #3 {
+INFO  18:55:46,563 - #15 y
+INFO  18:55:46,563 - #12 =
+INFO  18:55:46,563 - #14 3
+INFO  18:55:46,563 - #5 ;
+INFO  18:55:46,563 - #3 {
+INFO  18:55:46,564 - #15 x
+INFO  18:55:46,564 - #12 =
+INFO  18:55:46,564 - #15 k
+INFO  18:55:46,564 - #6 (
+INFO  18:55:46,564 - #7 )
+INFO  18:55:46,565 - #5 ;
+INFO  18:55:46,565 - #4 }
+INFO  18:55:46,565 - #4 }
+INFO  18:55:46,566 - #34 for
+INFO  18:55:46,567 - #6 (
+INFO  18:55:46,567 - #15 x
+INFO  18:55:46,568 - #12 =
+INFO  18:55:46,569 - #14 4
+INFO  18:55:46,572 - #5 ;
+INFO  18:55:46,572 - #15 x
+INFO  18:55:46,572 - #39 <
+INFO  18:55:46,573 - #14 6
+INFO  18:55:46,584 - #35 ||
+INFO  18:55:46,593 - #15 y
+INFO  18:55:46,593 - #39 <
+INFO  18:55:46,594 - #14 1000
+INFO  18:55:46,594 - #36 &&
+INFO  18:55:46,594 - #15 y
+INFO  18:55:46,595 - #40 >
+INFO  18:55:46,595 - #14 0
+INFO  18:55:46,598 - #5 ;
+INFO  18:55:46,599 - #15 x
+INFO  18:55:46,599 - #18 ++
+INFO  18:55:46,599 - #7 )
+INFO  18:55:46,599 - #3 {
+INFO  18:55:46,599 - #15 y
+INFO  18:55:46,600 - #12 =
+INFO  18:55:46,600 - #15 x
+INFO  18:55:46,600 - #5 ;
+INFO  18:55:46,600 - #4 }
+INFO  18:55:46,600 - #16 if
+INFO  18:55:46,601 - #6 (
+INFO  18:55:46,601 - #15 x
+INFO  18:55:46,601 - #37 ==
+INFO  18:55:46,601 - #14 5
+INFO  18:55:46,603 - #7 )
+INFO  18:55:46,604 - #3 {
+INFO  18:55:46,604 - #15 y
+INFO  18:55:46,604 - #12 =
+INFO  18:55:46,604 - #14 347
+INFO  18:55:46,604 - #5 ;
+INFO  18:55:46,605 - #4 }
+INFO  18:55:46,605 - #9 print
+INFO  18:55:46,606 - #6 (
+INFO  18:55:46,606 - #15 y
+INFO  18:55:46,606 - #7 )
+INFO  18:55:46,606 - #5 ;
+INFO  18:55:46,607 - #20 read
+INFO  18:55:46,607 - #6 (
+INFO  18:55:46,607 - #15 y
+INFO  18:55:46,607 - #7 )
+INFO  18:55:46,608 - #5 ;
+INFO  18:55:46,609 - #10 return
+INFO  18:55:46,609 - #14 0
+INFO  18:55:46,609 - #5 ;
+INFO  18:55:46,609 - #4 }
+INFO  18:55:46,609 - #4 }
+ERROR 18:55:46,657 - Nije pronadjen tip kiki u tabeli simbola
+INFO  18:55:46,657 - Deklarisana promenljiva x na liniji 2
+INFO  18:55:46,657 - Deklarisana promenljiva y na liniji 2
+INFO  18:55:46,657 - Obradjuje se funkcija k na liniji 7
+INFO  18:55:46,657 - Deklarisana promenljiva c na liniji 7
+INFO  18:55:46,658 - Obradjuje se funkcija main na liniji 14
+ERROR 18:55:46,658 - Greska na liniji 18 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:55:46,658 - Pronadjen poziv funkcije k na liniji 19
+ERROR 18:55:46,658 - Greska na liniji 21 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:55:46,659 - Pronadjen poziv funkcije k na liniji 25
+ERROR 18:55:46,659 - Greska na liniji 25 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:55:46,659 - Greska na liniji 29 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 18:55:46,659 - Greska na liniji 30 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  18:55:46,660 - Print calls = 1
+ERROR 18:55:46,661 - Parsiranje NIJE uspesno zavrseno!

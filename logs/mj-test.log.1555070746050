@@ -1,0 +1,53 @@
+INFO  14:05:14,409 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:05:14,712 - #2 program
+INFO  14:05:14,713 - #15 test302
+INFO  14:05:14,713 - #15 int
+INFO  14:05:14,725 - #15 b
+INFO  14:05:14,728 - #5 ;
+INFO  14:05:14,736 - #15 int
+INFO  14:05:14,737 - #15 niz
+INFO  14:05:14,737 - #29 [
+INFO  14:05:14,738 - #30 ]
+INFO  14:05:14,738 - #5 ;
+INFO  14:05:14,741 - #3 {
+INFO  14:05:14,741 - #15 int
+INFO  14:05:14,743 - #15 kiki
+INFO  14:05:14,744 - #6 (
+INFO  14:05:14,744 - #15 int
+INFO  14:05:14,745 - #15 a
+INFO  14:05:14,745 - #7 )
+INFO  14:05:14,749 - #3 {
+INFO  14:05:14,750 - #10 return
+INFO  14:05:14,754 - #15 a
+INFO  14:05:14,754 - #5 ;
+INFO  14:05:14,762 - #4 }
+INFO  14:05:14,764 - #15 int
+INFO  14:05:14,766 - #15 main
+INFO  14:05:14,774 - #6 (
+INFO  14:05:14,774 - #7 )
+INFO  14:05:14,774 - #3 {
+INFO  14:05:14,774 - #15 b
+INFO  14:05:14,774 - #12 =
+INFO  14:05:14,774 - #15 kiki
+INFO  14:05:14,774 - #6 (
+INFO  14:05:14,774 - #15 b
+INFO  14:05:14,774 - #7 )
+INFO  14:05:14,774 - #5 ;
+INFO  14:05:14,774 - #10 return
+INFO  14:05:14,774 - #14 0
+INFO  14:05:14,774 - #5 ;
+INFO  14:05:14,774 - #4 }
+INFO  14:05:14,774 - #4 }
+INFO  14:05:14,821 - Deklarisana promenljiva b na liniji 4
+INFO  14:05:14,821 - Deklarisan niz niz na liniji 5
+INFO  14:05:14,821 - Obradjuje se funkcija kiki na liniji 8
+INFO  14:05:14,821 - Deklarisana promenljiva a na liniji 8
+INFO  14:05:14,836 - upotreba formalnog parametra a na liniji 9
+INFO  14:05:14,836 - Obradjuje se funkcija main na liniji 12
+INFO  14:05:14,836 - upotreba globalne promenljive b na liniji 20
+INFO  14:05:14,836 - upotreba lokalne promenljive kiki na liniji 20
+INFO  14:05:14,836 - upotreba globalne promenljive b na liniji 20
+INFO  14:05:14,836 - Pronadjen poziv funkcije kiki na liniji 20
+INFO  14:05:14,836 - Print calls = 0
+INFO  14:05:14,836 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  14:05:14,852 - Parsiranje uspesno zavrseno!

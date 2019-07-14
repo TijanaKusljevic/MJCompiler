@@ -1,0 +1,64 @@
+INFO  15:48:26,469 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:48:26,641 - #2 program
+INFO  15:48:26,644 - #15 MJProgram
+INFO  15:48:26,644 - #15 int
+INFO  15:48:26,644 - #15 x
+INFO  15:48:26,644 - #5 ;
+INFO  15:48:26,651 - #15 int
+INFO  15:48:26,651 - #15 y
+INFO  15:48:26,651 - #5 ;
+INFO  15:48:26,651 - #3 {
+INFO  15:48:26,651 - #15 int
+INFO  15:48:26,655 - #15 k
+INFO  15:48:26,655 - #6 (
+INFO  15:48:26,655 - #7 )
+INFO  15:48:26,655 - #15 int
+INFO  15:48:26,655 - #15 c
+INFO  15:48:26,655 - #5 ;
+INFO  15:48:26,655 - #3 {
+INFO  15:48:26,655 - #15 c
+INFO  15:48:26,661 - #12 =
+INFO  15:48:26,664 - #14 2
+INFO  15:48:26,664 - #5 ;
+INFO  15:48:26,664 - #10 return
+INFO  15:48:26,664 - #15 c
+INFO  15:48:26,664 - #11 +
+INFO  15:48:26,670 - #14 2
+INFO  15:48:26,670 - #5 ;
+INFO  15:48:26,670 - #4 }
+INFO  15:48:26,670 - #15 int
+INFO  15:48:26,670 - #15 main
+INFO  15:48:26,670 - #6 (
+INFO  15:48:26,670 - #7 )
+INFO  15:48:26,670 - #3 {
+INFO  15:48:26,670 - #15 x
+INFO  15:48:26,670 - #12 =
+INFO  15:48:26,670 - #14 3
+INFO  15:48:26,670 - #5 ;
+INFO  15:48:26,670 - #9 print
+INFO  15:48:26,670 - #6 (
+INFO  15:48:26,670 - #14 1
+INFO  15:48:26,670 - #7 )
+INFO  15:48:26,670 - #5 ;
+INFO  15:48:26,670 - #9 print
+INFO  15:48:26,670 - #6 (
+INFO  15:48:26,670 - #15 x
+INFO  15:48:26,670 - #7 )
+INFO  15:48:26,670 - #5 ;
+INFO  15:48:26,670 - #10 return
+INFO  15:48:26,670 - #14 0
+INFO  15:48:26,670 - #5 ;
+INFO  15:48:26,670 - #4 }
+INFO  15:48:26,670 - #4 }
+INFO  15:48:26,725 - Deklarisana promenljiva x na liniji 3
+INFO  15:48:26,725 - Deklarisana promenljiva y na liniji 4
+INFO  15:48:26,725 - Obradjuje se funkcija k na liniji 9
+INFO  15:48:26,725 - Deklarisana promenljiva c na liniji 9
+INFO  15:48:26,725 - upotreba lokalne promenljive c na liniji 10
+INFO  15:48:26,725 - upotreba lokalne promenljive c na liniji 11
+INFO  15:48:26,725 - Obradjuje se funkcija main na liniji 15
+INFO  15:48:26,725 - upotreba globalne promenljive x na liniji 16
+INFO  15:48:26,731 - upotreba globalne promenljive x na liniji 18
+INFO  15:48:26,731 - Print calls = 2
+INFO  15:48:26,731 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:48:26,744 - Parsiranje uspesno zavrseno!

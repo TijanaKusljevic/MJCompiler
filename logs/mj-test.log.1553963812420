@@ -1,0 +1,41 @@
+INFO  17:34:29,836 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:34:30,012 - #2 program
+INFO  17:34:30,012 - #15 MJProgram
+INFO  17:34:30,012 - #43 const
+INFO  17:34:30,016 - #15 char
+INFO  17:34:30,016 - #15 a
+INFO  17:34:30,020 - #12 =
+INFO  17:34:30,020 - #18 x
+INFO  17:34:30,020 - #8 ,
+INFO  17:34:30,020 - #15 b
+INFO  17:34:30,020 - #12 =
+INFO  17:34:30,020 - #18 y
+INFO  17:34:30,020 - #5 ;
+INFO  17:34:30,024 - #3 {
+INFO  17:34:30,024 - #15 int
+INFO  17:34:30,024 - #15 main
+INFO  17:34:30,024 - #6 (
+INFO  17:34:30,028 - #7 )
+INFO  17:34:30,028 - #3 {
+INFO  17:34:30,028 - #9 print
+INFO  17:34:30,028 - #6 (
+INFO  17:34:30,028 - #15 a
+INFO  17:34:30,032 - #7 )
+INFO  17:34:30,036 - #5 ;
+INFO  17:34:30,036 - #9 print
+INFO  17:34:30,036 - #6 (
+INFO  17:34:30,036 - #15 b
+INFO  17:34:30,036 - #7 )
+INFO  17:34:30,036 - #5 ;
+INFO  17:34:30,036 - #10 return
+INFO  17:34:30,040 - #14 0
+INFO  17:34:30,040 - #5 ;
+INFO  17:34:30,040 - #4 }
+INFO  17:34:30,040 - #4 }
+INFO  17:34:30,064 - Deklarisana konstanta a na liniji 3
+INFO  17:34:30,064 - Obradjuje se funkcija main na liniji 6
+INFO  17:34:30,064 - upotreba globalne konstante a na liniji 8
+INFO  17:34:30,064 - upotreba globalne konstante b na liniji 9
+INFO  17:34:30,064 - Print calls = 2
+INFO  17:34:30,068 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:34:30,088 - Parsiranje uspesno zavrseno!

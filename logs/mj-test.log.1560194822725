@@ -1,0 +1,162 @@
+INFO  21:22:10,349 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:22:10,525 - #2 program
+INFO  21:22:10,525 - #15 test301
+INFO  21:22:10,526 - #15 int
+INFO  21:22:10,529 - #15 p
+INFO  21:22:10,531 - #5 ;
+INFO  21:22:10,536 - #15 int
+INFO  21:22:10,538 - #15 q
+INFO  21:22:10,539 - #5 ;
+INFO  21:22:10,539 - #15 int
+INFO  21:22:10,540 - #15 r
+INFO  21:22:10,541 - #5 ;
+INFO  21:22:10,541 - #15 bool
+INFO  21:22:10,543 - #15 bo
+INFO  21:22:10,544 - #5 ;
+INFO  21:22:10,545 - #3 {
+INFO  21:22:10,545 - #15 int
+INFO  21:22:10,549 - #15 sum
+INFO  21:22:10,549 - #6 (
+INFO  21:22:10,550 - #15 int
+INFO  21:22:10,550 - #15 z
+INFO  21:22:10,550 - #8 ,
+INFO  21:22:10,555 - #15 int
+INFO  21:22:10,555 - #15 d
+INFO  21:22:10,555 - #7 )
+INFO  21:22:10,556 - #3 {
+INFO  21:22:10,556 - #10 return
+INFO  21:22:10,558 - #15 z
+INFO  21:22:10,559 - #11 +
+INFO  21:22:10,571 - #15 d
+INFO  21:22:10,574 - #5 ;
+INFO  21:22:10,575 - #4 }
+INFO  21:22:10,577 - #15 int
+INFO  21:22:10,579 - #15 sumsub
+INFO  21:22:10,580 - #6 (
+INFO  21:22:10,580 - #15 int
+INFO  21:22:10,580 - #15 a
+INFO  21:22:10,580 - #8 ,
+INFO  21:22:10,581 - #15 int
+INFO  21:22:10,581 - #15 b
+INFO  21:22:10,581 - #8 ,
+INFO  21:22:10,581 - #15 int
+INFO  21:22:10,582 - #15 c
+INFO  21:22:10,582 - #8 ,
+INFO  21:22:10,583 - #15 bool
+INFO  21:22:10,583 - #15 g
+INFO  21:22:10,583 - #7 )
+INFO  21:22:10,584 - #3 {
+INFO  21:22:10,584 - #16 if
+INFO  21:22:10,584 - #6 (
+INFO  21:22:10,587 - #15 g
+INFO  21:22:10,587 - #7 )
+INFO  21:22:10,596 - #10 return
+INFO  21:22:10,599 - #15 a
+INFO  21:22:10,600 - #11 +
+INFO  21:22:10,600 - #15 b
+INFO  21:22:10,601 - #11 +
+INFO  21:22:10,609 - #15 c
+INFO  21:22:10,610 - #5 ;
+INFO  21:22:10,610 - #17 else
+INFO  21:22:10,610 - #10 return
+INFO  21:22:10,612 - #15 a
+INFO  21:22:10,612 - #11 +
+INFO  21:22:10,614 - #15 b
+INFO  21:22:10,614 - #22 -
+INFO  21:22:10,615 - #15 c
+INFO  21:22:10,616 - #5 ;
+INFO  21:22:10,617 - #4 }
+INFO  21:22:10,619 - #13 void
+INFO  21:22:10,620 - #15 main
+INFO  21:22:10,620 - #6 (
+INFO  21:22:10,620 - #7 )
+INFO  21:22:10,622 - #3 {
+INFO  21:22:10,622 - #15 p
+INFO  21:22:10,622 - #12 =
+INFO  21:22:10,622 - #14 1
+INFO  21:22:10,623 - #5 ;
+INFO  21:22:10,623 - #15 q
+INFO  21:22:10,624 - #12 =
+INFO  21:22:10,624 - #14 2
+INFO  21:22:10,624 - #5 ;
+INFO  21:22:10,625 - #15 r
+INFO  21:22:10,625 - #12 =
+INFO  21:22:10,625 - #15 sum
+INFO  21:22:10,625 - #6 (
+INFO  21:22:10,626 - #15 p
+INFO  21:22:10,626 - #8 ,
+INFO  21:22:10,626 - #15 q
+INFO  21:22:10,627 - #7 )
+INFO  21:22:10,628 - #5 ;
+INFO  21:22:10,629 - #9 print
+INFO  21:22:10,629 - #6 (
+INFO  21:22:10,629 - #15 r
+INFO  21:22:10,629 - #7 )
+INFO  21:22:10,629 - #5 ;
+INFO  21:22:10,629 - #15 bo
+INFO  21:22:10,630 - #12 =
+INFO  21:22:10,630 - #27 true
+INFO  21:22:10,630 - #5 ;
+INFO  21:22:10,634 - #9 print
+INFO  21:22:10,634 - #6 (
+INFO  21:22:10,635 - #15 sumsub
+INFO  21:22:10,635 - #6 (
+INFO  21:22:10,637 - #15 sum
+INFO  21:22:10,637 - #6 (
+INFO  21:22:10,637 - #15 p
+INFO  21:22:10,637 - #8 ,
+INFO  21:22:10,638 - #15 r
+INFO  21:22:10,638 - #7 )
+INFO  21:22:10,638 - #8 ,
+INFO  21:22:10,638 - #15 q
+INFO  21:22:10,638 - #8 ,
+INFO  21:22:10,639 - #14 10
+INFO  21:22:10,639 - #8 ,
+INFO  21:22:10,639 - #15 bo
+INFO  21:22:10,639 - #7 )
+INFO  21:22:10,640 - #7 )
+INFO  21:22:10,640 - #5 ;
+INFO  21:22:10,640 - #4 }
+INFO  21:22:10,640 - #4 }
+INFO  21:22:10,666 - Deklarisana promenljiva p na liniji 5
+INFO  21:22:10,666 - Deklarisana promenljiva q na liniji 6
+INFO  21:22:10,666 - Deklarisana promenljiva r na liniji 7
+INFO  21:22:10,666 - Deklarisana promenljiva bo na liniji 8
+INFO  21:22:10,667 - Obradjuje se funkcija sum na liniji 13
+INFO  21:22:10,667 - Deklarisana promenljiva z na liniji 13
+INFO  21:22:10,667 - Deklarisana promenljiva d na liniji 13
+INFO  21:22:10,668 - upotreba formalnog parametra z na liniji 15
+INFO  21:22:10,668 - upotreba formalnog parametra d na liniji 15
+INFO  21:22:10,669 - Obradjuje se funkcija sumsub na liniji 18
+INFO  21:22:10,669 - Deklarisana promenljiva a na liniji 18
+INFO  21:22:10,669 - Deklarisana promenljiva b na liniji 18
+INFO  21:22:10,670 - Deklarisana promenljiva c na liniji 18
+INFO  21:22:10,670 - Deklarisana promenljiva g na liniji 18
+INFO  21:22:10,670 - upotreba formalnog parametra g na liniji 19
+INFO  21:22:10,671 - upotreba formalnog parametra a na liniji 20
+INFO  21:22:10,671 - upotreba formalnog parametra b na liniji 20
+INFO  21:22:10,671 - upotreba formalnog parametra c na liniji 20
+INFO  21:22:10,672 - upotreba formalnog parametra a na liniji 22
+INFO  21:22:10,672 - upotreba formalnog parametra b na liniji 22
+INFO  21:22:10,672 - upotreba formalnog parametra c na liniji 22
+INFO  21:22:10,673 - Obradjuje se funkcija main na liniji 25
+INFO  21:22:10,673 - upotreba globalne promenljive p na liniji 28
+INFO  21:22:10,673 - upotreba globalne promenljive q na liniji 29
+INFO  21:22:10,673 - upotreba globalne promenljive r na liniji 31
+INFO  21:22:10,674 - upotreba lokalne promenljive sum na liniji 31
+INFO  21:22:10,674 - upotreba globalne promenljive p na liniji 31
+INFO  21:22:10,674 - upotreba globalne promenljive q na liniji 31
+INFO  21:22:10,675 - Pronadjen poziv funkcije sum na liniji 31
+INFO  21:22:10,675 - upotreba globalne promenljive r na liniji 32
+INFO  21:22:10,675 - upotreba globalne promenljive bo na liniji 34
+INFO  21:22:10,675 - upotreba lokalne promenljive sumsub na liniji 35
+INFO  21:22:10,675 - upotreba lokalne promenljive sum na liniji 35
+INFO  21:22:10,676 - upotreba globalne promenljive p na liniji 35
+INFO  21:22:10,676 - upotreba globalne promenljive r na liniji 35
+INFO  21:22:10,676 - Pronadjen poziv funkcije sum na liniji 35
+INFO  21:22:10,676 - upotreba globalne promenljive q na liniji 35
+INFO  21:22:10,677 - upotreba globalne promenljive bo na liniji 35
+INFO  21:22:10,677 - Pronadjen poziv funkcije sumsub na liniji 35
+INFO  21:22:10,684 - Print calls = 2
+INFO  21:22:10,684 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:22:10,703 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,238 @@
+INFO  15:18:54,344 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:18:54,535 - #2 program
+INFO  15:18:54,536 - #15 MJProgram
+INFO  15:18:54,536 - #15 int
+INFO  15:18:54,543 - #15 x
+INFO  15:18:54,546 - #5 ;
+INFO  15:18:54,547 - #15 int
+INFO  15:18:54,548 - #15 y
+INFO  15:18:54,549 - #5 ;
+INFO  15:18:54,549 - #43 const
+INFO  15:18:54,550 - #15 int
+INFO  15:18:54,550 - #15 soidjfo
+INFO  15:18:54,550 - #12 =
+INFO  15:18:54,551 - #14 7
+INFO  15:18:54,551 - #5 ;
+INFO  15:18:54,555 - #43 const
+INFO  15:18:54,556 - #15 int
+INFO  15:18:54,556 - #15 so
+INFO  15:18:54,557 - #5 ;
+INFO  15:18:54,559 - #15 int
+INFO  15:18:54,559 - #15 niz
+INFO  15:18:54,559 - #29 [
+INFO  15:18:54,560 - #30 ]
+INFO  15:18:54,560 - #5 ;
+INFO  15:18:54,561 - #3 {
+INFO  15:18:54,561 - #15 int
+INFO  15:18:54,565 - #15 k
+INFO  15:18:54,566 - #6 (
+INFO  15:18:54,568 - #7 )
+INFO  15:18:54,571 - #15 int
+INFO  15:18:54,571 - #15 c
+INFO  15:18:54,571 - #5 ;
+INFO  15:18:54,571 - #3 {
+INFO  15:18:54,577 - #15 c
+INFO  15:18:54,579 - #12 =
+INFO  15:18:54,583 - #14 1
+INFO  15:18:54,583 - #5 ;
+INFO  15:18:54,596 - #10 return
+INFO  15:18:54,598 - #14 2
+INFO  15:18:54,598 - #5 ;
+INFO  15:18:54,598 - #4 }
+INFO  15:18:54,598 - #15 int
+INFO  15:18:54,607 - #15 r
+INFO  15:18:54,607 - #6 (
+INFO  15:18:54,608 - #7 )
+INFO  15:18:54,608 - #15 int
+INFO  15:18:54,608 - #15 n
+INFO  15:18:54,608 - #5 ;
+INFO  15:18:54,609 - #3 {
+INFO  15:18:54,609 - #15 x
+INFO  15:18:54,609 - #12 =
+INFO  15:18:54,609 - #14 7
+INFO  15:18:54,610 - #5 ;
+INFO  15:18:54,610 - #15 n
+INFO  15:18:54,611 - #12 =
+INFO  15:18:54,611 - #14 0
+INFO  15:18:54,611 - #5 ;
+INFO  15:18:54,614 - #10 return
+INFO  15:18:54,614 - #15 n
+INFO  15:18:54,614 - #5 ;
+INFO  15:18:54,615 - #4 }
+INFO  15:18:54,627 - #15 int
+INFO  15:18:54,627 - #15 main
+INFO  15:18:54,627 - #6 (
+INFO  15:18:54,628 - #7 )
+INFO  15:18:54,629 - #3 {
+INFO  15:18:54,631 - #15 y
+INFO  15:18:54,635 - #12 =
+INFO  15:18:54,635 - #14 2
+INFO  15:18:54,635 - #22 *
+INFO  15:18:54,635 - #14 5
+INFO  15:18:54,640 - #5 ;
+INFO  15:18:54,641 - #15 y
+INFO  15:18:54,641 - #12 =
+INFO  15:18:54,641 - #15 y
+INFO  15:18:54,641 - #21 -
+INFO  15:18:54,642 - #14 1
+INFO  15:18:54,646 - #5 ;
+INFO  15:18:54,647 - #15 y
+INFO  15:18:54,647 - #18 ++
+INFO  15:18:54,647 - #5 ;
+INFO  15:18:54,647 - #15 x
+INFO  15:18:54,648 - #12 =
+INFO  15:18:54,648 - #15 y
+INFO  15:18:54,648 - #11 +
+INFO  15:18:54,648 - #14 2
+INFO  15:18:54,649 - #5 ;
+INFO  15:18:54,649 - #15 y
+INFO  15:18:54,649 - #12 =
+INFO  15:18:54,649 - #15 k
+INFO  15:18:54,649 - #6 (
+INFO  15:18:54,649 - #7 )
+INFO  15:18:54,653 - #11 +
+INFO  15:18:54,655 - #14 3
+INFO  15:18:54,655 - #5 ;
+INFO  15:18:54,655 - #15 y
+INFO  15:18:54,656 - #12 =
+INFO  15:18:54,656 - #14 3
+INFO  15:18:54,656 - #22 *
+INFO  15:18:54,656 - #15 y
+INFO  15:18:54,656 - #5 ;
+INFO  15:18:54,656 - #15 y
+INFO  15:18:54,657 - #12 =
+INFO  15:18:54,657 - #15 niz
+INFO  15:18:54,657 - #29 [
+INFO  15:18:54,657 - #14 2
+INFO  15:18:54,657 - #30 ]
+INFO  15:18:54,657 - #5 ;
+INFO  15:18:54,658 - #15 y
+INFO  15:18:54,658 - #12 =
+INFO  15:18:54,658 - #15 so
+INFO  15:18:54,658 - #11 +
+INFO  15:18:54,658 - #14 3
+INFO  15:18:54,658 - #5 ;
+INFO  15:18:54,658 - #15 y
+INFO  15:18:54,658 - #12 =
+INFO  15:18:54,659 - #15 x
+INFO  15:18:54,659 - #29 [
+INFO  15:18:54,659 - #14 2
+INFO  15:18:54,659 - #30 ]
+INFO  15:18:54,659 - #5 ;
+INFO  15:18:54,659 - #3 {
+INFO  15:18:54,659 - #15 y
+INFO  15:18:54,660 - #12 =
+INFO  15:18:54,660 - #14 3
+INFO  15:18:54,660 - #5 ;
+INFO  15:18:54,661 - #3 {
+INFO  15:18:54,661 - #15 x
+INFO  15:18:54,662 - #12 =
+INFO  15:18:54,662 - #15 k
+INFO  15:18:54,662 - #6 (
+INFO  15:18:54,662 - #7 )
+INFO  15:18:54,662 - #5 ;
+INFO  15:18:54,662 - #4 }
+INFO  15:18:54,663 - #4 }
+INFO  15:18:54,663 - #34 for
+INFO  15:18:54,664 - #6 (
+INFO  15:18:54,664 - #15 x
+INFO  15:18:54,664 - #12 =
+INFO  15:18:54,665 - #14 4
+INFO  15:18:54,665 - #5 ;
+INFO  15:18:54,665 - #15 x
+INFO  15:18:54,666 - #39 <
+INFO  15:18:54,666 - #14 6
+INFO  15:18:54,673 - #35 ||
+INFO  15:18:54,680 - #15 y
+INFO  15:18:54,680 - #39 <
+INFO  15:18:54,681 - #14 1000
+INFO  15:18:54,681 - #36 &&
+INFO  15:18:54,681 - #15 y
+INFO  15:18:54,681 - #40 >
+INFO  15:18:54,681 - #14 0
+INFO  15:18:54,683 - #5 ;
+INFO  15:18:54,686 - #15 x
+INFO  15:18:54,686 - #18 ++
+INFO  15:18:54,686 - #7 )
+INFO  15:18:54,686 - #3 {
+INFO  15:18:54,687 - #15 y
+INFO  15:18:54,687 - #12 =
+INFO  15:18:54,687 - #15 x
+INFO  15:18:54,687 - #5 ;
+INFO  15:18:54,687 - #4 }
+INFO  15:18:54,688 - #16 if
+INFO  15:18:54,689 - #6 (
+INFO  15:18:54,689 - #15 x
+INFO  15:18:54,689 - #37 ==
+INFO  15:18:54,689 - #14 5
+INFO  15:18:54,693 - #7 )
+INFO  15:18:54,693 - #3 {
+INFO  15:18:54,693 - #15 y
+INFO  15:18:54,693 - #12 =
+INFO  15:18:54,693 - #14 347
+INFO  15:18:54,694 - #5 ;
+INFO  15:18:54,694 - #4 }
+INFO  15:18:54,694 - #9 print
+INFO  15:18:54,695 - #6 (
+INFO  15:18:54,695 - #15 y
+INFO  15:18:54,695 - #7 )
+INFO  15:18:54,695 - #5 ;
+INFO  15:18:54,695 - #20 read
+INFO  15:18:54,696 - #6 (
+INFO  15:18:54,696 - #15 y
+INFO  15:18:54,696 - #7 )
+INFO  15:18:54,696 - #5 ;
+INFO  15:18:54,696 - #10 return
+INFO  15:18:54,696 - #14 0
+INFO  15:18:54,696 - #5 ;
+INFO  15:18:54,697 - #4 }
+INFO  15:18:54,697 - #4 }
+INFO  15:18:54,739 - Deklarisana promenljiva x na liniji 2
+INFO  15:18:54,740 - Deklarisana promenljiva y na liniji 2
+INFO  15:18:54,740 - Deklarisana konstanta soidjfo na liniji 3
+INFO  15:18:54,740 - Deklarisana konstanta so na liniji 4
+INFO  15:18:54,741 - Deklarisan niz niz na liniji 5
+INFO  15:18:54,741 - Obradjuje se funkcija k na liniji 8
+INFO  15:18:54,741 - Deklarisana promenljiva c na liniji 8
+INFO  15:18:54,742 - upotreba lokalne promenljive c na liniji 9
+INFO  15:18:54,742 - Obradjuje se funkcija r na liniji 13
+INFO  15:18:54,742 - Deklarisana promenljiva n na liniji 13
+INFO  15:18:54,742 - upotreba globalne promenljive x na liniji 14
+INFO  15:18:54,743 - upotreba lokalne promenljive n na liniji 15
+INFO  15:18:54,743 - upotreba lokalne promenljive n na liniji 16
+INFO  15:18:54,743 - Obradjuje se funkcija main na liniji 19
+INFO  15:18:54,743 - upotreba globalne promenljive y na liniji 20
+INFO  15:18:54,743 - upotreba globalne promenljive y na liniji 21
+INFO  15:18:54,744 - upotreba globalne promenljive y na liniji 21
+INFO  15:18:54,744 - upotreba globalne promenljive y na liniji 22
+INFO  15:18:54,744 - upotreba globalne promenljive x na liniji 23
+INFO  15:18:54,744 - upotreba globalne promenljive y na liniji 23
+INFO  15:18:54,744 - upotreba globalne promenljive y na liniji 24
+INFO  15:18:54,745 - upotreba globalne promenljive k na liniji 24
+INFO  15:18:54,745 - Pronadjen poziv funkcije k na liniji 24
+INFO  15:18:54,745 - upotreba globalne promenljive y na liniji 25
+INFO  15:18:54,745 - upotreba globalne promenljive y na liniji 25
+INFO  15:18:54,745 - upotreba globalne promenljive y na liniji 26
+INFO  15:18:54,745 - upotreba globalne promenljive niz na liniji 26
+ERROR 15:18:54,745 - Greska na liniji 26 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  15:18:54,745 - upotreba globalne promenljive y na liniji 27
+INFO  15:18:54,745 - upotreba globalne konstante so na liniji 27
+INFO  15:18:54,746 - upotreba globalne promenljive y na liniji 29
+INFO  15:18:54,746 - upotreba globalne promenljive x na liniji 29
+INFO  15:18:54,746 - upotreba globalne promenljive y na liniji 31
+INFO  15:18:54,746 - upotreba globalne promenljive x na liniji 33
+INFO  15:18:54,746 - upotreba globalne promenljive k na liniji 33
+INFO  15:18:54,746 - Pronadjen poziv funkcije k na liniji 33
+INFO  15:18:54,746 - upotreba globalne promenljive x na liniji 37
+INFO  15:18:54,746 - upotreba globalne promenljive x na liniji 37
+INFO  15:18:54,747 - upotreba globalne promenljive y na liniji 37
+INFO  15:18:54,747 - upotreba globalne promenljive y na liniji 37
+INFO  15:18:54,747 - upotreba globalne promenljive x na liniji 37
+INFO  15:18:54,747 - upotreba globalne promenljive y na liniji 38
+INFO  15:18:54,747 - upotreba globalne promenljive x na liniji 38
+INFO  15:18:54,747 - upotreba globalne promenljive x na liniji 41
+INFO  15:18:54,748 - upotreba globalne promenljive y na liniji 42
+INFO  15:18:54,748 - upotreba globalne promenljive y na liniji 47
+INFO  15:18:54,748 - upotreba globalne promenljive y na liniji 48
+INFO  15:18:54,748 - Print calls = 1
+ERROR 15:18:54,750 - Parsiranje NIJE uspesno zavrseno!

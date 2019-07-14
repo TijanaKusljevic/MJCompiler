@@ -1,0 +1,44 @@
+INFO  17:21:23,425 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:21:23,595 - #2 program
+INFO  17:21:23,596 - #15 testGreska
+INFO  17:21:23,596 - #44 enum
+INFO  17:21:23,599 - #15 Pok
+INFO  17:21:23,599 - #3 {
+INFO  17:21:23,602 - #15 NULA
+INFO  17:21:23,602 - #8 ,
+INFO  17:21:23,612 - #15 JEDAN
+INFO  17:21:23,612 - #8 ,
+INFO  17:21:23,613 - #15 DVA
+INFO  17:21:23,614 - #8 ,
+INFO  17:21:23,614 - #15 TRI
+INFO  17:21:23,615 - #4 }
+INFO  17:21:23,615 - #5 ;
+ERROR 17:21:23,616 - 
+Sintaksna greska na liniji 4
+INFO  17:21:23,616 - #15 int
+INFO  17:21:23,617 - #15 z
+INFO  17:21:23,617 - #5 ;
+INFO  17:21:23,619 - #3 {
+DEBUG 17:21:23,620 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  17:21:23,629 - #13 void
+INFO  17:21:23,631 - #15 main
+INFO  17:21:23,631 - #6 (
+INFO  17:21:23,631 - #7 )
+INFO  17:21:23,633 - #3 {
+INFO  17:21:23,633 - #15 z
+INFO  17:21:23,635 - #12 =
+INFO  17:21:23,646 - #15 Pok
+INFO  17:21:23,649 - #31 .
+INFO  17:21:23,649 - #15 TRI
+INFO  17:21:23,649 - #5 ;
+INFO  17:21:23,654 - #4 }
+INFO  17:21:23,657 - #4 }
+INFO  17:21:23,707 - Deklarisana promenljiva z na liniji 6
+INFO  17:21:23,708 - Obradjuje se funkcija main na liniji 12
+INFO  17:21:23,708 - upotreba globalne promenljive z na liniji 15
+ERROR 17:21:23,709 - Greska na liniji 15 : ime Pok nije deklarisano! 
+INFO  17:21:23,709 - upotreba lokalne promenljive Pok na liniji 15
+ERROR 17:21:23,711 - ne postoji takva mogucnost u nabrajanju na liniji 15
+ERROR 17:21:23,711 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti poyy 
+INFO  17:21:23,715 - Print calls = 0
+ERROR 17:21:23,715 - Parsiranje NIJE uspesno zavrseno!

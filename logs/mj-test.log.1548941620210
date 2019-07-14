@@ -1,0 +1,322 @@
+INFO  14:27:12,215 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:27:12,434 - #2 program
+INFO  14:27:12,434 - #15 MJProgram
+INFO  14:27:12,434 - #15 int
+INFO  14:27:12,450 - #15 x
+INFO  14:27:12,450 - #5 ;
+INFO  14:27:12,450 - #15 int
+INFO  14:27:12,465 - #15 y
+INFO  14:27:12,465 - #5 ;
+INFO  14:27:12,465 - #43 const
+INFO  14:27:12,465 - #15 int
+INFO  14:27:12,465 - #15 soi
+INFO  14:27:12,465 - #12 =
+INFO  14:27:12,465 - #14 7
+INFO  14:27:12,465 - #5 ;
+INFO  14:27:12,465 - #43 const
+INFO  14:27:12,465 - #15 int
+INFO  14:27:12,465 - #15 so
+INFO  14:27:12,465 - #12 =
+INFO  14:27:12,465 - #14 0
+INFO  14:27:12,465 - #5 ;
+INFO  14:27:12,465 - #43 const
+INFO  14:27:12,465 - #15 char
+INFO  14:27:12,465 - #15 caki
+INFO  14:27:12,465 - #12 =
+INFO  14:27:12,465 - #25 a
+INFO  14:27:12,465 - #5 ;
+INFO  14:27:12,465 - #15 int
+INFO  14:27:12,465 - #15 niz
+INFO  14:27:12,465 - #29 [
+INFO  14:27:12,465 - #30 ]
+INFO  14:27:12,465 - #5 ;
+INFO  14:27:12,481 - #43 const
+INFO  14:27:12,481 - #15 bool
+INFO  14:27:12,481 - #15 pera
+INFO  14:27:12,481 - #12 =
+INFO  14:27:12,481 - #27 true
+INFO  14:27:12,481 - #5 ;
+INFO  14:27:12,481 - #15 char
+INFO  14:27:12,481 - #15 b
+INFO  14:27:12,481 - #5 ;
+INFO  14:27:12,481 - #15 bool
+INFO  14:27:12,481 - #15 kikisa
+INFO  14:27:12,481 - #5 ;
+INFO  14:27:12,481 - #15 enum
+INFO  14:27:12,481 - #15 ukucani
+INFO  14:27:12,481 - #6 (
+ERROR 14:27:12,481 - 
+Sintaksna greska na liniji 10
+INFO  14:27:12,481 - #15 mama
+INFO  14:27:12,481 - #7 )
+INFO  14:27:12,481 - #5 ;
+INFO  14:27:12,481 - #3 {
+INFO  14:27:12,481 - #15 int
+INFO  14:27:12,481 - #15 k
+INFO  14:27:12,481 - #6 (
+DEBUG 14:27:12,481 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  14:27:12,481 - #15 int
+INFO  14:27:12,481 - #15 miki
+INFO  14:27:12,481 - #7 )
+INFO  14:27:12,481 - #15 int
+INFO  14:27:12,481 - #15 c
+INFO  14:27:12,512 - #5 ;
+INFO  14:27:12,512 - #3 {
+INFO  14:27:12,512 - #15 c
+INFO  14:27:12,512 - #12 =
+INFO  14:27:12,512 - #14 1
+INFO  14:27:12,512 - #5 ;
+INFO  14:27:12,528 - #15 c
+INFO  14:27:12,528 - #12 =
+INFO  14:27:12,528 - #15 miki
+INFO  14:27:12,528 - #5 ;
+INFO  14:27:12,528 - #10 return
+INFO  14:27:12,528 - #14 2
+INFO  14:27:12,528 - #5 ;
+INFO  14:27:12,528 - #4 }
+INFO  14:27:12,528 - #15 int
+INFO  14:27:12,543 - #15 r
+INFO  14:27:12,543 - #6 (
+INFO  14:27:12,543 - #7 )
+INFO  14:27:12,543 - #15 int
+INFO  14:27:12,543 - #15 n
+INFO  14:27:12,543 - #5 ;
+INFO  14:27:12,543 - #3 {
+INFO  14:27:12,543 - #15 x
+INFO  14:27:12,543 - #12 =
+INFO  14:27:12,543 - #14 7
+INFO  14:27:12,543 - #5 ;
+INFO  14:27:12,543 - #15 n
+INFO  14:27:12,543 - #12 =
+INFO  14:27:12,543 - #14 0
+INFO  14:27:12,543 - #5 ;
+INFO  14:27:12,543 - #10 return
+INFO  14:27:12,543 - #15 n
+INFO  14:27:12,559 - #5 ;
+INFO  14:27:12,559 - #4 }
+INFO  14:27:12,559 - #15 bool
+INFO  14:27:12,559 - #15 prov
+INFO  14:27:12,559 - #6 (
+INFO  14:27:12,559 - #7 )
+INFO  14:27:12,559 - #3 {
+INFO  14:27:12,559 - #10 return
+INFO  14:27:12,559 - #27 true
+INFO  14:27:12,559 - #5 ;
+INFO  14:27:12,559 - #4 }
+INFO  14:27:12,559 - #13 void
+INFO  14:27:12,559 - #15 konacno
+INFO  14:27:12,559 - #6 (
+INFO  14:27:12,559 - #7 )
+INFO  14:27:12,559 - #3 {
+INFO  14:27:12,559 - #10 return
+INFO  14:27:12,559 - #5 ;
+INFO  14:27:12,559 - #4 }
+INFO  14:27:12,559 - #15 int
+INFO  14:27:12,559 - #15 main
+INFO  14:27:12,575 - #6 (
+INFO  14:27:12,575 - #7 )
+INFO  14:27:12,575 - #3 {
+INFO  14:27:12,575 - #15 y
+INFO  14:27:12,575 - #12 =
+INFO  14:27:12,575 - #14 2
+INFO  14:27:12,575 - #22 *
+INFO  14:27:12,575 - #14 5
+INFO  14:27:12,575 - #5 ;
+INFO  14:27:12,575 - #15 y
+INFO  14:27:12,575 - #12 =
+INFO  14:27:12,575 - #15 y
+INFO  14:27:12,575 - #21 -
+INFO  14:27:12,575 - #14 1
+INFO  14:27:12,575 - #5 ;
+INFO  14:27:12,575 - #15 y
+INFO  14:27:12,575 - #18 ++
+INFO  14:27:12,575 - #5 ;
+INFO  14:27:12,575 - #15 x
+INFO  14:27:12,575 - #12 =
+INFO  14:27:12,575 - #15 y
+INFO  14:27:12,575 - #11 +
+INFO  14:27:12,575 - #14 2
+INFO  14:27:12,575 - #5 ;
+INFO  14:27:12,590 - #15 y
+INFO  14:27:12,590 - #12 =
+INFO  14:27:12,590 - #15 k
+INFO  14:27:12,590 - #6 (
+INFO  14:27:12,590 - #14 3
+INFO  14:27:12,590 - #7 )
+INFO  14:27:12,590 - #11 +
+INFO  14:27:12,590 - #14 3
+INFO  14:27:12,590 - #5 ;
+INFO  14:27:12,590 - #15 kikisa
+INFO  14:27:12,590 - #12 =
+INFO  14:27:12,590 - #15 prov
+INFO  14:27:12,590 - #6 (
+INFO  14:27:12,590 - #7 )
+INFO  14:27:12,590 - #5 ;
+INFO  14:27:12,606 - #9 print
+INFO  14:27:12,606 - #6 (
+INFO  14:27:12,606 - #27 true
+INFO  14:27:12,606 - #7 )
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #15 b
+INFO  14:27:12,606 - #12 =
+INFO  14:27:12,606 - #25 m
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #15 x
+INFO  14:27:12,606 - #18 ++
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #3 {
+INFO  14:27:12,606 - #15 y
+INFO  14:27:12,606 - #12 =
+INFO  14:27:12,606 - #14 3
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #3 {
+INFO  14:27:12,606 - #15 x
+INFO  14:27:12,606 - #12 =
+INFO  14:27:12,606 - #15 k
+INFO  14:27:12,606 - #6 (
+INFO  14:27:12,606 - #14 3
+INFO  14:27:12,606 - #7 )
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #4 }
+INFO  14:27:12,606 - #4 }
+INFO  14:27:12,606 - #34 for
+INFO  14:27:12,606 - #6 (
+INFO  14:27:12,606 - #15 x
+INFO  14:27:12,606 - #12 =
+INFO  14:27:12,606 - #14 4
+INFO  14:27:12,606 - #5 ;
+INFO  14:27:12,606 - #15 x
+INFO  14:27:12,606 - #39 <
+INFO  14:27:12,606 - #14 6
+INFO  14:27:12,606 - #35 ||
+INFO  14:27:12,621 - #15 y
+INFO  14:27:12,621 - #39 <
+INFO  14:27:12,621 - #14 1000
+INFO  14:27:12,621 - #36 &&
+INFO  14:27:12,621 - #15 y
+INFO  14:27:12,621 - #40 >
+INFO  14:27:12,621 - #14 0
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #15 x
+INFO  14:27:12,621 - #18 ++
+INFO  14:27:12,621 - #7 )
+INFO  14:27:12,621 - #3 {
+INFO  14:27:12,621 - #15 y
+INFO  14:27:12,621 - #12 =
+INFO  14:27:12,621 - #14 7
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #33 continue
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #4 }
+INFO  14:27:12,621 - #16 if
+INFO  14:27:12,621 - #6 (
+INFO  14:27:12,621 - #15 kikisa
+INFO  14:27:12,621 - #7 )
+INFO  14:27:12,621 - #3 {
+INFO  14:27:12,621 - #15 x
+INFO  14:27:12,621 - #12 =
+INFO  14:27:12,621 - #14 7
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #4 }
+INFO  14:27:12,621 - #9 print
+INFO  14:27:12,621 - #6 (
+INFO  14:27:12,621 - #15 y
+INFO  14:27:12,621 - #7 )
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #20 read
+INFO  14:27:12,621 - #6 (
+INFO  14:27:12,621 - #15 y
+INFO  14:27:12,621 - #7 )
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #10 return
+INFO  14:27:12,621 - #14 0
+INFO  14:27:12,621 - #5 ;
+INFO  14:27:12,621 - #4 }
+INFO  14:27:12,621 - #4 }
+INFO  14:27:12,684 - Obradjuje se funkcija k na liniji 15
+INFO  14:27:12,684 - Deklarisana promenljiva c na liniji 15
+INFO  14:27:12,684 - upotreba lokalne promenljive c na liniji 16
+INFO  14:27:12,684 - upotreba lokalne promenljive c na liniji 17
+INFO  14:27:12,684 - upotreba lokalne promenljive miki na liniji 17
+INFO  14:27:12,684 - Obradjuje se funkcija r na liniji 21
+INFO  14:27:12,684 - Deklarisana promenljiva n na liniji 21
+ERROR 14:27:12,684 - Greska na liniji 22 : ime x nije deklarisano! 
+INFO  14:27:12,684 - upotreba lokalne promenljive x na liniji 22
+ERROR 14:27:12,684 - Greska na liniji 22 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  14:27:12,684 - upotreba lokalne promenljive n na liniji 23
+INFO  14:27:12,684 - upotreba lokalne promenljive n na liniji 24
+INFO  14:27:12,684 - Obradjuje se funkcija prov na liniji 27
+INFO  14:27:12,684 - Obradjuje se funkcija konacno na liniji 31
+INFO  14:27:12,684 - Obradjuje se funkcija main na liniji 38
+ERROR 14:27:12,684 - Greska na liniji 39 : ime y nije deklarisano! 
+INFO  14:27:12,684 - upotreba lokalne promenljive y na liniji 39
+ERROR 14:27:12,684 - Greska na liniji 39 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,684 - Greska na liniji 40 : ime y nije deklarisano! 
+INFO  14:27:12,684 - upotreba lokalne promenljive y na liniji 40
+ERROR 14:27:12,700 - Greska na liniji 40 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 40
+ERROR 14:27:12,700 - Greska na liniji 40 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 14:27:12,700 - Greska na liniji 41 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 41
+ERROR 14:27:12,700 - Greska na liniji 41 Operator ++ se moze koristiti samo nad promenljivom tipa int
+ERROR 14:27:12,700 - Greska na liniji 42 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 42
+ERROR 14:27:12,700 - Greska na liniji 42 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 42
+ERROR 14:27:12,700 - Greska na liniji 42 : nekompatibilni tipovi u izrazu za sabiranje.
+ERROR 14:27:12,700 - Greska na liniji 43 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 43
+INFO  14:27:12,700 - upotreba globalne promenljive k na liniji 43
+INFO  14:27:12,700 - Pronadjen poziv funkcije k na liniji 43
+ERROR 14:27:12,700 - Greska na liniji 43 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 46 : ime kikisa nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive kikisa na liniji 46
+INFO  14:27:12,700 - upotreba globalne promenljive prov na liniji 46
+INFO  14:27:12,700 - Pronadjen poziv funkcije prov na liniji 46
+ERROR 14:27:12,700 - Greska na liniji 46 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 50 : ime b nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive b na liniji 50
+ERROR 14:27:12,700 - Greska na liniji 50 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 51 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 51
+ERROR 14:27:12,700 - Greska na liniji 51 Operator ++ se moze koristiti samo nad promenljivom tipa int
+ERROR 14:27:12,700 - Greska na liniji 53 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 53
+ERROR 14:27:12,700 - Greska na liniji 53 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 55 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 55
+INFO  14:27:12,700 - upotreba globalne promenljive k na liniji 55
+INFO  14:27:12,700 - Pronadjen poziv funkcije k na liniji 55
+ERROR 14:27:12,700 - Greska na liniji 55 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 59 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 59
+ERROR 14:27:12,700 - Greska na liniji 59 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,700 - Greska na liniji 59 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 59
+ERROR 14:27:12,700 - nekompatibilni tipovi za poredjenje na liniji 59
+ERROR 14:27:12,700 - Greska na liniji 59 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 59
+ERROR 14:27:12,700 - nekompatibilni tipovi za poredjenje na liniji 59
+ERROR 14:27:12,700 - Greska na liniji 59 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 59
+ERROR 14:27:12,700 - nekompatibilni tipovi za poredjenje na liniji 59
+ERROR 14:27:12,700 - Greska na liniji 59 : ime x nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive x na liniji 59
+ERROR 14:27:12,700 - Greska na liniji 59 Operator ++ se moze koristiti samo nad promenljivom tipa int
+ERROR 14:27:12,700 - Greska na liniji 60 : ime y nije deklarisano! 
+INFO  14:27:12,700 - upotreba lokalne promenljive y na liniji 60
+ERROR 14:27:12,700 - Greska na liniji 60 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,715 - Greska na liniji 64 : ime kikisa nije deklarisano! 
+INFO  14:27:12,715 - upotreba lokalne promenljive kikisa na liniji 64
+ERROR 14:27:12,715 - Greska! Uslov nije bool tipa na liniji 64
+ERROR 14:27:12,715 - Greska na liniji 65 : ime x nije deklarisano! 
+INFO  14:27:12,715 - upotreba lokalne promenljive x na liniji 65
+ERROR 14:27:12,715 - Greska na liniji 65 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 14:27:12,715 - Greska na liniji 69 : ime y nije deklarisano! 
+INFO  14:27:12,715 - upotreba lokalne promenljive y na liniji 69
+ERROR 14:27:12,715 - Nedozvoljen tip argumenta prosledjen funkciji print na liniji 69
+ERROR 14:27:12,715 - Greska na liniji 70 : ime y nije deklarisano! 
+INFO  14:27:12,715 - upotreba lokalne promenljive y na liniji 70
+ERROR 14:27:12,715 - Nedozvoljen parametar funkcije read u liniji 70
+INFO  14:27:12,715 - Print calls = 2
+ERROR 14:27:12,715 - Parsiranje NIJE uspesno zavrseno!

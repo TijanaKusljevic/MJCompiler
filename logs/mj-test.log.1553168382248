@@ -1,0 +1,97 @@
+INFO  12:39:19,847 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:39:20,003 - #2 program
+INFO  12:39:20,003 - #15 MJProgram
+INFO  12:39:20,003 - #15 int
+INFO  12:39:20,003 - #15 y
+INFO  12:39:20,003 - #5 ;
+INFO  12:39:20,003 - #15 int
+INFO  12:39:20,019 - #15 x
+INFO  12:39:20,019 - #5 ;
+INFO  12:39:20,019 - #15 int
+INFO  12:39:20,019 - #15 z
+INFO  12:39:20,019 - #5 ;
+INFO  12:39:20,019 - #15 int
+INFO  12:39:20,019 - #15 niz
+INFO  12:39:20,019 - #29 [
+INFO  12:39:20,019 - #30 ]
+INFO  12:39:20,019 - #5 ;
+INFO  12:39:20,019 - #3 {
+INFO  12:39:20,019 - #15 int
+INFO  12:39:20,019 - #15 main
+INFO  12:39:20,019 - #6 (
+INFO  12:39:20,019 - #7 )
+INFO  12:39:20,019 - #3 {
+INFO  12:39:20,019 - #15 niz
+INFO  12:39:20,019 - #12 =
+INFO  12:39:20,019 - #28 new
+INFO  12:39:20,035 - #15 int
+INFO  12:39:20,035 - #29 [
+INFO  12:39:20,035 - #14 3
+INFO  12:39:20,035 - #30 ]
+INFO  12:39:20,035 - #5 ;
+INFO  12:39:20,035 - #15 niz
+INFO  12:39:20,035 - #29 [
+INFO  12:39:20,035 - #14 0
+INFO  12:39:20,035 - #30 ]
+INFO  12:39:20,035 - #12 =
+INFO  12:39:20,035 - #14 6
+INFO  12:39:20,035 - #15 niz
+ERROR 12:39:20,035 - 
+Sintaksna greska na liniji 37
+INFO  12:39:20,035 - #29 [
+INFO  12:39:20,035 - #14 1
+INFO  12:39:20,035 - #30 ]
+INFO  12:39:20,035 - #12 =
+INFO  12:39:20,035 - #14 9
+INFO  12:39:20,035 - #5 ;
+INFO  12:39:20,035 - #15 niz
+INFO  12:39:20,050 - #29 [
+INFO  12:39:20,050 - #14 2
+DEBUG 12:39:20,050 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  12:39:20,050 - #30 ]
+INFO  12:39:20,050 - #12 =
+INFO  12:39:20,050 - #14 17
+INFO  12:39:20,050 - #9 print
+ERROR 12:39:20,050 - 
+Sintaksna greska na liniji 40
+INFO  12:39:20,050 - #6 (
+INFO  12:39:20,050 - #15 niz
+INFO  12:39:20,050 - #29 [
+INFO  12:39:20,050 - #14 0
+INFO  12:39:20,050 - #30 ]
+INFO  12:39:20,050 - #7 )
+INFO  12:39:20,050 - #5 ;
+INFO  12:39:20,050 - #9 print
+INFO  12:39:20,050 - #6 (
+INFO  12:39:20,050 - #15 niz
+DEBUG 12:39:20,050 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  12:39:20,050 - #29 [
+INFO  12:39:20,050 - #14 1
+INFO  12:39:20,050 - #30 ]
+INFO  12:39:20,050 - #7 )
+INFO  12:39:20,050 - #5 ;
+INFO  12:39:20,050 - #9 print
+INFO  12:39:20,050 - #6 (
+INFO  12:39:20,050 - #15 niz
+INFO  12:39:20,050 - #29 [
+INFO  12:39:20,050 - #14 2
+INFO  12:39:20,050 - #30 ]
+INFO  12:39:20,066 - #7 )
+INFO  12:39:20,066 - #5 ;
+INFO  12:39:20,066 - #10 return
+INFO  12:39:20,066 - #14 0
+INFO  12:39:20,066 - #5 ;
+INFO  12:39:20,066 - #4 }
+INFO  12:39:20,066 - #4 }
+INFO  12:39:20,097 - Deklarisana promenljiva y na liniji 2
+INFO  12:39:20,097 - Deklarisana promenljiva x na liniji 3
+INFO  12:39:20,097 - Deklarisana promenljiva z na liniji 4
+INFO  12:39:20,097 - Deklarisan niz niz na liniji 5
+INFO  12:39:20,097 - Obradjuje se funkcija main na liniji 18
+INFO  12:39:20,097 - upotreba globalne promenljive niz na liniji 35
+INFO  12:39:20,097 - Pristup elementu niza  na liniji 41
+INFO  12:39:20,097 - upotreba globalne promenljive niz na liniji 41
+INFO  12:39:20,097 - Pristup elementu niza  na liniji 43
+INFO  12:39:20,097 - upotreba globalne promenljive niz na liniji 43
+INFO  12:39:20,097 - Print calls = 2
+ERROR 12:39:20,113 - Parsiranje NIJE uspesno zavrseno!

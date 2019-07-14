@@ -1,0 +1,47 @@
+INFO  18:16:14,135 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:16:14,338 - #2 program
+INFO  18:16:14,338 - #15 test301
+INFO  18:16:14,338 - #15 Enum
+INFO  18:16:14,338 - #15 A
+INFO  18:16:14,338 - #3 {
+ERROR 18:16:14,338 - 
+Sintaksna greska na liniji 5
+INFO  18:16:14,338 - #15 NULA
+INFO  18:16:14,354 - #8 ,
+INFO  18:16:14,354 - #15 JEDAN
+INFO  18:16:14,354 - #4 }
+INFO  18:16:14,354 - #15 Enum
+INFO  18:16:14,354 - #15 B
+INFO  18:16:14,354 - #3 {
+INFO  18:16:14,354 - #15 DVA
+INFO  18:16:14,354 - #12 =
+INFO  18:16:14,354 - #14 2
+INFO  18:16:14,354 - #8 ,
+INFO  18:16:14,354 - #15 TRI
+INFO  18:16:14,354 - #12 =
+INFO  18:16:14,354 - #14 3
+INFO  18:16:14,354 - #4 }
+INFO  18:16:14,354 - #15 Enum
+INFO  18:16:14,354 - #15 C
+INFO  18:16:14,354 - #12 =
+INFO  18:16:14,354 - #15 A
+INFO  18:16:14,354 - #11 +
+INFO  18:16:14,354 - #15 B
+INFO  18:16:14,354 - #5 ;
+INFO  18:16:14,354 - #3 {
+INFO  18:16:14,354 - #13 void
+INFO  18:16:14,354 - #15 main
+INFO  18:16:14,354 - #6 (
+DEBUG 18:16:14,354 - Uspesan oporavak od greske pri deklaraciji promenljivih.
+INFO  18:16:14,369 - #7 )
+INFO  18:16:14,369 - #3 {
+INFO  18:16:14,369 - #9 print
+INFO  18:16:14,369 - #6 (
+INFO  18:16:14,369 - #18 a
+INFO  18:16:14,369 - #7 )
+INFO  18:16:14,369 - #5 ;
+INFO  18:16:14,369 - #4 }
+INFO  18:16:14,369 - #4 }
+INFO  18:16:14,432 - Obradjuje se funkcija main na liniji 14
+INFO  18:16:14,432 - Print calls = 1
+ERROR 18:16:14,432 - Parsiranje NIJE uspesno zavrseno!

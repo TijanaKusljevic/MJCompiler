@@ -1,0 +1,97 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import java.io.*;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.xml.DOMConfigurator;
+
+import rs.ac.bg.etf.pp1.ast.*;
+import rs.ac.bg.etf.pp1.util.Log4JUtils;
+import rs.etf.pp1.mj.runtime.Code;
+import rs.etf.pp1.symboltable.*;
+
+public class Compiler {
+	/*static {
+		DOMConfigurator.configure(Log4JUtils.instance().findLoggerConfigFile());
+		Log4JUtils.instance().prepareLogFile(Logger.getRootLogger());
+	}
+	
+	public static void main(String args[]) throws Exception {
+		FileReader r = new FileReader(args[0]);
+		
+		Yylex skener = new Yylex(r);
+		MJParser p = new MJParser(skener);
+		Symbol s = p.parse();
+		//System.out.println(s.value.getClass());
+		Program prog = (Program)(s.value);
+    	Tab.init();
+		SemanticAnalyzer stv = new SemanticAnalyzer(); 
+		prog.traverseBottomUp(stv); 
+		Tab.dump();
+		System.out.println(prog.toString(""));
+	}*/
+	
+	static {
+		DOMConfigurator.configure(Log4JUtils.instance().findLoggerConfigFile());
+		Log4JUtils.instance().prepareLogFile(Logger.getRootLogger());
+	}
+	
+	public static void tsdump() {
+		Tab.dump();
+	}
+	
+	public static void main(String[] args) throws Exception {
+		Logger log = Logger.getLogger(MJParserTest.class);
+		if (args.length < 2) {
+			log.error("Not enough arguments supplied! Usage: MJParser <source-file> <obj-file> ");
+			return;
+		}
+		
+		File sourceCode = new File(args[0]);
+		if (!sourceCode.exists()) {
+			log.error("Source file [" + sourceCode.getAbsolutePath() + "] not found!");
+			return;
+		}
+			
+		log.info("Compiling source file: " + sourceCode.getAbsolutePath());
+		
+		try (BufferedReader br = new BufferedReader(new FileReader(sourceCode))) {
+			Yylex lexer = new Yylex(br);
+			MJParser p = new MJParser(lexer);
+	        Symbol s = p.parse();  //pocetak parsiranja
+	        //SyntaxNode prog = (SyntaxNode)(s.value);
+	        Program prog=(Program)(s.value);
+	        
+			Tab.init(); // Universe scope
+			SemanticAnalyzer semanticCheck = new SemanticAnalyzer();
+			prog.traverseBottomUp(semanticCheck);
+			//Tab.dump();
+			tsdump();
+			System.out.println(prog.toString(""));
+			//semanticCheck.toString();
+			
+	        log.info("Print calls = " + semanticCheck.printCallCount);
+	        //Tab.dump();
+	        
+	        if (!p.errorDetected && semanticCheck.passed()) {
+	        	File objFile = new File(args[1]);
+	        	log.info("Generating bytecode file: " + objFile.getAbsolutePath());
+	        	if (objFile.exists())
+	        		objFile.delete();
+	        	
+	        	// Code generation...
+	        	CodeGenerator codeGenerator = new CodeGenerator();
+	        	prog.traverseBottomUp(codeGenerator);
+	        	Code.dataSize = semanticCheck.nVars;
+	        	Code.mainPc = codeGenerator.getMainPc();
+	        	Code.write(new FileOutputStream(objFile));
+	        	log.info("Parsiranje uspesno zavrseno!");
+	        }
+	        else {
+	        	log.error("Parsiranje NIJE uspesno zavrseno!");
+	        }
+		}
+		//tsdump();
+	}
+}

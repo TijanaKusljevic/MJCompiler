@@ -1,0 +1,93 @@
+INFO  18:52:53,567 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:52:53,741 - #2 program
+INFO  18:52:53,741 - #15 test302
+INFO  18:52:53,742 - #44 enum
+INFO  18:52:53,745 - #15 IncrementType
+INFO  18:52:53,745 - #3 {
+INFO  18:52:53,747 - #15 BY_ONE
+INFO  18:52:53,747 - #8 ,
+INFO  18:52:53,752 - #15 DOUBLE_VALUE
+INFO  18:52:53,752 - #4 }
+INFO  18:52:53,753 - #15 int
+INFO  18:52:53,754 - #15 i
+INFO  18:52:53,756 - #5 ;
+INFO  18:52:53,761 - #15 int
+INFO  18:52:53,761 - #15 j
+INFO  18:52:53,763 - #5 ;
+INFO  18:52:53,763 - #15 int
+INFO  18:52:53,764 - #15 k
+INFO  18:52:53,764 - #5 ;
+INFO  18:52:53,764 - #15 int
+INFO  18:52:53,764 - #15 br
+INFO  18:52:53,765 - #5 ;
+INFO  18:52:53,766 - #15 bool
+INFO  18:52:53,766 - #15 ibool
+INFO  18:52:53,767 - #5 ;
+INFO  18:52:53,767 - #43 const
+INFO  18:52:53,767 - #15 char
+INFO  18:52:53,768 - #15 kon
+INFO  18:52:53,768 - #12 =
+INFO  18:52:53,771 - #18 a
+INFO  18:52:53,771 - #5 ;
+INFO  18:52:53,776 - #43 const
+INFO  18:52:53,778 - #15 bool
+INFO  18:52:53,778 - #15 bki
+INFO  18:52:53,778 - #12 =
+INFO  18:52:53,780 - #27 true
+INFO  18:52:53,780 - #5 ;
+INFO  18:52:53,783 - #15 int
+INFO  18:52:53,783 - #15 niz
+INFO  18:52:53,783 - #29 [
+INFO  18:52:53,783 - #30 ]
+INFO  18:52:53,783 - #5 ;
+INFO  18:52:53,786 - #3 {
+INFO  18:52:53,786 - #13 void
+INFO  18:52:53,793 - #15 main
+INFO  18:52:53,793 - #6 (
+INFO  18:52:53,794 - #7 )
+INFO  18:52:53,795 - #3 {
+INFO  18:52:53,796 - #15 i
+INFO  18:52:53,797 - #12 =
+INFO  18:52:53,800 - #14 0
+INFO  18:52:53,801 - #5 ;
+INFO  18:52:53,805 - #9 print
+INFO  18:52:53,806 - #6 (
+INFO  18:52:53,806 - #15 kon
+INFO  18:52:53,806 - #7 )
+INFO  18:52:53,806 - #5 ;
+INFO  18:52:53,816 - #16 if
+INFO  18:52:53,817 - #6 (
+INFO  18:52:53,820 - #15 bki
+INFO  18:52:53,820 - #7 )
+INFO  18:52:53,831 - #3 {
+INFO  18:52:53,834 - #9 print
+INFO  18:52:53,834 - #6 (
+INFO  18:52:53,835 - #18 p
+INFO  18:52:53,835 - #7 )
+INFO  18:52:53,835 - #5 ;
+INFO  18:52:53,835 - #4 }
+INFO  18:52:53,835 - #17 else
+INFO  18:52:53,836 - #3 {
+INFO  18:52:53,837 - #9 print
+INFO  18:52:53,837 - #6 (
+INFO  18:52:53,838 - #18 v
+INFO  18:52:53,838 - #7 )
+INFO  18:52:53,838 - #5 ;
+INFO  18:52:53,838 - #4 }
+INFO  18:52:53,838 - #4 }
+INFO  18:52:53,840 - #4 }
+INFO  18:52:53,887 - Deklarisana promenljiva i na liniji 7
+INFO  18:52:53,887 - Deklarisana promenljiva j na liniji 8
+INFO  18:52:53,887 - Deklarisana promenljiva k na liniji 9
+INFO  18:52:53,887 - Deklarisana promenljiva br na liniji 10
+INFO  18:52:53,888 - Deklarisana promenljiva ibool na liniji 11
+INFO  18:52:53,888 - Deklarisana konstanta kon na liniji 13
+INFO  18:52:53,888 - Deklarisana konstanta bki na liniji 14
+INFO  18:52:53,889 - Deklarisan niz niz na liniji 16
+INFO  18:52:53,889 - Obradjuje se funkcija main na liniji 21
+INFO  18:52:53,889 - upotreba globalne promenljive i na liniji 23
+INFO  18:52:53,890 - upotreba globalne konstante kon na liniji 24
+INFO  18:52:53,890 - upotreba globalne konstante bki na liniji 25
+INFO  18:52:53,895 - Print calls = 3
+INFO  18:52:53,896 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:52:53,910 - Parsiranje uspesno zavrseno!

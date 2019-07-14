@@ -1,0 +1,56 @@
+INFO  15:11:06,407 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:11:06,529 - #2 program
+INFO  15:11:06,535 - #15 test301
+INFO  15:11:06,536 - #43 const
+INFO  15:11:06,542 - #15 int
+INFO  15:11:06,542 - #15 KONST
+INFO  15:11:06,544 - #12 =
+INFO  15:11:06,545 - #14 3
+INFO  15:11:06,545 - #5 ;
+INFO  15:11:06,546 - #15 int
+INFO  15:11:06,549 - #15 q
+INFO  15:11:06,552 - #5 ;
+INFO  15:11:06,557 - #15 int
+INFO  15:11:06,557 - #15 r
+INFO  15:11:06,558 - #5 ;
+INFO  15:11:06,558 - #15 bool
+INFO  15:11:06,558 - #15 bo
+INFO  15:11:06,558 - #5 ;
+INFO  15:11:06,559 - #15 int
+INFO  15:11:06,559 - #15 niz
+INFO  15:11:06,559 - #29 [
+INFO  15:11:06,559 - #30 ]
+INFO  15:11:06,560 - #5 ;
+INFO  15:11:06,561 - #3 {
+INFO  15:11:06,562 - #13 void
+INFO  15:11:06,563 - #15 main
+INFO  15:11:06,563 - #6 (
+INFO  15:11:06,563 - #7 )
+INFO  15:11:06,565 - #3 {
+INFO  15:11:06,565 - #15 niz
+INFO  15:11:06,567 - #12 =
+INFO  15:11:06,570 - #28 new
+INFO  15:11:06,570 - #15 int
+INFO  15:11:06,570 - #29 [
+INFO  15:11:06,571 - #14 3
+INFO  15:11:06,571 - #30 ]
+INFO  15:11:06,574 - #3 {
+INFO  15:11:06,574 - #14 1
+INFO  15:11:06,577 - #8 ,
+INFO  15:11:06,577 - #14 2
+INFO  15:11:06,578 - #8 ,
+INFO  15:11:06,578 - #14 3
+INFO  15:11:06,578 - #4 }
+INFO  15:11:06,578 - #5 ;
+INFO  15:11:06,579 - #4 }
+INFO  15:11:06,579 - #4 }
+INFO  15:11:06,628 - Deklarisana konstanta KONST na liniji 5
+INFO  15:11:06,628 - Deklarisana promenljiva q na liniji 6
+INFO  15:11:06,628 - Deklarisana promenljiva r na liniji 7
+INFO  15:11:06,629 - Deklarisana promenljiva bo na liniji 8
+INFO  15:11:06,629 - Deklarisan niz niz na liniji 9
+INFO  15:11:06,629 - Obradjuje se funkcija main na liniji 16
+INFO  15:11:06,629 - upotreba globalne promenljive niz na liniji 19
+INFO  15:11:06,634 - Print calls = 0
+INFO  15:11:06,634 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:11:06,657 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,74 @@
+INFO  22:47:39,306 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:47:39,462 - #2 program
+INFO  22:47:39,462 - #15 test302
+INFO  22:47:39,462 - #44 enum
+INFO  22:47:39,478 - #15 IncrementType
+INFO  22:47:39,478 - #3 {
+INFO  22:47:39,478 - #15 BY_ONE
+INFO  22:47:39,478 - #8 ,
+INFO  22:47:39,478 - #15 DOUBLE_VALUE
+INFO  22:47:39,478 - #4 }
+INFO  22:47:39,478 - #15 int
+INFO  22:47:39,478 - #15 i
+INFO  22:47:39,478 - #5 ;
+INFO  22:47:39,493 - #15 bool
+INFO  22:47:39,493 - #15 ibool
+INFO  22:47:39,493 - #5 ;
+INFO  22:47:39,493 - #15 int
+INFO  22:47:39,493 - #15 k
+INFO  22:47:39,493 - #5 ;
+INFO  22:47:39,493 - #15 int
+INFO  22:47:39,493 - #15 josniz
+INFO  22:47:39,493 - #29 [
+INFO  22:47:39,493 - #30 ]
+INFO  22:47:39,493 - #5 ;
+INFO  22:47:39,493 - #15 int
+INFO  22:47:39,493 - #15 nizk
+INFO  22:47:39,493 - #29 [
+INFO  22:47:39,493 - #30 ]
+INFO  22:47:39,493 - #5 ;
+INFO  22:47:39,493 - #15 int
+INFO  22:47:39,493 - #15 niz
+INFO  22:47:39,493 - #29 [
+INFO  22:47:39,493 - #30 ]
+INFO  22:47:39,493 - #5 ;
+INFO  22:47:39,493 - #3 {
+INFO  22:47:39,493 - #13 void
+INFO  22:47:39,509 - #15 main
+INFO  22:47:39,509 - #6 (
+INFO  22:47:39,509 - #7 )
+INFO  22:47:39,509 - #3 {
+INFO  22:47:39,509 - #15 nizk
+INFO  22:47:39,509 - #12 =
+INFO  22:47:39,509 - #28 new
+INFO  22:47:39,509 - #15 int
+INFO  22:47:39,509 - #29 [
+INFO  22:47:39,509 - #14 2
+INFO  22:47:39,509 - #30 ]
+INFO  22:47:39,509 - #15 niz
+ERROR 22:47:39,509 - 
+Sintaksna greska na liniji 22
+INFO  22:47:39,509 - #12 =
+INFO  22:47:39,509 - #28 new
+INFO  22:47:39,525 - #15 int
+INFO  22:47:39,525 - #29 [
+INFO  22:47:39,525 - #14 2
+INFO  22:47:39,525 - #30 ]
+INFO  22:47:39,525 - #3 {
+INFO  22:47:39,525 - #14 7
+INFO  22:47:39,525 - #8 ,
+INFO  22:47:39,525 - #14 8
+INFO  22:47:39,525 - #4 }
+INFO  22:47:39,525 - #5 ;
+INFO  22:47:39,525 - #4 }
+INFO  22:47:39,525 - #4 }
+DEBUG 22:47:39,540 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  22:47:39,587 - Deklarisana promenljiva i na liniji 7
+INFO  22:47:39,587 - Deklarisana promenljiva ibool na liniji 8
+INFO  22:47:39,587 - Deklarisana promenljiva k na liniji 9
+INFO  22:47:39,587 - Deklarisan niz josniz na liniji 11
+INFO  22:47:39,587 - Deklarisan niz nizk na liniji 12
+INFO  22:47:39,587 - Deklarisan niz niz na liniji 13
+INFO  22:47:39,587 - Obradjuje se funkcija main na liniji 19
+INFO  22:47:39,587 - Print calls = 0
+ERROR 22:47:39,587 - Parsiranje NIJE uspesno zavrseno!

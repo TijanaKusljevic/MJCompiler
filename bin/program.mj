@@ -1,0 +1,33 @@
+// Test301
+
+program test301
+
+enum A {NULA, JEDAN}
+enum B {JEDAN=7, DVA=2, TRI=3}
+enum C=A+B
+
+int a;
+	
+
+{
+
+	
+
+	void main()	
+		
+	{
+		a=0;
+		
+		if(a!=1){
+			if(a==0){
+				print('p');
+			} else {
+				print('d');
+			}
+		} else {
+			print('t');
+		}
+	}
+}
+
+

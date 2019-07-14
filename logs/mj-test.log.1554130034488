@@ -1,0 +1,25 @@
+INFO  16:46:28,406 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:46:28,560 - #2 program
+INFO  16:46:28,560 - #15 MJProgram
+INFO  16:46:28,560 - #15 int
+INFO  16:46:28,564 - #15 a
+INFO  16:46:28,566 - #5 ;
+INFO  16:46:28,571 - #3 {
+INFO  16:46:28,572 - #15 int
+INFO  16:46:28,574 - #15 main
+INFO  16:46:28,574 - #6 (
+INFO  16:46:28,574 - #7 )
+INFO  16:46:28,576 - #3 {
+INFO  16:46:28,576 - #15 a
+INFO  16:46:28,578 - #12 =
+INFO  16:46:28,581 - #14 7
+INFO  16:46:28,581 - #5 ;
+INFO  16:46:28,585 - #4 }
+ERROR 16:46:28,586 - 
+Sintaksna greska na liniji 21
+ERROR 16:46:28,590 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21
+ERROR 16:46:28,626 - Greska na liniji 8 : ime a nije deklarisano! 
+INFO  16:46:28,627 - upotreba lokalne promenljive a na liniji 8
+ERROR 16:46:28,627 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:46:28,627 - Print calls = 0
+ERROR 16:46:28,629 - Parsiranje NIJE uspesno zavrseno!

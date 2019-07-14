@@ -1,0 +1,102 @@
+INFO  17:43:20,823 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:43:21,073 - #2 program
+INFO  17:43:21,073 - #15 test302
+INFO  17:43:21,073 - #44 enum
+INFO  17:43:21,088 - #15 IncrementType
+INFO  17:43:21,088 - #3 {
+INFO  17:43:21,088 - #15 BY_ONE
+INFO  17:43:21,088 - #8 ,
+INFO  17:43:21,088 - #15 DOUBLE_VALUE
+INFO  17:43:21,088 - #4 }
+INFO  17:43:21,088 - #15 int
+INFO  17:43:21,088 - #15 i
+INFO  17:43:21,088 - #5 ;
+INFO  17:43:21,088 - #15 bool
+INFO  17:43:21,088 - #15 ibool
+INFO  17:43:21,088 - #5 ;
+INFO  17:43:21,104 - #15 int
+INFO  17:43:21,104 - #15 k
+INFO  17:43:21,104 - #5 ;
+INFO  17:43:21,104 - #15 int
+INFO  17:43:21,104 - #15 josniz
+INFO  17:43:21,104 - #29 [
+INFO  17:43:21,104 - #30 ]
+INFO  17:43:21,104 - #5 ;
+INFO  17:43:21,104 - #15 int
+INFO  17:43:21,104 - #15 nizk
+INFO  17:43:21,104 - #29 [
+INFO  17:43:21,104 - #30 ]
+INFO  17:43:21,104 - #5 ;
+INFO  17:43:21,104 - #15 int
+INFO  17:43:21,104 - #15 niz
+INFO  17:43:21,104 - #29 [
+INFO  17:43:21,104 - #30 ]
+INFO  17:43:21,104 - #5 ;
+INFO  17:43:21,104 - #3 {
+INFO  17:43:21,104 - #13 void
+INFO  17:43:21,104 - #15 main
+INFO  17:43:21,104 - #6 (
+INFO  17:43:21,104 - #7 )
+INFO  17:43:21,104 - #3 {
+INFO  17:43:21,104 - #15 nizk
+INFO  17:43:21,104 - #12 =
+INFO  17:43:21,120 - #28 new
+INFO  17:43:21,120 - #15 int
+INFO  17:43:21,120 - #29 [
+INFO  17:43:21,120 - #14 2
+INFO  17:43:21,120 - #30 ]
+INFO  17:43:21,120 - #5 ;
+INFO  17:43:21,120 - #15 niz
+INFO  17:43:21,120 - #12 =
+INFO  17:43:21,120 - #28 new
+INFO  17:43:21,120 - #15 int
+INFO  17:43:21,120 - #29 [
+INFO  17:43:21,120 - #14 2
+INFO  17:43:21,120 - #30 ]
+INFO  17:43:21,120 - #3 {
+INFO  17:43:21,120 - #14 7
+INFO  17:43:21,120 - #8 ,
+INFO  17:43:21,120 - #15 niz
+INFO  17:43:21,120 - #29 [
+INFO  17:43:21,120 - #14 0
+INFO  17:43:21,120 - #30 ]
+INFO  17:43:21,120 - #11 +
+INFO  17:43:21,135 - #14 19
+INFO  17:43:21,135 - #4 }
+INFO  17:43:21,135 - #5 ;
+INFO  17:43:21,135 - #9 print
+INFO  17:43:21,135 - #6 (
+INFO  17:43:21,135 - #15 niz
+INFO  17:43:21,135 - #29 [
+INFO  17:43:21,135 - #14 0
+INFO  17:43:21,135 - #30 ]
+INFO  17:43:21,135 - #7 )
+INFO  17:43:21,135 - #5 ;
+INFO  17:43:21,135 - #9 print
+INFO  17:43:21,135 - #6 (
+INFO  17:43:21,135 - #15 niz
+INFO  17:43:21,135 - #29 [
+INFO  17:43:21,135 - #14 1
+INFO  17:43:21,135 - #30 ]
+INFO  17:43:21,135 - #7 )
+INFO  17:43:21,135 - #5 ;
+INFO  17:43:21,135 - #4 }
+INFO  17:43:21,135 - #4 }
+INFO  17:43:21,182 - Deklarisana promenljiva i na liniji 7
+INFO  17:43:21,185 - Deklarisana promenljiva ibool na liniji 8
+INFO  17:43:21,185 - Deklarisana promenljiva k na liniji 9
+INFO  17:43:21,185 - Deklarisan niz josniz na liniji 11
+INFO  17:43:21,185 - Deklarisan niz nizk na liniji 12
+INFO  17:43:21,185 - Deklarisan niz niz na liniji 13
+INFO  17:43:21,185 - Obradjuje se funkcija main na liniji 19
+INFO  17:43:21,185 - upotreba globalne promenljive nizk na liniji 21
+INFO  17:43:21,186 - upotreba globalne promenljive niz na liniji 22
+INFO  17:43:21,187 - Pristup elementu niza  na liniji 22
+INFO  17:43:21,187 - upotreba globalne promenljive niz na liniji 22
+INFO  17:43:21,187 - Pristup elementu niza  na liniji 24
+INFO  17:43:21,187 - upotreba globalne promenljive niz na liniji 24
+INFO  17:43:21,187 - Pristup elementu niza  na liniji 25
+INFO  17:43:21,187 - upotreba globalne promenljive niz na liniji 25
+INFO  17:43:21,187 - Print calls = 2
+INFO  17:43:21,187 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:43:21,203 - Parsiranje uspesno zavrseno!

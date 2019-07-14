@@ -1,0 +1,45 @@
+INFO  18:24:41,807 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:24:41,872 - #2 program
+INFO  18:24:41,872 - #15 MJProgram
+INFO  18:24:41,872 - #15 int
+INFO  18:24:41,876 - #15 x
+INFO  18:24:41,876 - #5 ;
+INFO  18:24:41,876 - #15 int
+INFO  18:24:41,880 - #15 y
+INFO  18:24:41,880 - #5 ;
+INFO  18:24:41,880 - #3 {
+INFO  18:24:41,880 - #15 int
+INFO  18:24:41,880 - #15 k
+INFO  18:24:41,880 - #6 (
+INFO  18:24:41,884 - #7 )
+INFO  18:24:41,886 - #15 int
+INFO  18:24:41,886 - #15 c
+INFO  18:24:41,886 - #5 ;
+INFO  18:24:41,886 - #3 {
+INFO  18:24:41,886 - #15 c
+INFO  18:24:41,890 - #12 =
+INFO  18:24:41,890 - #14 1
+INFO  18:24:41,890 - #5 ;
+INFO  18:24:41,894 - #10 return
+INFO  18:24:41,898 - #15 c
+INFO  18:24:41,898 - #11 +
+INFO  18:24:41,898 - #14 2
+INFO  18:24:41,902 - #5 ;
+INFO  18:24:41,902 - #4 }
+INFO  18:24:41,902 - #15 int
+INFO  18:24:41,906 - #15 main
+INFO  18:24:41,906 - #6 (
+INFO  18:24:41,906 - #7 )
+INFO  18:24:41,906 - #3 {
+INFO  18:24:41,906 - #15 y
+INFO  18:24:41,906 - #12 =
+INFO  18:24:41,906 - #14 2
+INFO  18:24:41,906 - #5 ;
+INFO  18:24:41,910 - #15 y
+INFO  18:24:41,910 - #11 +
+ERROR 18:24:41,910 - 
+Sintaksna greska na liniji 12
+ERROR 18:24:41,910 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12
+ERROR 18:24:42,018 - Greska na liniji 12 : ime y nije deklarisano! 
+INFO  18:24:42,018 - Print calls = 0
+ERROR 18:24:42,022 - Parsiranje NIJE uspesno zavrseno!

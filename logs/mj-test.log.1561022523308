@@ -1,0 +1,56 @@
+INFO  11:21:52,066 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:21:52,218 - #2 program
+INFO  11:21:52,218 - #15 test302
+INFO  11:21:52,218 - #44 enum
+INFO  11:21:52,218 - #15 IncrementType
+INFO  11:21:52,218 - #3 {
+INFO  11:21:52,218 - #15 BY_ONE
+INFO  11:21:52,218 - #8 ,
+INFO  11:21:52,234 - #15 DOUBLE_VALUE
+INFO  11:21:52,234 - #4 }
+INFO  11:21:52,234 - #15 int
+INFO  11:21:52,234 - #15 k
+INFO  11:21:52,234 - #5 ;
+INFO  11:21:52,234 - #3 {
+INFO  11:21:52,234 - #13 void
+INFO  11:21:52,234 - #15 main
+INFO  11:21:52,234 - #6 (
+INFO  11:21:52,234 - #7 )
+INFO  11:21:52,234 - #3 {
+INFO  11:21:52,234 - #21 read
+INFO  11:21:52,234 - #6 (
+INFO  11:21:52,249 - #15 k
+INFO  11:21:52,249 - #7 )
+INFO  11:21:52,249 - #5 ;
+INFO  11:21:52,249 - #34 for
+INFO  11:21:52,249 - #6 (
+INFO  11:21:52,249 - #5 ;
+INFO  11:21:52,249 - #5 ;
+INFO  11:21:52,249 - #7 )
+INFO  11:21:52,265 - #3 {
+INFO  11:21:52,265 - #9 print
+INFO  11:21:52,265 - #6 (
+INFO  11:21:52,265 - #18 j
+INFO  11:21:52,265 - #7 )
+INFO  11:21:52,265 - #5 ;
+INFO  11:21:52,265 - #21 read
+INFO  11:21:52,265 - #6 (
+INFO  11:21:52,265 - #15 k
+INFO  11:21:52,265 - #7 )
+INFO  11:21:52,265 - #5 ;
+INFO  11:21:52,265 - #4 }
+INFO  11:21:52,265 - #9 print
+INFO  11:21:52,281 - #6 (
+INFO  11:21:52,281 - #15 k
+INFO  11:21:52,281 - #7 )
+INFO  11:21:52,281 - #5 ;
+INFO  11:21:52,281 - #4 }
+INFO  11:21:52,281 - #4 }
+INFO  11:21:52,327 - Deklarisana promenljiva k na liniji 8
+INFO  11:21:52,327 - Obradjuje se funkcija main na liniji 14
+INFO  11:21:52,327 - upotreba globalne promenljive k na liniji 17
+INFO  11:21:52,327 - upotreba globalne promenljive k na liniji 20
+INFO  11:21:52,327 - upotreba globalne promenljive k na liniji 24
+INFO  11:21:54,109 - Print calls = 2
+INFO  11:21:54,109 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:21:54,140 - Parsiranje uspesno zavrseno!

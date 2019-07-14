@@ -1,0 +1,58 @@
+INFO  11:22:03,308 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:22:03,480 - #2 program
+INFO  11:22:03,480 - #15 test302
+INFO  11:22:03,480 - #44 enum
+INFO  11:22:03,480 - #15 IncrementType
+INFO  11:22:03,480 - #3 {
+INFO  11:22:03,480 - #15 BY_ONE
+INFO  11:22:03,480 - #8 ,
+INFO  11:22:03,496 - #15 DOUBLE_VALUE
+INFO  11:22:03,496 - #4 }
+INFO  11:22:03,496 - #15 int
+INFO  11:22:03,496 - #15 k
+INFO  11:22:03,496 - #5 ;
+INFO  11:22:03,496 - #3 {
+INFO  11:22:03,496 - #13 void
+INFO  11:22:03,496 - #15 main
+INFO  11:22:03,496 - #6 (
+INFO  11:22:03,496 - #7 )
+INFO  11:22:03,496 - #3 {
+INFO  11:22:03,496 - #21 read
+INFO  11:22:03,512 - #6 (
+INFO  11:22:03,512 - #15 k
+INFO  11:22:03,512 - #7 )
+INFO  11:22:03,512 - #5 ;
+INFO  11:22:03,512 - #34 for
+INFO  11:22:03,512 - #6 (
+INFO  11:22:03,512 - #5 ;
+INFO  11:22:03,512 - #5 ;
+INFO  11:22:03,512 - #7 )
+INFO  11:22:03,527 - #3 {
+INFO  11:22:03,527 - #9 print
+INFO  11:22:03,527 - #6 (
+INFO  11:22:03,527 - #18 j
+INFO  11:22:03,527 - #7 )
+INFO  11:22:03,527 - #5 ;
+INFO  11:22:03,527 - #21 read
+INFO  11:22:03,527 - #6 (
+INFO  11:22:03,527 - #15 k
+INFO  11:22:03,543 - #7 )
+INFO  11:22:03,543 - #5 ;
+INFO  11:22:03,543 - #32 break
+INFO  11:22:03,543 - #5 ;
+INFO  11:22:03,543 - #4 }
+INFO  11:22:03,543 - #9 print
+INFO  11:22:03,543 - #6 (
+INFO  11:22:03,543 - #15 k
+INFO  11:22:03,543 - #7 )
+INFO  11:22:03,543 - #5 ;
+INFO  11:22:03,543 - #4 }
+INFO  11:22:03,543 - #4 }
+INFO  11:22:03,590 - Deklarisana promenljiva k na liniji 8
+INFO  11:22:03,590 - Obradjuje se funkcija main na liniji 14
+INFO  11:22:03,590 - upotreba globalne promenljive k na liniji 17
+INFO  11:22:03,590 - upotreba globalne promenljive k na liniji 20
+INFO  11:22:03,590 - upotreba globalne promenljive k na liniji 24
+INFO  11:22:03,949 - Print calls = 2
+INFO  11:22:03,965 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  11:22:03,980 - Parsiranje uspesno zavrseno!

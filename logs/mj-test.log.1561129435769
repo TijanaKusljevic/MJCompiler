@@ -1,0 +1,77 @@
+INFO  17:03:17,878 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:03:18,050 - #2 program
+INFO  17:03:18,050 - #15 test301
+INFO  17:03:18,050 - #15 int
+INFO  17:03:18,066 - #15 a
+INFO  17:03:18,066 - #5 ;
+INFO  17:03:18,066 - #15 int
+INFO  17:03:18,066 - #15 b
+INFO  17:03:18,066 - #5 ;
+INFO  17:03:18,066 - #15 int
+INFO  17:03:18,066 - #15 c
+INFO  17:03:18,066 - #5 ;
+INFO  17:03:18,066 - #15 int
+INFO  17:03:18,066 - #15 niz
+INFO  17:03:18,066 - #29 [
+INFO  17:03:18,066 - #30 ]
+INFO  17:03:18,066 - #5 ;
+INFO  17:03:18,081 - #15 bool
+INFO  17:03:18,081 - #15 bb
+INFO  17:03:18,081 - #5 ;
+INFO  17:03:18,081 - #3 {
+INFO  17:03:18,081 - #13 void
+INFO  17:03:18,081 - #15 main
+INFO  17:03:18,081 - #6 (
+INFO  17:03:18,081 - #7 )
+INFO  17:03:18,081 - #3 {
+INFO  17:03:18,081 - #15 a
+INFO  17:03:18,081 - #12 =
+INFO  17:03:18,081 - #14 5
+INFO  17:03:18,081 - #5 ;
+INFO  17:03:18,097 - #15 b
+INFO  17:03:18,097 - #12 =
+INFO  17:03:18,097 - #14 6
+INFO  17:03:18,097 - #5 ;
+INFO  17:03:18,097 - #15 bb
+INFO  17:03:18,097 - #12 =
+INFO  17:03:18,097 - #27 true
+INFO  17:03:18,097 - #5 ;
+INFO  17:03:18,097 - #15 c
+INFO  17:03:18,097 - #12 =
+INFO  17:03:18,097 - #14 900
+INFO  17:03:18,097 - #5 ;
+INFO  17:03:18,097 - #15 c
+INFO  17:03:18,097 - #37 ==
+ERROR 17:03:18,097 - 
+Sintaksna greska na liniji 23
+INFO  17:03:18,097 - #14 900
+INFO  17:03:18,097 - #46 ?
+INFO  17:03:18,097 - #15 c
+INFO  17:03:18,113 - #12 =
+INFO  17:03:18,113 - #15 a
+INFO  17:03:18,113 - #45 :
+INFO  17:03:18,113 - #15 c
+INFO  17:03:18,113 - #12 =
+INFO  17:03:18,113 - #15 b
+INFO  17:03:18,113 - #5 ;
+INFO  17:03:18,113 - #9 print
+INFO  17:03:18,113 - #6 (
+INFO  17:03:18,128 - #15 c
+DEBUG 17:03:18,128 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  17:03:18,128 - #7 )
+INFO  17:03:18,128 - #5 ;
+INFO  17:03:18,128 - #4 }
+INFO  17:03:18,128 - #4 }
+INFO  17:03:18,175 - Deklarisana promenljiva a na liniji 5
+INFO  17:03:18,191 - Deklarisana promenljiva b na liniji 6
+INFO  17:03:18,191 - Deklarisana promenljiva c na liniji 7
+INFO  17:03:18,191 - Deklarisan niz niz na liniji 8
+INFO  17:03:18,191 - Deklarisana promenljiva bb na liniji 9
+INFO  17:03:18,191 - Obradjuje se funkcija main na liniji 15
+INFO  17:03:18,191 - upotreba globalne promenljive a na liniji 18
+INFO  17:03:18,191 - upotreba globalne promenljive b na liniji 19
+INFO  17:03:18,191 - upotreba globalne promenljive bb na liniji 20
+INFO  17:03:18,191 - upotreba globalne promenljive c na liniji 21
+INFO  17:03:18,191 - upotreba globalne promenljive c na liniji 25
+INFO  17:03:18,394 - Print calls = 1
+ERROR 17:03:18,394 - Parsiranje NIJE uspesno zavrseno!

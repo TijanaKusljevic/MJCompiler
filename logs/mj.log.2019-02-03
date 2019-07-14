@@ -1,0 +1,358 @@
+INFO  16:01:20,403 - #2 program
+INFO  16:01:20,425 - #15 MJProgram
+INFO  16:01:20,425 - #15 int
+INFO  16:01:20,425 - #15 x
+INFO  16:01:20,433 - #5 ;
+INFO  16:01:20,435 - #15 int
+INFO  16:01:20,435 - #15 y
+INFO  16:01:20,435 - #5 ;
+INFO  16:01:20,435 - #3 {
+INFO  16:01:20,435 - #15 int
+INFO  16:01:20,435 - #15 k
+INFO  16:01:20,435 - #6 (
+INFO  16:01:20,443 - #7 )
+INFO  16:01:20,445 - #15 int
+INFO  16:01:20,445 - #15 c
+INFO  16:01:20,445 - #5 ;
+INFO  16:01:20,445 - #3 {
+INFO  16:01:20,445 - #15 c
+INFO  16:01:20,445 - #12 =
+INFO  16:01:20,455 - #14 2
+INFO  16:01:20,455 - #5 ;
+INFO  16:01:20,455 - #10 return
+INFO  16:01:20,455 - #15 c
+INFO  16:01:20,464 - #11 +
+INFO  16:01:20,464 - #14 2
+INFO  16:01:20,466 - #5 ;
+INFO  16:01:20,466 - #4 }
+INFO  16:01:20,466 - #15 int
+INFO  16:01:20,466 - #15 main
+INFO  16:01:20,466 - #6 (
+INFO  16:01:20,466 - #7 )
+INFO  16:01:20,466 - #3 {
+INFO  16:01:20,466 - #15 x
+INFO  16:01:20,466 - #12 =
+INFO  16:01:20,466 - #14 3
+INFO  16:01:20,466 - #5 ;
+INFO  16:01:20,466 - #9 print
+INFO  16:01:20,466 - #6 (
+INFO  16:01:20,466 - #14 1
+INFO  16:01:20,466 - #7 )
+INFO  16:01:20,466 - #5 ;
+INFO  16:01:20,474 - #9 print
+INFO  16:01:20,474 - #6 (
+INFO  16:01:20,474 - #15 x
+INFO  16:01:20,474 - #7 )
+INFO  16:01:20,474 - #5 ;
+INFO  16:01:20,474 - #10 return
+INFO  16:01:20,474 - #14 0
+INFO  16:01:20,474 - #5 ;
+INFO  16:01:20,476 - #4 }
+INFO  16:01:20,476 - #4 }
+INFO  16:01:20,527 - Deklarisana promenljiva x na liniji 3
+INFO  16:01:20,528 - Deklarisana promenljiva y na liniji 4
+INFO  16:01:20,528 - Obradjuje se funkcija k na liniji 9
+INFO  16:01:20,530 - Deklarisana promenljiva c na liniji 9
+INFO  16:01:20,530 - upotreba lokalne promenljive c na liniji 10
+INFO  16:01:20,531 - upotreba lokalne promenljive c na liniji 11
+INFO  16:01:20,532 - Obradjuje se funkcija main na liniji 15
+INFO  16:01:20,533 - upotreba globalne promenljive x na liniji 16
+INFO  16:01:20,534 - upotreba globalne promenljive x na liniji 18
+INFO  16:03:24,893 - #2 program
+INFO  16:03:24,893 - #15 MJProgram
+INFO  16:03:24,893 - #15 int
+INFO  16:03:24,893 - #15 x
+INFO  16:03:24,893 - #5 ;
+INFO  16:03:24,893 - #15 int
+INFO  16:03:24,893 - #15 y
+INFO  16:03:24,893 - #5 ;
+INFO  16:03:24,893 - #3 {
+INFO  16:03:24,893 - #15 int
+INFO  16:03:24,893 - #15 k
+INFO  16:03:24,909 - #6 (
+INFO  16:03:24,909 - #7 )
+INFO  16:03:24,909 - #15 int
+INFO  16:03:24,909 - #15 c
+INFO  16:03:24,909 - #5 ;
+INFO  16:03:24,909 - #3 {
+INFO  16:03:24,909 - #15 c
+INFO  16:03:24,909 - #12 =
+INFO  16:03:24,909 - #14 2
+INFO  16:03:24,909 - #5 ;
+INFO  16:03:24,909 - #10 return
+INFO  16:03:24,909 - #15 c
+INFO  16:03:24,909 - #11 +
+INFO  16:03:24,909 - #14 2
+INFO  16:03:24,909 - #5 ;
+INFO  16:03:24,909 - #4 }
+INFO  16:03:24,909 - #15 int
+INFO  16:03:24,924 - #15 main
+INFO  16:03:24,924 - #6 (
+INFO  16:03:24,924 - #7 )
+INFO  16:03:24,924 - #3 {
+INFO  16:03:24,924 - #15 x
+INFO  16:03:24,924 - #12 =
+INFO  16:03:24,924 - #14 3
+INFO  16:03:24,924 - #5 ;
+INFO  16:03:24,924 - #9 print
+INFO  16:03:24,924 - #6 (
+INFO  16:03:24,924 - #14 1
+INFO  16:03:24,924 - #7 )
+INFO  16:03:24,924 - #5 ;
+INFO  16:03:24,924 - #9 print
+INFO  16:03:24,924 - #6 (
+INFO  16:03:24,924 - #15 x
+INFO  16:03:24,924 - #7 )
+INFO  16:03:24,924 - #5 ;
+INFO  16:03:24,924 - #10 return
+INFO  16:03:24,924 - #14 0
+INFO  16:03:24,924 - #5 ;
+INFO  16:03:24,924 - #4 }
+INFO  16:03:24,924 - #4 }
+INFO  16:03:24,978 - Deklarisana promenljiva x na liniji 3
+INFO  16:03:24,978 - Deklarisana promenljiva y na liniji 4
+INFO  16:03:24,978 - Obradjuje se funkcija k na liniji 9
+INFO  16:03:24,978 - Deklarisana promenljiva c na liniji 9
+INFO  16:03:24,978 - upotreba lokalne promenljive c na liniji 10
+INFO  16:03:24,978 - upotreba lokalne promenljive c na liniji 11
+INFO  16:03:24,978 - Obradjuje se funkcija main na liniji 15
+INFO  16:03:24,978 - upotreba globalne promenljive x na liniji 16
+INFO  16:03:24,978 - upotreba globalne promenljive x na liniji 18
+INFO  16:46:27,084 - #2 program
+INFO  16:46:27,086 - #15 MJProgram
+INFO  16:46:27,086 - #15 int
+INFO  16:46:27,093 - #15 x
+INFO  16:46:27,095 - #5 ;
+INFO  16:46:27,097 - #15 int
+INFO  16:46:27,098 - #15 y
+INFO  16:46:27,099 - #5 ;
+INFO  16:46:27,099 - #3 {
+INFO  16:46:27,100 - #15 int
+INFO  16:46:27,103 - #15 k
+INFO  16:46:27,103 - #6 (
+INFO  16:46:27,104 - #7 )
+INFO  16:46:27,108 - #15 int
+INFO  16:46:27,109 - #15 c
+INFO  16:46:27,109 - #5 ;
+INFO  16:46:27,110 - #3 {
+INFO  16:46:27,111 - #15 c
+INFO  16:46:27,113 - #12 =
+INFO  16:46:27,121 - #14 2
+INFO  16:46:27,121 - #5 ;
+INFO  16:46:27,127 - #10 return
+INFO  16:46:27,130 - #15 c
+INFO  16:46:27,131 - #11 +
+INFO  16:46:27,132 - #14 2
+INFO  16:46:27,136 - #5 ;
+INFO  16:46:27,137 - #4 }
+INFO  16:46:27,138 - #15 int
+INFO  16:46:27,143 - #15 main
+INFO  16:46:27,145 - #6 (
+INFO  16:46:27,145 - #7 )
+INFO  16:46:27,146 - #3 {
+INFO  16:46:27,147 - #15 x
+INFO  16:46:27,147 - #12 =
+INFO  16:46:27,147 - #14 3
+INFO  16:46:27,148 - #5 ;
+INFO  16:46:27,148 - #9 print
+INFO  16:46:27,149 - #6 (
+INFO  16:46:27,149 - #14 1
+INFO  16:46:27,149 - #7 )
+INFO  16:46:27,150 - #5 ;
+INFO  16:46:27,152 - #9 print
+INFO  16:46:27,153 - #6 (
+INFO  16:46:27,155 - #15 x
+INFO  16:46:27,155 - #7 )
+INFO  16:46:27,156 - #5 ;
+INFO  16:46:27,157 - #10 return
+INFO  16:46:27,158 - #14 0
+INFO  16:46:27,158 - #5 ;
+INFO  16:46:27,159 - #4 }
+INFO  16:46:27,159 - #4 }
+INFO  16:46:27,239 - Deklarisana promenljiva x na liniji 3
+INFO  16:46:27,240 - Deklarisana promenljiva y na liniji 4
+INFO  16:46:27,241 - Obradjuje se funkcija k na liniji 9
+INFO  16:46:27,242 - Deklarisana promenljiva c na liniji 9
+INFO  16:46:27,243 - upotreba lokalne promenljive c na liniji 10
+INFO  16:46:27,244 - upotreba lokalne promenljive c na liniji 11
+INFO  16:46:27,245 - Obradjuje se funkcija main na liniji 15
+INFO  16:46:27,245 - upotreba globalne promenljive x na liniji 16
+INFO  16:46:27,245 - upotreba globalne promenljive x na liniji 18
+INFO  17:40:43,777 - #2 program
+INFO  17:40:43,777 - #15 MJProgram
+INFO  17:40:43,793 - #15 int
+INFO  17:40:43,793 - #15 x
+INFO  17:40:43,793 - #5 ;
+INFO  17:40:43,793 - #15 int
+INFO  17:40:43,793 - #15 y
+INFO  17:40:43,793 - #5 ;
+INFO  17:40:43,793 - #3 {
+INFO  17:40:43,793 - #15 int
+INFO  17:40:43,793 - #15 k
+INFO  17:40:43,793 - #6 (
+INFO  17:40:43,793 - #7 )
+INFO  17:40:43,793 - #15 int
+INFO  17:40:43,808 - #15 c
+INFO  17:40:43,808 - #5 ;
+INFO  17:40:43,808 - #3 {
+INFO  17:40:43,808 - #15 c
+INFO  17:40:43,808 - #12 =
+INFO  17:40:43,808 - #14 2
+INFO  17:40:43,808 - #5 ;
+INFO  17:40:43,808 - #9 print
+INFO  17:40:43,808 - #6 (
+INFO  17:40:43,808 - #15 c
+INFO  17:40:43,808 - #7 )
+INFO  17:40:43,808 - #5 ;
+INFO  17:40:43,808 - #9 print
+INFO  17:40:43,808 - #6 (
+INFO  17:40:43,808 - #15 c
+INFO  17:40:43,808 - #7 )
+INFO  17:40:43,808 - #5 ;
+INFO  17:40:43,808 - #10 return
+INFO  17:40:43,808 - #15 c
+INFO  17:40:43,808 - #11 +
+INFO  17:40:43,808 - #14 2
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #4 }
+INFO  17:40:43,824 - #15 int
+INFO  17:40:43,824 - #15 main
+INFO  17:40:43,824 - #6 (
+INFO  17:40:43,824 - #7 )
+INFO  17:40:43,824 - #3 {
+INFO  17:40:43,824 - #15 x
+INFO  17:40:43,824 - #12 =
+INFO  17:40:43,824 - #14 3
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #9 print
+INFO  17:40:43,824 - #6 (
+INFO  17:40:43,824 - #14 1
+INFO  17:40:43,824 - #7 )
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #9 print
+INFO  17:40:43,824 - #6 (
+INFO  17:40:43,824 - #15 x
+INFO  17:40:43,824 - #7 )
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #15 y
+INFO  17:40:43,824 - #12 =
+INFO  17:40:43,824 - #15 k
+INFO  17:40:43,824 - #6 (
+INFO  17:40:43,824 - #7 )
+INFO  17:40:43,824 - #21 -
+INFO  17:40:43,824 - #14 3
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #9 print
+INFO  17:40:43,824 - #6 (
+INFO  17:40:43,824 - #15 y
+INFO  17:40:43,824 - #7 )
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #10 return
+INFO  17:40:43,824 - #14 0
+INFO  17:40:43,824 - #5 ;
+INFO  17:40:43,824 - #4 }
+INFO  17:40:43,840 - #4 }
+INFO  17:40:43,886 - Deklarisana promenljiva x na liniji 3
+INFO  17:40:43,886 - Deklarisana promenljiva y na liniji 4
+INFO  17:40:43,886 - Obradjuje se funkcija k na liniji 9
+INFO  17:40:43,886 - Deklarisana promenljiva c na liniji 9
+INFO  17:40:43,886 - upotreba lokalne promenljive c na liniji 10
+INFO  17:40:43,886 - upotreba lokalne promenljive c na liniji 11
+INFO  17:40:43,886 - upotreba lokalne promenljive c na liniji 12
+INFO  17:40:43,886 - upotreba lokalne promenljive c na liniji 13
+INFO  17:40:43,886 - Obradjuje se funkcija main na liniji 17
+INFO  17:40:43,886 - upotreba globalne promenljive x na liniji 18
+INFO  17:40:43,886 - upotreba globalne promenljive x na liniji 20
+INFO  17:40:43,886 - upotreba globalne promenljive y na liniji 22
+INFO  17:40:43,886 - upotreba globalne promenljive k na liniji 22
+INFO  17:40:43,886 - Pronadjen poziv funkcije k na liniji 22
+INFO  17:40:43,886 - upotreba globalne promenljive y na liniji 23
+INFO  17:45:26,946 - #2 program
+INFO  17:45:26,946 - #15 MJProgram
+INFO  17:45:26,946 - #15 int
+INFO  17:45:26,946 - #15 x
+INFO  17:45:26,962 - #5 ;
+INFO  17:45:26,962 - #15 int
+INFO  17:45:26,962 - #15 y
+INFO  17:45:26,962 - #5 ;
+INFO  17:45:26,962 - #3 {
+INFO  17:45:26,962 - #15 int
+INFO  17:45:26,962 - #15 k
+INFO  17:45:26,962 - #6 (
+INFO  17:45:26,962 - #7 )
+INFO  17:45:26,962 - #15 int
+INFO  17:45:26,962 - #15 c
+INFO  17:45:26,962 - #5 ;
+INFO  17:45:26,962 - #3 {
+INFO  17:45:26,962 - #15 c
+INFO  17:45:26,962 - #12 =
+INFO  17:45:26,977 - #14 2
+INFO  17:45:26,977 - #5 ;
+INFO  17:45:26,977 - #9 print
+INFO  17:45:26,977 - #6 (
+INFO  17:45:26,977 - #15 c
+INFO  17:45:26,977 - #7 )
+INFO  17:45:26,977 - #5 ;
+INFO  17:45:26,977 - #9 print
+INFO  17:45:26,977 - #6 (
+INFO  17:45:26,977 - #15 c
+INFO  17:45:26,977 - #7 )
+INFO  17:45:26,977 - #5 ;
+INFO  17:45:26,977 - #10 return
+INFO  17:45:26,977 - #15 c
+INFO  17:45:26,977 - #11 +
+INFO  17:45:26,977 - #14 2
+INFO  17:45:26,993 - #5 ;
+INFO  17:45:26,993 - #4 }
+INFO  17:45:26,993 - #15 int
+INFO  17:45:26,993 - #15 main
+INFO  17:45:26,993 - #6 (
+INFO  17:45:26,993 - #7 )
+INFO  17:45:26,993 - #3 {
+INFO  17:45:26,993 - #15 x
+INFO  17:45:26,993 - #12 =
+INFO  17:45:26,993 - #14 3
+INFO  17:45:26,993 - #5 ;
+INFO  17:45:26,993 - #9 print
+INFO  17:45:26,993 - #6 (
+INFO  17:45:26,993 - #14 1
+INFO  17:45:26,993 - #7 )
+INFO  17:45:26,993 - #5 ;
+INFO  17:45:26,993 - #9 print
+INFO  17:45:26,993 - #6 (
+INFO  17:45:26,993 - #15 x
+INFO  17:45:26,993 - #7 )
+INFO  17:45:26,993 - #5 ;
+INFO  17:45:26,993 - #15 y
+INFO  17:45:26,993 - #12 =
+INFO  17:45:26,993 - #15 k
+INFO  17:45:26,993 - #6 (
+INFO  17:45:26,993 - #7 )
+INFO  17:45:27,009 - #21 -
+INFO  17:45:27,009 - #14 2
+INFO  17:45:27,009 - #5 ;
+INFO  17:45:27,009 - #9 print
+INFO  17:45:27,009 - #6 (
+INFO  17:45:27,009 - #15 y
+INFO  17:45:27,009 - #7 )
+INFO  17:45:27,009 - #5 ;
+INFO  17:45:27,009 - #10 return
+INFO  17:45:27,009 - #14 0
+INFO  17:45:27,009 - #5 ;
+INFO  17:45:27,009 - #4 }
+INFO  17:45:27,009 - #4 }
+INFO  17:45:27,072 - Deklarisana promenljiva x na liniji 3
+INFO  17:45:27,073 - Deklarisana promenljiva y na liniji 4
+INFO  17:45:27,073 - Obradjuje se funkcija k na liniji 9
+INFO  17:45:27,081 - Deklarisana promenljiva c na liniji 9
+INFO  17:45:27,081 - upotreba lokalne promenljive c na liniji 10
+INFO  17:45:27,081 - upotreba lokalne promenljive c na liniji 11
+INFO  17:45:27,081 - upotreba lokalne promenljive c na liniji 12
+INFO  17:45:27,081 - upotreba lokalne promenljive c na liniji 13
+INFO  17:45:27,083 - Obradjuje se funkcija main na liniji 17
+INFO  17:45:27,083 - upotreba globalne promenljive x na liniji 18
+INFO  17:45:27,084 - upotreba globalne promenljive x na liniji 20
+INFO  17:45:27,084 - upotreba globalne promenljive y na liniji 22
+INFO  17:45:27,084 - upotreba globalne promenljive k na liniji 22
+INFO  17:45:27,084 - Pronadjen poziv funkcije k na liniji 22
+INFO  17:45:27,084 - upotreba globalne promenljive y na liniji 23

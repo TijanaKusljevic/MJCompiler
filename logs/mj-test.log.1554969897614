@@ -1,0 +1,65 @@
+INFO  10:02:00,437 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:02:00,595 - #2 program
+INFO  10:02:00,596 - #15 MJProgram
+INFO  10:02:00,597 - #15 int
+INFO  10:02:00,601 - #15 a
+INFO  10:02:00,603 - #5 ;
+INFO  10:02:00,608 - #3 {
+INFO  10:02:00,609 - #15 int
+INFO  10:02:00,611 - #15 k
+INFO  10:02:00,611 - #6 (
+INFO  10:02:00,612 - #15 int
+INFO  10:02:00,612 - #15 b
+INFO  10:02:00,612 - #7 )
+INFO  10:02:00,615 - #3 {
+INFO  10:02:00,615 - #9 print
+INFO  10:02:00,617 - #6 (
+INFO  10:02:00,617 - #15 b
+INFO  10:02:00,617 - #7 )
+INFO  10:02:00,623 - #5 ;
+INFO  10:02:00,624 - #10 return
+INFO  10:02:00,625 - #14 3
+INFO  10:02:00,625 - #5 ;
+INFO  10:02:00,626 - #4 }
+INFO  10:02:00,626 - #15 int
+INFO  10:02:00,628 - #15 main
+INFO  10:02:00,628 - #6 (
+INFO  10:02:00,628 - #7 )
+INFO  10:02:00,630 - #3 {
+INFO  10:02:00,631 - #15 a
+INFO  10:02:00,631 - #12 =
+INFO  10:02:00,631 - #14 7
+INFO  10:02:00,631 - #5 ;
+INFO  10:02:00,632 - #15 k
+INFO  10:02:00,632 - #6 (
+INFO  10:02:00,632 - #15 a
+INFO  10:02:00,632 - #7 )
+INFO  10:02:00,633 - #5 ;
+INFO  10:02:00,633 - #15 a
+INFO  10:02:00,634 - #12 =
+INFO  10:02:00,634 - #14 9
+INFO  10:02:00,634 - #5 ;
+INFO  10:02:00,634 - #9 print
+INFO  10:02:00,634 - #6 (
+INFO  10:02:00,635 - #15 a
+INFO  10:02:00,635 - #7 )
+INFO  10:02:00,635 - #5 ;
+INFO  10:02:00,636 - #10 return
+INFO  10:02:00,636 - #14 0
+INFO  10:02:00,636 - #5 ;
+INFO  10:02:00,636 - #4 }
+INFO  10:02:00,636 - #4 }
+INFO  10:02:00,679 - Deklarisana promenljiva a na liniji 3
+INFO  10:02:00,679 - Obradjuje se funkcija k na liniji 8
+INFO  10:02:00,679 - Deklarisana promenljiva b na liniji 8
+INFO  10:02:00,680 - upotreba formalnog parametra b na liniji 9
+INFO  10:02:00,680 - Obradjuje se funkcija main na liniji 13
+INFO  10:02:00,680 - upotreba globalne promenljive a na liniji 14
+INFO  10:02:00,680 - upotreba lokalne promenljive k na liniji 16
+INFO  10:02:00,680 - upotreba globalne promenljive a na liniji 16
+INFO  10:02:00,681 - Pronadjen poziv funkcije k na liniji 16
+INFO  10:02:00,690 - upotreba globalne promenljive a na liniji 18
+INFO  10:02:00,691 - upotreba globalne promenljive a na liniji 19
+INFO  10:02:00,691 - Print calls = 2
+INFO  10:02:00,692 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  10:02:00,708 - Parsiranje uspesno zavrseno!

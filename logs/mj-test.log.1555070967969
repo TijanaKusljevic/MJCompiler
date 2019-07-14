@@ -1,0 +1,58 @@
+INFO  14:06:35,811 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:06:35,970 - #2 program
+INFO  14:06:35,970 - #15 test302
+INFO  14:06:35,970 - #15 int
+INFO  14:06:35,970 - #15 b
+INFO  14:06:35,986 - #5 ;
+INFO  14:06:35,986 - #15 int
+INFO  14:06:35,986 - #15 niz
+INFO  14:06:35,986 - #29 [
+INFO  14:06:35,986 - #30 ]
+INFO  14:06:35,986 - #5 ;
+INFO  14:06:35,986 - #3 {
+INFO  14:06:35,986 - #15 int
+INFO  14:06:35,986 - #15 kiki
+INFO  14:06:35,986 - #6 (
+INFO  14:06:35,986 - #15 int
+INFO  14:06:35,986 - #15 a
+INFO  14:06:35,986 - #7 )
+INFO  14:06:36,001 - #3 {
+INFO  14:06:36,001 - #10 return
+INFO  14:06:36,001 - #15 a
+INFO  14:06:36,001 - #5 ;
+INFO  14:06:36,001 - #4 }
+INFO  14:06:36,001 - #15 int
+INFO  14:06:36,001 - #15 main
+INFO  14:06:36,001 - #6 (
+INFO  14:06:36,001 - #7 )
+INFO  14:06:36,001 - #3 {
+INFO  14:06:36,001 - #15 b
+INFO  14:06:36,001 - #12 =
+INFO  14:06:36,001 - #14 9
+INFO  14:06:36,017 - #5 ;
+INFO  14:06:36,017 - #15 b
+INFO  14:06:36,017 - #12 =
+INFO  14:06:36,017 - #15 kiki
+INFO  14:06:36,017 - #6 (
+INFO  14:06:36,017 - #15 b
+INFO  14:06:36,017 - #7 )
+INFO  14:06:36,017 - #5 ;
+INFO  14:06:36,017 - #10 return
+INFO  14:06:36,017 - #14 0
+INFO  14:06:36,017 - #5 ;
+INFO  14:06:36,017 - #4 }
+INFO  14:06:36,017 - #4 }
+INFO  14:06:36,048 - Deklarisana promenljiva b na liniji 4
+INFO  14:06:36,048 - Deklarisan niz niz na liniji 5
+INFO  14:06:36,048 - Obradjuje se funkcija kiki na liniji 8
+INFO  14:06:36,048 - Deklarisana promenljiva a na liniji 8
+INFO  14:06:36,048 - upotreba formalnog parametra a na liniji 9
+INFO  14:06:36,048 - Obradjuje se funkcija main na liniji 12
+INFO  14:06:36,048 - upotreba globalne promenljive b na liniji 20
+INFO  14:06:36,048 - upotreba globalne promenljive b na liniji 21
+INFO  14:06:36,048 - upotreba lokalne promenljive kiki na liniji 21
+INFO  14:06:36,048 - upotreba globalne promenljive b na liniji 21
+INFO  14:06:36,048 - Pronadjen poziv funkcije kiki na liniji 21
+INFO  14:06:36,048 - Print calls = 0
+INFO  14:06:36,064 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  14:06:36,080 - Parsiranje uspesno zavrseno!

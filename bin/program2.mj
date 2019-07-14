@@ -1,0 +1,35 @@
+// Test301
+
+program test301
+
+	enum Broj { NULA, JEDAN, PET=5, DESET=10}
+
+	const int tri = 3;
+	
+	enum Iznos {NULA, JEDAN, DVA, SEDAM=7, OSAM}
+
+	
+	
+{
+	void main()	
+		int test;
+		Iznos sedam;
+	{
+		sedam=Iznos.SEDAM;
+
+		test=sedam;
+		test= test + Iznos.JEDAN;
+		
+		print(test);
+		
+		read(test);
+		
+		print(test-Iznos.OSAM);
+		
+		print(test*Iznos.NULA);
+			
+	
+	}
+}
+
+

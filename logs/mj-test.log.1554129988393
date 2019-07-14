@@ -1,0 +1,133 @@
+INFO  16:43:48,520 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:43:48,697 - #2 program
+INFO  16:43:48,698 - #15 MJProgram
+INFO  16:43:48,698 - #15 int
+INFO  16:43:48,701 - #15 a
+INFO  16:43:48,703 - #8 ,
+INFO  16:43:48,708 - #15 niz
+INFO  16:43:48,708 - #29 [
+INFO  16:43:48,709 - #30 ]
+INFO  16:43:48,710 - #8 ,
+INFO  16:43:48,712 - #15 b
+INFO  16:43:48,713 - #8 ,
+INFO  16:43:48,713 - #15 c
+INFO  16:43:48,713 - #8 ,
+INFO  16:43:48,714 - #15 niz1
+INFO  16:43:48,714 - #29 [
+INFO  16:43:48,715 - #30 ]
+INFO  16:43:48,715 - #5 ;
+INFO  16:43:48,721 - #3 {
+INFO  16:43:48,723 - #15 int
+INFO  16:43:48,724 - #15 main
+INFO  16:43:48,728 - #6 (
+INFO  16:43:48,730 - #7 )
+INFO  16:43:48,732 - #3 {
+INFO  16:43:48,732 - #15 a
+INFO  16:43:48,735 - #12 =
+INFO  16:43:48,741 - #14 7
+INFO  16:43:48,742 - #5 ;
+INFO  16:43:48,747 - #15 b
+INFO  16:43:48,749 - #12 =
+INFO  16:43:48,750 - #14 9
+INFO  16:43:48,750 - #5 ;
+INFO  16:43:48,750 - #15 c
+INFO  16:43:48,750 - #12 =
+INFO  16:43:48,751 - #14 90
+INFO  16:43:48,751 - #5 ;
+INFO  16:43:48,751 - #15 niz
+INFO  16:43:48,751 - #12 =
+INFO  16:43:48,751 - #28 new
+INFO  16:43:48,751 - #15 int
+INFO  16:43:48,752 - #29 [
+INFO  16:43:48,752 - #14 3
+INFO  16:43:48,752 - #30 ]
+INFO  16:43:48,752 - #5 ;
+INFO  16:43:48,753 - #15 niz1
+INFO  16:43:48,753 - #12 =
+INFO  16:43:48,755 - #28 new
+INFO  16:43:48,755 - #15 int
+INFO  16:43:48,756 - #29 [
+INFO  16:43:48,757 - #14 2
+INFO  16:43:48,757 - #30 ]
+INFO  16:43:48,761 - #5 ;
+INFO  16:43:48,762 - #15 niz
+INFO  16:43:48,774 - #29 [
+INFO  16:43:48,774 - #14 0
+INFO  16:43:48,774 - #30 ]
+INFO  16:43:48,775 - #12 =
+INFO  16:43:48,777 - #14 3
+INFO  16:43:48,777 - #5 ;
+INFO  16:43:48,777 - #15 niz
+INFO  16:43:48,778 - #29 [
+INFO  16:43:48,788 - #14 1
+INFO  16:43:48,788 - #30 ]
+INFO  16:43:48,788 - #12 =
+INFO  16:43:48,789 - #14 33
+INFO  16:43:48,789 - #5 ;
+INFO  16:43:48,789 - #15 niz
+INFO  16:43:48,789 - #29 [
+INFO  16:43:48,790 - #14 2
+INFO  16:43:48,790 - #30 ]
+INFO  16:43:48,791 - #12 =
+INFO  16:43:48,791 - #14 333
+INFO  16:43:48,792 - #5 ;
+INFO  16:43:48,794 - #15 niz1
+INFO  16:43:48,794 - #29 [
+INFO  16:43:48,794 - #14 0
+INFO  16:43:48,794 - #30 ]
+INFO  16:43:48,794 - #12 =
+INFO  16:43:48,795 - #14 1
+INFO  16:43:48,795 - #5 ;
+INFO  16:43:48,795 - #15 niz1
+INFO  16:43:48,796 - #29 [
+INFO  16:43:48,796 - #14 1
+INFO  16:43:48,796 - #30 ]
+INFO  16:43:48,796 - #12 =
+INFO  16:43:48,797 - #14 11
+INFO  16:43:48,797 - #5 ;
+INFO  16:43:48,797 - #4 }
+ERROR 16:43:48,798 - 
+Sintaksna greska na liniji 21
+ERROR 16:43:48,799 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21
+ERROR 16:43:48,826 - Greska na liniji 8 : ime a nije deklarisano! 
+INFO  16:43:48,827 - upotreba lokalne promenljive a na liniji 8
+ERROR 16:43:48,827 - Greska na liniji 8 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:43:48,827 - Greska na liniji 9 : ime b nije deklarisano! 
+INFO  16:43:48,828 - upotreba lokalne promenljive b na liniji 9
+ERROR 16:43:48,828 - Greska na liniji 9 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:43:48,828 - Greska na liniji 10 : ime c nije deklarisano! 
+INFO  16:43:48,828 - upotreba lokalne promenljive c na liniji 10
+ERROR 16:43:48,828 - Greska na liniji 10 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:43:48,828 - Greska na liniji 12 : ime niz nije deklarisano! 
+INFO  16:43:48,828 - upotreba lokalne promenljive niz na liniji 12
+ERROR 16:43:48,829 - Greska na liniji 12 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 16:43:48,829 - Greska na liniji 13 : ime niz1 nije deklarisano! 
+INFO  16:43:48,829 - upotreba lokalne promenljive niz1 na liniji 13
+ERROR 16:43:48,829 - Greska na liniji 13 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,830 - Pristup elementu niza  na liniji 15
+ERROR 16:43:48,830 - Greska na liniji 15 : ime niz nije deklarisano! 
+INFO  16:43:48,830 - upotreba lokalne promenljive niz na liniji 15
+ERROR 16:43:48,830 - greska na liniji 15 niz nije niz
+ERROR 16:43:48,830 - Greska na liniji 15 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,830 - Pristup elementu niza  na liniji 16
+ERROR 16:43:48,831 - Greska na liniji 16 : ime niz nije deklarisano! 
+INFO  16:43:48,831 - upotreba lokalne promenljive niz na liniji 16
+ERROR 16:43:48,831 - greska na liniji 16 niz nije niz
+ERROR 16:43:48,831 - Greska na liniji 16 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,831 - Pristup elementu niza  na liniji 17
+ERROR 16:43:48,832 - Greska na liniji 17 : ime niz nije deklarisano! 
+INFO  16:43:48,832 - upotreba lokalne promenljive niz na liniji 17
+ERROR 16:43:48,832 - greska na liniji 17 niz nije niz
+ERROR 16:43:48,832 - Greska na liniji 17 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,832 - Pristup elementu niza  na liniji 19
+ERROR 16:43:48,833 - Greska na liniji 19 : ime niz1 nije deklarisano! 
+INFO  16:43:48,833 - upotreba lokalne promenljive niz1 na liniji 19
+ERROR 16:43:48,833 - greska na liniji 19 niz1 nije niz
+ERROR 16:43:48,833 - Greska na liniji 19 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,833 - Pristup elementu niza  na liniji 20
+ERROR 16:43:48,834 - Greska na liniji 20 : ime niz1 nije deklarisano! 
+INFO  16:43:48,834 - upotreba lokalne promenljive niz1 na liniji 20
+ERROR 16:43:48,834 - greska na liniji 20 niz1 nije niz
+ERROR 16:43:48,834 - Greska na liniji 20 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  16:43:48,835 - Print calls = 0
+ERROR 16:43:48,837 - Parsiranje NIJE uspesno zavrseno!

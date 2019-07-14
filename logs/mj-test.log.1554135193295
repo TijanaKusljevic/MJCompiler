@@ -1,0 +1,176 @@
+INFO  18:12:50,159 - Compiling source file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:12:50,315 - #2 program
+INFO  18:12:50,315 - #15 MJProgram
+INFO  18:12:50,315 - #15 int
+INFO  18:12:50,331 - #15 a
+INFO  18:12:50,331 - #8 ,
+INFO  18:12:50,331 - #15 niz
+INFO  18:12:50,331 - #29 [
+INFO  18:12:50,331 - #30 ]
+INFO  18:12:50,331 - #8 ,
+INFO  18:12:50,331 - #15 b
+INFO  18:12:50,331 - #8 ,
+INFO  18:12:50,331 - #15 c
+INFO  18:12:50,331 - #8 ,
+INFO  18:12:50,331 - #15 niz1
+INFO  18:12:50,331 - #29 [
+INFO  18:12:50,331 - #30 ]
+INFO  18:12:50,331 - #5 ;
+INFO  18:12:50,331 - #15 char
+INFO  18:12:50,331 - #15 ch
+INFO  18:12:50,331 - #8 ,
+INFO  18:12:50,347 - #15 nizc
+INFO  18:12:50,347 - #29 [
+INFO  18:12:50,347 - #30 ]
+INFO  18:12:50,347 - #5 ;
+INFO  18:12:50,347 - #3 {
+INFO  18:12:50,347 - #15 int
+INFO  18:12:50,347 - #15 k
+INFO  18:12:50,347 - #6 (
+INFO  18:12:50,347 - #15 int
+INFO  18:12:50,347 - #15 l
+INFO  18:12:50,347 - #7 )
+INFO  18:12:50,347 - #3 {
+INFO  18:12:50,347 - #10 return
+INFO  18:12:50,347 - #14 3
+INFO  18:12:50,347 - #5 ;
+INFO  18:12:50,347 - #4 }
+INFO  18:12:50,347 - #15 int
+INFO  18:12:50,347 - #15 main
+INFO  18:12:50,347 - #6 (
+INFO  18:12:50,347 - #7 )
+INFO  18:12:50,347 - #3 {
+INFO  18:12:50,347 - #15 a
+INFO  18:12:50,347 - #12 =
+INFO  18:12:50,362 - #14 7
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 b
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #14 9
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 c
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #14 90
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 niz
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #28 new
+INFO  18:12:50,362 - #15 int
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 3
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 niz1
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #28 new
+INFO  18:12:50,362 - #15 int
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 2
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 nizc
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #28 new
+INFO  18:12:50,362 - #15 char
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 2
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 ch
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #18 h
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 nizc
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 0
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #18 t
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 nizc
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 1
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #18 i
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,362 - #15 niz
+INFO  18:12:50,362 - #29 [
+INFO  18:12:50,362 - #14 0
+INFO  18:12:50,362 - #30 ]
+INFO  18:12:50,362 - #12 =
+INFO  18:12:50,362 - #14 3
+INFO  18:12:50,362 - #5 ;
+INFO  18:12:50,378 - #15 niz
+INFO  18:12:50,378 - #29 [
+INFO  18:12:50,378 - #14 1
+INFO  18:12:50,378 - #30 ]
+INFO  18:12:50,378 - #12 =
+INFO  18:12:50,378 - #14 33
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #15 niz
+INFO  18:12:50,378 - #29 [
+INFO  18:12:50,378 - #14 2
+INFO  18:12:50,378 - #30 ]
+INFO  18:12:50,378 - #12 =
+INFO  18:12:50,378 - #14 333
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #15 niz1
+INFO  18:12:50,378 - #29 [
+INFO  18:12:50,378 - #14 0
+INFO  18:12:50,378 - #30 ]
+INFO  18:12:50,378 - #12 =
+INFO  18:12:50,378 - #14 1
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #15 niz1
+INFO  18:12:50,378 - #29 [
+INFO  18:12:50,378 - #14 1
+INFO  18:12:50,378 - #30 ]
+INFO  18:12:50,378 - #12 =
+INFO  18:12:50,378 - #14 11
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #15 k
+INFO  18:12:50,378 - #6 (
+INFO  18:12:50,378 - #15 a
+INFO  18:12:50,378 - #7 )
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #10 return
+INFO  18:12:50,378 - #14 0
+INFO  18:12:50,378 - #5 ;
+INFO  18:12:50,378 - #4 }
+INFO  18:12:50,378 - #4 }
+INFO  18:12:50,425 - Deklarisan niz niz na liniji 5
+INFO  18:12:50,425 - Deklarisana promenljiva b na liniji 5
+INFO  18:12:50,425 - Deklarisana promenljiva c na liniji 5
+INFO  18:12:50,425 - Deklarisan niz niz1 na liniji 5
+INFO  18:12:50,425 - Deklarisana promenljiva a na liniji 3
+INFO  18:12:50,425 - Deklarisan niz nizc na liniji 6
+INFO  18:12:50,425 - Deklarisana promenljiva ch na liniji 4
+INFO  18:12:50,425 - Obradjuje se funkcija k na liniji 8
+INFO  18:12:50,425 - Obradjuje se funkcija main na liniji 14
+INFO  18:12:50,425 - upotreba globalne promenljive a na liniji 16
+INFO  18:12:50,425 - upotreba globalne promenljive b na liniji 17
+INFO  18:12:50,425 - upotreba globalne promenljive c na liniji 18
+INFO  18:12:50,425 - upotreba globalne promenljive niz na liniji 20
+INFO  18:12:50,425 - upotreba globalne promenljive niz1 na liniji 21
+INFO  18:12:50,425 - upotreba globalne promenljive nizc na liniji 23
+INFO  18:12:50,425 - upotreba globalne promenljive ch na liniji 25
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 26
+INFO  18:12:50,425 - upotreba globalne promenljive nizc na liniji 26
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 27
+INFO  18:12:50,425 - upotreba globalne promenljive nizc na liniji 27
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 30
+INFO  18:12:50,425 - upotreba globalne promenljive niz na liniji 30
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 31
+INFO  18:12:50,425 - upotreba globalne promenljive niz na liniji 31
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 32
+INFO  18:12:50,425 - upotreba globalne promenljive niz na liniji 32
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 34
+INFO  18:12:50,425 - upotreba globalne promenljive niz1 na liniji 34
+INFO  18:12:50,425 - Pristup elementu niza  na liniji 35
+INFO  18:12:50,425 - upotreba globalne promenljive niz1 na liniji 35
+INFO  18:12:50,425 - upotreba lokalne promenljive k na liniji 37
+INFO  18:12:50,425 - upotreba globalne promenljive a na liniji 37
+INFO  18:12:50,425 - Print calls = 0
+INFO  18:12:50,425 - Generating bytecode file: C:\Users\tijana\Desktop\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:12:50,440 - Parsiranje uspesno zavrseno!
